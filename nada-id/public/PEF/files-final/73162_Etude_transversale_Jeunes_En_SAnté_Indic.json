@@ -1,0 +1,794 @@
+{
+  "stdyDscr": {
+    "citation": {
+      "titlStmt": {
+        "IDNo": [
+          {
+            "agency": "PEF",
+            "value": "73162"
+          },
+          {
+            "agency": "FReSH",
+            "value": "FRESH-PEF73162"
+          }
+        ],
+        "titl": [
+          {
+            "lang": "fr",
+            "value": "Etude transversale Jeunes En SAnté, Indicateurs et Suivi en Hauts-de-France"
+          },
+          {
+            "lang": "en",
+            "value": "Cross-sectional study of young people on health, indicators and follow-up in Picardie"
+          }
+        ],
+        "altTitl": [
+          {
+            "lang": "fr",
+            "value": "JESAIS"
+          },
+          {
+            "lang": "en",
+            "value": "JESAIS"
+          }
+        ]
+      },
+      "rspStmt": {
+        "AuthEnty": [
+          {
+            "name": "Nadège;THOMAS",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "OBSERVATOIRE REGIONAL DE LA SANTE ET DU SOCIAL DE PICARDIE (OR2S)"
+              },
+              {
+                "lang": "en",
+                "value": "OBSERVATOIRE REGIONAL DE LA SANTE ET DU SOCIAL DE PICARDIE (OR2S)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "326803194",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ],
+            "isContact": true,
+            "email": "nadege.thomas@or2s.fr",
+            "PILabo": "OR2S"
+          }
+        ],
+        "othId": [
+          {
+            "type": "collaboration",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "Académies d'Amiens et de Lille"
+              },
+              {
+                "lang": "en",
+                "value": "Académie d'Amiens"
+              }
+            ]
+          }
+        ]
+      },
+      "distStmt": {
+        "contact": [
+          {
+            "name": "Nadège;THOMAS",
+            "email": "nadege.thomas@or2s.fr",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "OBSERVATOIRE REGIONAL DE LA SANTE ET DU SOCIAL DE PICARDIE (OR2S)"
+              },
+              {
+                "lang": "en",
+                "value": "OBSERVATOIRE REGIONAL DE LA SANTE ET DU SOCIAL DE PICARDIE (OR2S)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "326803194",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          }
+        ]
+      },
+      "prodStmt": {
+        "fundAg": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "AGENCE REGIONALE DE SANTE HAUTS-DE-FRANCE (ARS)"
+              },
+              {
+                "lang": "en",
+                "value": "AGENCE REGIONALE DE SANTE HAUTS-DE-FRANCE (ARS)"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "SIREN",
+                "uri": "130007974"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "REGION HAUTS-DE-France"
+              },
+              {
+                "lang": "en",
+                "value": "REGION HAUTS-DE-France"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "SIREN",
+                "uri": "200053742"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ]
+          }
+        ],
+        "producer": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "OBSERVATOIRE REGIONAL DE LA SANTE ET DU SOCIAL DE PICARDIE (OR2S)"
+              },
+              {
+                "lang": "en",
+                "value": "OBSERVATOIRE REGIONAL DE LA SANTE ET DU SOCIAL DE PICARDIE (OR2S)"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Privé à but non lucratif"
+              },
+              {
+                "lang": "en",
+                "value": "Private non-profit"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "326803194"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "studyAuthorization": {
+      "authorizingAgency": {
+        "lang": "fr",
+        "value": "CNIL"
+      }
+    },
+    "method": {
+      "notes": [
+        {
+          "subject": "research type",
+          "lang": "fr",
+          "value": "Etude observationnelle"
+        },
+        {
+          "subject": "research type",
+          "lang": "en",
+          "value": "Observational Study"
+        }
+      ],
+      "stdyClas": [
+        {
+          "lang": "fr",
+          "value": "Inconnu"
+        },
+        {
+          "lang": "en",
+          "value": "Unknown"
+        }
+      ],
+      "dataColl": {
+        "targetSampleSize": [
+          {
+            "lang": "fr",
+            "value": ">= 20000 individus"
+          },
+          {
+            "lang": "en",
+            "value": ">= 20000 individuals"
+          }
+        ],
+        "timeMeth": [
+          {
+            "lang": "fr",
+            "value": "Etude transversale répétée"
+          },
+          {
+            "lang": "en",
+            "value": "Repeated cross-sectional study"
+          }
+        ],
+        "sampleFrame": {
+          "frameUnit": {
+            "unitType": [
+              {
+                "lang": "fr",
+                "value": "Base administrative (d&#x27;employés, d&#x27;élèves, d&#x27;étudiants, etc…)"
+              },
+              {
+                "lang": "en",
+                "value": "Administrative database (employees, pupils, students, etc.)"
+              }
+            ]
+          }
+        },
+        "sources": [
+          {}
+        ],
+        "collMode": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Interview",
+              "vocab": "CESSDA"
+            },
+            "value": "Entretien avec le participant (dont clinique)"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Interview",
+              "vocab": "CESSDA"
+            },
+            "value": "Interview with the participant (including clinical)"
+          }
+        ],
+        "sampProc": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ],
+        "respRate": [
+          {
+            "lang": "fr",
+            "value": "110 000"
+          },
+          {
+            "lang": "en",
+            "value": "24000"
+          }
+        ]
+      }
+    },
+    "stdyInfo": {
+      "abstract": [
+        {
+          "contentType": "purpose",
+          "lang": "fr",
+          "value": "L’enquête a pour objectif de connaître l’état de santé des élèves de Hauts-de-France et décrire les relations avec les facteurs socio-démographiques."
+        },
+        {
+          "contentType": "purpose",
+          "lang": "en",
+          "value": "The purpose of the survey is to determine the state of health of pupils and students in Picardie and to describe the relationships with demographic factors."
+        }
+      ],
+      "subject": {
+        "topcClas": [
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/4b9f8efb-68dd-45a1-b04c-d23d457d6898"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D058006"
+              }
+            ],
+            "value": "Médecine générale"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/4b9f8efb-68dd-45a1-b04c-d23d457d6898"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D058006"
+              }
+            ],
+            "value": "General medicine"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants comportementaux : Addictions"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants socio-démographiques et économiques"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants comportementaux"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants comportementaux : Alimentation"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Systèmes de soins et accès aux soins"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Behavioral determinants: Addiction"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Socio-demographic and economic determinants"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Behavioral determinants"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Behavioral determinants: Eating habits"
+          }
+        ],
+        "keyword": [
+          {
+            "lang": "fr",
+            "value": "collégiens"
+          },
+          {
+            "lang": "fr",
+            "value": "lycéens"
+          },
+          {
+            "lang": "fr",
+            "value": "santé"
+          },
+          {
+            "lang": "fr",
+            "value": "social"
+          },
+          {
+            "lang": "fr",
+            "value": "Hauts-de-France"
+          },
+          {
+            "lang": "en",
+            "value": "secondary school pupils"
+          },
+          {
+            "lang": "en",
+            "value": "secondary school students"
+          },
+          {
+            "lang": "en",
+            "value": "health"
+          },
+          {
+            "lang": "en",
+            "value": "social"
+          },
+          {
+            "lang": "en",
+            "value": "Picardie"
+          }
+        ]
+      },
+      "qualityStatement": {
+        "standardsCompliance": {}
+      },
+      "sumDscr": {
+        "dataKind": [
+          {
+            "lang": "fr",
+            "value": "Données rapportées par le participant de l&#x27;étude"
+          },
+          {
+            "lang": "fr",
+            "value": "Données paracliniques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données paracliniques (hors biologiques) : Anthropométrie"
+          },
+          {
+            "lang": "fr",
+            "value": "Données paracliniques (hors biologiques) : Autre"
+          },
+          {
+            "lang": "en",
+            "value": "Participant-reported health data"
+          },
+          {
+            "lang": "en",
+            "value": "Paraclinical data (non-biological) : Anthropometry"
+          },
+          {
+            "lang": "en",
+            "value": "Paraclinical data (non-biological) : Other"
+          }
+        ],
+        "anlyUnit": [
+          {
+            "lang": "fr",
+            "value": "Individus"
+          },
+          {
+            "lang": "en",
+            "value": "Individuals"
+          }
+        ],
+        "nation": [
+          {
+            "lang": "fr",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          },
+          {
+            "lang": "en",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          }
+        ],
+        "geogCover": [
+          {
+            "lang": "fr",
+            "value": "Hauts-de-France"
+          },
+          {
+            "lang": "en",
+            "value": "Hauts-de-France"
+          }
+        ],
+        "universe": [
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Masculin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Féminin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Male"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Female"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D002648"
+            },
+            "value": "Enfance (6 à 12 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000293"
+            },
+            "value": "Adolescence (13 à 18 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D002648"
+            },
+            "value": "Child (6 to 12 years)"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Population générale"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "en",
+            "value": "General population"
+          },
+          {
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Elèves de seconde et de sixième :  échantillonnage au quart effectué de façon aléatoire à partir du jour de naissance de l’élève avec possibilité pour les établissements d’enquêter tous les élèves ou tirage aléatoire de classes entières"
+          },
+          {
+            "clusion": "I",
+            "lang": "en",
+            "value": "Pupils of year 11 and 7: sampling at random using pupils' birthdays with the possibility for schools to survey all pupils"
+          },
+          {
+            "clusion": "E",
+            "lang": "fr",
+            "value": ""
+          },
+          {
+            "clusion": "E",
+            "lang": "en",
+            "value": ""
+          }
+        ],
+        "collDate": [
+          {
+            "event": "start",
+            "value": "2006-01-01"
+          },
+          {
+            "event": "end",
+            "value": "2019-01-01"
+          }
+        ]
+      }
+    },
+    "dataAccs": {
+      "setAvail": {
+        "avlStatus": [
+          {
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Accès réservé"
+          },
+          {
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Restricted access"
+          }
+        ],
+        "conditions": [
+          {
+            "lang": "fr",
+            "value": "sur demande à l&#x27;OR2S"
+          },
+          {
+            "lang": "en",
+            "value": "On request to the OR2S"
+          }
+        ]
+      },
+      "useStmt": {}
+    },
+    "othStdMat": {
+      "relMat": [
+        {
+          "lang": "fr",
+          "value": "Accès restreint sur projet spécifique"
+        },
+        {
+          "lang": "en",
+          "value": "Access on specific project only"
+        }
+      ]
+    },
+    "studyDevelopment": {
+      "developmentActivity": [
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/morbidité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Autres"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/morbidity"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Others"
+        }
+      ]
+    }
+  },
+  "docDscr": {
+    "citation": {
+      "rspStmt": {
+        "AuthEnty": "Alain TRUGEON"
+      },
+      "prodStmt": {
+        "producer": [
+          {
+            "affiliation": "OBSERVATOIRE REGIONAL DE LA SANTE ET DU SOCIAL DE PICARDIE (OR2S)",
+            "value": "Alain;TRUGEON"
+          }
+        ],
+        "prodPlac": "Portail Épidémiologie France"
+      }
+    }
+  },
+  "additional": {
+    "prodPlac": "Portail Épidémiologie France",
+    "relatedDocuments": {
+      "documentTitle": [
+        {
+          "lang": "fr",
+          "value": "The health of year 11 secondary school pupils in Picardie"
+        },
+        {
+          "lang": "en",
+          "value": "The health of year 11 secondary school pupils in Picardie"
+        }
+      ],
+      "documentLink": [
+        {
+          "lang": "fr",
+          "value": "http://www.or2s.fr/images/PLAQ_JESAIS2e_2014.pdf"
+        },
+        {
+          "lang": "en",
+          "value": "http://www.or2s.fr/images/PLAQ_JESAIS2e_2014.pdf"
+        }
+      ]
+    },
+    "creationDate": "17-07-2015",
+    "lastUpdatedManual": "29-10-2019",
+    "theme": {},
+    "governance": {
+      "committee": true
+    },
+    "collaborations": {},
+    "mockSample": {},
+    "dataQuality": {},
+    "variableDictionnary": {},
+    "dataTypes": {
+      "isDataInBiobank": false
+    },
+    "collectionProcess": {
+      "collectionModeDetails": [
+        {
+          "lang": "fr",
+          "value": "auto questionnaire et bilan infirmier"
+        },
+        {
+          "lang": "en",
+          "value": "self-questionnaire and nurse’s assessment"
+        }
+      ]
+    },
+    "geographicalCoverage": {
+      "geoDetail": [
+        {
+          "lang": "fr",
+          "value": "Hauts-de-France"
+        },
+        {
+          "lang": "en",
+          "value": "Picardie"
+        }
+      ]
+    },
+    "activeFollowUp": {
+      "isActiveFollowUp": false
+    },
+    "dataCollectionIntegration": {
+      "isDataIntegration": false
+    },
+    "isHealthTheme": true
+  },
+  "schematype": "survey"
+}

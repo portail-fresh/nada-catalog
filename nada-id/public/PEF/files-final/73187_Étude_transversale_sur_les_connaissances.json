@@ -1,0 +1,933 @@
+{
+  "stdyDscr": {
+    "citation": {
+      "titlStmt": {
+        "IDNo": [
+          {
+            "agency": "PEF",
+            "value": "73187"
+          },
+          {
+            "agency": "FReSH",
+            "value": "FRESH-PEF73187"
+          }
+        ],
+        "titl": [
+          {
+            "lang": "fr",
+            "value": "Étude transversale sur les connaissances et les attitudes des femmes face à la prévention du cancer du col de l'utérus et de la vaccination HPV"
+          },
+          {
+            "lang": "en",
+            "value": "Cross-sectional study of women's knowledge and attitudes towards the prevention of cervical cancer and HPV vaccination"
+          }
+        ],
+        "altTitl": [
+          {
+            "lang": "fr",
+            "value": "HPV-FEM"
+          },
+          {
+            "lang": "en",
+            "value": "HPV-FEM"
+          }
+        ]
+      },
+      "rspStmt": {
+        "AuthEnty": [
+          {
+            "name": "Christine;LASSET",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "CENTRE LEON BERARD"
+              },
+              {
+                "lang": "en",
+                "value": "CENTRE LEON BERARD"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "08360443X",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/01cmnjq37",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "779924133",
+                "role": "organisation id",
+                "title": "SIREN"
+              },
+              {
+                "uri": "199411998X",
+                "role": "labo id",
+                "title": "RNSR"
+              }
+            ],
+            "isContact": true,
+            "email": "christine.lasset@lyon.unicancer.fr",
+            "PILabo": "Centre Léon Bérard / CNRS UMR 5558"
+          }
+        ],
+        "othId": [
+          {
+            "type": "collaboration",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "PROGRAMME REMPAR - Recherche-Evaluation des moyens de prévention anti-HPV en Rhône-Alpes - collaboration avec les HCL de Lyon et le centre Lucien Neuwirth à Saint Etienne"
+              },
+              {
+                "lang": "en",
+                "value": "REMPAR PROGRAMME - Research-Evaluation of HPV prevention measures in Rhône-Alpes - Collaboration with the HCL of Lyon and the Centre Lucien Neuwirth in Saint Etienne"
+              }
+            ]
+          }
+        ]
+      },
+      "distStmt": {
+        "contact": [
+          {
+            "name": "Christine;LASSET",
+            "email": "christine.lasset@lyon.unicancer.fr",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "CENTRE LEON BERARD"
+              },
+              {
+                "lang": "en",
+                "value": "CENTRE LEON BERARD"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/01cmnjq37",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "779924133",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          }
+        ]
+      },
+      "prodStmt": {
+        "fundAg": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "LIGUE NATIONALE CONTRE LE CANCER (LNCC)"
+              },
+              {
+                "lang": "en",
+                "value": "LIGUE NATIONALE CONTRE LE CANCER (LNCC)"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "ROR",
+                "uri": "https://ror.org/00rkrv905"
+              },
+              {
+                "title": "SIREN",
+                "uri": "775664717"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Privé à but non lucratif"
+              },
+              {
+                "lang": "en",
+                "value": "Private non-profit"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "MSD FRANCE"
+              },
+              {
+                "lang": "en",
+                "value": "MSD FRANCE"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "ROR",
+                "uri": "https://ror.org/00kt5kp12"
+              },
+              {
+                "title": "SIREN",
+                "uri": "417890589"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Industrie"
+              },
+              {
+                "lang": "en",
+                "value": "Industry"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "SANOFI (FRANCE)"
+              },
+              {
+                "lang": "en",
+                "value": "SANOFI (FRANCE)"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "ROR",
+                "uri": "https://ror.org/02n6c9837"
+              },
+              {
+                "title": "SIREN",
+                "uri": "395030844"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Industrie"
+              },
+              {
+                "lang": "en",
+                "value": "Industry"
+              }
+            ]
+          }
+        ],
+        "producer": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "CENTRE HOSPITALIER UNIVERSITAIRE DE SAINT-ETIENNE"
+              },
+              {
+                "lang": "en",
+                "value": "CENTRE HOSPITALIER UNIVERSITAIRE DE SAINT-ETIENNE"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "ROR",
+                "uri": "https://ror.org/04pn6vp43"
+              },
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "264200304"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "studyAuthorization": [
+      {
+        "authorizingAgency": {
+          "lang": "fr",
+          "value": "CNIL"
+        }
+      },
+      {
+        "authorizingAgency": {
+          "lang": "fr",
+          "value": "CPP"
+        }
+      },
+      {
+        "authorizingAgency": {
+          "lang": "fr",
+          "value": "CESREES"
+        }
+      }
+    ],
+    "method": {
+      "notes": [
+        {
+          "subject": "research type",
+          "lang": "fr",
+          "value": "Etude observationnelle"
+        },
+        {
+          "subject": "research type",
+          "lang": "en",
+          "value": "Observational Study"
+        }
+      ],
+      "stdyClas": [
+        {
+          "lang": "fr",
+          "value": "Inconnu"
+        },
+        {
+          "lang": "en",
+          "value": "Unknown"
+        }
+      ],
+      "dataColl": {
+        "targetSampleSize": [
+          {
+            "lang": "fr",
+            "value": "[1000-10000[ individus"
+          },
+          {
+            "lang": "en",
+            "value": "[1000-10000[ individuals"
+          }
+        ],
+        "timeMeth": [
+          {
+            "lang": "fr",
+            "value": "Etude transversale répétée"
+          },
+          {
+            "lang": "en",
+            "value": "Repeated cross-sectional study"
+          }
+        ],
+        "sampleFrame": {
+          "frameUnit": {
+            "unitType": [
+              {
+                "lang": "fr",
+                "value": "Via les professionnels d&#x27;exercice libéral"
+              },
+              {
+                "lang": "en",
+                "value": "Through independent healthcare practitioners"
+              }
+            ]
+          }
+        },
+        "sources": [
+          {}
+        ],
+        "collMode": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "SelfAdministeredQuestionnaire",
+              "vocab": "CESSDA"
+            },
+            "value": "Questionnaire auto-administré"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "SelfAdministeredQuestionnaire",
+              "vocab": "CESSDA"
+            },
+            "value": "Self-administered questionnaire"
+          },
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Interview",
+              "vocab": "CESSDA"
+            },
+            "value": "Entretien avec le participant (dont clinique)"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Interview",
+              "vocab": "CESSDA"
+            },
+            "value": "Interview with the participant (including clinical)"
+          }
+        ],
+        "sampProc": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ],
+        "respRate": [
+          {
+            "lang": "fr",
+            "value": "3000"
+          },
+          {
+            "lang": "en",
+            "value": "3000"
+          }
+        ]
+      }
+    },
+    "stdyInfo": {
+      "abstract": [
+        {
+          "contentType": "purpose",
+          "lang": "fr",
+          "value": "Le premier objectif de cette étude, qui a combiné des techniques quantitatives et qualitatives, était d'évaluer les connaissances sur le cancer du col de l'utérus, sur vaccination contre le VPH chez les 18-65 ans un an après l'introduction du vaccin. Le deuxième objectif était d'évaluer l'acceptation de la vaccination contre le VPH des mères et les déterminants de l'acceptabilité pour les 14-18 ans"
+        },
+        {
+          "contentType": "purpose",
+          "lang": "en",
+          "value": "The first objective of this study, which combined quantitative and qualitative techniques, was to assess knowledge of cervical cancer and vaccination against HPV in 18-65 year-olds after the introduction of the vaccine. The second objective was to assess the acceptance of HPV vaccination among mothers and the determinants of acceptability for 14-18 year-olds"
+        }
+      ],
+      "subject": {
+        "topcClas": [
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/5784b7f1-c7ce-49d9-9f38-aebcda0ff41d"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D008495"
+              }
+            ],
+            "value": "Oncologie"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/7de64596-5b0d-4977-8f98-b982ff2ec17d"
+              },
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/284ca20c-beb4-4abe-99fa-ef4513358bad"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D006176"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D009774"
+              }
+            ],
+            "value": "Gynécologie et obstétrique"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/5784b7f1-c7ce-49d9-9f38-aebcda0ff41d"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D008495"
+              }
+            ],
+            "value": "Oncology"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/7de64596-5b0d-4977-8f98-b982ff2ec17d"
+              },
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/284ca20c-beb4-4abe-99fa-ef4513358bad"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D006176"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D009774"
+              }
+            ],
+            "value": "Gynaecology and obstetrics"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "fr",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/1256072522",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Tumeurs malignes du col utérin"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "en",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/1256072522",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Malignant neoplasms of cervix uteri"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Systèmes de soins et accès aux soins"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants comportementaux"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants liés au système de santé : Consommation des soins"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants liés au système de santé"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Behavioral determinants"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Healthcare system determinants: Use of care"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Healthcare system determinants"
+          }
+        ],
+        "keyword": [
+          {
+            "lang": "fr",
+            "value": "Col de l'utérus"
+          },
+          {
+            "lang": "fr",
+            "value": "papillomavirus"
+          },
+          {
+            "lang": "fr",
+            "value": "femmes"
+          },
+          {
+            "lang": "fr",
+            "value": "vaccin"
+          },
+          {
+            "lang": "fr",
+            "value": "HPV"
+          },
+          {
+            "lang": "fr",
+            "value": "prévention"
+          },
+          {
+            "lang": "en",
+            "value": "Cervix"
+          },
+          {
+            "lang": "en",
+            "value": "women"
+          },
+          {
+            "lang": "en",
+            "value": "papillomavirus"
+          },
+          {
+            "lang": "en",
+            "value": "vaccine"
+          },
+          {
+            "lang": "en",
+            "value": "HPV"
+          },
+          {
+            "lang": "en",
+            "value": "prevention"
+          }
+        ]
+      },
+      "qualityStatement": {
+        "standardsCompliance": {},
+        "otherQualityStatement": [
+          {
+            "lang": "fr",
+            "value": "étude réalisée par des équipes d'épidémiologie; base de données CLININFO; analyses sous SAS"
+          },
+          {
+            "lang": "en",
+            "value": "study conducted by epidemiology teams; CLININFO database; analyses with SAS"
+          }
+        ]
+      },
+      "sumDscr": {
+        "dataKind": [
+          {
+            "lang": "fr",
+            "value": "Données rapportées par le participant de l&#x27;étude"
+          },
+          {
+            "lang": "en",
+            "value": "Participant-reported health data"
+          }
+        ],
+        "anlyUnit": [
+          {
+            "lang": "fr",
+            "value": "Individus"
+          },
+          {
+            "lang": "en",
+            "value": "Individuals"
+          }
+        ],
+        "nation": [
+          {
+            "lang": "fr",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          },
+          {
+            "lang": "en",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          }
+        ],
+        "geogCover": [
+          {
+            "lang": "fr",
+            "value": "Auvergne Rhône-Alpes"
+          },
+          {
+            "lang": "en",
+            "value": "Auvergne Rhône-Alpes"
+          }
+        ],
+        "universe": [
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Féminin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Female"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Adulte (19 à 24 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adulte (25 à 44 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Adulte (45 à 64 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Young Adult (19 to 24 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adult (25 to 44 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Middle Aged (45 to 64 years)"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Population générale"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "en",
+            "value": "General population"
+          },
+          {
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Femmes âgées de 18-65 ans vivant dans la région Rhône-Alpes consultant un médecin généraliste participant"
+          },
+          {
+            "clusion": "I",
+            "lang": "en",
+            "value": "Women aged 18-65 living in the Rhône-Alpes region consulting a participating general practitioner"
+          },
+          {
+            "clusion": "E",
+            "lang": "fr",
+            "value": ""
+          },
+          {
+            "clusion": "E",
+            "lang": "en",
+            "value": ""
+          }
+        ],
+        "collDate": [
+          {
+            "event": "start",
+            "value": "2008-01-01"
+          },
+          {
+            "event": "end",
+            "value": "2012-01-01"
+          }
+        ]
+      }
+    },
+    "dataAccs": {
+      "setAvail": {
+        "avlStatus": [
+          {
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Accès réservé"
+          },
+          {
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Restricted access"
+          }
+        ],
+        "conditions": [
+          {
+            "lang": "fr",
+            "value": "accès possible sous réserve de l&#x27;accord des différentes équipes contributives et de celui du comité de pilotage du programme et après avis complémentaire de la CNIL"
+          },
+          {
+            "lang": "en",
+            "value": "access possible subject to the agreement of the various contributing teams and that of the steering committee of the programme and after an additional opinion from the CNIL"
+          }
+        ]
+      },
+      "useStmt": {}
+    },
+    "othStdMat": {
+      "relMat": [
+        {
+          "lang": "fr",
+          "value": "Accès restreint sur projet spécifique"
+        },
+        {
+          "lang": "en",
+          "value": "Access on specific project only"
+        }
+      ]
+    },
+    "studyDevelopment": {
+      "developmentActivity": [
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/morbidité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Consommation de soins/services de santé"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/morbidity"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health care consumption and services"
+        }
+      ]
+    }
+  },
+  "docDscr": {
+    "citation": {
+      "rspStmt": {
+        "AuthEnty": "Christine LASSET"
+      },
+      "prodStmt": {
+        "producer": [
+          {
+            "affiliation": "CENTRE LEON BERARD",
+            "value": "Christine;LASSET"
+          }
+        ],
+        "prodPlac": "Portail Épidémiologie France"
+      }
+    }
+  },
+  "additional": {
+    "prodPlac": "Portail Épidémiologie France",
+    "creationDate": "05-08-2015",
+    "lastUpdatedManual": "19-10-2017",
+    "theme": {},
+    "governance": {
+      "committee": true
+    },
+    "collaborations": {},
+    "mockSample": {},
+    "dataQuality": {},
+    "variableDictionnary": {},
+    "dataTypes": {
+      "isDataInBiobank": false
+    },
+    "collectionProcess": {
+      "collectionModeDetails": [
+        {
+          "lang": "fr",
+          "value": "auto-questionnaire remis au cabine du médecin et partie qualititative par entretien avec un sociologue"
+        },
+        {
+          "lang": "en",
+          "value": "self-questionnaire handed out at the physician's surgery and qualitative part by an interview with a sociologist"
+        }
+      ]
+    },
+    "geographicalCoverage": {
+      "geoDetail": [
+        {
+          "lang": "fr",
+          "value": "Rhône-Alpes"
+        },
+        {
+          "lang": "en",
+          "value": "Rhône-Alpes"
+        }
+      ]
+    },
+    "activeFollowUp": {
+      "isActiveFollowUp": false
+    },
+    "dataCollectionIntegration": {
+      "isDataIntegration": false
+    },
+    "isHealthTheme": true
+  },
+  "schematype": "survey"
+}

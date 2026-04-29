@@ -1,0 +1,840 @@
+{
+  "stdyDscr": {
+    "citation": {
+      "titlStmt": {
+        "IDNo": [
+          {
+            "agency": "PEF",
+            "value": "5554"
+          },
+          {
+            "agency": "FReSH",
+            "value": "FRESH-PEF5554"
+          }
+        ],
+        "titl": [
+          {
+            "lang": "fr",
+            "value": "Etude cas-témoins sur les risques cardiovasculaires liés au traitement hormonal de la ménopause"
+          },
+          {
+            "lang": "en",
+            "value": "PRogestogens, EStrogens and STrOke"
+          }
+        ],
+        "altTitl": [
+          {
+            "lang": "fr",
+            "value": "PRESSTO : PRogestogens, EStrogens and STrOke"
+          },
+          {
+            "lang": "en",
+            "value": "PRESSTO"
+          }
+        ]
+      },
+      "rspStmt": {
+        "AuthEnty": [
+          {
+            "name": "Marianne;CANONICO",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE (INSERM)"
+              },
+              {
+                "lang": "en",
+                "value": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE (INSERM)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "0000-0002-2843-8640",
+                "role": "pi id",
+                "title": "ORCID"
+              },
+              {
+                "uri": "077819292",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/02vjkv261",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "180036048",
+                "role": "organisation id",
+                "title": "SIREN"
+              },
+              {
+                "uri": "200616425G",
+                "role": "labo id",
+                "title": "RNSR"
+              }
+            ],
+            "isContact": true,
+            "email": "marianne.canonico@inserm.fr",
+            "PILabo": "Institut National de la Santé et de la Recherche / Équipe Hormones et Maladies Cardiovasculaires UMR-S 1018"
+          },
+          {
+            "name": "Pierre-Yves;SCARABIN",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE (INSERM)"
+              },
+              {
+                "lang": "en",
+                "value": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE (INSERM)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "149662092",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/02vjkv261",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "180036048",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ],
+            "isContact": false,
+            "email": "",
+            "PILabo": "Institut National de la Santé et de la Recherche"
+          }
+        ],
+        "othId": []
+      },
+      "distStmt": {
+        "contact": [
+          {
+            "name": "Marianne;CANONICO",
+            "email": "marianne.canonico@inserm.fr",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE (INSERM)"
+              },
+              {
+                "lang": "en",
+                "value": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE (INSERM)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/02vjkv261",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "180036048",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          }
+        ]
+      },
+      "prodStmt": {
+        "fundAg": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "GIS-INSTITUT POUR LA RECHERCHE EN SANTE PUBLIQUE (IRESP)"
+              },
+              {
+                "lang": "en",
+                "value": "GIS-INSTITUT POUR LA RECHERCHE EN SANTE PUBLIQUE (IRESP)"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "ROR",
+                "uri": "https://ror.org/05fw72335"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ]
+          }
+        ],
+        "producer": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE (INSERM)"
+              },
+              {
+                "lang": "en",
+                "value": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE (INSERM)"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "ROR",
+                "uri": "https://ror.org/02vjkv261"
+              },
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "180036048"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "studyAuthorization": [
+      {
+        "authorizingAgency": {
+          "lang": "fr",
+          "value": "CNIL"
+        }
+      },
+      {
+        "authorizingAgency": {
+          "lang": "fr",
+          "value": "CESREES"
+        }
+      }
+    ],
+    "method": {
+      "notes": [
+        {
+          "subject": "research type",
+          "lang": "fr",
+          "value": "Etude observationnelle"
+        },
+        {
+          "subject": "research type",
+          "lang": "en",
+          "value": "Observational Study"
+        },
+        {
+          "lang": "fr",
+          "subject": "observational study method",
+          "value": "Etude cas-témoins"
+        },
+        {
+          "lang": "en",
+          "subject": "observational study method",
+          "value": "Case-control study"
+        }
+      ],
+      "stdyClas": [
+        {
+          "lang": "fr",
+          "value": "Étude complétée"
+        },
+        {
+          "lang": "en",
+          "value": "Completed study"
+        }
+      ],
+      "dataColl": {
+        "targetSampleSize": [
+          {
+            "lang": "fr",
+            "value": ">= 20000 individus"
+          },
+          {
+            "lang": "en",
+            "value": ">= 20000 individuals"
+          }
+        ],
+        "sampleFrame": {
+          "frameUnit": {
+            "unitType": [
+              {
+                "lang": "fr",
+                "value": "Via des structures (services ou établissements de santé, écoles, entreprises…)"
+              },
+              {
+                "lang": "en",
+                "value": "Through organizations (health services or institutions, schools, businesses, etc.)"
+              }
+            ]
+          }
+        },
+        "sources": [
+          {}
+        ],
+        "collMode": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Transcription",
+              "vocab": "CESSDA"
+            },
+            "value": "Transcription et saisie d’informations dans un enregistrement structuré"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Transcription",
+              "vocab": "CESSDA"
+            },
+            "value": "Converting or copying information into a structured record"
+          },
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Interview",
+              "vocab": "CESSDA"
+            },
+            "value": "Entretien avec le participant (dont clinique)"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Interview",
+              "vocab": "CESSDA"
+            },
+            "value": "Interview with the participant (including clinical)"
+          }
+        ],
+        "sampProc": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ],
+        "respRate": [
+          {
+            "lang": "fr",
+            "value": "100000 - 20000 cas / case - 80000 témoins / controls"
+          },
+          {
+            "lang": "en",
+            "value": "100000 - 20000 cas / case - 80000 témoins / controls"
+          }
+        ]
+      }
+    },
+    "stdyInfo": {
+      "abstract": [
+        {
+          "contentType": "purpose",
+          "lang": "fr",
+          "value": "Évaluer le risque de maladie cardiovasculaire (accident vasculaire cérébral, infarctus du myocarde et embolie pulmonaire) en relation avec l'utilisation d'un traitement hormonal de la ménopause en tenant compte de la voie d'administration des estrogènes et du type de progestatifs."
+        },
+        {
+          "contentType": "purpose",
+          "lang": "en",
+          "value": "To evaluate the risk of cardiovascular disease (cerebrovascular accident, myocardial infarction and pulmonary embolism) in connection with hormone therapy for menopause while considering the administration route for oestrogen and types of progestin."
+        }
+      ],
+      "subject": {
+        "topcClas": [
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/7de64596-5b0d-4977-8f98-b982ff2ec17d"
+              },
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/284ca20c-beb4-4abe-99fa-ef4513358bad"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D006176"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D009774"
+              }
+            ],
+            "value": "Gynécologie et obstétrique"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/c4793dfe-e80e-49dd-9fcc-a1a742de1b25"
+              },
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/00a5c4f4-b7ee-41a4-bcdf-3a02e6be1660"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D009462"
+              }
+            ],
+            "value": "Neurologie"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/4455c187-2f2f-4cd1-a4dd-449f59d73b39"
+              },
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/c42fc6ec-b216-4a24-9e9d-f5e781c175a0"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D002309"
+              }
+            ],
+            "value": "Cardiologie et médecine vasculaire"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/7de64596-5b0d-4977-8f98-b982ff2ec17d"
+              },
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/284ca20c-beb4-4abe-99fa-ef4513358bad"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D006176"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D009774"
+              }
+            ],
+            "value": "Gynaecology and obstetrics"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/c4793dfe-e80e-49dd-9fcc-a1a742de1b25"
+              },
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/00a5c4f4-b7ee-41a4-bcdf-3a02e6be1660"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D009462"
+              }
+            ],
+            "value": "Neurology"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/4455c187-2f2f-4cd1-a4dd-449f59d73b39"
+              },
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/c42fc6ec-b216-4a24-9e9d-f5e781c175a0"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D002309"
+              }
+            ],
+            "value": "Cardiology and vascular medicine"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "fr",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/1442995018",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Accident vasculaire cérébral, non précisé comme étant hémorragique ou ischémique"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "en",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/1442995018",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Stroke not known if ischaemic or haemorrhagic"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants liés au système de santé : Consommation des soins"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants liés au système de santé"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Healthcare system determinants: Use of care"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Healthcare system determinants"
+          }
+        ],
+        "keyword": [
+          {
+            "lang": "fr",
+            "value": "Traitement hormonal de la ménopause"
+          },
+          {
+            "lang": "fr",
+            "value": "estrogènes"
+          },
+          {
+            "lang": "fr",
+            "value": "progestatifs"
+          },
+          {
+            "lang": "en",
+            "value": "Hormone therapy for menopause"
+          },
+          {
+            "lang": "en",
+            "value": "oestrogen"
+          },
+          {
+            "lang": "en",
+            "value": "progestin"
+          }
+        ]
+      },
+      "qualityStatement": {
+        "standardsCompliance": {}
+      },
+      "sumDscr": {
+        "dataKind": [
+          {
+            "lang": "fr",
+            "value": "Données cliniques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données socio-démographiques"
+          },
+          {
+            "lang": "en",
+            "value": "Clinical data"
+          },
+          {
+            "lang": "en",
+            "value": "Socio-demographic data"
+          }
+        ],
+        "anlyUnit": [
+          {
+            "lang": "fr",
+            "value": "Individus"
+          },
+          {
+            "lang": "en",
+            "value": "Individuals"
+          }
+        ],
+        "nation": [
+          {
+            "lang": "fr",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          },
+          {
+            "lang": "en",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          }
+        ],
+        "universe": [
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Féminin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Female"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Adulte (45 à 64 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Middle Aged (45 to 64 years)"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Population générale"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "en",
+            "value": "General population"
+          },
+          {
+            "clusion": "I",
+            "lang": "fr",
+            "value": " femme - âgée entre 50 et 70 ans - ménopausée"
+          },
+          {
+            "clusion": "I",
+            "lang": "en",
+            "value": "Women - between 50 and 70 years old - menopausal"
+          },
+          {
+            "clusion": "E",
+            "lang": "fr",
+            "value": ""
+          },
+          {
+            "clusion": "E",
+            "lang": "en",
+            "value": ""
+          }
+        ],
+        "collDate": {
+          "event": "start",
+          "value": "2009-01-01"
+        }
+      }
+    },
+    "dataAccs": {
+      "setAvail": {
+        "avlStatus": [
+          {
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Accès réservé"
+          },
+          {
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Restricted access"
+          }
+        ],
+        "conditions": [
+          {
+            "lang": "fr",
+            "value": "Données transmises après anonymisation et sous forme de dossiers cryptés dont la clé de décryptage a été générée par le coordonnateur."
+          },
+          {
+            "lang": "en",
+            "value": "Anonymised data is transmitted as an encrypted file whose decryption key is generated by the coordinator."
+          }
+        ]
+      },
+      "useStmt": {
+        "restrctn": [
+          {
+            "lang": "fr",
+            "value": "Seules les personnes dédiés à ce projet ont accès aux données et travaillent sous la responsabilité du coordonnateur."
+          },
+          {
+            "lang": "en",
+            "value": "Only those involved in the project have access to data and are under the responsibility of the coordinator."
+          }
+        ]
+      }
+    },
+    "othStdMat": {
+      "relMat": [
+        {
+          "lang": "fr",
+          "value": "Accès restreint sur projet spécifique"
+        },
+        {
+          "lang": "en",
+          "value": "Access on specific project only"
+        }
+      ]
+    },
+    "studyDevelopment": {
+      "developmentActivity": [
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/morbidité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/mortalité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Consommation de soins/services de santé"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/morbidity"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/mortality"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health care consumption and services"
+        }
+      ]
+    }
+  },
+  "docDscr": {
+    "citation": {
+      "rspStmt": {
+        "AuthEnty": "Pierre-Yves SCARABIN"
+      },
+      "prodStmt": {
+        "producer": [
+          {
+            "affiliation": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE (INSERM)",
+            "value": "Pierre-Yves;SCARABIN"
+          }
+        ],
+        "prodPlac": "Portail Épidémiologie France"
+      }
+    }
+  },
+  "additional": {
+    "prodPlac": "Portail Épidémiologie France",
+    "creationDate": "04-03-2013",
+    "lastUpdatedManual": "01-07-2014",
+    "theme": {},
+    "governance": {},
+    "collaborations": {},
+    "mockSample": {},
+    "dataQuality": {},
+    "variableDictionnary": {},
+    "dataTypes": {
+      "isDataInBiobank": false
+    },
+    "collectionProcess": {},
+    "geographicalCoverage": {
+      "geoDetail": [
+        {
+          "lang": "fr",
+          "value": "France"
+        },
+        {
+          "lang": "en",
+          "value": "France"
+        }
+      ]
+    },
+    "activeFollowUp": {
+      "isActiveFollowUp": false
+    },
+    "dataCollectionIntegration": {
+      "isDataIntegration": false
+    },
+    "isHealthTheme": true
+  },
+  "schematype": "survey"
+}

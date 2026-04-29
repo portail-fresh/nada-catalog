@@ -1,0 +1,852 @@
+{
+  "stdyDscr": {
+    "citation": {
+      "titlStmt": {
+        "IDNo": [
+          {
+            "agency": "PEF",
+            "value": "2841"
+          },
+          {
+            "agency": "FReSH",
+            "value": "FRESH-PEF2841"
+          }
+        ],
+        "titl": [
+          {
+            "lang": "fr",
+            "value": "Etude longitudinale sur des patients consultant pour un épisode de sinusite aiguë : stratégie thérapeutique dans la prise en charge en pratique médicale courante"
+          },
+          {
+            "lang": "en",
+            "value": "Observational study of the therapeutic strategy in the management of acute sinusitis in primary care"
+          }
+        ],
+        "altTitl": [
+          {
+            "lang": "fr",
+            "value": "ABSINTHE"
+          },
+          {
+            "lang": "en",
+            "value": "ABSINTHE"
+          }
+        ]
+      },
+      "rspStmt": {
+        "AuthEnty": [
+          {
+            "name": "Nicholas;MOORE",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "UNIVERSITE DE BORDEAUX"
+              },
+              {
+                "lang": "en",
+                "value": "UNIVERSITE DE BORDEAUX"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "0000-0003-1212-2817",
+                "role": "pi id",
+                "title": "ORCID"
+              },
+              {
+                "uri": "077852877",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/057qpr032",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "130018351",
+                "role": "organisation id",
+                "title": "SIREN"
+              },
+              {
+                "uri": "200120110J",
+                "role": "labo id",
+                "title": "RNSR"
+              }
+            ],
+            "isContact": true,
+            "email": "nicholas.moore@u-bordeaux.fr",
+            "PILabo": "Université Bordeaux / Service de Pharmacologie, CIC-P 0005-INSERM U657- Université Bordeaux Segalen"
+          }
+        ],
+        "othId": []
+      },
+      "distStmt": {
+        "contact": [
+          {
+            "name": "Nicholas;MOORE",
+            "email": "nicholas.moore@u-bordeaux.fr",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "UNIVERSITE DE BORDEAUX"
+              },
+              {
+                "lang": "en",
+                "value": "UNIVERSITE DE BORDEAUX"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/057qpr032",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "130018351",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          }
+        ]
+      },
+      "prodStmt": {
+        "fundAg": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "SANOFI (FRANCE)"
+              },
+              {
+                "lang": "en",
+                "value": "SANOFI (FRANCE)"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "ROR",
+                "uri": "https://ror.org/02n6c9837"
+              },
+              {
+                "title": "SIREN",
+                "uri": "395030844"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Industrie"
+              },
+              {
+                "lang": "en",
+                "value": "Industry"
+              }
+            ]
+          }
+        ],
+        "producer": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE (INSERM)"
+              },
+              {
+                "lang": "en",
+                "value": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE (INSERM)"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "ROR",
+                "uri": "https://ror.org/02vjkv261"
+              },
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "180036048"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "studyAuthorization": {
+      "authorizingAgency": {
+        "lang": "fr",
+        "value": "CNIL"
+      }
+    },
+    "method": {
+      "notes": [
+        {
+          "subject": "research type",
+          "lang": "fr",
+          "value": "Etude observationnelle"
+        },
+        {
+          "subject": "research type",
+          "lang": "en",
+          "value": "Observational Study"
+        }
+      ],
+      "stdyClas": [
+        {
+          "lang": "fr",
+          "value": "Inconnu"
+        },
+        {
+          "lang": "en",
+          "value": "Unknown"
+        }
+      ],
+      "dataColl": {
+        "targetSampleSize": [
+          {
+            "lang": "fr",
+            "value": "[1000-10000[ individus"
+          },
+          {
+            "lang": "en",
+            "value": "[1000-10000[ individuals"
+          }
+        ],
+        "sampleFrame": {
+          "frameUnit": {
+            "unitType": [
+              {
+                "lang": "fr",
+                "value": "Via les professionnels d&#x27;exercice libéral"
+              },
+              {
+                "lang": "en",
+                "value": "Through independent healthcare practitioners"
+              }
+            ]
+          }
+        },
+        "sources": [
+          {}
+        ],
+        "collMode": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "SelfAdministeredQuestionnaire",
+              "vocab": "CESSDA"
+            },
+            "value": "Questionnaire auto-administré"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "SelfAdministeredQuestionnaire",
+              "vocab": "CESSDA"
+            },
+            "value": "Self-administered questionnaire"
+          }
+        ],
+        "sampProc": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ],
+        "respRate": [
+          {
+            "lang": "fr",
+            "value": "5693"
+          },
+          {
+            "lang": "en",
+            "value": "5693"
+          }
+        ]
+      }
+    },
+    "stdyInfo": {
+      "abstract": [
+        {
+          "contentType": "purpose",
+          "lang": "fr",
+          "value": "Les objectifs de l’étude étaient de décrire les modalités de prise en charge de la sinusite aiguë en condition réelle de prescription et d’évaluer l’efficacité en situation réelle (effectiveness) de la stratégie thérapeutique initiale."
+        },
+        {
+          "contentType": "purpose",
+          "lang": "en",
+          "value": "The study objectives were to describe the management of acute sinusitis in real-life conditions of prescription and to evaluate the effectiveness of the initial therapeutic strategy."
+        }
+      ],
+      "subject": {
+        "topcClas": [
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/9c3a57c5-68bd-4ee7-a9cc-aa8ba07bde94"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D010036"
+              }
+            ],
+            "value": "Oto-rhino-laryngologie"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/9c3a57c5-68bd-4ee7-a9cc-aa8ba07bde94"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D010036"
+              }
+            ],
+            "value": "Otolaryngology"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants liés au système de santé : Consommation des soins"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants liés au système de santé"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Healthcare system determinants: Use of care"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Healthcare system determinants"
+          }
+        ],
+        "keyword": [
+          {
+            "lang": "fr",
+            "value": "Ketek"
+          },
+          {
+            "lang": "fr",
+            "value": "télithromycine"
+          },
+          {
+            "lang": "fr",
+            "value": "antibiotique"
+          },
+          {
+            "lang": "fr",
+            "value": "ORL"
+          },
+          {
+            "lang": "fr",
+            "value": "prise en charge"
+          },
+          {
+            "lang": "fr",
+            "value": "efficacité"
+          },
+          {
+            "lang": "fr",
+            "value": "stratégies thérapeutiques"
+          },
+          {
+            "lang": "fr",
+            "value": "recommandations"
+          },
+          {
+            "lang": "fr",
+            "value": "pharmaco-épidémiologie"
+          },
+          {
+            "lang": "fr",
+            "value": "cohorte"
+          },
+          {
+            "lang": "fr",
+            "value": "département de pharmacologie"
+          },
+          {
+            "lang": "fr",
+            "value": "Bordeaux"
+          },
+          {
+            "lang": "en",
+            "value": "telithromycin"
+          },
+          {
+            "lang": "en",
+            "value": "antibiotic"
+          },
+          {
+            "lang": "en",
+            "value": "ENT"
+          },
+          {
+            "lang": "en",
+            "value": "Ketek"
+          },
+          {
+            "lang": "en",
+            "value": "management"
+          },
+          {
+            "lang": "en",
+            "value": "effectiveness"
+          },
+          {
+            "lang": "en",
+            "value": "therapeutic strategies"
+          },
+          {
+            "lang": "en",
+            "value": "recommendations"
+          },
+          {
+            "lang": "en",
+            "value": "pharmacoepidemiology"
+          },
+          {
+            "lang": "en",
+            "value": "cohort"
+          },
+          {
+            "lang": "en",
+            "value": "Department of Pharmacology"
+          },
+          {
+            "lang": "en",
+            "value": "Bordeaux"
+          }
+        ]
+      },
+      "qualityStatement": {
+        "standardsCompliance": {}
+      },
+      "sumDscr": {
+        "dataKind": [
+          {
+            "lang": "fr",
+            "value": "Données cliniques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données rapportées par le participant de l&#x27;étude"
+          },
+          {
+            "lang": "en",
+            "value": "Clinical data"
+          },
+          {
+            "lang": "en",
+            "value": "Participant-reported health data"
+          }
+        ],
+        "anlyUnit": [
+          {
+            "lang": "fr",
+            "value": "Individus"
+          },
+          {
+            "lang": "en",
+            "value": "Individuals"
+          }
+        ],
+        "nation": [
+          {
+            "lang": "fr",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          },
+          {
+            "lang": "en",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          }
+        ],
+        "universe": [
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Masculin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Féminin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Male"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Female"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Adulte (19 à 24 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adulte (25 à 44 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Adulte (45 à 64 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Personne âgée (65 à 79 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000369"
+            },
+            "value": "Grand âge (80 ans et plus)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Young Adult (19 to 24 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adult (25 to 44 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Middle Aged (45 to 64 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Aged (65 to 79 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000369"
+            },
+            "value": "Aged, 80 and over (80 years and more)"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Patients"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "en",
+            "value": "Patients population"
+          },
+          {
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Patient consultant pour un épisode de sinusite aiguë diagnostiqué selon les critères du praticien ; Patient sans antécédent d’épisode de sinusite aiguë au cours des deux mois précédant le diagnostic ; Patient âgé de 18 ans et plus ; Patient acceptant de participer à l’étude ; Patient non inclus dans un essai thérapeutique (Loi Huriet-Sérusclat) ; Patient pouvant être suivi pendant deux mois ; Patient ne présentant pas de pathologie évolutive grave (mettant en jeu le pronostic vital dans les trois prochains mois)"
+          },
+          {
+            "clusion": "I",
+            "lang": "en",
+            "value": "Patient consulting for acute sinusitis diagnosed according to criteria of the practitioner; Patient without a previous episode of acute sinusitis during the two months preceding diagnosis; Patient aged 18 years and over; Patient agreeing to participate in the study; Patient not included in a clinical trial (Huriet-Sérusclat); Patient who may be followed for two months; Patient showing no severe active disease (life-threatening in the next three months)."
+          },
+          {
+            "clusion": "E",
+            "lang": "fr",
+            "value": ""
+          },
+          {
+            "clusion": "E",
+            "lang": "en",
+            "value": ""
+          }
+        ],
+        "collDate": [
+          {
+            "event": "start",
+            "value": "2005-01-01"
+          },
+          {
+            "event": "end",
+            "value": "2005-12-31"
+          }
+        ]
+      }
+    },
+    "dataAccs": {
+      "setAvail": {
+        "avlStatus": [
+          {
+            "lang": "fr",
+            "value": "A définir"
+          },
+          {
+            "lang": "en",
+            "value": "To be defined"
+          }
+        ],
+        "notes": [
+          {
+            "lang": "fr",
+            "value": "La propriété des données de l&#x27;étude a fait l&#x27;objet d&#x27;une convention entre l&#x27;Université Bordeaux Segalen et le financeur."
+          },
+          {
+            "lang": "en",
+            "value": "Ownership of study data is the subject of an agreement between the University of Bordeaux Segalen and the funder."
+          }
+        ],
+        "conditions": []
+      },
+      "useStmt": {}
+    },
+    "othStdMat": {
+      "relMat": [
+        {
+          "lang": "fr",
+          "value": "Accès restreint sur projet spécifique"
+        },
+        {
+          "lang": "en",
+          "value": "Access on specific project only"
+        }
+      ]
+    },
+    "studyDevelopment": {
+      "developmentActivity": [
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/morbidité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/mortalité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Consommation de soins/services de santé"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/morbidity"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/mortality"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health care consumption and services"
+        }
+      ]
+    }
+  },
+  "docDscr": {
+    "citation": {
+      "rspStmt": {
+        "AuthEnty": "Cécile DROZ-PERROTEAU"
+      },
+      "prodStmt": {
+        "producer": [
+          {
+            "affiliation": "UNIVERSITE DE BORDEAUX",
+            "value": "Cécile;DROZ-PERROTEAU"
+          }
+        ],
+        "prodPlac": "Portail Épidémiologie France"
+      }
+    }
+  },
+  "additional": {
+    "prodPlac": "Portail Épidémiologie France",
+    "relatedDocuments": {
+      "documentTitle": [
+        {
+          "lang": "fr",
+          "value": "Liste des publications dans Pubmed"
+        },
+        {
+          "lang": "en",
+          "value": "Liste des publications dans Pubmed"
+        }
+      ],
+      "documentLink": [
+        {
+          "lang": "fr",
+          "value": "http://tinyurl.com/Pubmed-ABSINTHE"
+        },
+        {
+          "lang": "en",
+          "value": "http://tinyurl.com/Pubmed-ABSINTHE"
+        }
+      ]
+    },
+    "creationDate": "27-05-2011",
+    "lastUpdatedManual": "05-09-2017",
+    "theme": {},
+    "governance": {},
+    "collaborations": {},
+    "mockSample": {},
+    "dataQuality": {},
+    "variableDictionnary": {},
+    "dataTypes": {
+      "isDataInBiobank": false
+    },
+    "collectionProcess": {
+      "collectionModeDetails": [
+        {
+          "lang": "fr",
+          "value": "Les patients inclus faisaient l'objet d'un recueil de données médicales indirectement nominatives (questionnaire médical rempli par le médecin à l’inclusion, puis 10 jours et 2 mois après l'inclusion) et ils devaient également compléter un autoquestionnaire dans les 10 jours suivants l'inclusion. Les médecins participants devaient également recenser dans un registre tous les patients présentant un épisode de sinusite aiguë (avec un maximum de 20 patients)."
+        },
+        {
+          "lang": "en",
+          "value": "Patients included were the subject of collection of indirectly personal medical data (medical questionnaire completed by the physician at inclusion and 10 days and 2 months after inclusion) and they also had to complete a self-administered within 10 days following inclusion. Participating physicians were also asked to identify and register all patients with an episode of acute sinusitis (with a maximum of 20 patients)."
+        }
+      ]
+    },
+    "geographicalCoverage": {
+      "geoDetail": [
+        {
+          "lang": "fr",
+          "value": "Médecins généralistes et oto-rhino-laryngologistes (ORL) en France métropolitaine"
+        },
+        {
+          "lang": "en",
+          "value": "General practitioners and ENT specialists in metropolitan France"
+        }
+      ]
+    },
+    "activeFollowUp": {
+      "isActiveFollowUp": true
+    },
+    "dataCollectionIntegration": {
+      "isDataIntegration": false
+    },
+    "isHealthTheme": true
+  },
+  "schematype": "survey"
+}

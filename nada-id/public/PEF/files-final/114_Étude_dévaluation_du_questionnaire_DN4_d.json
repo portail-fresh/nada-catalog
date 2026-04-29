@@ -1,0 +1,735 @@
+{
+  "stdyDscr": {
+    "citation": {
+      "titlStmt": {
+        "IDNo": [
+          {
+            "agency": "PEF",
+            "value": "114"
+          },
+          {
+            "agency": "FReSH",
+            "value": "FRESH-PEF114"
+          }
+        ],
+        "titl": [
+          {
+            "lang": "fr",
+            "value": "Étude d'évaluation du questionnaire DN4 dans les douleurs mixtes"
+          },
+          {
+            "lang": "en",
+            "value": "Evaluation study of the DN4 questionnaire in mixed pain"
+          }
+        ],
+        "altTitl": [
+          {
+            "lang": "fr",
+            "value": "DN4 mixte"
+          },
+          {
+            "lang": "en",
+            "value": "DN4 mixte"
+          }
+        ]
+      },
+      "rspStmt": {
+        "AuthEnty": [
+          {
+            "name": "Véronique;MILLET",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "PFIZER (FRANCE)"
+              },
+              {
+                "lang": "en",
+                "value": "PFIZER (FRANCE)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/02c9yny10",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "433623550",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ],
+            "isContact": true,
+            "email": "veronique.millet@pfizer.com",
+            "PILabo": "Pfizer / Pfizer"
+          }
+        ],
+        "othId": []
+      },
+      "distStmt": {
+        "contact": [
+          {
+            "name": "Véronique;MILLET",
+            "email": "veronique.millet@pfizer.com",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "PFIZER (FRANCE)"
+              },
+              {
+                "lang": "en",
+                "value": "PFIZER (FRANCE)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/02c9yny10",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "433623550",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          }
+        ]
+      },
+      "prodStmt": {
+        "fundAg": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "AGENCE NATIONALE DE RECHERCHES SUR LE SIDA ET LES HEPATITES VIRALES (ANRS MIE)"
+              },
+              {
+                "lang": "en",
+                "value": "AGENCE NATIONALE DE RECHERCHES SUR LE SIDA ET LES HEPATITES VIRALES (ANRS MIE)"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "ROR",
+                "uri": "https://ror.org/02c9yny10"
+              },
+              {
+                "title": "SIREN",
+                "uri": "433623550"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Industrie"
+              },
+              {
+                "lang": "en",
+                "value": "Industry"
+              }
+            ]
+          }
+        ],
+        "producer": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "PFIZER (FRANCE)"
+              },
+              {
+                "lang": "en",
+                "value": "PFIZER (FRANCE)"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Industrie"
+              },
+              {
+                "lang": "en",
+                "value": "Industry"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "ROR",
+                "uri": "https://ror.org/02c9yny10"
+              },
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "433623550"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "studyAuthorization": {
+      "authorizingAgency": {
+        "lang": "fr",
+        "value": "CNIL"
+      }
+    },
+    "method": {
+      "notes": [
+        {
+          "subject": "research type",
+          "lang": "fr",
+          "value": "Etude observationnelle"
+        },
+        {
+          "subject": "research type",
+          "lang": "en",
+          "value": "Observational Study"
+        }
+      ],
+      "stdyClas": [
+        {
+          "lang": "fr",
+          "value": "Inconnu"
+        },
+        {
+          "lang": "en",
+          "value": "Unknown"
+        }
+      ],
+      "dataColl": {
+        "targetSampleSize": [
+          {
+            "lang": "fr",
+            "value": "< 500 individus"
+          },
+          {
+            "lang": "en",
+            "value": "< 500 individuals"
+          }
+        ],
+        "sampleFrame": {
+          "frameUnit": {
+            "unitType": [
+              {
+                "lang": "fr",
+                "value": "Via des structures (services ou établissements de santé, écoles, entreprises…)"
+              },
+              {
+                "lang": "en",
+                "value": "Through organizations (health services or institutions, schools, businesses, etc.)"
+              }
+            ]
+          }
+        },
+        "sources": [
+          {}
+        ],
+        "collMode": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Transcription",
+              "vocab": "CESSDA"
+            },
+            "value": "Transcription et saisie d’informations dans un enregistrement structuré"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Transcription",
+              "vocab": "CESSDA"
+            },
+            "value": "Converting or copying information into a structured record"
+          }
+        ],
+        "sampProc": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ],
+        "respRate": [
+          {
+            "lang": "fr",
+            "value": "132"
+          },
+          {
+            "lang": "en",
+            "value": "132"
+          }
+        ]
+      }
+    },
+    "stdyInfo": {
+      "abstract": [
+        {
+          "contentType": "purpose",
+          "lang": "fr",
+          "value": "Principal : Comparer les scores moyens du questionnaire DN4 observés au sein de 4 sous-groupes de patients suivis pour lombo-radiculalgie. Objectifs secondaires : - Pour chaque item du DN4, comparer la proportion des items positifs entre chaque sous-groupe. - Comparer les proportions des sujets ayant un score de DN4 > 4/10 entre chaque sous-groupe. - Comparer les proportions des sujets ayant été considérés comme ayant une composante neuropathique par un 1er investigateur entre chaque sous-groupe. - Estimer la sensibilité, la spécificité, la valeur prédictive positive et négative de l’échelle DN4 par rapport à l’avis du 1er investigateur au sein de chaque sous-groupe : o En prenant un seuil de DN4 à 4/10 o Au moyen d’un courbe ROC - Comparer les moyennes des scores de l’indice de Schöber modifié et de la « distance main-sol » en fonction de la présence ou non d’une composante neuropathique dans les 4 sous-groupes."
+        },
+        {
+          "contentType": "purpose",
+          "lang": "en",
+          "value": "Main: Compare the average scores of the DN4 questionnaire observed in 4 sub-groups of patients monitored for lumbar radiculalgia. Secondary objectives: - For each item on the DN4, compare the proportion of the positive items between each sub-group. - Compare the proportions of the subjects that have a DN4 score > 4/10 between each sub-group. - Compare the proportions of the subjects that have been considered as having neuropathic component by a 1st investigator between each sub-group. - Estimate the sensitivity, specificity, the positive and negative predictive value of the DN4 scale in relation to the opinion of the 1st investigator within each sub-group: o By taking a DN4 threshold at 4/10 o Using the ROC curve - Compare the averages of the scores of the modified Schöber index and the \"\"hand-to-floor distance\"\" according to the presence or not of a neuropathic component in the 4 sub-groups."
+        }
+      ],
+      "subject": {
+        "topcClas": [
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/c4793dfe-e80e-49dd-9fcc-a1a742de1b25"
+              },
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/00a5c4f4-b7ee-41a4-bcdf-3a02e6be1660"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D009462"
+              }
+            ],
+            "value": "Neurologie"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/c4793dfe-e80e-49dd-9fcc-a1a742de1b25"
+              },
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/00a5c4f4-b7ee-41a4-bcdf-3a02e6be1660"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D009462"
+              }
+            ],
+            "value": "Neurology"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "fr",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/1339785363",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Douleur neuropathique"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "en",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/1339785363",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Neuropathic pain"
+          }
+        ],
+        "keyword": [
+          {
+            "lang": "fr",
+            "value": "questionnaire DN4"
+          },
+          {
+            "lang": "fr",
+            "value": "évaluation"
+          },
+          {
+            "lang": "en",
+            "value": "DN4 questionnaire"
+          },
+          {
+            "lang": "en",
+            "value": "evaluation"
+          }
+        ]
+      },
+      "qualityStatement": {
+        "standardsCompliance": {}
+      },
+      "sumDscr": {
+        "dataKind": [
+          {
+            "lang": "fr",
+            "value": "Données cliniques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données rapportées par le participant de l&#x27;étude"
+          },
+          {
+            "lang": "en",
+            "value": "Clinical data"
+          },
+          {
+            "lang": "en",
+            "value": "Participant-reported health data"
+          }
+        ],
+        "anlyUnit": [
+          {
+            "lang": "fr",
+            "value": "Individus"
+          },
+          {
+            "lang": "en",
+            "value": "Individuals"
+          }
+        ],
+        "nation": [
+          {
+            "lang": "fr",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          },
+          {
+            "lang": "en",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          }
+        ],
+        "universe": [
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Masculin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Féminin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Male"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Female"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Adulte (19 à 24 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adulte (25 à 44 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Adulte (45 à 64 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Personne âgée (65 à 79 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000369"
+            },
+            "value": "Grand âge (80 ans et plus)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Young Adult (19 to 24 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adult (25 to 44 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Middle Aged (45 to 64 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Aged (65 to 79 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000369"
+            },
+            "value": "Aged, 80 and over (80 years and more)"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Patients"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "en",
+            "value": "Patients population"
+          },
+          {
+            "clusion": "I",
+            "lang": "fr",
+            "value": " Patients âgés de 18 ans et plus, - Première consultation dans un centre investigateur, "
+          },
+          {
+            "clusion": "I",
+            "lang": "en",
+            "value": "Patients ≥ 18 years, - First consultation in an investigating center, "
+          },
+          {
+            "clusion": "E",
+            "lang": "fr",
+            "value": "Douleur présente depuis au moins 3 mois, - Douleur d’intensité modérée à sévère (intensité sup ou égale à 4 sur une échelle de 11 points de Lickert), - Patients ayant signé le consentement éclairé"
+          },
+          {
+            "clusion": "E",
+            "lang": "en",
+            "value": " Pain present for at least 3 months, - Moderate to severe pain (intensity ≥ 4 on the 11-point Lickert scale), - Patients who have signed the written consent."
+          }
+        ],
+        "collDate": [
+          {
+            "event": "start",
+            "value": "2007-01-01"
+          },
+          {
+            "event": "end",
+            "value": "2009-01-01"
+          }
+        ]
+      }
+    },
+    "dataAccs": {
+      "setAvail": {
+        "avlStatus": [
+          {
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Accès réservé"
+          },
+          {
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Restricted access"
+          }
+        ],
+        "conditions": [
+          {
+            "lang": "fr",
+            "value": "Contacter le responsable scientifique"
+          },
+          {
+            "lang": "en"
+          }
+        ]
+      },
+      "useStmt": {}
+    },
+    "othStdMat": {
+      "relMat": [
+        {
+          "lang": "fr",
+          "value": "Accès restreint sur projet spécifique"
+        },
+        {
+          "lang": "en",
+          "value": "Access on specific project only"
+        }
+      ]
+    },
+    "studyDevelopment": {
+      "developmentActivity": [
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Consommation de soins/services de santé"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health care consumption and services"
+        }
+      ]
+    }
+  },
+  "docDscr": {
+    "citation": {
+      "rspStmt": {
+        "AuthEnty": "Isabelle PITHOIS-MERLI"
+      },
+      "prodStmt": {
+        "producer": [
+          {
+            "affiliation": "PFIZER (FRANCE)",
+            "value": "Isabelle;PITHOIS-MERLI"
+          }
+        ],
+        "prodPlac": "Portail Épidémiologie France"
+      }
+    }
+  },
+  "additional": {
+    "prodPlac": "Portail Épidémiologie France",
+    "creationDate": "14-12-2010",
+    "lastUpdatedManual": "01-01-2019",
+    "theme": {},
+    "governance": {},
+    "collaborations": {},
+    "mockSample": {},
+    "dataQuality": {},
+    "variableDictionnary": {},
+    "dataTypes": {
+      "isDataInBiobank": false
+    },
+    "collectionProcess": {
+      "collectionModeDetails": [
+        {
+          "lang": "fr",
+          "value": "CRF papier"
+        },
+        {
+          "lang": "en",
+          "value": "Paper CRF"
+        }
+      ]
+    },
+    "geographicalCoverage": {
+      "geoDetail": [
+        {
+          "lang": "fr",
+          "value": "France metropolitaine"
+        },
+        {
+          "lang": "en",
+          "value": "Metropolitan France"
+        }
+      ]
+    },
+    "activeFollowUp": {
+      "isActiveFollowUp": true
+    },
+    "dataCollectionIntegration": {
+      "isDataIntegration": false
+    },
+    "isHealthTheme": true
+  },
+  "schematype": "survey"
+}

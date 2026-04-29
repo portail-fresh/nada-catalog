@@ -1,0 +1,876 @@
+{
+  "stdyDscr": {
+    "citation": {
+      "titlStmt": {
+        "IDNo": [
+          {
+            "agency": "PEF",
+            "value": "8427"
+          },
+          {
+            "agency": "FReSH",
+            "value": "FRESH-PEF8427"
+          }
+        ],
+        "titl": [
+          {
+            "lang": "fr",
+            "value": "Enquête Observatoire des Maladies Rares 2011"
+          },
+          {
+            "lang": "en",
+            "value": "Survey Observatory of Rare Diseases 2011"
+          }
+        ]
+      },
+      "rspStmt": {
+        "AuthEnty": [
+          {
+            "name": "Thomas;HEUYER",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "MALADIES RARES INFO SERVICES"
+              },
+              {
+                "lang": "en",
+                "value": "MALADIES RARES INFO SERVICES"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "440803724",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ],
+            "isContact": true,
+            "email": "theuyer@maladiesrares.org",
+            "PILabo": "Maladies Rares Info / Observatoire des Maladies Rares"
+          }
+        ],
+        "othId": []
+      },
+      "distStmt": {
+        "contact": [
+          {
+            "name": "Thomas;HEUYER",
+            "email": "theuyer@maladiesrares.org",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "MALADIES RARES INFO SERVICES"
+              },
+              {
+                "lang": "en",
+                "value": "MALADIES RARES INFO SERVICES"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "440803724",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          }
+        ]
+      },
+      "prodStmt": {
+        "fundAg": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "ASS FRANCAISE CONTRE LES MYOPATHIES (AFM)"
+              },
+              {
+                "lang": "en",
+                "value": "ASS FRANCAISE CONTRE LES MYOPATHIES (AFM)"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "SIREN",
+                "uri": "775609571"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Privé à but non lucratif"
+              },
+              {
+                "lang": "en",
+                "value": "Private non-profit"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "lang": "fr"
+              },
+              {
+                "lang": "en"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Privé à but non lucratif"
+              },
+              {
+                "lang": "en",
+                "value": "Private non-profit"
+              }
+            ]
+          }
+        ],
+        "producer": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "MALADIES RARES INFO SERVICES"
+              },
+              {
+                "lang": "en",
+                "value": "MALADIES RARES INFO SERVICES"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Privé à but non lucratif"
+              },
+              {
+                "lang": "en",
+                "value": "Private non-profit"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "440803724"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "studyAuthorization": [
+      {
+        "authorizingAgency": {
+          "lang": "fr",
+          "value": "CNIL"
+        }
+      },
+      {
+        "authorizingAgency": {
+          "lang": "fr",
+          "value": "CPP"
+        }
+      }
+    ],
+    "method": {
+      "notes": [
+        {
+          "subject": "research type",
+          "lang": "fr",
+          "value": "Etude observationnelle"
+        },
+        {
+          "subject": "research type",
+          "lang": "en",
+          "value": "Observational Study"
+        }
+      ],
+      "stdyClas": [
+        {
+          "lang": "fr",
+          "value": "Étude complétée"
+        },
+        {
+          "lang": "en",
+          "value": "Completed study"
+        }
+      ],
+      "dataColl": {
+        "targetSampleSize": [
+          {
+            "lang": "fr",
+            "value": "< 500 individus"
+          },
+          {
+            "lang": "en",
+            "value": "< 500 individuals"
+          }
+        ],
+        "timeMeth": [
+          {
+            "lang": "fr",
+            "value": "Etude transversale non répétée"
+          },
+          {
+            "lang": "en",
+            "value": "One-time cross-sectional study"
+          }
+        ],
+        "sampleFrame": {
+          "frameUnit": {
+            "unitType": [
+              {
+                "lang": "fr",
+                "value": "Via des structures (services ou établissements de santé, écoles, entreprises…)"
+              },
+              {
+                "lang": "en",
+                "value": "Through organizations (health services or institutions, schools, businesses, etc.)"
+              }
+            ]
+          }
+        },
+        "sources": [
+          {}
+        ],
+        "collMode": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Transcription",
+              "vocab": "CESSDA"
+            },
+            "value": "Transcription et saisie d’informations dans un enregistrement structuré"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Transcription",
+              "vocab": "CESSDA"
+            },
+            "value": "Converting or copying information into a structured record"
+          },
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Interview",
+              "vocab": "CESSDA"
+            },
+            "value": "Entretien avec le participant (dont clinique)"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Interview",
+              "vocab": "CESSDA"
+            },
+            "value": "Interview with the participant (including clinical)"
+          }
+        ],
+        "sampProc": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ],
+        "respRate": [
+          {
+            "lang": "fr",
+            "value": "198 individuals out of the 361 asked participated in the quantitative survey. (322 individuals participated in the qualitative study allowing to build the quantitative questionnaire)"
+          },
+          {
+            "lang": "en",
+            "value": "198 individuals out of the 361 asked participated in the quantitative survey. (322 individuals participated in the qualitative study allowing to build the quantitative questionnaire)"
+          }
+        ]
+      }
+    },
+    "stdyInfo": {
+      "abstract": [
+        {
+          "contentType": "purpose",
+          "lang": "fr",
+          "value": "L’objectif de l’Observatoire est de mettre à disposition de l’ensemble des acteurs mobilisés dans la lutte contre les maladies rares des données fiables mettant en exergue des problématiques importantes auxquelles sont confrontés les personnes malades et leurs proches. Ces données doivent permettre non seulement de bien cerner ces problématiques mais également d’avancer des propositions pour y remédier. Cette enquête étudie trois thématiques : - l’errance diagnostique ; - l’accès à l’information ; - la prise en charge financière des soins, produits et prestations."
+        },
+        {
+          "contentType": "purpose",
+          "lang": "en",
+          "value": "The objective of the Observatory is to provide to all skateholders involved in the fight against rare diseases reliable data highlighting important issues to which patients and their families are confronted. These data must allow not only to identify those issues but also to bring forward proposals to mitigate them. This survey studied three topics: - Misdiagnosis; - Access to information; - Financial support for healthcare, products and service delivery."
+        }
+      ],
+      "subject": {
+        "topcClas": [
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "value": "Pas de spécialité médicale spécifique"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "value": "No specific medical specialty"
+          }
+        ],
+        "keyword": [
+          {
+            "lang": "fr",
+            "value": "Affectation Longue Durée"
+          },
+          {
+            "lang": "fr",
+            "value": "ALD"
+          },
+          {
+            "lang": "fr",
+            "value": "errance diagnostique"
+          },
+          {
+            "lang": "fr",
+            "value": "accès information"
+          },
+          {
+            "lang": "fr",
+            "value": "frais à charge du patients"
+          },
+          {
+            "lang": "fr",
+            "value": "renoncement aux soins"
+          },
+          {
+            "lang": "fr",
+            "value": "prise en charge"
+          },
+          {
+            "lang": "en",
+            "value": "Long term illness"
+          },
+          {
+            "lang": "en",
+            "value": "chronic disease"
+          },
+          {
+            "lang": "en",
+            "value": "misdiagnosis"
+          },
+          {
+            "lang": "en",
+            "value": "error"
+          },
+          {
+            "lang": "en",
+            "value": "access to information"
+          },
+          {
+            "lang": "en",
+            "value": "healthcare"
+          },
+          {
+            "lang": "en",
+            "value": "out of pocket payments"
+          },
+          {
+            "lang": "en",
+            "value": "renouncement to healthcare."
+          },
+          {
+            "lang": "en",
+            "value": "ALD"
+          },
+          {
+            "lang": "en",
+            "value": "medical care"
+          }
+        ]
+      },
+      "qualityStatement": {
+        "standardsCompliance": {}
+      },
+      "sumDscr": {
+        "dataKind": [
+          {
+            "lang": "fr",
+            "value": "Données rapportées par le participant de l&#x27;étude"
+          },
+          {
+            "lang": "en",
+            "value": "Participant-reported health data"
+          }
+        ],
+        "anlyUnit": [
+          {
+            "lang": "fr",
+            "value": "Individus"
+          },
+          {
+            "lang": "en",
+            "value": "Individuals"
+          }
+        ],
+        "nation": [
+          {
+            "lang": "fr",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          },
+          {
+            "lang": "en",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          }
+        ],
+        "universe": [
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Masculin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Féminin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Male"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Female"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D007231"
+            },
+            "value": "Nouveau-né (naissance à 28j)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D007223"
+            },
+            "value": "Nourrisson (28j à 2 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D002675"
+            },
+            "value": "Petite enfance (2 à 5 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D002648"
+            },
+            "value": "Enfance (6 à 12 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000293"
+            },
+            "value": "Adolescence (13 à 18 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Adulte (19 à 24 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adulte (25 à 44 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Adulte (45 à 64 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Personne âgée (65 à 79 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000369"
+            },
+            "value": "Grand âge (80 ans et plus)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D007231"
+            },
+            "value": "Infant, Newborn (birth to 28 days)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D007223"
+            },
+            "value": "Infant (28 days to 2 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D002675"
+            },
+            "value": "Child, Preschool (2 to 5 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D002648"
+            },
+            "value": "Child (6 to 12 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Young Adult (19 to 24 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adult (25 to 44 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Middle Aged (45 to 64 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Aged (65 to 79 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000369"
+            },
+            "value": "Aged, 80 and over (80 years and more)"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Patients"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "en",
+            "value": "Patients population"
+          },
+          {
+            "clusion": "I",
+            "lang": "fr",
+            "value": " Statut : les personnes malades, leurs conjoints, leurs enfants ou leurs parents. - Pathologie : prévalence inférieure ou égale à une personne sur 2000, conformément aux données présentées dans le cahier Orphanet sur la prévalence des maladies rares. - En l’absence de diagnostic : dans une telle situation, soit la personne malade était susceptible d’être touchée par une maladie rare, soit la situation évoquée renvoyait à de l’hypocondrie, affabulation... C’était à la Chargée d’Ecoute et d’Information (CEI)d’apprécier si la situation évoquée par l’appelant relevait de la première ou de la seconde hypothèse et méritait de faire l’objet ou non d’un recueil de données"
+          },
+          {
+            "clusion": "I",
+            "lang": "en",
+            "value": "Status: patients, their spouses, their children or their parents. - Pathology: prevalence rate inferior or equal to one out of 2000 people, according to the data presented in Orphanet on the prevalence of rare diseases - In the absence of a diagnosis: in this situation, or the patient is likely to be affected by a rare disease, or the situation referred to hypochondria, mythomania... The Telephone Contact and Information person was in charge of assessing whether the situation referred to by the caller corresponded to the first or the second hypothesis and wether it was worth collecting data."
+          },
+          {
+            "clusion": "E",
+            "lang": "fr",
+            "value": ""
+          },
+          {
+            "clusion": "E",
+            "lang": "en",
+            "value": ""
+          }
+        ],
+        "collDate": [
+          {
+            "event": "start",
+            "value": "2011-01-01"
+          },
+          {
+            "event": "end",
+            "value": "2012-01-01"
+          }
+        ]
+      }
+    },
+    "dataAccs": {
+      "setAvail": {
+        "avlStatus": [
+          {
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Accès réservé"
+          },
+          {
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Restricted access"
+          }
+        ],
+        "conditions": [
+          {
+            "lang": "fr",
+            "value": "Contacter le responsable scientifique"
+          },
+          {
+            "lang": "en",
+            "value": "Contact the principal investigator"
+          }
+        ]
+      },
+      "useStmt": {}
+    },
+    "othStdMat": {
+      "relMat": [
+        {
+          "lang": "fr",
+          "value": "Accès restreint sur projet spécifique"
+        },
+        {
+          "lang": "en",
+          "value": "Access on specific project only"
+        }
+      ]
+    },
+    "studyDevelopment": {
+      "developmentActivity": [
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/morbidité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Consommation de soins/services de santé"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Qualité de vie/santé perçue"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/morbidity"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health care consumption and services"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Quality of life/health perception"
+        }
+      ]
+    }
+  },
+  "docDscr": {
+    "citation": {
+      "rspStmt": {
+        "AuthEnty": "Thomas HEUYER"
+      },
+      "prodStmt": {
+        "producer": [
+          {
+            "affiliation": "MALADIES RARES INFO SERVICES",
+            "value": "Thomas;HEUYER"
+          }
+        ],
+        "prodPlac": "Portail Épidémiologie France"
+      }
+    }
+  },
+  "additional": {
+    "prodPlac": "Portail Épidémiologie France",
+    "relatedDocuments": {
+      "documentTitle": [
+        {
+          "lang": "fr"
+        },
+        {
+          "lang": "en"
+        }
+      ],
+      "documentLink": [
+        {
+          "lang": "fr",
+          "value": "http://www.maladiesraresinfo.org/services-proposes/89.html"
+        },
+        {
+          "lang": "en",
+          "value": "http://www.maladiesraresinfo.org/services-proposes/89.html"
+        }
+      ]
+    },
+    "creationDate": "18-03-2014",
+    "lastUpdatedManual": "09-05-2014",
+    "theme": {
+      "RareDiseases": true
+    },
+    "governance": {},
+    "collaborations": {},
+    "mockSample": {},
+    "dataQuality": {},
+    "variableDictionnary": {},
+    "dataTypes": {
+      "isDataInBiobank": false
+    },
+    "collectionProcess": {},
+    "geographicalCoverage": {
+      "geoDetail": [
+        {
+          "lang": "fr",
+          "value": "France"
+        },
+        {
+          "lang": "en",
+          "value": "France"
+        }
+      ]
+    },
+    "activeFollowUp": {
+      "isActiveFollowUp": false
+    },
+    "dataCollectionIntegration": {
+      "isDataIntegration": false
+    },
+    "isHealthTheme": false
+  },
+  "schematype": "survey"
+}

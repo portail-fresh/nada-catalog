@@ -1,0 +1,893 @@
+{
+  "stdyDscr": {
+    "citation": {
+      "titlStmt": {
+        "IDNo": [
+          {
+            "agency": "PEF",
+            "value": "60136"
+          },
+          {
+            "agency": "FReSH",
+            "value": "FRESH-PEF60136"
+          }
+        ],
+        "titl": [
+          {
+            "lang": "fr",
+            "value": "Cohorte d'adultes résidant en Ile-de-France : \"residential environment and coronary heart disease\""
+          },
+          {
+            "lang": "en",
+            "value": "Residential environment and coronary heart disease"
+          }
+        ],
+        "altTitl": {
+          "lang": "fr",
+          "value": "RECORD"
+        }
+      },
+      "rspStmt": {
+        "AuthEnty": [
+          {
+            "name": "Basile;CHAIX",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE (INSERM)"
+              },
+              {
+                "lang": "en",
+                "value": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE (INSERM)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "090173392",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/02vjkv261",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "180036048",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ],
+            "isContact": true,
+            "email": "chaix@u707.jussieu.fr",
+            "PILabo": "INSERM / UMR-S 707 - Université Pierre et Marie Curie Paris 6"
+          }
+        ],
+        "othId": []
+      },
+      "distStmt": {
+        "contact": [
+          {
+            "name": "Basile;CHAIX",
+            "email": "chaix@u707.jussieu.fr",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE (INSERM)"
+              },
+              {
+                "lang": "en",
+                "value": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE (INSERM)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/02vjkv261",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "180036048",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          }
+        ]
+      },
+      "prodStmt": {
+        "fundAg": [
+          {
+            "name": [
+              {
+                "lang": "fr"
+              },
+              {
+                "lang": "en"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ]
+          }
+        ],
+        "producer": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE (INSERM)"
+              },
+              {
+                "lang": "en",
+                "value": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE (INSERM)"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "ROR",
+                "uri": "https://ror.org/02vjkv261"
+              },
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "180036048"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "studyAuthorization": {
+      "authorizingAgency": {
+        "lang": "fr",
+        "value": "CNIL"
+      }
+    },
+    "method": {
+      "notes": [
+        {
+          "subject": "research type",
+          "lang": "fr",
+          "value": "Etude observationnelle"
+        },
+        {
+          "subject": "research type",
+          "lang": "en",
+          "value": "Observational Study"
+        },
+        {
+          "lang": "fr",
+          "subject": "observational study method",
+          "value": "Cohorte"
+        },
+        {
+          "lang": "en",
+          "subject": "observational study method",
+          "value": "Cohort study"
+        }
+      ],
+      "stdyClas": [
+        {
+          "lang": "fr",
+          "value": "Inconnu"
+        },
+        {
+          "lang": "en",
+          "value": "Unknown"
+        }
+      ],
+      "dataColl": {
+        "targetSampleSize": [
+          {
+            "lang": "fr",
+            "value": "[1000-10000[ individus"
+          },
+          {
+            "lang": "en",
+            "value": "[1000-10000[ individuals"
+          }
+        ],
+        "sampleFrame": {
+          "frameUnit": {
+            "unitType": [
+              {
+                "lang": "fr",
+                "value": "Via des structures (services ou établissements de santé, écoles, entreprises…)"
+              },
+              {
+                "lang": "en",
+                "value": "Through organizations (health services or institutions, schools, businesses, etc.)"
+              }
+            ]
+          }
+        },
+        "sources": [
+          {}
+        ],
+        "collMode": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "SelfAdministeredQuestionnaire",
+              "vocab": "CESSDA"
+            },
+            "value": "Questionnaire auto-administré"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "SelfAdministeredQuestionnaire",
+              "vocab": "CESSDA"
+            },
+            "value": "Self-administered questionnaire"
+          },
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Interview",
+              "vocab": "CESSDA"
+            },
+            "value": "Entretien avec le participant (dont clinique)"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Interview",
+              "vocab": "CESSDA"
+            },
+            "value": "Interview with the participant (including clinical)"
+          }
+        ],
+        "sampProc": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ],
+        "respRate": [
+          {
+            "lang": "fr",
+            "value": "7293"
+          },
+          {
+            "lang": "en",
+            "value": "7293"
+          }
+        ]
+      }
+    },
+    "stdyInfo": {
+      "abstract": [
+        {
+          "contentType": "purpose",
+          "lang": "fr",
+          "value": "Objectif général : l'objectif principal du projet est de décrire les disparités spatiales du risque coronaire, d’examiner si les caractéristiques du contexte (facteurs socio-démographiques, environnement physique, équipements et services et environnement d'interactions sociales) sont associées à la maladie coronaire et à ses facteurs de risque, et d’identifier les mécanismes à l’œuvre en tenant compte des expériences vécues au sein du quartier et des connaissances/croyances et attitudes de santé des personnes. Objectif secondaire : Plus généralement, la cohorte Record permettra d'étudier de façon compréhensive les relations qui existent entre les environnements géographiques de vie et différentes variables de santé (santé mentale, santé dentaire, recours aux soins)."
+        },
+        {
+          "contentType": "purpose",
+          "lang": "en",
+          "value": "The main objective of the project is to describe geographical disparities of the coronary risk, to examinate if environment characteristics (socio-demographic factors, physical environment, equipment, services and social interaction environment) are associated to the coronary disease and its risk factors, and to identify the mechanism at work taking into account experiences in the neighbourhoodk, knowledge/beliefs and people's health behaviours. Secondary objective : generally , Record cohort will allow to study in a comprehensive manner the existing relations between geographic life environment and several health variables (mental health, dental health, health care use)."
+        }
+      ],
+      "subject": {
+        "topcClas": [
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/4455c187-2f2f-4cd1-a4dd-449f59d73b39"
+              },
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/c42fc6ec-b216-4a24-9e9d-f5e781c175a0"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D002309"
+              }
+            ],
+            "value": "Cardiologie et médecine vasculaire"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/4455c187-2f2f-4cd1-a4dd-449f59d73b39"
+              },
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/c42fc6ec-b216-4a24-9e9d-f5e781c175a0"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D002309"
+              }
+            ],
+            "value": "Cardiology and vascular medicine"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants environnementaux : Autres"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants liés au système de santé : Consommation des soins"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants environnementaux"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants liés au système de santé"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Environmental determinants: Other"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Healthcare system determinants: Use of care"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Environmental determinants"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Healthcare system determinants"
+          }
+        ],
+        "keyword": [
+          {
+            "lang": "fr",
+            "value": "SNIIRAM"
+          },
+          {
+            "lang": "fr",
+            "value": "PMSI"
+          },
+          {
+            "lang": "fr",
+            "value": "RNIPP"
+          },
+          {
+            "lang": "fr",
+            "value": "CEPIDC"
+          },
+          {
+            "lang": "fr",
+            "value": "santé dentaire"
+          },
+          {
+            "lang": "fr",
+            "value": "spirométrie"
+          },
+          {
+            "lang": "fr",
+            "value": "recours aux soins"
+          },
+          {
+            "lang": "fr",
+            "value": "morbidité"
+          },
+          {
+            "lang": "fr",
+            "value": "mortalité"
+          },
+          {
+            "lang": "fr",
+            "value": "santé mentale"
+          },
+          {
+            "lang": "fr",
+            "value": "santé"
+          },
+          {
+            "lang": "fr",
+            "value": "environnement"
+          },
+          {
+            "lang": "fr",
+            "value": "citadin"
+          },
+          {
+            "lang": "fr",
+            "value": "système de santé"
+          },
+          {
+            "lang": "en",
+            "value": "Health care use"
+          },
+          {
+            "lang": "en",
+            "value": "dental health"
+          },
+          {
+            "lang": "en",
+            "value": "spirometry"
+          },
+          {
+            "lang": "en",
+            "value": "urban environment"
+          },
+          {
+            "lang": "en",
+            "value": "healthcare system"
+          },
+          {
+            "lang": "en",
+            "value": "SNIIRAM"
+          },
+          {
+            "lang": "en",
+            "value": "morbidity"
+          },
+          {
+            "lang": "en",
+            "value": "PMSI"
+          },
+          {
+            "lang": "en",
+            "value": "mortality"
+          },
+          {
+            "lang": "en",
+            "value": "RNIPP"
+          },
+          {
+            "lang": "en",
+            "value": "CEPIDC"
+          },
+          {
+            "lang": "en",
+            "value": "mental health"
+          },
+          {
+            "lang": "en",
+            "value": "health"
+          }
+        ]
+      },
+      "qualityStatement": {
+        "standardsCompliance": {},
+        "otherQualityStatement": [
+          {
+            "lang": "fr",
+            "value": "Présence d'une requête de cohérence au moment de la saisie des données informatiques et après la saisie des données informatiques.Gestion des données manquantes par retour vers le patient.Relance des sujets pour réaliser les visites de suivi.Les patients sont informés de l'utilisation de leur données par écrit."
+          },
+          {
+            "lang": "en",
+            "value": "Coherence request during and after computer data entry. Missing data asked back to the patient. Subjects remainders for follow-up visits. Written patients information concerning the use of their data."
+          }
+        ]
+      },
+      "sumDscr": {
+        "dataKind": [
+          {
+            "lang": "fr",
+            "value": "Données cliniques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données rapportées par le participant de l&#x27;étude"
+          },
+          {
+            "lang": "en",
+            "value": "Clinical data"
+          },
+          {
+            "lang": "en",
+            "value": "Participant-reported health data"
+          }
+        ],
+        "anlyUnit": [
+          {
+            "lang": "fr",
+            "value": "Individus"
+          },
+          {
+            "lang": "en",
+            "value": "Individuals"
+          }
+        ],
+        "nation": [
+          {
+            "lang": "fr",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          },
+          {
+            "lang": "en",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          }
+        ],
+        "geogCover": [
+          {
+            "lang": "fr",
+            "value": "Ile-de-France"
+          },
+          {
+            "lang": "en",
+            "value": "Ile-de-France"
+          }
+        ],
+        "universe": [
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Masculin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Féminin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Male"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Female"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adulte (25 à 44 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Adulte (45 à 64 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Personne âgée (65 à 79 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adult (25 to 44 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Middle Aged (45 to 64 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Aged (65 to 79 years)"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Population générale"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "en",
+            "value": "General population"
+          },
+          {
+            "clusion": "I",
+            "lang": "fr",
+            "value": " venir pour un examen de santé dans l’un des 4 sites du centre d’investigations préventives et cliniques ; - avoir entre 30 et 79 ans ; - résider dans l’une des 123 communes d’Île-de-France sélectionnées à priori."
+          },
+          {
+            "clusion": "I",
+            "lang": "en",
+            "value": "Coming for an health examination in one of the 4 sites of the preventive and clinical investigation center ; being between 30 and 79 years old ; residing in one of the 123 selected Île-de-France towns."
+          },
+          {
+            "clusion": "E",
+            "lang": "fr",
+            "value": ""
+          },
+          {
+            "clusion": "E",
+            "lang": "en",
+            "value": ""
+          }
+        ],
+        "collDate": [
+          {
+            "event": "start",
+            "value": "2007-01-01"
+          },
+          {
+            "event": "end",
+            "value": "2013-01-01"
+          }
+        ]
+      }
+    },
+    "dataAccs": {
+      "setAvail": {
+        "avlStatus": [
+          {
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Accès réservé"
+          },
+          {
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Restricted access"
+          }
+        ],
+        "conditions": []
+      },
+      "useStmt": {
+        "restrctn": [
+          {
+            "lang": "fr",
+            "value": "Utilisation des données par des équipes académiques à déterminer. Utilisation impossible des données par des industriels."
+          },
+          {
+            "lang": "en",
+            "value": "Data utilization by academic teams are currently being defined. Data utilization not allowed for industry sectors."
+          }
+        ]
+      }
+    },
+    "othStdMat": {
+      "relMat": [
+        {
+          "lang": "fr",
+          "value": "Accès restreint sur projet spécifique"
+        },
+        {
+          "lang": "en",
+          "value": "Access on specific project only"
+        }
+      ]
+    },
+    "studyDevelopment": {
+      "developmentActivity": [
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/morbidité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/mortalité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Consommation de soins/services de santé"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/morbidity"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/mortality"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health care consumption and services"
+        }
+      ]
+    }
+  },
+  "docDscr": {
+    "citation": {
+      "rspStmt": {
+        "AuthEnty": "Basile CHAIX"
+      },
+      "prodStmt": {
+        "producer": [
+          {
+            "affiliation": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE (INSERM)",
+            "value": "Basile;CHAIX"
+          }
+        ],
+        "prodPlac": "Portail Épidémiologie France"
+      }
+    }
+  },
+  "additional": {
+    "prodPlac": "Portail Épidémiologie France",
+    "relatedDocuments": {
+      "documentTitle": [
+        {
+          "lang": "fr",
+          "value": "List of publications in HAL"
+        },
+        {
+          "lang": "en",
+          "value": "List of publications in HAL"
+        }
+      ],
+      "documentLink": [
+        {
+          "lang": "fr",
+          "value": "http://www.hal.inserm.fr/RECORD"
+        },
+        {
+          "lang": "en",
+          "value": "http://www.hal.inserm.fr/RECORD"
+        }
+      ]
+    },
+    "creationDate": "08-03-2013",
+    "lastUpdatedManual": "28-02-2014",
+    "theme": {},
+    "governance": {},
+    "collaborations": {},
+    "mockSample": {},
+    "dataQuality": {},
+    "variableDictionnary": {},
+    "dataTypes": {
+      "clinicalDataDetails": [
+        {
+          "lang": "fr",
+          "value": "Examen clinique à l’inclusion et au cours du suivi Informations recueillies lors de l'examen clinique :- bilan sanguin ;- analyse d'urines ;- électrocardiogramme ;- tension artérielle ;- mesures anthropométriques ;- spirométrie ;- examen dentaire ;- visiotest."
+        },
+        {
+          "lang": "en",
+          "value": "Clinical examination at inclusion and during the follow-up. Information collected during the clinical examination : haemathological evaluation, urine tests, electrocardiogram, blood pressure, anthropometric measures, spirometry, dental exam, visiotest"
+        }
+      ],
+      "isDataInBiobank": false
+    },
+    "collectionProcess": {
+      "collectionModeDetails": [
+        {
+          "lang": "fr",
+          "value": "Auto-questionnaire : Saisie manuelle à partir d’un questionnaire papier avec double saisie .Examens cliniques : Saisie directe.Examens biologiques : Saisie directe."
+        },
+        {
+          "lang": "en",
+          "value": "Self-questionnaire : manually entered paper questionnaire with double data entry. Clinical examinations : direct entry. Biological examinations direct entry"
+        }
+      ]
+    },
+    "geographicalCoverage": {
+      "geoDetail": [
+        {
+          "lang": "fr",
+          "value": "123 Communes d'Île de France via 4 centres"
+        },
+        {
+          "lang": "en",
+          "value": "123 Île-de-France towns via 4 centers"
+        }
+      ]
+    },
+    "activeFollowUp": {
+      "isActiveFollowUp": true
+    },
+    "dataCollectionIntegration": {
+      "isDataIntegration": false
+    },
+    "isHealthTheme": true
+  },
+  "schematype": "survey"
+}

@@ -1,0 +1,611 @@
+{
+  "stdyDscr": {
+    "citation": {
+      "titlStmt": {
+        "IDNo": [
+          {
+            "agency": "PEF",
+            "value": "73345"
+          },
+          {
+            "agency": "FReSH",
+            "value": "FRESH-PEF73345"
+          }
+        ],
+        "titl": [
+          {
+            "lang": "fr",
+            "value": "Etude de suivi de coHORte de 5 ans des patIents ayant initié le pembroliZumab en traitement de leur mélanOme avancé au cours de son autorisatioN temporaire d’utilisation (ATU)"
+          },
+          {
+            "lang": "en",
+            "value": "5-year follow-up study of patients who initiated pembroliZumab for the treatment of advanced melanoma during its temporary authorization for use (ATU)."
+          }
+        ],
+        "altTitl": [
+          {
+            "lang": "fr",
+            "value": "HORIZON"
+          },
+          {
+            "lang": "en",
+            "value": "HORIZON"
+          }
+        ]
+      },
+      "rspStmt": {
+        "AuthEnty": [
+          {
+            "name": "Rodolphe;MONTIN",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "MSD FRANCE"
+              },
+              {
+                "lang": "en",
+                "value": "MSD FRANCE"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/00kt5kp12",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "417890589",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ],
+            "isContact": false,
+            "email": "",
+            "PILabo": ""
+          }
+        ],
+        "othId": []
+      },
+      "distStmt": {},
+      "prodStmt": {
+        "fundAg": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "MSD FRANCE"
+              },
+              {
+                "lang": "en",
+                "value": "MSD FRANCE"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "ROR",
+                "uri": "https://ror.org/00kt5kp12"
+              },
+              {
+                "title": "SIREN",
+                "uri": "417890589"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Industrie"
+              },
+              {
+                "lang": "en",
+                "value": "Industry"
+              }
+            ]
+          }
+        ],
+        "producer": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "MSD FRANCE"
+              },
+              {
+                "lang": "en",
+                "value": "MSD FRANCE"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Industrie"
+              },
+              {
+                "lang": "en",
+                "value": "Industry"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "ROR",
+                "uri": "https://ror.org/00kt5kp12"
+              },
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "417890589"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "studyAuthorization": {
+      "authorizingAgency": {
+        "lang": "fr",
+        "value": "CNIL"
+      }
+    },
+    "method": {
+      "notes": [
+        {
+          "subject": "research type",
+          "lang": "fr",
+          "value": "Etude observationnelle"
+        },
+        {
+          "subject": "research type",
+          "lang": "en",
+          "value": "Observational Study"
+        }
+      ],
+      "stdyClas": [
+        {
+          "lang": "fr",
+          "value": "Inconnu"
+        },
+        {
+          "lang": "en",
+          "value": "Unknown"
+        }
+      ],
+      "dataColl": {
+        "targetSampleSize": {
+          "lang": "fr",
+          "value": "[500-1000[ individus"
+        },
+        "sampleFrame": {
+          "frameUnit": {}
+        },
+        "sources": [
+          {}
+        ],
+        "collMode": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Transcription",
+              "vocab": "CESSDA"
+            },
+            "value": "Transcription et saisie d’informations dans un enregistrement structuré"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Transcription",
+              "vocab": "CESSDA"
+            },
+            "value": "Converting or copying information into a structured record"
+          },
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Interview",
+              "vocab": "CESSDA"
+            },
+            "value": "Entretien avec le participant (dont clinique)"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Interview",
+              "vocab": "CESSDA"
+            },
+            "value": "Interview with the participant (including clinical)"
+          }
+        ],
+        "sampProc": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ],
+        "respRate": [
+          {
+            "lang": "fr",
+            "value": "600"
+          },
+          {
+            "lang": "en",
+            "value": "600"
+          }
+        ]
+      }
+    },
+    "stdyInfo": {
+      "abstract": [
+        {
+          "contentType": "purpose",
+          "lang": "fr",
+          "value": "L’objectif primaire est de décrire la survie globale à 5 ans après l’initiation du pembrolizumab chez des patients atteints de mélanome avancé (non résécable ou métastatique)."
+        },
+        {
+          "contentType": "purpose",
+          "lang": "en",
+          "value": "The primary objective is to describe 5-year overall survival after initiation of pembrolizumab in patients with advanced melanoma (unresectable or metastatic)."
+        }
+      ],
+      "subject": {
+        "topcClas": [
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/5784b7f1-c7ce-49d9-9f38-aebcda0ff41d"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D008495"
+              }
+            ],
+            "value": "Oncologie"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/5784b7f1-c7ce-49d9-9f38-aebcda0ff41d"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D008495"
+              }
+            ],
+            "value": "Oncology"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "fr",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/1630407678",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Tumeurs"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "en",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/1630407678",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Neoplasms"
+          }
+        ]
+      },
+      "qualityStatement": {
+        "standardsCompliance": {}
+      },
+      "sumDscr": {
+        "dataKind": [
+          {
+            "lang": "fr",
+            "value": "Données cliniques"
+          },
+          {
+            "lang": "en",
+            "value": "Clinical data"
+          }
+        ],
+        "anlyUnit": [
+          {
+            "lang": "fr",
+            "value": "Individus"
+          },
+          {
+            "lang": "en",
+            "value": "Individuals"
+          }
+        ],
+        "nation": [
+          {
+            "lang": "fr",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          },
+          {
+            "lang": "en",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          }
+        ],
+        "universe": [
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Masculin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Féminin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Male"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Female"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Adulte (19 à 24 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adulte (25 à 44 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Adulte (45 à 64 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Personne âgée (65 à 79 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000369"
+            },
+            "value": "Grand âge (80 ans et plus)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Young Adult (19 to 24 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adult (25 to 44 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Middle Aged (45 to 64 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Aged (65 to 79 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000369"
+            },
+            "value": "Aged, 80 and over (80 years and more)"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Patients"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "en",
+            "value": "Patients population"
+          },
+          {
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Inclusion :  Dans chaque centre, tous les patients respectant les critères suivants seront inclus : 1.Patient ayant initié un traitement par pembrolizumab dans le cadre de l’ATU ; 2.Patient n’ayant pas exprimé un refus de participer à l’étude de suivi à long-terme.  Les patients décédés ou perdus de vue au moment de l’initiation de l’étude seront également inclus dans l’analyse, s’ils n’avaient pas exprimé de refus quant à la collecte ou le traitement de données les concernant.  Ainsi, à l’initiation de l’étude, les patients inclus pourront se trouver dans l’une des situations suivantes : 1.Patient décédé avant l’initiation de l’étude ; 2.Patient perdu de vue avant l’initiation de l’étude ; 3.Patient ayant définitivement arrêté le pembrolizumab avant l’initiation de l’étude ; 4.Patient toujours traité par pembrolizumab au moment de l’initiation de l’étude.   "
+          },
+          {
+            "clusion": "I",
+            "lang": "en",
+            "value": ""
+          },
+          {
+            "clusion": "E",
+            "lang": "fr",
+            "value": "1Patient refusant de participer à l’étude ou ayant exprimé son refus quant à la collecte ou le traitement des données le concernant ; 2Patient âgé de moins de 18 ans "
+          },
+          {
+            "clusion": "E",
+            "lang": "en",
+            "value": ""
+          }
+        ]
+      }
+    },
+    "dataAccs": {
+      "setAvail": {
+        "avlStatus": [
+          {
+            "lang": "fr",
+            "value": "A définir"
+          },
+          {
+            "lang": "en",
+            "value": "To be defined"
+          }
+        ],
+        "conditions": []
+      },
+      "useStmt": {}
+    },
+    "othStdMat": {
+      "relMat": {
+        "lang": "fr",
+        "value": "Pas d’accès"
+      }
+    },
+    "studyDevelopment": {}
+  },
+  "docDscr": {
+    "citation": {
+      "rspStmt": {
+        "AuthEnty": "Laurie LEVY-BACHELOT"
+      },
+      "prodStmt": {
+        "producer": [
+          {
+            "affiliation": "MSD FRANCE",
+            "value": "Laurie;LEVY-BACHELOT"
+          }
+        ],
+        "prodPlac": "Portail Épidémiologie France"
+      }
+    }
+  },
+  "additional": {
+    "prodPlac": "Portail Épidémiologie France",
+    "creationDate": "----",
+    "lastUpdatedManual": "29-10-2020",
+    "theme": {},
+    "governance": {},
+    "collaborations": {},
+    "mockSample": {},
+    "dataQuality": {},
+    "variableDictionnary": {},
+    "dataTypes": {
+      "isDataInBiobank": false
+    },
+    "collectionProcess": {},
+    "geographicalCoverage": {
+      "geoDetail": [
+        {
+          "lang": "fr",
+          "value": "Pas de détails"
+        },
+        {
+          "lang": "en",
+          "value": "No details"
+        }
+      ]
+    },
+    "activeFollowUp": {
+      "isActiveFollowUp": true
+    },
+    "dataCollectionIntegration": {
+      "isDataIntegration": false
+    },
+    "isHealthTheme": true
+  },
+  "schematype": "survey"
+}

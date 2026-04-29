@@ -1,0 +1,782 @@
+{
+  "stdyDscr": {
+    "citation": {
+      "titlStmt": {
+        "IDNo": [
+          {
+            "agency": "PEF",
+            "value": "73210"
+          },
+          {
+            "agency": "FReSH",
+            "value": "FRESH-PEF73210"
+          }
+        ],
+        "titl": [
+          {
+            "lang": "fr",
+            "value": "Etude transversale répétée sur la santé des étudiants"
+          },
+          {
+            "lang": "en",
+            "value": "Repeated cross-sectional study on student health"
+          }
+        ]
+      },
+      "rspStmt": {
+        "AuthEnty": [
+          {
+            "name": "Benjamin;CHKROUN",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "EMEVIA (USEM)"
+              },
+              {
+                "lang": "en",
+                "value": "EMEVIA (USEM)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "319579736",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ],
+            "isContact": true,
+            "email": "bchkroun@enghien95.fr",
+            "PILabo": "EMEVIA"
+          }
+        ],
+        "othId": [
+          {
+            "type": "collaboration",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "EmeVia représente les mutuelles étudiantes de proximité : MEP, MGEL, SMEBA, SMENO, SMECO, SMEREB, SMERRA, SMERAG, VITTAVI."
+              },
+              {
+                "lang": "en",
+                "value": "EmeVia represents local student health insurance companies: MEP, MGEL, SMEBA, SMENO, SMECO, SMEREB, SMERRA, SMERAG, VITTAVI."
+              }
+            ]
+          }
+        ]
+      },
+      "distStmt": {
+        "contact": [
+          {
+            "name": "Benjamin;CHKROUN",
+            "email": "bchkroun@enghien95.fr",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "EMEVIA (USEM)"
+              },
+              {
+                "lang": "en",
+                "value": "EMEVIA (USEM)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "319579736",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          }
+        ]
+      },
+      "prodStmt": {
+        "fundAg": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "EMEVIA (USEM)"
+              },
+              {
+                "lang": "en",
+                "value": "EMEVIA (USEM)"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "SIREN",
+                "uri": "319579736"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Privé à but non lucratif"
+              },
+              {
+                "lang": "en",
+                "value": "Private non-profit"
+              }
+            ]
+          }
+        ],
+        "producer": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "INSTITUT CSA"
+              },
+              {
+                "lang": "en",
+                "value": "INSTITUT CSA"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Industrie"
+              },
+              {
+                "lang": "en",
+                "value": "Industry"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "308293430"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "EMEVIA (USEM)"
+              },
+              {
+                "lang": "en",
+                "value": "EMEVIA (USEM)"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Privé à but non lucratif"
+              },
+              {
+                "lang": "en",
+                "value": "Private non-profit"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "319579736"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "studyAuthorization": {
+      "authorizingAgency": {
+        "lang": "fr",
+        "value": "CNIL"
+      }
+    },
+    "method": {
+      "notes": [
+        {
+          "subject": "research type",
+          "lang": "fr",
+          "value": "Etude observationnelle"
+        },
+        {
+          "subject": "research type",
+          "lang": "en",
+          "value": "Observational Study"
+        }
+      ],
+      "stdyClas": [
+        {
+          "lang": "fr",
+          "value": "Inconnu"
+        },
+        {
+          "lang": "en",
+          "value": "Unknown"
+        }
+      ],
+      "dataColl": {
+        "targetSampleSize": [
+          {
+            "lang": "fr",
+            "value": "[1000-10000[ individus"
+          },
+          {
+            "lang": "en",
+            "value": "[1000-10000[ individuals"
+          }
+        ],
+        "timeMeth": [
+          {
+            "lang": "fr",
+            "value": "Etude transversale répétée"
+          },
+          {
+            "lang": "en",
+            "value": "Repeated cross-sectional study"
+          }
+        ],
+        "sampleFrame": {
+          "frameUnit": {
+            "unitType": [
+              {
+                "lang": "fr",
+                "value": "Base de population à finalité statistique"
+              },
+              {
+                "lang": "en",
+                "value": "Population database for statistical purposes"
+              }
+            ]
+          }
+        },
+        "sources": [
+          {}
+        ],
+        "collMode": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Transcription",
+              "vocab": "CESSDA"
+            },
+            "value": "Transcription et saisie d’informations dans un enregistrement structuré"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Transcription",
+              "vocab": "CESSDA"
+            },
+            "value": "Converting or copying information into a structured record"
+          },
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Interview",
+              "vocab": "CESSDA"
+            },
+            "value": "Entretien avec le participant (dont clinique)"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Interview",
+              "vocab": "CESSDA"
+            },
+            "value": "Interview with the participant (including clinical)"
+          }
+        ],
+        "sampProc": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ],
+        "respRate": [
+          {
+            "lang": "fr",
+            "value": "8 078"
+          },
+          {
+            "lang": "en",
+            "value": "8 078"
+          }
+        ]
+      }
+    },
+    "stdyInfo": {
+      "abstract": [
+        {
+          "contentType": "purpose",
+          "lang": "fr",
+          "value": "Suivre l’évolution de la perception de sa santé par l’étudiant, Mieux connaître la population étudiante (profil, cursus suivi, conditions de vie). Evaluer l’impact des politiques et programmes de prévention Connaître les besoins des étudiants en matière de santé Sensibiliser le grand public et les acteurs de la santé des jeunes aux spécificitésde la santé"
+        },
+        {
+          "contentType": "purpose",
+          "lang": "en",
+          "value": "Monitor the changes in the student's perception of his/her health, Better understand the student population (profile, curriculum, living conditions). Assess the impact of prevention policies and programmes Get to know student health needs Raise awareness among the general public and the key players in the health of young people about the specificities of health"
+        }
+      ],
+      "subject": {
+        "topcClas": [
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/4b9f8efb-68dd-45a1-b04c-d23d457d6898"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D058006"
+              }
+            ],
+            "value": "Médecine générale"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/4b9f8efb-68dd-45a1-b04c-d23d457d6898"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D058006"
+              }
+            ],
+            "value": "General medicine"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants comportementaux : Addictions"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Systèmes de soins et accès aux soins"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants comportementaux"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants comportementaux : Alimentation"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants socio-démographiques et économiques"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Behavioral determinants: Addiction"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Behavioral determinants"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Behavioral determinants: Eating habits"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Socio-demographic and economic determinants"
+          }
+        ],
+        "keyword": [
+          {
+            "lang": "fr",
+            "value": "Etudiant"
+          },
+          {
+            "lang": "fr",
+            "value": "mutuelle"
+          },
+          {
+            "lang": "fr",
+            "value": "conditions de vie"
+          },
+          {
+            "lang": "fr",
+            "value": "profil"
+          },
+          {
+            "lang": "fr",
+            "value": "consommation"
+          },
+          {
+            "lang": "fr",
+            "value": "alcool"
+          },
+          {
+            "lang": "fr",
+            "value": "tabac"
+          },
+          {
+            "lang": "fr",
+            "value": "cannabis"
+          },
+          {
+            "lang": "en",
+            "value": "Student"
+          },
+          {
+            "lang": "en",
+            "value": "health insurance"
+          },
+          {
+            "lang": "en",
+            "value": "living conditions"
+          },
+          {
+            "lang": "en",
+            "value": "profile"
+          },
+          {
+            "lang": "en",
+            "value": "consumption"
+          },
+          {
+            "lang": "en",
+            "value": "alcohol"
+          },
+          {
+            "lang": "en",
+            "value": "tobacco"
+          },
+          {
+            "lang": "en",
+            "value": "cannabis"
+          }
+        ]
+      },
+      "qualityStatement": {
+        "standardsCompliance": {}
+      },
+      "sumDscr": {
+        "dataKind": [
+          {
+            "lang": "fr",
+            "value": "Données rapportées par le participant de l&#x27;étude"
+          },
+          {
+            "lang": "en",
+            "value": "Participant-reported health data"
+          }
+        ],
+        "anlyUnit": [
+          {
+            "lang": "fr",
+            "value": "Individus"
+          },
+          {
+            "lang": "en",
+            "value": "Individuals"
+          }
+        ],
+        "nation": [
+          {
+            "lang": "fr",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          },
+          {
+            "lang": "en",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          }
+        ],
+        "universe": [
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Masculin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Féminin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Male"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Female"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000293"
+            },
+            "value": "Adolescence (13 à 18 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Adulte (19 à 24 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Young Adult (19 to 24 years)"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Population générale"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "en",
+            "value": "General population"
+          },
+          {
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Étudiant d'une  mutuelle étudiante participante"
+          },
+          {
+            "clusion": "I",
+            "lang": "en",
+            "value": "Student insured by a participating health insurance company"
+          },
+          {
+            "clusion": "E",
+            "lang": "fr",
+            "value": ""
+          },
+          {
+            "clusion": "E",
+            "lang": "en",
+            "value": ""
+          }
+        ],
+        "collDate": [
+          {
+            "event": "start",
+            "value": "1999-01-01"
+          },
+          {
+            "event": "end",
+            "value": "2015-01-01"
+          }
+        ]
+      }
+    },
+    "dataAccs": {
+      "setAvail": {
+        "avlStatus": [
+          {
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Accès réservé"
+          },
+          {
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Restricted access"
+          }
+        ],
+        "conditions": [
+          {
+            "lang": "fr",
+            "value": "Contacter le responsable scientifique"
+          },
+          {
+            "lang": "en",
+            "value": "Contact the principal investigator"
+          }
+        ]
+      },
+      "useStmt": {}
+    },
+    "othStdMat": {
+      "relMat": [
+        {
+          "lang": "fr",
+          "value": "Accès restreint sur projet spécifique"
+        },
+        {
+          "lang": "en",
+          "value": "Access on specific project only"
+        }
+      ]
+    },
+    "studyDevelopment": {
+      "developmentActivity": [
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/morbidité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Qualité de vie/santé perçue"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/morbidity"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Quality of life/health perception"
+        }
+      ]
+    }
+  },
+  "docDscr": {
+    "citation": {
+      "rspStmt": {
+        "AuthEnty": "Benjamin CHKROUN"
+      },
+      "prodStmt": {
+        "producer": [
+          {
+            "affiliation": "EMEVIA (USEM)",
+            "value": "Benjamin;CHKROUN"
+          }
+        ],
+        "prodPlac": "Portail Épidémiologie France"
+      }
+    }
+  },
+  "additional": {
+    "prodPlac": "Portail Épidémiologie France",
+    "relatedDocuments": {
+      "documentTitle": [
+        {
+          "lang": "fr"
+        },
+        {
+          "lang": "en"
+        }
+      ],
+      "documentLink": [
+        {
+          "lang": "fr",
+          "value": "http://www.emevia.com/sites/default/files/files/DP%20Enquete%20sant%C3%A9%202015.pdf"
+        },
+        {
+          "lang": "en",
+          "value": "http://www.emevia.com/sites/default/files/files/DP%20Enquete%20sant%C3%A9%202015.pdf"
+        }
+      ]
+    },
+    "creationDate": "31-08-2015",
+    "lastUpdatedManual": "19-10-2017",
+    "theme": {},
+    "governance": {
+      "committee": true
+    },
+    "collaborations": {},
+    "mockSample": {},
+    "dataQuality": {},
+    "variableDictionnary": {},
+    "dataTypes": {
+      "isDataInBiobank": false
+    },
+    "collectionProcess": {},
+    "geographicalCoverage": {
+      "geoDetail": [
+        {
+          "lang": "fr",
+          "value": "France"
+        },
+        {
+          "lang": "en",
+          "value": "France"
+        }
+      ]
+    },
+    "activeFollowUp": {
+      "isActiveFollowUp": false
+    },
+    "dataCollectionIntegration": {
+      "isDataIntegration": false
+    },
+    "isHealthTheme": true
+  },
+  "schematype": "survey"
+}

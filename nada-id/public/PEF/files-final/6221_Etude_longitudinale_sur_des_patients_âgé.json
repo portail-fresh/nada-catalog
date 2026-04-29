@@ -1,0 +1,883 @@
+{
+  "stdyDscr": {
+    "citation": {
+      "titlStmt": {
+        "IDNo": [
+          {
+            "agency": "PEF",
+            "value": "6221"
+          },
+          {
+            "agency": "FReSH",
+            "value": "FRESH-PEF6221"
+          }
+        ],
+        "titl": [
+          {
+            "lang": "fr",
+            "value": "Etude longitudinale sur des patients âgés atteints de cancers bronchiques à petites cellules : évaluation gériatrique standardisée et morbidité post-opératoire après exérèse pulmonaire"
+          },
+          {
+            "lang": "en",
+            "value": "Longitudinal Study of Elderly Patients with Small Cell Lung Cancer: Standardised Geriatric Assessment and Postoperative Morbidity Following Lung Resection,"
+          }
+        ],
+        "altTitl": [
+          {
+            "lang": "fr",
+            "value": "GFPC 08-05"
+          },
+          {
+            "lang": "en",
+            "value": "GFPC 08-05"
+          }
+        ]
+      },
+      "rspStmt": {
+        "AuthEnty": [
+          {
+            "name": "Christos;CHOUAID",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "GROUPE FRANCAIS DE PNEUMO-CANCEROLOGIE"
+              },
+              {
+                "lang": "en",
+                "value": "GROUPE FRANCAIS DE PNEUMO-CANCEROLOGIE"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "0000-0002-4290-5524",
+                "role": "pi id",
+                "title": "ORCID"
+              },
+              {
+                "uri": "059755172",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "438343972",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ],
+            "isContact": true,
+            "email": "christos.chouaid@chicreteil.fr",
+            "PILabo": "GROUPE FRANCAIS DE PNEUMO CANCEROLOGIE - GFPC - ASSOCIATION LOI 1901"
+          },
+          {
+            "name": "Christine;RAYNAUD",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "GROUPE FRANCAIS DE PNEUMO-CANCEROLOGIE"
+              },
+              {
+                "lang": "en",
+                "value": "GROUPE FRANCAIS DE PNEUMO-CANCEROLOGIE"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "0000-0001-7913-6653",
+                "role": "pi id",
+                "title": "ORCID"
+              },
+              {
+                "uri": "093401388",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "438343972",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ],
+            "isContact": true,
+            "email": "christine.raynaud@ch-argenteuil.fr",
+            "PILabo": "GROUPE FRANCAIS DE PNEUMO CANCEROLOGIE - GFPC- ASSOCIATION LOI 1901"
+          }
+        ],
+        "othId": []
+      },
+      "distStmt": {
+        "contact": [
+          {
+            "name": "Christos;CHOUAID",
+            "email": "christos.chouaid@chicreteil.fr",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "GROUPE FRANCAIS DE PNEUMO-CANCEROLOGIE"
+              },
+              {
+                "lang": "en",
+                "value": "GROUPE FRANCAIS DE PNEUMO-CANCEROLOGIE"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "438343972",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          },
+          {
+            "name": "Christine;RAYNAUD",
+            "email": "christine.raynaud@ch-argenteuil.fr",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "GROUPE FRANCAIS DE PNEUMO-CANCEROLOGIE"
+              },
+              {
+                "lang": "en",
+                "value": "GROUPE FRANCAIS DE PNEUMO-CANCEROLOGIE"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "438343972",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          }
+        ]
+      },
+      "prodStmt": {
+        "fundAg": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "GROUPE FRANCAIS DE PNEUMO-CANCEROLOGIE"
+              },
+              {
+                "lang": "en",
+                "value": "GROUPE FRANCAIS DE PNEUMO-CANCEROLOGIE"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "SIREN",
+                "uri": "438343972"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Privé à but non lucratif"
+              },
+              {
+                "lang": "en",
+                "value": "Private non-profit"
+              }
+            ]
+          }
+        ],
+        "producer": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "GROUPE FRANCAIS DE PNEUMO-CANCEROLOGIE"
+              },
+              {
+                "lang": "en",
+                "value": "GROUPE FRANCAIS DE PNEUMO-CANCEROLOGIE"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Privé à but non lucratif"
+              },
+              {
+                "lang": "en",
+                "value": "Private non-profit"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "438343972"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "studyAuthorization": [
+      {
+        "authorizingAgency": {
+          "lang": "fr",
+          "value": "CNIL"
+        }
+      },
+      {
+        "authorizingAgency": {
+          "lang": "fr",
+          "value": "CPP"
+        }
+      }
+    ],
+    "method": {
+      "notes": [
+        {
+          "subject": "research type",
+          "lang": "fr",
+          "value": "Etude observationnelle"
+        },
+        {
+          "subject": "research type",
+          "lang": "en",
+          "value": "Observational Study"
+        }
+      ],
+      "stdyClas": [
+        {
+          "lang": "fr",
+          "value": "Inconnu"
+        },
+        {
+          "lang": "en",
+          "value": "Unknown"
+        }
+      ],
+      "dataColl": {
+        "targetSampleSize": [
+          {
+            "lang": "fr",
+            "value": "< 500 individus"
+          },
+          {
+            "lang": "en",
+            "value": "< 500 individuals"
+          }
+        ],
+        "sampleFrame": {
+          "frameUnit": {
+            "unitType": [
+              {
+                "lang": "fr",
+                "value": "Via des structures (services ou établissements de santé, écoles, entreprises…)"
+              },
+              {
+                "lang": "en",
+                "value": "Through organizations (health services or institutions, schools, businesses, etc.)"
+              }
+            ]
+          }
+        },
+        "sources": [
+          {}
+        ],
+        "collMode": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Transcription",
+              "vocab": "CESSDA"
+            },
+            "value": "Transcription et saisie d’informations dans un enregistrement structuré"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Transcription",
+              "vocab": "CESSDA"
+            },
+            "value": "Converting or copying information into a structured record"
+          }
+        ],
+        "sampProc": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ],
+        "respRate": [
+          {
+            "lang": "fr",
+            "value": "300"
+          },
+          {
+            "lang": "en",
+            "value": "300"
+          }
+        ]
+      }
+    },
+    "stdyInfo": {
+      "abstract": [
+        {
+          "contentType": "purpose",
+          "lang": "fr",
+          "value": "Tester l'hypothèse selon laquelle l'évaluation gériatrique standardisée constitue un facteur pronostique dans la survenue de complications post opératoires dans les 30 jours suivants une chirurgie d'exérèse pour cancer bronchique"
+        },
+        {
+          "contentType": "purpose",
+          "lang": "en",
+          "value": "To test the hypothesis that standardised geriatric assessment is a prognostic factor for post-operative complications within 30 days following surgical resection for lung cancer."
+        }
+      ],
+      "subject": {
+        "topcClas": [
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/5784b7f1-c7ce-49d9-9f38-aebcda0ff41d"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D008495"
+              }
+            ],
+            "value": "Oncologie"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/d37e4d8c-a978-40c7-ba4f-eee841851073"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D005853"
+              }
+            ],
+            "value": "Gériatrie"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/5784b7f1-c7ce-49d9-9f38-aebcda0ff41d"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D008495"
+              }
+            ],
+            "value": "Oncology"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/d37e4d8c-a978-40c7-ba4f-eee841851073"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D005853"
+              }
+            ],
+            "value": "Geriatrics"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "fr",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/316539081",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Tumeurs malignes des bronches ou du poumon"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "en",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/316539081",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Malignant neoplasms of bronchus or lung"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants socio-démographiques et économiques"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants comportementaux"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants liés au système de santé : Consommation des soins"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants comportementaux : Alimentation"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants liés au système de santé"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Socio-demographic and economic determinants"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Behavioral determinants"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Healthcare system determinants: Use of care"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Behavioral determinants: Eating habits"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Healthcare system determinants"
+          }
+        ],
+        "keyword": [
+          {
+            "lang": "fr",
+            "value": "CBNPC RESECABLE SUJET AGE PLUS DE 70 ANS EVALUATION GERIATRIQUE"
+          },
+          {
+            "lang": "en",
+            "value": "OPERABLE NON-SMALL CELL LUNG CANCER - GERIATRIC ASSESSMENT- SUBJECTS OVER 70 YEARS OLD"
+          }
+        ]
+      },
+      "qualityStatement": {
+        "standardsCompliance": {},
+        "otherQualityStatement": [
+          {
+            "lang": "fr",
+            "value": "Réunion de mises en place, cohérence des données de la base informatique."
+          },
+          {
+            "lang": "en",
+            "value": "Kick-off meeting, consistent data in computerised database."
+          }
+        ]
+      },
+      "sumDscr": {
+        "dataKind": [
+          {
+            "lang": "fr",
+            "value": "Données cliniques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données rapportées par le participant de l&#x27;étude"
+          },
+          {
+            "lang": "fr",
+            "value": "Données paracliniques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données biologiques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données socio-démographiques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données comportementales"
+          },
+          {
+            "lang": "en",
+            "value": "Clinical data"
+          },
+          {
+            "lang": "en",
+            "value": "Participant-reported health data"
+          },
+          {
+            "lang": "en",
+            "value": "Biological data"
+          },
+          {
+            "lang": "en",
+            "value": "Socio-demographic data"
+          },
+          {
+            "lang": "en",
+            "value": "Behavioral data"
+          }
+        ],
+        "anlyUnit": [
+          {
+            "lang": "fr",
+            "value": "Individus"
+          },
+          {
+            "lang": "en",
+            "value": "Individuals"
+          }
+        ],
+        "nation": [
+          {
+            "lang": "fr",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          },
+          {
+            "lang": "en",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          }
+        ],
+        "universe": [
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Masculin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Féminin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Male"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Female"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Personne âgée (65 à 79 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000369"
+            },
+            "value": "Grand âge (80 ans et plus)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Aged (65 to 79 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000369"
+            },
+            "value": "Aged, 80 and over (80 years and more)"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Patients"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "en",
+            "value": "Patients population"
+          },
+          {
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Patients âgés de plus de 70 ans avec suspicion de CBNPC de stade clinique I à IIIB avec indication d'exérèse chirurgicale à visée curative retenue en RCP"
+          },
+          {
+            "clusion": "I",
+            "lang": "en",
+            "value": "Patients over 70 years old with suspected NSCLC at clinical stage I  to IIIB with indication of curative surgical resection considered by multidisciplinary meeting."
+          },
+          {
+            "clusion": "E",
+            "lang": "fr",
+            "value": ""
+          },
+          {
+            "clusion": "E",
+            "lang": "en",
+            "value": ""
+          }
+        ],
+        "collDate": [
+          {
+            "event": "start",
+            "value": "2009-01-01"
+          },
+          {
+            "event": "end",
+            "value": "2014-01-01"
+          }
+        ]
+      }
+    },
+    "dataAccs": {
+      "setAvail": {
+        "avlStatus": [
+          {
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Accès réservé"
+          },
+          {
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Restricted access"
+          }
+        ],
+        "notes": [
+          {
+            "lang": "fr",
+            "value": "L&#x27;investigateur principal et le siège social du GFPC conserveront un CD des données pendant 15 ans. Les données sont recueillies par l&#x27;investigateur à partir du dossier médical du patient qui a donné son consentement sur le cahier d&#x27;observation électronique. Les données sont stockées sur le serveur de la société B&amp;D, l&#x27;analyse sera effectuée via le logiciel SAS."
+          },
+          {
+            "lang": "en",
+            "value": "Data are collected by the researcher from the medical record of the patient who gave their consent through the electronic case report form. Data are stored on the B&amp;D server"
+          }
+        ],
+        "conditions": []
+      },
+      "useStmt": {
+        "restrctn": [
+          {
+            "lang": "fr",
+            "value": "Chaque investigateur n&#x27;a accès qu&#x27;aux données de son centre grâce à un mot de passe modifié tous les 2 mois."
+          },
+          {
+            "lang": "en",
+            "value": "Each researcher can only access data from their centre with a password that is changed every 2 months."
+          }
+        ]
+      }
+    },
+    "othStdMat": {
+      "relMat": [
+        {
+          "lang": "fr",
+          "value": "Accès restreint sur projet spécifique"
+        },
+        {
+          "lang": "en",
+          "value": "Access on specific project only"
+        }
+      ]
+    },
+    "studyDevelopment": {
+      "developmentActivity": [
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/morbidité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/mortalité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Qualité de vie/santé perçue"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/morbidity"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/mortality"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Quality of life/health perception"
+        }
+      ]
+    }
+  },
+  "docDscr": {
+    "citation": {
+      "rspStmt": {
+        "AuthEnty": "Christine RAYNAUD"
+      },
+      "prodStmt": {
+        "producer": [
+          {
+            "affiliation": "GROUPE FRANCAIS DE PNEUMO-CANCEROLOGIE",
+            "value": "Christine;RAYNAUD"
+          }
+        ],
+        "prodPlac": "Portail Épidémiologie France"
+      }
+    }
+  },
+  "additional": {
+    "prodPlac": "Portail Épidémiologie France",
+    "creationDate": "24-05-2013",
+    "lastUpdatedManual": "13-06-2013",
+    "theme": {},
+    "governance": {},
+    "collaborations": {},
+    "mockSample": {},
+    "dataQuality": {},
+    "variableDictionnary": {},
+    "dataTypes": {
+      "clinicalDataDetails": [
+        {
+          "lang": "fr",
+          "value": "Données pré opératoires, donnée péri-opératoires, données post-opératoires et d'hospitalisation à 30 jours post-opératoire"
+        },
+        {
+          "lang": "en",
+          "value": "Pre-operative data, peri-operative data and post-operative and hospitalisation data at 30 days following operation"
+        }
+      ],
+      "biologicalDataDetails": [
+        {
+          "lang": "fr",
+          "value": "Données biologiques péri opératoires"
+        },
+        {
+          "lang": "en",
+          "value": "peri-operative biological data"
+        }
+      ],
+      "isDataInBiobank": false
+    },
+    "collectionProcess": {
+      "collectionModeDetails": [
+        {
+          "lang": "fr",
+          "value": "Les données sont recueillies dans un cahier de recueil électronique saisi par chaque centre sur une base dédiée à cet effet."
+        },
+        {
+          "lang": "en",
+          "value": "Data are collected in an electronic case report form collected by each centre through a dedicated database."
+        }
+      ]
+    },
+    "geographicalCoverage": {
+      "geoDetail": [
+        {
+          "lang": "fr",
+          "value": "62 centres du GFPC - GROUPE FRANCAIS DE PNEUMO CANCEROLOGIE -"
+        },
+        {
+          "lang": "en",
+          "value": "62 French Pneumo-Oncology Group sites throughout France"
+        }
+      ]
+    },
+    "activeFollowUp": {
+      "isActiveFollowUp": true
+    },
+    "dataCollectionIntegration": {
+      "isDataIntegration": false
+    },
+    "isHealthTheme": true
+  },
+  "schematype": "survey"
+}

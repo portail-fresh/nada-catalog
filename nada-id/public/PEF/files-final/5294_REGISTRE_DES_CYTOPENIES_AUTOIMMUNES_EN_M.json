@@ -1,0 +1,1257 @@
+{
+  "stdyDscr": {
+    "citation": {
+      "titlStmt": {
+        "IDNo": [
+          {
+            "agency": "PEF",
+            "value": "5294"
+          },
+          {
+            "agency": "FReSH",
+            "value": "FRESH-PEF5294"
+          }
+        ],
+        "titl": [
+          {
+            "lang": "fr",
+            "value": "REGISTRE DES CYTOPENIES AUTO-IMMUNES EN FRANCE"
+          },
+          {
+            "lang": "en",
+            "value": "REGISTRY OF AUTOIMMUNE CYTOPENIAS IN FRANCE"
+          }
+        ],
+        "altTitl": [
+          {
+            "lang": "fr",
+            "value": "CARMEN-France"
+          },
+          {
+            "lang": "en",
+            "value": "CARMEN-France"
+          }
+        ]
+      },
+      "rspStmt": {
+        "AuthEnty": [
+          {
+            "name": "Guillaume;MOULIS",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "CENTRE HOSPITALIER UNIVERSITAIRE DE TOULOUSE (CHUT)"
+              },
+              {
+                "lang": "en",
+                "value": "CENTRE HOSPITALIER UNIVERSITAIRE DE TOULOUSE (CHUT)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "0000-0001-9953-4640",
+                "role": "pi id",
+                "title": "ORCID"
+              },
+              {
+                "uri": "16509396X",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/017h5q109",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "263100125",
+                "role": "organisation id",
+                "title": "SIREN"
+              },
+              {
+                "uri": "199318008J",
+                "role": "labo id",
+                "title": "RNSR"
+              }
+            ],
+            "isContact": true,
+            "email": "moulis.g@chu-toulouse.fr",
+            "PILabo": "CHU de Toulouse / CIC 1436"
+          }
+        ],
+        "othId": [
+          {
+            "type": "collaboration",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "Réseau national du centre de référence des cytopénies auto-immunes de l'adulte (CeReCAI). European Research Consortium on Immune thrombocytopenia (ERCI)"
+              },
+              {
+                "lang": "en",
+                "value": "French network of autoimmune cytopenia (CeReCAI). European Research Consortium on ITP (ERCI)"
+              }
+            ]
+          }
+        ]
+      },
+      "distStmt": {
+        "contact": [
+          {
+            "name": "Guillaume;MOULIS",
+            "email": "moulis.g@chu-toulouse.fr",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "CENTRE HOSPITALIER UNIVERSITAIRE DE TOULOUSE (CHUT)"
+              },
+              {
+                "lang": "en",
+                "value": "CENTRE HOSPITALIER UNIVERSITAIRE DE TOULOUSE (CHUT)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/017h5q109",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "263100125",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          }
+        ]
+      },
+      "prodStmt": {
+        "fundAg": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "CENTRE HOSPITALIER UNIVERSITAIRE DE TOULOUSE (CHUT)"
+              },
+              {
+                "lang": "en",
+                "value": "CENTRE HOSPITALIER UNIVERSITAIRE DE TOULOUSE (CHUT)"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "ROR",
+                "uri": "https://ror.org/017h5q109"
+              },
+              {
+                "title": "SIREN",
+                "uri": "263100125"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "CSL BEHRING S.A."
+              },
+              {
+                "lang": "en",
+                "value": "CSL BEHRING S.A."
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Industrie"
+              },
+              {
+                "lang": "en",
+                "value": "Industry"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "NOVARTIS PHARMA SAS"
+              },
+              {
+                "lang": "en",
+                "value": "NOVARTIS PHARMA SAS"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "SIREN",
+                "uri": "410349070"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Industrie"
+              },
+              {
+                "lang": "en",
+                "value": "Industry"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "SOCIETE NATIONALE FRANCAISE DE MEDECINE INTERNE (SNFMI)"
+              },
+              {
+                "lang": "en",
+                "value": "SOCIETE NATIONALE FRANCAISE DE MEDECINE INTERNE (SNFMI)"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "SIREN",
+                "uri": "316607902"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Privé à but non lucratif"
+              },
+              {
+                "lang": "en",
+                "value": "Private non-profit"
+              }
+            ]
+          }
+        ],
+        "producer": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE (INSERM)"
+              },
+              {
+                "lang": "en",
+                "value": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE (INSERM)"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "ROR",
+                "uri": "https://ror.org/02vjkv261"
+              },
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "180036048"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "CENTRE HOSPITALIER UNIVERSITAIRE DE TOULOUSE (CHUT)"
+              },
+              {
+                "lang": "en",
+                "value": "CENTRE HOSPITALIER UNIVERSITAIRE DE TOULOUSE (CHUT)"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "ROR",
+                "uri": "https://ror.org/017h5q109"
+              },
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "263100125"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "studyAuthorization": [
+      {
+        "authorizingAgency": {
+          "lang": "fr",
+          "value": "CNIL"
+        }
+      },
+      {
+        "authorizingAgency": {
+          "lang": "fr",
+          "value": "CESREES"
+        }
+      }
+    ],
+    "method": {
+      "notes": [
+        {
+          "subject": "research type",
+          "lang": "fr",
+          "value": "Etude observationnelle"
+        },
+        {
+          "subject": "research type",
+          "lang": "en",
+          "value": "Observational Study"
+        },
+        {
+          "lang": "fr",
+          "subject": "observational study method",
+          "value": "Registre de morbidité"
+        },
+        {
+          "lang": "en",
+          "subject": "observational study method",
+          "value": "Morbidity registry"
+        },
+        {
+          "subject": "follow-up",
+          "lang": "fr",
+          "value": "Suivi par contact avec le participant (téléphone, e-mail, courrier...)"
+        },
+        {
+          "subject": "follow-up",
+          "lang": "en",
+          "value": "Monitoring by contact with the participant (mail, e-mail, telephone etc.)"
+        }
+      ],
+      "stdyClas": [
+        {
+          "lang": "fr",
+          "value": "Étude en cours"
+        },
+        {
+          "lang": "en",
+          "value": "Ongoing study"
+        }
+      ],
+      "dataColl": {
+        "targetSampleSize": [
+          {
+            "lang": "fr",
+            "value": "[1000-10000[ individus"
+          },
+          {
+            "lang": "en",
+            "value": "[1000-10000[ individuals"
+          }
+        ],
+        "sampleFrame": {
+          "frameUnit": {
+            "unitType": [
+              {
+                "lang": "fr",
+                "value": "Via les professionnels d&#x27;exercice libéral Via des structures (services ou établissements de santé, écoles, entreprises…)"
+              },
+              {
+                "lang": "en",
+                "value": "Through independent healthcare practitioners Through organizations (health services or institutions, schools, businesses, etc.)"
+              }
+            ]
+          }
+        },
+        "sources": [
+          {}
+        ],
+        "collMode": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "SelfAdministeredQuestionnaire",
+              "vocab": "CESSDA"
+            },
+            "value": "Questionnaire auto-administré"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "SelfAdministeredQuestionnaire",
+              "vocab": "CESSDA"
+            },
+            "value": "Self-administered questionnaire"
+          },
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Transcription",
+              "vocab": "CESSDA"
+            },
+            "value": "Transcription et saisie d’informations dans un enregistrement structuré"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Transcription",
+              "vocab": "CESSDA"
+            },
+            "value": "Converting or copying information into a structured record"
+          }
+        ],
+        "sampProc": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ],
+        "respRate": [
+          {
+            "lang": "fr",
+            "value": "2832 au 31/12/2024"
+          },
+          {
+            "lang": "en",
+            "value": "2832 on December 31, 2024"
+          }
+        ]
+      }
+    },
+    "stdyInfo": {
+      "abstract": [
+        {
+          "contentType": "purpose",
+          "lang": "fr",
+          "value": "Décrire l’épidémiologie du purpura thrombopénique immunologique et de l'anémie hémolytique auto-immune, leur prise en charge, et fournir des RWE sur les traitements de ces maladies en termes d'efficacité et de sécurité"
+        },
+        {
+          "contentType": "purpose",
+          "lang": "en",
+          "value": "To describe the epidemiology of immune thrombocytopenic purpura (ITP) and of autoimmune hemolytic anemia (AIHA), assess their mangement and provide RWE of their treatments in terms of effectiveness and safety"
+        }
+      ],
+      "subject": {
+        "topcClas": [
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/9239f328-78c9-40a5-a0b9-8e66fd9b6245"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D006402"
+              }
+            ],
+            "value": "Hématologie"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/7a3cf568-46ba-4840-be8f-f22fc030139f"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D000486"
+              }
+            ],
+            "value": "Immunologie médicale"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/9239f328-78c9-40a5-a0b9-8e66fd9b6245"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D006402"
+              }
+            ],
+            "value": "Hematology"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/7a3cf568-46ba-4840-be8f-f22fc030139f"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D000486"
+              }
+            ],
+            "value": "Clinical immunology"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "fr",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/364346400",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Purpura thrombocytopénique immun"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "en",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/364346400",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Immune thrombocytopenic purpura"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "fr",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/1834341306",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Anémie hémolytique acquise, immune"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "en",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/1834341306",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Acquired haemolytic anaemia, immune"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants liés au système de santé : Consommation des soins"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants liés au système de santé"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants environnementaux : Autre"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants socio-démographiques et économiques : Emploi"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants socio-démographiques et économiques"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Healthcare system determinants: Use of care"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Healthcare system determinants"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Environmental determinants: Other"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Socio-demographic and economic determinants: Employment"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Socio-demographic and economic determinants"
+          }
+        ],
+        "keyword": [
+          {
+            "lang": "fr",
+            "value": "cytopénies auto-immunes"
+          },
+          {
+            "lang": "fr",
+            "value": "purpura thrombopénique immunologique"
+          },
+          {
+            "lang": "fr",
+            "value": "anémie hémolytique auto-immune"
+          },
+          {
+            "lang": "fr",
+            "value": "pharmacoépidéiologie"
+          },
+          {
+            "lang": "fr",
+            "value": "registre"
+          },
+          {
+            "lang": "fr",
+            "value": "épidémiologie"
+          },
+          {
+            "lang": "en",
+            "value": "immune thromboctyopenia"
+          },
+          {
+            "lang": "en",
+            "value": "autoimmune hemolytic anemia"
+          },
+          {
+            "lang": "en",
+            "value": "registry"
+          },
+          {
+            "lang": "en",
+            "value": "epidemiology"
+          },
+          {
+            "lang": "en",
+            "value": "pharmacoepidemiology"
+          }
+        ]
+      },
+      "qualityStatement": {
+        "standardsCompliance": {},
+        "otherQualityStatement": [
+          {
+            "lang": "fr",
+            "value": "remote data quality check sur tous les patients pour une centaines de variables clefs ; monitoring physique sur 10 % de la base dans les centres en 2023-2024"
+          },
+          {
+            "lang": "en",
+            "value": "Remote data quality check for all patients on a core set of 100 variables; on-site monitoring done in 2023-2024 in centers in 10% of the database"
+          }
+        ]
+      },
+      "sumDscr": {
+        "dataKind": [
+          {
+            "lang": "fr",
+            "value": "Données cliniques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données rapportées par le participant de l&#x27;étude"
+          },
+          {
+            "lang": "fr",
+            "value": "Données paracliniques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données biologiques"
+          },
+          {
+            "lang": "en",
+            "value": "Clinical data"
+          },
+          {
+            "lang": "en",
+            "value": "Participant-reported health data"
+          },
+          {
+            "lang": "en",
+            "value": "Biological data"
+          }
+        ],
+        "anlyUnit": [
+          {
+            "lang": "fr",
+            "value": "Individus"
+          },
+          {
+            "lang": "en",
+            "value": "Individuals"
+          }
+        ],
+        "nation": [
+          {
+            "lang": "fr",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          },
+          {
+            "lang": "en",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          }
+        ],
+        "geogCover": [
+          {
+            "lang": "fr",
+            "value": "Grand Est"
+          },
+          {
+            "lang": "en",
+            "value": "Grand Est"
+          },
+          {
+            "lang": "fr",
+            "value": "Nouvelle-Aquitaine"
+          },
+          {
+            "lang": "en",
+            "value": "Nouvelle-Aquitaine"
+          },
+          {
+            "lang": "fr",
+            "value": "Auvergne Rhône-Alpes"
+          },
+          {
+            "lang": "en",
+            "value": "Auvergne Rhône-Alpes"
+          },
+          {
+            "lang": "fr",
+            "value": "Bourgogne Franche-Comté"
+          },
+          {
+            "lang": "en",
+            "value": "Bourgogne Franche-Comté"
+          },
+          {
+            "lang": "fr",
+            "value": "Bretagne"
+          },
+          {
+            "lang": "en",
+            "value": "Bretagne"
+          },
+          {
+            "lang": "fr",
+            "value": "Centre-Val de Loire"
+          },
+          {
+            "lang": "en",
+            "value": "Centre-Val de Loire"
+          },
+          {
+            "lang": "fr",
+            "value": "Ile-de-France"
+          },
+          {
+            "lang": "en",
+            "value": "Ile-de-France"
+          },
+          {
+            "lang": "fr",
+            "value": "Occitanie"
+          },
+          {
+            "lang": "en",
+            "value": "Occitanie"
+          },
+          {
+            "lang": "fr",
+            "value": "Hauts-de-France"
+          },
+          {
+            "lang": "en",
+            "value": "Hauts-de-France"
+          },
+          {
+            "lang": "fr",
+            "value": "Normandie"
+          },
+          {
+            "lang": "en",
+            "value": "Normandie"
+          },
+          {
+            "lang": "fr",
+            "value": "Pays de la Loire"
+          },
+          {
+            "lang": "en",
+            "value": "Pays de la Loire"
+          },
+          {
+            "lang": "fr",
+            "value": "Provence - Alpes - Côte d'Azur"
+          },
+          {
+            "lang": "en",
+            "value": "Provence - Alpes - Côte d'Azur"
+          }
+        ],
+        "universe": [
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Masculin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Féminin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Male"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Female"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Adulte (19 à 24 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adulte (25 à 44 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Adulte (45 à 64 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Personne âgée (65 à 79 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000369"
+            },
+            "value": "Grand âge (80 ans et plus)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Young Adult (19 to 24 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adult (25 to 44 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Middle Aged (45 to 64 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Aged (65 to 79 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000369"
+            },
+            "value": "Aged, 80 and over (80 years and more)"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Patients"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "en",
+            "value": "Patients population"
+          },
+          {
+            "clusion": "I",
+            "lang": "fr",
+            "value": " Critère d'inclusion : - âge 18 ans et plus - nouveau diagnostic de PTI (depuis 2025, intiaition d'un traitement de maintenance pour un PTI), ou d'AHAI ou début d'un traitement nouvellement commercialisé pour PTI ou AHAI - absence d'opposition à la collection des données"
+          },
+          {
+            "clusion": "I",
+            "lang": "en",
+            "value": "aged 18 or over - new diagnosis of ITP (since 2025, initiation of a maintenance treatment ofr ITP) or AIHA or initiaiton of a newly marketed drug in France for ITP or AIHA - no oppsition to participate"
+          },
+          {
+            "clusion": "E",
+            "lang": "fr",
+            "value": ""
+          },
+          {
+            "clusion": "E",
+            "lang": "en",
+            "value": ""
+          }
+        ],
+        "collDate": [
+          {
+            "event": "start",
+            "value": "2013-01-01"
+          }
+        ]
+      }
+    },
+    "dataAccs": {
+      "setAvail": {
+        "avlStatus": [
+          {
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Accès réservé"
+          },
+          {
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Restricted access"
+          }
+        ],
+        "conditions": [
+          {
+            "lang": "fr",
+            "value": "Accord du comité scientifique et du promoteur"
+          },
+          {
+            "lang": "en",
+            "value": "Upon request, need the apprival by the scientific committee and the sponsor"
+          }
+        ]
+      },
+      "useStmt": {}
+    },
+    "othStdMat": {
+      "relMat": [
+        {
+          "lang": "fr",
+          "value": "Accès restreint sur projet spécifique"
+        },
+        {
+          "lang": "en",
+          "value": "Access on specific project only"
+        }
+      ]
+    },
+    "studyDevelopment": {
+      "developmentActivity": [
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/morbidité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/mortalité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Consommation de soins/services de santé"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Qualité de vie/santé perçue"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/morbidity"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/mortality"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health care consumption and services"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Quality of life/health perception"
+        }
+      ]
+    }
+  },
+  "docDscr": {
+    "citation": {
+      "rspStmt": {
+        "AuthEnty": "Guillaume MOULIS"
+      },
+      "prodStmt": {
+        "producer": [
+          {
+            "affiliation": "CENTRE HOSPITALIER UNIVERSITAIRE DE TOULOUSE (CHUT)",
+            "value": "Guillaume;MOULIS"
+          }
+        ],
+        "prodPlac": "Portail Épidémiologie France"
+      }
+    }
+  },
+  "additional": {
+    "prodPlac": "Portail Épidémiologie France",
+    "relatedDocuments": [
+      {
+        "documentTitle": [
+          {
+            "lang": "fr",
+            "value": "article describing the registry, the database and examples of published studies (n>20)"
+          },
+          {
+            "lang": "en",
+            "value": "article describing the registry, the database and examples of published studies (n>20)"
+          }
+        ],
+        "documentLink": [
+          {
+            "lang": "fr",
+            "value": "https://pubmed.ncbi.nlm.nih.gov/38960844/"
+          },
+          {
+            "lang": "en",
+            "value": "https://pubmed.ncbi.nlm.nih.gov/38960844/"
+          }
+        ]
+      },
+      {
+        "documentTitle": [
+          {
+            "lang": "fr",
+            "value": "article descriptif de la base et d'études réalisées"
+          },
+          {
+            "lang": "en",
+            "value": "article descriptif de la base et d'études réalisées"
+          }
+        ],
+        "documentLink": [
+          {
+            "lang": "fr",
+            "value": "http://epidemiologie-france.aviesan.fr/voir publication https://pubmed.ncbi.nlm.nih.gov/38960844"
+          },
+          {
+            "lang": "en",
+            "value": "http://epidemiologie-france.aviesan.fr/voir publication https://pubmed.ncbi.nlm.nih.gov/38960844"
+          }
+        ]
+      }
+    ],
+    "creationDate": "03-01-2013",
+    "lastUpdatedManual": "10-11-2017",
+    "theme": {},
+    "governance": {
+      "committee": true
+    },
+    "collaborations": {},
+    "mockSample": {},
+    "dataQuality": {},
+    "variableDictionnary": {},
+    "dataTypes": {
+      "clinicalDataDetails": [
+        {
+          "lang": "fr",
+          "value": "terrain, maladie, évènements ; voir publication https://pubmed.ncbi.nlm.nih.gov/38960844/"
+        },
+        {
+          "lang": "en",
+          "value": "see publication: https://pubmed.ncbi.nlm.nih.gov/38960844/"
+        }
+      ],
+      "biologicalDataDetails": [
+        {
+          "lang": "fr",
+          "value": "voir publication https://pubmed.ncbi.nlm.nih.gov/38960844/"
+        },
+        {
+          "lang": "en",
+          "value": "cf. above; see publication: https://pubmed.ncbi.nlm.nih.gov/38960844/"
+        }
+      ],
+      "isDataInBiobank": false
+    },
+    "collectionProcess": {
+      "collectionModeDetails": [
+        {
+          "lang": "fr",
+          "value": "Les formulaires de suivi sont remplis par les ARC des centres lors de chaque consultation ou hospitalisation du patient sur une eBDD centralisée"
+        },
+        {
+          "lang": "en",
+          "value": "reseach assistants collect the data at each routine visit in each center, and enter the data in a unique electronic database"
+        }
+      ]
+    },
+    "geographicalCoverage": {
+      "geoDetail": [
+        {
+          "lang": "fr",
+          "value": "Extension à d'autres centres prévue ; exhaustivité des centres dans la région Occitanie-Ouest (ex-Midi-Pyrénées)"
+        },
+        {
+          "lang": "en",
+          "value": "Opening of other centers is planned. The completeness of cases is expected in the Midi-Pyrénées (Occitanie West) region"
+        }
+      ]
+    },
+    "activeFollowUp": {
+      "isActiveFollowUp": true
+    },
+    "dataCollectionIntegration": {
+      "isDataIntegration": false
+    },
+    "isHealthTheme": true
+  },
+  "schematype": "survey"
+}

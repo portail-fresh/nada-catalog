@@ -1,0 +1,745 @@
+{
+  "stdyDscr": {
+    "citation": {
+      "titlStmt": {
+        "IDNo": [
+          {
+            "agency": "PEF",
+            "value": "73188"
+          },
+          {
+            "agency": "FReSH",
+            "value": "FRESH-PEF73188"
+          }
+        ],
+        "titl": [
+          {
+            "lang": "fr",
+            "value": "Etude longitudinale sur des patients souffrants d'un trouble schizophrénique ou schizoaffectif"
+          },
+          {
+            "lang": "en",
+            "value": "Patients with Schizophrenic or Schizoaffective Disorders"
+          }
+        ],
+        "altTitl": [
+          {
+            "lang": "fr",
+            "value": "SCOPE"
+          },
+          {
+            "lang": "en",
+            "value": "SCOPE"
+          }
+        ]
+      },
+      "rspStmt": {
+        "AuthEnty": [
+          {
+            "name": "Jean-Michel;AZORIN",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "ASSISTANCE PUBLIQUE HOPITAUX DE MARSEILLE (AP-HM)"
+              },
+              {
+                "lang": "en",
+                "value": "ASSISTANCE PUBLIQUE HOPITAUX DE MARSEILLE (AP-HM)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "029037271",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/002cp4060",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "261300081",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ],
+            "isContact": false,
+            "email": "",
+            "PILabo": "CHU St Marguerite / SHU Psychiatrie adultes"
+          }
+        ],
+        "othId": []
+      },
+      "distStmt": {},
+      "prodStmt": {
+        "fundAg": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "ASSISTANCE PUBLIQUE HOPITAUX DE MARSEILLE (AP-HM)"
+              },
+              {
+                "lang": "en",
+                "value": "ASSISTANCE PUBLIQUE HOPITAUX DE MARSEILLE (AP-HM)"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "ROR",
+                "uri": "https://ror.org/002cp4060"
+              },
+              {
+                "title": "SIREN",
+                "uri": "261300081"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ]
+          }
+        ],
+        "producer": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "ASSISTANCE PUBLIQUE HOPITAUX DE MARSEILLE (AP-HM)"
+              },
+              {
+                "lang": "en",
+                "value": "ASSISTANCE PUBLIQUE HOPITAUX DE MARSEILLE (AP-HM)"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "ROR",
+                "uri": "https://ror.org/002cp4060"
+              },
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "261300081"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "studyAuthorization": {
+      "authorizingAgency": {
+        "lang": "fr",
+        "value": "CNIL"
+      }
+    },
+    "method": {
+      "notes": [
+        {
+          "subject": "research type",
+          "lang": "fr",
+          "value": "Etude observationnelle"
+        },
+        {
+          "subject": "research type",
+          "lang": "en",
+          "value": "Observational Study"
+        }
+      ],
+      "stdyClas": [
+        {
+          "lang": "fr",
+          "value": "Inconnu"
+        },
+        {
+          "lang": "en",
+          "value": "Unknown"
+        }
+      ],
+      "dataColl": {
+        "targetSampleSize": [
+          {
+            "lang": "fr",
+            "value": "[500-1000[ individus"
+          },
+          {
+            "lang": "en",
+            "value": "[500-1000[ individuals"
+          }
+        ],
+        "sampleFrame": {
+          "frameUnit": {
+            "unitType": [
+              {
+                "lang": "fr",
+                "value": "Via des structures (services ou établissements de santé, écoles, entreprises…)"
+              },
+              {
+                "lang": "en",
+                "value": "Through organizations (health services or institutions, schools, businesses, etc.)"
+              }
+            ]
+          }
+        },
+        "sources": [
+          {}
+        ],
+        "collMode": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ],
+        "sampProc": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ],
+        "respRate": [
+          {
+            "lang": "fr",
+            "value": "833"
+          },
+          {
+            "lang": "en",
+            "value": "833"
+          }
+        ]
+      }
+    },
+    "stdyInfo": {
+      "abstract": [
+        {
+          "contentType": "purpose",
+          "lang": "fr",
+          "value": "Observer l'évolution sur 2 ans de patients traités pour un épisode psychotique aigu."
+        },
+        {
+          "contentType": "purpose",
+          "lang": "en",
+          "value": "To observe the progress of patients being treated for an acute psychotic episode over a 2-year period."
+        }
+      ],
+      "subject": {
+        "topcClas": [
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/c4793dfe-e80e-49dd-9fcc-a1a742de1b25"
+              },
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/00a5c4f4-b7ee-41a4-bcdf-3a02e6be1660"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D009462"
+              }
+            ],
+            "value": "Neurologie"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/c4793dfe-e80e-49dd-9fcc-a1a742de1b25"
+              },
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/00a5c4f4-b7ee-41a4-bcdf-3a02e6be1660"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D009462"
+              }
+            ],
+            "value": "Neurology"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "fr",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/1683919430",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Schizophrénie"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "en",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/1683919430",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Schizophrenia"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "fr",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/106339515",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Trouble schizoaffectif"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "en",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/106339515",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Schizoaffective disorder"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants comportementaux"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants socio-démographiques et économiques"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Autre"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Behavioral determinants"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Socio-demographic and economic determinants"
+          }
+        ],
+        "keyword": [
+          {
+            "lang": "fr",
+            "value": "Schizophrène"
+          },
+          {
+            "lang": "fr",
+            "value": "schizoaffectif"
+          },
+          {
+            "lang": "fr",
+            "value": "épisode psychotique aigu"
+          },
+          {
+            "lang": "en",
+            "value": "Schizophrenia"
+          },
+          {
+            "lang": "en",
+            "value": "schizoaffective"
+          }
+        ]
+      },
+      "qualityStatement": {
+        "standardsCompliance": {}
+      },
+      "sumDscr": {
+        "dataKind": [
+          {
+            "lang": "fr",
+            "value": "Données cliniques"
+          },
+          {
+            "lang": "en",
+            "value": "Clinical data"
+          }
+        ],
+        "anlyUnit": [
+          {
+            "lang": "fr",
+            "value": "Individus"
+          },
+          {
+            "lang": "en",
+            "value": "Individuals"
+          }
+        ],
+        "nation": [
+          {
+            "lang": "fr",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          },
+          {
+            "lang": "en",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          }
+        ],
+        "universe": [
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Masculin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Féminin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Male"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Female"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Adulte (19 à 24 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adulte (25 à 44 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Adulte (45 à 64 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Young Adult (19 to 24 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adult (25 to 44 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Middle Aged (45 to 64 years)"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Patients"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "en",
+            "value": "Patients population"
+          },
+          {
+            "clusion": "I",
+            "lang": "fr",
+            "value": " homme ou femme - adulte - diagnostiqué schizophrène ou atteint de trouble schizoaffectif"
+          },
+          {
+            "clusion": "I",
+            "lang": "en",
+            "value": "Men or women - adult  - diagnosed with schizophrenia or affected by schizoaffective disorder"
+          },
+          {
+            "clusion": "E",
+            "lang": "fr",
+            "value": ""
+          },
+          {
+            "clusion": "E",
+            "lang": "en",
+            "value": ""
+          }
+        ],
+        "collDate": [
+          {
+            "event": "start",
+            "value": "2001-01-01"
+          },
+          {
+            "event": "end",
+            "value": "2004-01-01"
+          }
+        ]
+      }
+    },
+    "dataAccs": {
+      "setAvail": {
+        "avlStatus": [
+          {
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Accès réservé"
+          },
+          {
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Restricted access"
+          }
+        ],
+        "conditions": [
+          {
+            "lang": "fr",
+            "value": "Contacter le responsable scientifique"
+          },
+          {
+            "lang": "en",
+            "value": "Contact the principal investigator"
+          }
+        ]
+      },
+      "useStmt": {}
+    },
+    "othStdMat": {
+      "relMat": [
+        {
+          "lang": "fr",
+          "value": "Accès restreint sur projet spécifique"
+        },
+        {
+          "lang": "en",
+          "value": "Access on specific project only"
+        }
+      ]
+    },
+    "studyDevelopment": {
+      "developmentActivity": [
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/morbidité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Consommation de soins/services de santé"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/morbidity"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health care consumption and services"
+        }
+      ]
+    }
+  },
+  "docDscr": {
+    "citation": {
+      "rspStmt": {
+        "AuthEnty": "Jean-Michel AZORIN"
+      },
+      "prodStmt": {
+        "producer": [
+          {
+            "affiliation": "ASSISTANCE PUBLIQUE HOPITAUX DE MARSEILLE (AP-HM)",
+            "value": "Jean-Michel;AZORIN"
+          }
+        ],
+        "prodPlac": "Portail Épidémiologie France"
+      }
+    }
+  },
+  "additional": {
+    "prodPlac": "Portail Épidémiologie France",
+    "relatedDocuments": {
+      "documentTitle": [
+        {
+          "lang": "fr"
+        },
+        {
+          "lang": "en"
+        }
+      ],
+      "documentLink": [
+        {
+          "lang": "fr",
+          "value": "http://www.ncbi.nlm.nih.gov/pubmed/23769326"
+        },
+        {
+          "lang": "en",
+          "value": "http://www.ncbi.nlm.nih.gov/pubmed/23769326"
+        }
+      ]
+    },
+    "creationDate": "05-08-2015",
+    "lastUpdatedManual": "05-09-2017",
+    "theme": {},
+    "governance": {},
+    "collaborations": {},
+    "mockSample": {},
+    "dataQuality": {},
+    "variableDictionnary": {},
+    "dataTypes": {
+      "isDataInBiobank": false
+    },
+    "collectionProcess": {
+      "collectionModeDetails": [
+        {
+          "lang": "fr",
+          "value": "Données recueillies à 6, 12 et 24 mois après inclusion et à chaque rechute éventuelle."
+        },
+        {
+          "lang": "en",
+          "value": "Data gathered at 6, 12 and 24 months after enrolment and each potential relapse."
+        }
+      ]
+    },
+    "geographicalCoverage": {
+      "geoDetail": [
+        {
+          "lang": "fr",
+          "value": "France"
+        },
+        {
+          "lang": "en",
+          "value": "France"
+        }
+      ]
+    },
+    "activeFollowUp": {
+      "isActiveFollowUp": true
+    },
+    "dataCollectionIntegration": {
+      "isDataIntegration": false
+    },
+    "isHealthTheme": true
+  },
+  "schematype": "survey"
+}

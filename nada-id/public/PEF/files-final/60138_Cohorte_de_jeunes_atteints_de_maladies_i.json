@@ -1,0 +1,828 @@
+{
+  "stdyDscr": {
+    "citation": {
+      "titlStmt": {
+        "IDNo": [
+          {
+            "agency": "PEF",
+            "value": "60138"
+          },
+          {
+            "agency": "FReSH",
+            "value": "FRESH-PEF60138"
+          }
+        ],
+        "titl": [
+          {
+            "lang": "fr",
+            "value": "Cohorte de jeunes atteints de maladies inflammatoires/rhumatologie pédiatrique"
+          },
+          {
+            "lang": "en",
+            "value": "Inflammatory Diseases in Paediatric Rheumatology"
+          }
+        ],
+        "altTitl": [
+          {
+            "lang": "fr",
+            "value": "CEMARA"
+          },
+          {
+            "lang": "en",
+            "value": "CEMARA"
+          }
+        ]
+      },
+      "rspStmt": {
+        "AuthEnty": [
+          {
+            "name": "Pierre;QUARTIER-DIT-MAIRE",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "ASSISTANCE PUBLIQUE HOPITAUX DE PARIS (AP-HP)"
+              },
+              {
+                "lang": "en",
+                "value": "ASSISTANCE PUBLIQUE HOPITAUX DE PARIS (AP-HP)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "0000-0002-1769-549X",
+                "role": "pi id",
+                "title": "ORCID"
+              },
+              {
+                "uri": "139645683",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/00pg5jh14",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "267500452",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ],
+            "isContact": true,
+            "email": "pierre.quartier@aphp.fr",
+            "PILabo": "UIH) ET INSERM U768 HOPITAL NECKER-ENFANTS MALADES / UNITE D’IMMUNO-HEMATOLOGIE PEDIATRIQUE"
+          }
+        ],
+        "othId": [
+          {
+            "type": "collaboration",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "Implication dans un réseau de cohorte : PLATEFORME CEMARA PARTAGEE PAR 32 CENTRES DE REFERENCE MALADIES RARES Inclusion dans un projet européen : PARTICIPATION AU REGISTRE EUROFEVER POUR PLUSIEURS MALADIES INFLAMMATOIRES DONT LA FORMES SYSTEMIQUE D’ARTHRITE JUVENILE IDIOPATHIQUE, L’OSTEOMYELITE MULTIFOCALE PROGRESSIVE, LES GRANULOMATOSES SYSTEMIQUES PEDIATRIQUES, LES SYNDROMES CINCA/MUCKLE-WELLS, …"
+              }
+            ]
+          }
+        ]
+      },
+      "distStmt": {
+        "contact": [
+          {
+            "name": "Pierre;QUARTIER-DIT-MAIRE",
+            "email": "pierre.quartier@aphp.fr",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "ASSISTANCE PUBLIQUE HOPITAUX DE PARIS (AP-HP)"
+              },
+              {
+                "lang": "en",
+                "value": "ASSISTANCE PUBLIQUE HOPITAUX DE PARIS (AP-HP)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/00pg5jh14",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "267500452",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          }
+        ]
+      },
+      "prodStmt": {
+        "fundAg": [
+          {
+            "name": [
+              {
+                "lang": "fr"
+              },
+              {
+                "lang": "en"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ]
+          }
+        ],
+        "producer": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE (INSERM)"
+              },
+              {
+                "lang": "en",
+                "value": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE (INSERM)"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "ROR",
+                "uri": "https://ror.org/02vjkv261"
+              },
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "180036048"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "ASSISTANCE PUBLIQUE HOPITAUX DE PARIS (AP-HP)"
+              },
+              {
+                "lang": "en",
+                "value": "ASSISTANCE PUBLIQUE HOPITAUX DE PARIS (AP-HP)"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "ROR",
+                "uri": "https://ror.org/00pg5jh14"
+              },
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "267500452"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "studyAuthorization": {
+      "authorizingAgency": {
+        "lang": "fr",
+        "value": "CNIL"
+      }
+    },
+    "method": {
+      "notes": [
+        {
+          "subject": "research type",
+          "lang": "fr",
+          "value": "Etude observationnelle"
+        },
+        {
+          "subject": "research type",
+          "lang": "en",
+          "value": "Observational Study"
+        },
+        {
+          "lang": "fr",
+          "subject": "observational study method",
+          "value": "Cohorte"
+        },
+        {
+          "lang": "en",
+          "subject": "observational study method",
+          "value": "Cohort study"
+        }
+      ],
+      "stdyClas": [
+        {
+          "lang": "fr",
+          "value": "Inconnu"
+        },
+        {
+          "lang": "en",
+          "value": "Unknown"
+        }
+      ],
+      "dataColl": {
+        "targetSampleSize": [
+          {
+            "lang": "fr",
+            "value": "[1000-10000[ individus"
+          },
+          {
+            "lang": "en",
+            "value": "[1000-10000[ individuals"
+          }
+        ],
+        "sampleFrame": {
+          "frameUnit": {
+            "unitType": [
+              {
+                "lang": "fr",
+                "value": "Via des structures (services ou établissements de santé, écoles, entreprises…)"
+              },
+              {
+                "lang": "en",
+                "value": "Through organizations (health services or institutions, schools, businesses, etc.)"
+              }
+            ]
+          }
+        },
+        "sources": [
+          {}
+        ],
+        "collMode": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Interview",
+              "vocab": "CESSDA"
+            },
+            "value": "Entretien avec le participant (dont clinique)"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Interview",
+              "vocab": "CESSDA"
+            },
+            "value": "Interview with the participant (including clinical)"
+          }
+        ],
+        "sampProc": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ],
+        "respRate": [
+          {
+            "lang": "fr",
+            "value": "1068"
+          },
+          {
+            "lang": "en",
+            "value": "1068"
+          }
+        ]
+      }
+    },
+    "stdyInfo": {
+      "abstract": [
+        {
+          "contentType": "purpose",
+          "lang": "fr",
+          "value": "Objectif général : Évaluer le risque de survenue d’événements indésirables graves sous ou après exposition à des biothérapies prescrites en rhumatologie pédiatrique. La population étudiée comporte une proportion croissante de patients exposée dès l’enfance à des biothérapies d’introduction récente (antagonistes du TNFalpha, de l’IL-1, de l’IL-6, anti-CD20, CTLA-4IG, …) parfois en association à des immunosuppresseurs Objectifs secondaires : 1/ Évaluer parallèlement à l’objectif principal le risque de survenue d’événements indésirables graves (EIG) en l’absence de biothérapie dans l’ensemble de la cohorte de rhumatologie pédiatrique . 2/ Évaluer le risque d’EIG en présence ou en l’absence de biothérapie pour nos principales sous-cohortes : arthrites juvéniles idiopathiques, maladies auto-inflammatoires pédiatriques, vascularites systémiques et connectivités de l’enfant dont le lupus . 3/ Description plus précise des caractéristiques évolutives et de la prise en charge de ces patients. 4/ Incrémenter des études épidémiologiques, cliniques et fondamentales via notamment la constitution d’une biothèque et des liens avec d’autres cohortes et registres . 5/ Favoriser l’évaluation des pratiques médicales et de l’application des recommandations des protocoles nationaux de diagnostic et de soin."
+        },
+        {
+          "contentType": "purpose",
+          "lang": "en",
+          "value": "General objective: To evaluate the risk of the occurrence of serious adverse events under or after exposure to prescribed biotherapy for rheumatoid arthritis. The selected population consists of a growing proportion of patients exposed to early introductory biotherapy from childhood (TNF-Alpha antagonists, IL-1, IL-6, anti-CD20, CTLA-4Ig etc.), sometimes in combination with immunosuppressants Secondary objectives: 1/ To simultaneously assess the risk of the occurrence of serious adverse events (SAE) in the absence of biotherapy for the entire paediatric rheumatology cohort. 2/ To assess the risk of SAEs in the presence or absence of biotherapy for main sub-cohorts: juvenile idiopathic arthritis, paediatric autoimmune diseases, systemic vasculitis and childhood collagen diseases including lupus. 3/ To describe progressive characteristics and treatment of these patients in more detail. 4/ To further basic, clinical and epidemiological studies by creating a biobank and connections with other cohorts and registries 5/ To promote the assessment of medical practices and the application of national protocol recommendations for diagnosis and care."
+        }
+      ],
+      "subject": {
+        "topcClas": [
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/bf8aaaac-ddee-41cd-bb8a-c5a63de3fcbd"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D010372"
+              }
+            ],
+            "value": "Pédiatrie"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/bfb0bafd-7894-45ba-84fc-ddab5fd6c537"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D012219"
+              }
+            ],
+            "value": "Rhumatologie"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/bf8aaaac-ddee-41cd-bb8a-c5a63de3fcbd"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D010372"
+              }
+            ],
+            "value": "Paediatrics"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/bfb0bafd-7894-45ba-84fc-ddab5fd6c537"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D012219"
+              }
+            ],
+            "value": "Rheumatology"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "fr",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/1965418440",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Ménopause"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "en",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/1965418440",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Menopause"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants biologiques : Prédispositions génétiques"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants biologiques"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Biological determinants: Genetic predisposition"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Biological determinants"
+          }
+        ],
+        "keyword": [
+          {
+            "lang": "fr",
+            "value": "pronostic vital"
+          },
+          {
+            "lang": "fr",
+            "value": "atteinte embryonaire/foetale"
+          },
+          {
+            "lang": "fr",
+            "value": "événements de santé"
+          },
+          {
+            "lang": "fr",
+            "value": "événements indésirables"
+          },
+          {
+            "lang": "fr",
+            "value": "décès"
+          },
+          {
+            "lang": "fr",
+            "value": "hospitalisation"
+          },
+          {
+            "lang": "fr",
+            "value": "séquelles"
+          },
+          {
+            "lang": "fr",
+            "value": "néoplasies"
+          },
+          {
+            "lang": "en",
+            "value": "adverse events"
+          },
+          {
+            "lang": "en",
+            "value": "life-threatening"
+          },
+          {
+            "lang": "en",
+            "value": "sequelae"
+          },
+          {
+            "lang": "en",
+            "value": "embryonic/foetal impairment"
+          },
+          {
+            "lang": "en",
+            "value": "neoplasia"
+          },
+          {
+            "lang": "en",
+            "value": "Health episodes"
+          },
+          {
+            "lang": "en",
+            "value": "death"
+          },
+          {
+            "lang": "en",
+            "value": "hospitalisation"
+          }
+        ]
+      },
+      "qualityStatement": {
+        "standardsCompliance": {},
+        "otherQualityStatement": {
+          "lang": "fr",
+          "value": "Présence d'une requête de cohérence après la saisie des données informatiques Gestion des données manquantes par retour au dossier source Relance des médecins pour réaliser les visites de suivi Relance des sujets pour réaliser les visites de suivi Réalisation d'audits de qualité internes et externes Fréquence audit interne : 1/AN Fréquence audit externe : 1/3 ANS Autre(s) procédure(s) qualité : CONTROLE PAR ECHANTILLONAGE Les patients sont informés de l'utilisation de leur données"
+        }
+      },
+      "sumDscr": {
+        "dataKind": [
+          {
+            "lang": "fr",
+            "value": "Données cliniques"
+          },
+          {
+            "lang": "en",
+            "value": "Clinical data"
+          }
+        ],
+        "anlyUnit": [
+          {
+            "lang": "fr",
+            "value": "Individus"
+          },
+          {
+            "lang": "en",
+            "value": "Individuals"
+          }
+        ],
+        "nation": [
+          {
+            "lang": "fr",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          },
+          {
+            "lang": "en",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          }
+        ],
+        "universe": [
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Masculin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Féminin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Male"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Female"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D002648"
+            },
+            "value": "Enfance (6 à 12 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000293"
+            },
+            "value": "Adolescence (13 à 18 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D002648"
+            },
+            "value": "Child (6 to 12 years)"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Patients"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "en",
+            "value": "Patients population"
+          },
+          {
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Patients inclus dans la base Cemara avec un diagnostic relevant du label du centre de référence maladies rares « arthrites juvéniles » = maladies inflammatoires de rhumatologie pédiatrique recensées dans le thesaurus Cemara (et le thesaurus Orphanet) entrant dans l’une des 4 catégories suivantes : arthrites juvéniles idiopathiques, autres arthrites juvéniles, maladies auto-inflammatoires pédiatriques, maladies systémiques et vascularités pédiatriques"
+          },
+          {
+            "clusion": "I",
+            "lang": "en",
+            "value": "Patients included in the CEMARA database must have a diagnosis relevant to the label \"juvenile arthritis\" in the rare disease reference centre = inflammatory paediatric rheumatology diseases identified in the CEMARA thesaurus (and Orphanet thesauraus) belonging to one of the following 4 categories: juvenile idiopathic arthritis, other juvenile arthritis, paediatric autoinflammatory diseases, systemic diseases and paediatric vasculitis"
+          },
+          {
+            "clusion": "E",
+            "lang": "fr",
+            "value": ""
+          },
+          {
+            "clusion": "E",
+            "lang": "en",
+            "value": ""
+          }
+        ],
+        "collDate": {
+          "event": "start",
+          "value": "2007-01-01"
+        }
+      }
+    },
+    "dataAccs": {
+      "setAvail": {
+        "avlStatus": [
+          {
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Accès réservé"
+          },
+          {
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Restricted access"
+          }
+        ],
+        "conditions": [
+          {
+            "lang": "fr",
+            "value": "Condition d&#x27;accès contractuelles"
+          },
+          {
+            "lang": "en"
+          }
+        ],
+        "complete": {
+          "lang": "en",
+          "value": "Data may be used by academic teams. Data may not be used by industrial teams"
+        }
+      },
+      "useStmt": {
+        "restrctn": [
+          {
+            "lang": "fr",
+            "value": "Utilisation possible des données par des équipes académiques Utilisation non possible des données par des industriels"
+          },
+          {
+            "lang": "en",
+            "value": "Contractual access."
+          }
+        ]
+      }
+    },
+    "othStdMat": {
+      "relMat": [
+        {
+          "lang": "fr",
+          "value": "Accès restreint sur projet spécifique"
+        },
+        {
+          "lang": "en",
+          "value": "Access on specific project only"
+        }
+      ]
+    },
+    "studyDevelopment": {
+      "developmentActivity": [
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/morbidité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/mortalité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/morbidity"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/mortality"
+        }
+      ]
+    }
+  },
+  "docDscr": {
+    "citation": {
+      "rspStmt": {
+        "AuthEnty": "Pierre QUARTIER-DIT-MAIRE"
+      },
+      "prodStmt": {
+        "producer": [
+          {
+            "affiliation": "ASSISTANCE PUBLIQUE HOPITAUX DE PARIS (AP-HP)",
+            "value": "Pierre;QUARTIER-DIT-MAIRE"
+          }
+        ],
+        "prodPlac": "Portail Épidémiologie France"
+      }
+    }
+  },
+  "additional": {
+    "prodPlac": "Portail Épidémiologie France",
+    "creationDate": "08-03-2013",
+    "lastUpdatedManual": "06-09-2017",
+    "theme": {},
+    "governance": {
+      "committee": false
+    },
+    "collaborations": {},
+    "mockSample": {},
+    "dataQuality": {},
+    "variableDictionnary": {},
+    "dataTypes": {
+      "clinicalDataDetails": {
+        "lang": "fr",
+        "value": "Examen clinique à l’inclusion et au cours du suivi Informations recueillies lors de l'examen clinique : données de suivi clinique, exposition à la corthicothérapie"
+      },
+      "isDataInBiobank": true
+    },
+    "collectionProcess": {
+      "collectionModeDetails": [
+        {
+          "lang": "fr",
+          "value": "Entretiens : Saisie directe Examens cliniques : Saisie directe"
+        },
+        {
+          "lang": "en",
+          "value": "Interview: Direct input Cinical examiniations: Direct input"
+        }
+      ]
+    },
+    "geographicalCoverage": {
+      "geoDetail": [
+        {
+          "lang": "fr",
+          "value": "Cohorte multicentrique française"
+        },
+        {
+          "lang": "en",
+          "value": "Multicentric cohort throughout France"
+        }
+      ]
+    },
+    "activeFollowUp": {
+      "isActiveFollowUp": true
+    },
+    "dataCollectionIntegration": {
+      "isDataIntegration": false
+    },
+    "isHealthTheme": true
+  },
+  "schematype": "survey"
+}

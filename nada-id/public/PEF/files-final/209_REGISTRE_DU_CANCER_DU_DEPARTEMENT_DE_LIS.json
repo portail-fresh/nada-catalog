@@ -1,0 +1,938 @@
+{
+  "stdyDscr": {
+    "citation": {
+      "titlStmt": {
+        "IDNo": [
+          {
+            "agency": "PEF",
+            "value": "209"
+          },
+          {
+            "agency": "FReSH",
+            "value": "FRESH-PEF209"
+          }
+        ],
+        "titl": [
+          {
+            "lang": "fr",
+            "value": "REGISTRE DU CANCER DU DEPARTEMENT DE L’ISERE (registre qualifié 2010-2013)"
+          },
+          {
+            "lang": "en",
+            "value": "ISERE CANCER REGISTER"
+          }
+        ]
+      },
+      "rspStmt": {
+        "AuthEnty": [
+          {
+            "name": "Marc;COLONNA",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "CENTRE HOSPITALIER UNIVERSITAIRE DE GRENOBLE"
+              },
+              {
+                "lang": "en",
+                "value": "CENTRE HOSPITALIER UNIVERSITAIRE DE GRENOBLE"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "035428589",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/041rhpw39",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "263800302",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ],
+            "isContact": true,
+            "email": "mcolonna@wustl.edu",
+            "PILabo": "Association du Registre du Cancer de"
+          }
+        ],
+        "othId": []
+      },
+      "distStmt": {
+        "contact": [
+          {
+            "name": "Marc;COLONNA",
+            "email": "mcolonna@wustl.edu",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "CENTRE HOSPITALIER UNIVERSITAIRE DE GRENOBLE"
+              },
+              {
+                "lang": "en",
+                "value": "CENTRE HOSPITALIER UNIVERSITAIRE DE GRENOBLE"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/041rhpw39",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "263800302",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          }
+        ]
+      },
+      "prodStmt": {
+        "fundAg": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "DEPARTEMENT DE L ISERE"
+              },
+              {
+                "lang": "en",
+                "value": "DEPARTEMENT DE L ISERE"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "SIREN",
+                "uri": "223800012"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "INSTITUT NATIONAL DU CANCER (INCA)"
+              },
+              {
+                "lang": "en",
+                "value": "INSTITUT NATIONAL DU CANCER (INCA)"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "ROR",
+                "uri": "https://ror.org/03m8vkq32"
+              },
+              {
+                "title": "SIREN",
+                "uri": "187512777"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "SANTE PUBLIQUE FRANCE"
+              },
+              {
+                "lang": "en",
+                "value": "SANTE PUBLIQUE FRANCE"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "ROR",
+                "uri": "https://ror.org/00dfw9p58"
+              },
+              {
+                "title": "SIREN",
+                "uri": "130022338"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "lang": "fr"
+              },
+              {
+                "lang": "en"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Autre"
+              },
+              {
+                "lang": "en",
+                "value": "Other"
+              }
+            ]
+          }
+        ],
+        "producer": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "REGISTRE DU CANCER DE L' ISERE"
+              },
+              {
+                "lang": "en",
+                "value": "REGISTRE DU CANCER DE L' ISERE"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Privé à but non lucratif"
+              },
+              {
+                "lang": "en",
+                "value": "Private non-profit"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "314023912"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "studyAuthorization": {
+      "authorizingAgency": {
+        "lang": "fr",
+        "value": "CNIL"
+      }
+    },
+    "method": {
+      "notes": [
+        {
+          "subject": "research type",
+          "lang": "fr",
+          "value": "Etude observationnelle"
+        },
+        {
+          "subject": "research type",
+          "lang": "en",
+          "value": "Observational Study"
+        },
+        {
+          "lang": "fr",
+          "subject": "observational study method",
+          "value": "Registre de morbidité"
+        },
+        {
+          "lang": "en",
+          "subject": "observational study method",
+          "value": "Morbidity registry"
+        }
+      ],
+      "stdyClas": [
+        {
+          "lang": "fr",
+          "value": "Inconnu"
+        },
+        {
+          "lang": "en",
+          "value": "Unknown"
+        }
+      ],
+      "dataColl": {
+        "targetSampleSize": [
+          {
+            "lang": "fr",
+            "value": ">= 20000 individus"
+          },
+          {
+            "lang": "en",
+            "value": ">= 20000 individuals"
+          }
+        ],
+        "sampleFrame": {
+          "frameUnit": {
+            "unitType": [
+              {
+                "lang": "fr",
+                "value": "Via des structures (services ou établissements de santé, écoles, entreprises…)"
+              },
+              {
+                "lang": "en",
+                "value": "Through organizations (health services or institutions, schools, businesses, etc.)"
+              }
+            ]
+          }
+        },
+        "sources": [
+          {}
+        ],
+        "collMode": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Transcription",
+              "vocab": "CESSDA"
+            },
+            "value": "Transcription et saisie d’informations dans un enregistrement structuré"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Transcription",
+              "vocab": "CESSDA"
+            },
+            "value": "Converting or copying information into a structured record"
+          }
+        ],
+        "sampProc": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ],
+        "respRate": [
+          {
+            "lang": "fr",
+            "value": "109107"
+          },
+          {
+            "lang": "en",
+            "value": "109107"
+          }
+        ]
+      }
+    },
+    "stdyInfo": {
+      "abstract": [
+        {
+          "contentType": "purpose",
+          "lang": "fr",
+          "value": "Objectifs du registre en termes de santé publique (surveillance, évaluation) - Le premier objectif du registre est de contribuer à la surveillance épidémiologique des cancers en produisant les indicateurs traditionnels de l’épidémiologie descriptive que sont l’incidence, la prévalence et la survie à partir d’un enregistrement actif et exhaustif des cas de cancer. - La production de ces différents indicateurs contribue à la mise en place ou à l’amélioration d’actions de santé publique concernant les cancers - Enfin le registre contribue à l’évaluation des pratiques de prise en charge par la description du stade au diagnostic et du traitement initial au sein d’une population générale sur des échantillons représentatifs. Objectifs du registre en termes de recherche Le registre du cancer de l’Isère a fait de l’épidémiologie descriptive un de ses axes de recherche à travers différentes thématiques : - Développement méthodologique pour la réalisation des estimations nationales, régionales et plus récemment départementales de l’incidence du cancer. - Développement méthodologique des estimations de la prévalence du cancer à différents échelons géographiques. - Recherche en épidémiologie géographique depuis plusieurs années avec notamment la réalisation d’atlas du cancer et la participation à des études d’épidémiologie environnementale. - Analyse de l’évolution temporelle de l’incidence de certaines localisations cancéreuses : cancer du sein de la femme jeune, cancer de la thyroïde, cancer de la prostate. Un autre axe de recherche concerne l’évaluation du dépistage organisé des cancers"
+        },
+        {
+          "contentType": "purpose",
+          "lang": "en",
+          "value": "Objectives of the registry in terms of public health (surveillance, evaluation) - The main objective of the registry is to contribute to epidemiological monitoring of cancers by producing the conventional indicators for descriptive epidemiology (incidence, prevalence and survival) from an active and exhaustive recording of cancer cases. - The production of these different indicators helps to set up or improve public health initiatives pertaining to cancer - Lastly, the registry helps to evaluate treatment practices by describing the stage at the time of diagnosis and the initial treatment within a general population on the basis of representative samples. Objectives of the registry in terms of research The Isère cancer registry has made descriptive epidemiology one of its research priorities through a variety of themes: - Methodological development for making national, regional and - more recently - département-level estimations of cancer incidence. - Methodological development for estimations of cancer prevalence at different geographical levels. - Geographical epidemiology research for several years now, particularly with the production of cancer atlases and participation in environmental epidemiology research. - Analysis of the temporal incidence trends of certain cancer locations: breast cancer in young women, thyroid cancer, prostate cancer. Another research focus concerns organized cancer screening"
+        }
+      ],
+      "subject": {
+        "topcClas": [
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/5784b7f1-c7ce-49d9-9f38-aebcda0ff41d"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D008495"
+              }
+            ],
+            "value": "Oncologie"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/5784b7f1-c7ce-49d9-9f38-aebcda0ff41d"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D008495"
+              }
+            ],
+            "value": "Oncology"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "fr",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/1630407678",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Tumeurs"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "en",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/1630407678",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Neoplasms"
+          }
+        ],
+        "keyword": [
+          {
+            "lang": "en",
+            "value": "public health"
+          },
+          {
+            "lang": "en",
+            "value": "surveillance"
+          },
+          {
+            "lang": "en",
+            "value": "evaluation"
+          },
+          {
+            "lang": "en",
+            "value": "monitoring"
+          },
+          {
+            "lang": "en",
+            "value": "indicators"
+          },
+          {
+            "lang": "en",
+            "value": "incidence"
+          },
+          {
+            "lang": "en",
+            "value": "prevalence"
+          },
+          {
+            "lang": "en",
+            "value": "survival"
+          }
+        ]
+      },
+      "qualityStatement": {
+        "standardsCompliance": {}
+      },
+      "sumDscr": {
+        "dataKind": [
+          {
+            "lang": "fr",
+            "value": "Données cliniques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données socio-démographiques"
+          },
+          {
+            "lang": "en",
+            "value": "Clinical data"
+          },
+          {
+            "lang": "en",
+            "value": "Socio-demographic data"
+          }
+        ],
+        "anlyUnit": [
+          {
+            "lang": "fr",
+            "value": "Individus"
+          },
+          {
+            "lang": "en",
+            "value": "Individuals"
+          }
+        ],
+        "nation": [
+          {
+            "lang": "fr",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          },
+          {
+            "lang": "en",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          }
+        ],
+        "geogCover": [
+          {
+            "lang": "fr",
+            "value": "Auvergne Rhône-Alpes"
+          },
+          {
+            "lang": "en",
+            "value": "Auvergne Rhône-Alpes"
+          }
+        ],
+        "universe": [
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Masculin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Féminin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Male"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Female"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D007231"
+            },
+            "value": "Nouveau-né (naissance à 28j)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D007223"
+            },
+            "value": "Nourrisson (28j à 2 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D002675"
+            },
+            "value": "Petite enfance (2 à 5 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D002648"
+            },
+            "value": "Enfance (6 à 12 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000293"
+            },
+            "value": "Adolescence (13 à 18 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Adulte (19 à 24 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adulte (25 à 44 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Adulte (45 à 64 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Personne âgée (65 à 79 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000369"
+            },
+            "value": "Grand âge (80 ans et plus)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D007231"
+            },
+            "value": "Infant, Newborn (birth to 28 days)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D007223"
+            },
+            "value": "Infant (28 days to 2 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D002675"
+            },
+            "value": "Child, Preschool (2 to 5 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D002648"
+            },
+            "value": "Child (6 to 12 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Young Adult (19 to 24 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adult (25 to 44 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Middle Aged (45 to 64 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Aged (65 to 79 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000369"
+            },
+            "value": "Aged, 80 and over (80 years and more)"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Patients"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "en",
+            "value": "Patients population"
+          },
+          {
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Toutes les tumeurs malignes diagnostiquées chez des patients résidant dans le département de l’Isère, que le diagnostic soit réalisé dans le département lui-même, dans les départements limitrophes ou dans d’autres régions. Il s’agit des tumeurs malignes invasives et in-situ. Les tumeurs bénignes et de malignité intermédiaire de la vessie et du système nerveux central sont également "
+          },
+          {
+            "clusion": "I",
+            "lang": "en",
+            "value": "All malignant tumors diagnosed in patients living in the Isère département - irrespective of whether the diagnosis is made in this département, neighboring départements or other regions. This concerns invasive and in situ malignant tumors. Benign tumors and tumors of intermediate malignancy of the bladder and central nervous system are also recorded."
+          },
+          {
+            "clusion": "E",
+            "lang": "fr",
+            "value": " Sont exclues des chiffres d’incidence les tumeurs de la peau de type baso-cellulaire."
+          },
+          {
+            "clusion": "E",
+            "lang": "en",
+            "value": "Statistics concerning the incidence of stratum basale type skin tumors are excluded."
+          }
+        ],
+        "collDate": {
+          "event": "start",
+          "value": "1979-01-01"
+        }
+      }
+    },
+    "dataAccs": {
+      "setAvail": {
+        "avlStatus": [
+          {
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Accès réservé"
+          },
+          {
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Restricted access"
+          }
+        ],
+        "conditions": [
+          {
+            "lang": "fr",
+            "value": "Accès aux données : Données agrégées accessibles sur demande"
+          },
+          {
+            "lang": "en",
+            "value": "Access to data: Aggregate data accessible by request"
+          }
+        ]
+      },
+      "useStmt": {}
+    },
+    "othStdMat": {
+      "relMat": [
+        {
+          "lang": "fr",
+          "value": "Accès restreint sur projet spécifique"
+        },
+        {
+          "lang": "en",
+          "value": "Access on specific project only"
+        }
+      ]
+    },
+    "studyDevelopment": {
+      "developmentActivity": [
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/morbidité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/morbidity"
+        }
+      ]
+    }
+  },
+  "docDscr": {
+    "citation": {
+      "rspStmt": {
+        "AuthEnty": "Marc COLONNA"
+      },
+      "prodStmt": {
+        "producer": [
+          {
+            "affiliation": "CENTRE HOSPITALIER UNIVERSITAIRE DE GRENOBLE",
+            "value": "Marc;COLONNA"
+          }
+        ],
+        "prodPlac": "Portail Épidémiologie France"
+      }
+    }
+  },
+  "additional": {
+    "prodPlac": "Portail Épidémiologie France",
+    "relatedDocuments": {
+      "documentTitle": [
+        {
+          "lang": "fr"
+        },
+        {
+          "lang": "en"
+        }
+      ],
+      "documentLink": [
+        {
+          "lang": "fr",
+          "value": "http://www.ncbi.nlm.nih.gov/pubmed?term"
+        },
+        {
+          "lang": "en",
+          "value": "http://www.ncbi.nlm.nih.gov/pubmed?term"
+        }
+      ]
+    },
+    "creationDate": "21-12-2010",
+    "lastUpdatedManual": "23-01-2015",
+    "theme": {},
+    "governance": {},
+    "collaborations": {},
+    "mockSample": {},
+    "dataQuality": {},
+    "variableDictionnary": {},
+    "dataTypes": {
+      "isDataInBiobank": false
+    },
+    "collectionProcess": {
+      "collectionModeDetails": [
+        {
+          "lang": "fr",
+          "value": "Récupération de compte-rendus, de listes, de fichiers informatiques"
+        },
+        {
+          "lang": "en",
+          "value": "Collection of reports, lists and electronic files"
+        }
+      ]
+    },
+    "geographicalCoverage": {
+      "geoDetail": [
+        {
+          "lang": "fr",
+          "value": "Isère"
+        },
+        {
+          "lang": "en",
+          "value": "Isère"
+        }
+      ]
+    },
+    "activeFollowUp": {
+      "isActiveFollowUp": true
+    },
+    "dataCollectionIntegration": {
+      "isDataIntegration": false
+    },
+    "isHealthTheme": true
+  },
+  "schematype": "survey"
+}

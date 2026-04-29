@@ -1,0 +1,995 @@
+{
+  "stdyDscr": {
+    "citation": {
+      "titlStmt": {
+        "IDNo": [
+          {
+            "agency": "PEF",
+            "value": "4358"
+          },
+          {
+            "agency": "FReSH",
+            "value": "FRESH-PEF4358"
+          }
+        ],
+        "titl": [
+          {
+            "lang": "fr",
+            "value": "Enquête transversale sur les conditions de vie, les comportements de santé et la santé mentale des étudiants en Provence-Alpes-Côte d'Azur (PACA)"
+          },
+          {
+            "lang": "en",
+            "value": "Barometer on living conditions, health behaviour and mental health of students in Provence-Alpes-Côte d'Azur (PACA) region"
+          }
+        ]
+      },
+      "rspStmt": {
+        "AuthEnty": [
+          {
+            "name": "Pierre;VERGER",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE (INSERM)"
+              },
+              {
+                "lang": "en",
+                "value": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE (INSERM)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "0000-0002-0339-0679",
+                "role": "pi id",
+                "title": "ORCID"
+              },
+              {
+                "uri": "163811342",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/02vjkv261",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "180036048",
+                "role": "organisation id",
+                "title": "SIREN"
+              },
+              {
+                "uri": "200817366W",
+                "role": "labo id",
+                "title": "RNSR"
+              }
+            ],
+            "isContact": true,
+            "email": "pierre.verger@inserm.fr",
+            "PILabo": "Institut national de santé et recherche / ORS PACA - UMR912-SESSTIM"
+          }
+        ],
+        "othId": []
+      },
+      "distStmt": {
+        "contact": [
+          {
+            "name": "Pierre;VERGER",
+            "email": "pierre.verger@inserm.fr",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE (INSERM)"
+              },
+              {
+                "lang": "en",
+                "value": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE (INSERM)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/02vjkv261",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "180036048",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          }
+        ]
+      },
+      "prodStmt": {
+        "fundAg": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "COMMUNE DE MARSEILLE"
+              },
+              {
+                "lang": "en",
+                "value": "COMMUNE DE MARSEILLE"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "SIREN",
+                "uri": "211300553"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "REGION PACA"
+              },
+              {
+                "lang": "en",
+                "value": "REGION PACA"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "SIREN",
+                "uri": "231300021"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "SANTE PUBLIQUE FRANCE"
+              },
+              {
+                "lang": "en",
+                "value": "SANTE PUBLIQUE FRANCE"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "ROR",
+                "uri": "https://ror.org/00dfw9p58"
+              },
+              {
+                "title": "SIREN",
+                "uri": "130022338"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ]
+          }
+        ],
+        "producer": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE (INSERM)"
+              },
+              {
+                "lang": "en",
+                "value": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE (INSERM)"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "ROR",
+                "uri": "https://ror.org/02vjkv261"
+              },
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "180036048"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "OBSERVATOIRE REGIONAL DE LA SANTE (ORS PACA)"
+              },
+              {
+                "lang": "en",
+                "value": "OBSERVATOIRE REGIONAL DE LA SANTE (ORS PACA)"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Privé à but non lucratif"
+              },
+              {
+                "lang": "en",
+                "value": "Private non-profit"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "330065095"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "UNIVERSITE D'AIX MARSEILLE"
+              },
+              {
+                "lang": "en",
+                "value": "UNIVERSITE D'AIX MARSEILLE"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "ROR",
+                "uri": "https://ror.org/035xkbk20"
+              },
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "130015332"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "studyAuthorization": {
+      "authorizingAgency": {
+        "lang": "fr",
+        "value": "CNIL"
+      }
+    },
+    "method": {
+      "notes": [
+        {
+          "subject": "research type",
+          "lang": "fr",
+          "value": "Etude observationnelle"
+        },
+        {
+          "subject": "research type",
+          "lang": "en",
+          "value": "Observational Study"
+        }
+      ],
+      "stdyClas": [
+        {
+          "lang": "fr",
+          "value": "Étude complétée"
+        },
+        {
+          "lang": "en",
+          "value": "Completed study"
+        }
+      ],
+      "dataColl": {
+        "targetSampleSize": [
+          {
+            "lang": "fr",
+            "value": "[1000-10000[ individus"
+          },
+          {
+            "lang": "en",
+            "value": "[1000-10000[ individuals"
+          }
+        ],
+        "timeMeth": [
+          {
+            "lang": "fr",
+            "value": "Etude transversale non répétée"
+          },
+          {
+            "lang": "en",
+            "value": "One-time cross-sectional study"
+          }
+        ],
+        "sampleFrame": {
+          "frameUnit": {
+            "unitType": [
+              {
+                "lang": "fr",
+                "value": "Via des structures (services ou établissements de santé, écoles, entreprises…)"
+              },
+              {
+                "lang": "en",
+                "value": "Through organizations (health services or institutions, schools, businesses, etc.)"
+              }
+            ]
+          }
+        },
+        "sources": [
+          {}
+        ],
+        "collMode": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "SelfAdministeredQuestionnaire",
+              "vocab": "CESSDA"
+            },
+            "value": "Questionnaire auto-administré"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "SelfAdministeredQuestionnaire",
+              "vocab": "CESSDA"
+            },
+            "value": "Self-administered questionnaire"
+          },
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Interview",
+              "vocab": "CESSDA"
+            },
+            "value": "Entretien avec le participant (dont clinique)"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Interview",
+              "vocab": "CESSDA"
+            },
+            "value": "Interview with the participant (including clinical)"
+          }
+        ],
+        "sampProc": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Probability.Stratified",
+              "vocab": "CESSDA"
+            },
+            "value": "Probabiliste : stratifié"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Probability.Stratified",
+              "vocab": "CESSDA"
+            },
+            "value": "Probability: Stratified"
+          }
+        ],
+        "respRate": [
+          {
+            "lang": "fr",
+            "value": "1723 étudiants"
+          },
+          {
+            "lang": "en",
+            "value": "1723 étudiants"
+          }
+        ]
+      }
+    },
+    "stdyInfo": {
+      "abstract": [
+        {
+          "contentType": "purpose",
+          "lang": "fr",
+          "value": "Etudier la prévalence et certains déterminants des comportements de santé des étudiants Objectifs spécifiques: étudier la prévalence et certains déterminants de la détresse psychologique et de certains troubles psychiatriques (troubles de l’humeur, troubles anxieux et troubles liés à la consommation de substances psychoactives)"
+        },
+        {
+          "contentType": "purpose",
+          "lang": "en",
+          "value": "To investigate the prevalence of and factors that determine health behaviour in students. Specific objectives: to investigate the prevalence of and factors associated with psychological distress and certain psychiatric disorders (mood disorders, anxiety disorders and disorders related to use of psychoactive substances)"
+        }
+      ],
+      "subject": {
+        "topcClas": [
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/3de50dee-da1c-4791-a386-56bca24a5fed"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D011570"
+              }
+            ],
+            "value": "Psychiatrie"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/42d645e0-f58d-40ed-9917-5b227ff41a92"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D000073316"
+              }
+            ],
+            "value": "Addictologie"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/3de50dee-da1c-4791-a386-56bca24a5fed"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D011570"
+              }
+            ],
+            "value": "Psychiatry"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/42d645e0-f58d-40ed-9917-5b227ff41a92"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D000073316"
+              }
+            ],
+            "value": "Addiction medicine"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "fr",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/2027043655",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Anxiété"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "en",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/2027043655",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Anxiety"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "fr",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/76398729",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Troubles de l'humeur"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "en",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/76398729",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Mood disorders"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants liés au système de santé : Consommation des soins"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants comportementaux"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants comportementaux : Addictions"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants liés au système de santé"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Healthcare system determinants: Use of care"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Behavioral determinants"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Behavioral determinants: Addiction"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Healthcare system determinants"
+          }
+        ],
+        "keyword": [
+          {
+            "lang": "fr",
+            "value": "PACA"
+          },
+          {
+            "lang": "fr",
+            "value": "déterminant"
+          },
+          {
+            "lang": "fr",
+            "value": "santé"
+          },
+          {
+            "lang": "fr",
+            "value": "santé mentale"
+          },
+          {
+            "lang": "fr",
+            "value": "comportement"
+          },
+          {
+            "lang": "fr",
+            "value": "prévalence"
+          },
+          {
+            "lang": "fr",
+            "value": "consommation"
+          },
+          {
+            "lang": "fr",
+            "value": "caractéristique"
+          },
+          {
+            "lang": "fr",
+            "value": "soins"
+          },
+          {
+            "lang": "fr",
+            "value": "médicament"
+          },
+          {
+            "lang": "en",
+            "value": "determinant"
+          },
+          {
+            "lang": "en",
+            "value": "consumption"
+          },
+          {
+            "lang": "en",
+            "value": "characteristic"
+          },
+          {
+            "lang": "en",
+            "value": "medication"
+          },
+          {
+            "lang": "en",
+            "value": "Health"
+          },
+          {
+            "lang": "en",
+            "value": "mental health"
+          },
+          {
+            "lang": "en",
+            "value": "behaviour"
+          },
+          {
+            "lang": "en",
+            "value": "PACA"
+          },
+          {
+            "lang": "en",
+            "value": "prevalence"
+          },
+          {
+            "lang": "en",
+            "value": "care"
+          }
+        ]
+      },
+      "qualityStatement": {
+        "standardsCompliance": {}
+      },
+      "sumDscr": {
+        "dataKind": [
+          {
+            "lang": "fr",
+            "value": "Données cliniques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données rapportées par le participant de l&#x27;étude"
+          },
+          {
+            "lang": "fr",
+            "value": "Données paracliniques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données socio-démographiques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données comportementales"
+          },
+          {
+            "lang": "en",
+            "value": "Clinical data"
+          },
+          {
+            "lang": "en",
+            "value": "Participant-reported health data"
+          },
+          {
+            "lang": "en",
+            "value": "Socio-demographic data"
+          },
+          {
+            "lang": "en",
+            "value": "Behavioral data"
+          }
+        ],
+        "anlyUnit": [
+          {
+            "lang": "fr",
+            "value": "Individus"
+          },
+          {
+            "lang": "en",
+            "value": "Individuals"
+          }
+        ],
+        "nation": [
+          {
+            "lang": "fr",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          },
+          {
+            "lang": "en",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          }
+        ],
+        "geogCover": [
+          {
+            "lang": "fr",
+            "value": "Provence - Alpes - Côte d'Azur"
+          },
+          {
+            "lang": "en",
+            "value": "Provence - Alpes - Côte d'Azur"
+          }
+        ],
+        "universe": [
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Masculin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Féminin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Male"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Female"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Adulte (19 à 24 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Young Adult (19 to 24 years)"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Population générale"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "en",
+            "value": "General population"
+          },
+          {
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Etre primo-inscrit en première année dans l’une des six universités de la région PACA ; Etre âgé de 18-24 ans ; "
+          },
+          {
+            "clusion": "I",
+            "lang": "en",
+            "value": "Enrolled in first year for the first time in one of six universities in the PACA region; Aged between 18 and 24 years old; "
+          },
+          {
+            "clusion": "E",
+            "lang": "fr",
+            "value": "Exclusion des étudiants inscrits en téléenseignement et dans les classes préparatoires aux grandes écoles"
+          },
+          {
+            "clusion": "E",
+            "lang": "en",
+            "value": "Students enrolled in distance education and preparatory classes for grandes écoles were excluded"
+          }
+        ],
+        "collDate": [
+          {
+            "event": "start",
+            "value": "2005-01-01"
+          },
+          {
+            "event": "end",
+            "value": "2006-01-01"
+          }
+        ]
+      }
+    },
+    "dataAccs": {
+      "setAvail": {
+        "avlStatus": [
+          {
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Accès réservé"
+          },
+          {
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Restricted access"
+          }
+        ],
+        "conditions": []
+      },
+      "useStmt": {}
+    },
+    "othStdMat": {
+      "relMat": [
+        {
+          "lang": "fr",
+          "value": "Accès restreint sur projet spécifique"
+        },
+        {
+          "lang": "en",
+          "value": "Access on specific project only"
+        }
+      ]
+    },
+    "studyDevelopment": {
+      "developmentActivity": [
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/morbidité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Consommation de soins/services de santé"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Qualité de vie/santé perçue"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/morbidity"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health care consumption and services"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Quality of life/health perception"
+        }
+      ]
+    }
+  },
+  "docDscr": {
+    "citation": {
+      "rspStmt": {
+        "AuthEnty": "Pierre VERGER"
+      },
+      "prodStmt": {
+        "producer": [
+          {
+            "affiliation": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE (INSERM)",
+            "value": "Pierre;VERGER"
+          }
+        ],
+        "prodPlac": "Portail Épidémiologie France"
+      }
+    }
+  },
+  "additional": {
+    "prodPlac": "Portail Épidémiologie France",
+    "creationDate": "12-10-2012",
+    "lastUpdatedManual": "05-09-2017",
+    "theme": {},
+    "governance": {},
+    "collaborations": {},
+    "mockSample": {},
+    "dataQuality": {},
+    "variableDictionnary": {},
+    "dataTypes": {
+      "isDataInBiobank": false
+    },
+    "collectionProcess": {
+      "collectionModeDetails": [
+        {
+          "lang": "fr",
+          "value": "Auto-questionnaire distribué auprès des étudiants tirés au sort et convoqués à la visite de médecine préventive du SMPU ; un rappel par courrier postal pour les absents. Enquête téléphonique pour évaluer la prévalence des troubles psychiatriques"
+        },
+        {
+          "lang": "en",
+          "value": "Self-administered questionnaire distributed to randomly selected students who were invited to attend a preventive health check-up at the SMPU. A reminder was sent by post to absentees. Telephone survey to assess prevalence of psychiatric disorders"
+        }
+      ]
+    },
+    "geographicalCoverage": {
+      "geoDetail": [
+        {
+          "lang": "fr",
+          "value": "Provence-Alpes-Côte d'Azur (PACA)"
+        },
+        {
+          "lang": "en",
+          "value": "Provence-Alpes-Côte d'Azur (PACA)"
+        }
+      ]
+    },
+    "activeFollowUp": {
+      "isActiveFollowUp": false
+    },
+    "dataCollectionIntegration": {
+      "isDataIntegration": false
+    },
+    "isHealthTheme": true
+  },
+  "schematype": "survey"
+}

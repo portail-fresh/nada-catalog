@@ -1,0 +1,663 @@
+{
+  "stdyDscr": {
+    "citation": {
+      "titlStmt": {
+        "IDNo": [
+          {
+            "agency": "PEF",
+            "value": "22459"
+          },
+          {
+            "agency": "FReSH",
+            "value": "FRESH-PEF22459"
+          }
+        ],
+        "titl": [
+          {
+            "lang": "fr",
+            "value": "Etude transversale sur la Disposition à la Recherche dans l’interrégion Rhône-Alpes des Médecins généralistes"
+          },
+          {
+            "lang": "en",
+            "value": "French General Practitioners' willingness to participate in primary care research"
+          }
+        ],
+        "altTitl": [
+          {
+            "lang": "fr",
+            "value": "DRIM"
+          },
+          {
+            "lang": "en",
+            "value": "DRIM"
+          }
+        ]
+      },
+      "rspStmt": {
+        "AuthEnty": [
+          {
+            "name": "Laurent;LETRILLIART",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "UNIVERSITE DE LYON"
+              },
+              {
+                "lang": "en",
+                "value": "UNIVERSITE DE LYON"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "058631917",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/01rk35k63",
+                "role": "organisation id",
+                "title": "ROR"
+              }
+            ],
+            "isContact": true,
+            "email": "laurent.letrilliart@univ-lyon1.fr",
+            "PILabo": "Université de Lyon / Département de médecine générale"
+          }
+        ],
+        "othId": []
+      },
+      "distStmt": {
+        "contact": [
+          {
+            "name": "Laurent;LETRILLIART",
+            "email": "laurent.letrilliart@univ-lyon1.fr",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "UNIVERSITE DE LYON"
+              },
+              {
+                "lang": "en",
+                "value": "UNIVERSITE DE LYON"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/01rk35k63",
+                "role": "organisation id",
+                "title": "ROR"
+              }
+            ]
+          }
+        ]
+      },
+      "prodStmt": {
+        "fundAg": [
+          {
+            "name": [
+              {
+                "lang": "fr"
+              },
+              {
+                "lang": "en"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Privé à but non lucratif"
+              },
+              {
+                "lang": "en",
+                "value": "Private non-profit"
+              }
+            ]
+          }
+        ],
+        "producer": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "UNIVERSITE CLAUDE BERNARD LYON 1"
+              },
+              {
+                "lang": "en",
+                "value": "UNIVERSITE CLAUDE BERNARD LYON 1"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "ROR",
+                "uri": "https://ror.org/029brtt94"
+              },
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "196917744"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "studyAuthorization": {
+      "authorizingAgency": {
+        "lang": "fr",
+        "value": "CNIL"
+      }
+    },
+    "method": {
+      "notes": [
+        {
+          "subject": "research type",
+          "lang": "fr",
+          "value": "Etude observationnelle"
+        },
+        {
+          "subject": "research type",
+          "lang": "en",
+          "value": "Observational Study"
+        }
+      ],
+      "stdyClas": [
+        {
+          "lang": "fr",
+          "value": "Étude complétée"
+        },
+        {
+          "lang": "en",
+          "value": "Completed study"
+        }
+      ],
+      "dataColl": {
+        "targetSampleSize": [
+          {
+            "lang": "fr",
+            "value": "< 500 individus"
+          },
+          {
+            "lang": "en",
+            "value": "< 500 individuals"
+          }
+        ],
+        "timeMeth": [
+          {
+            "lang": "fr",
+            "value": "Etude transversale non répétée"
+          },
+          {
+            "lang": "en",
+            "value": "One-time cross-sectional study"
+          }
+        ],
+        "sampleFrame": {
+          "frameUnit": {
+            "unitType": [
+              {
+                "lang": "fr",
+                "value": "Via les professionnels d&#x27;exercice libéral"
+              },
+              {
+                "lang": "en",
+                "value": "Through independent healthcare practitioners"
+              }
+            ]
+          }
+        },
+        "sources": [
+          {}
+        ],
+        "collMode": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ],
+        "sampProc": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ],
+        "respRate": [
+          {
+            "lang": "fr",
+            "value": "452"
+          },
+          {
+            "lang": "en",
+            "value": "452"
+          }
+        ]
+      }
+    },
+    "stdyInfo": {
+      "abstract": [
+        {
+          "contentType": "purpose",
+          "lang": "fr",
+          "value": "Évaluer la disposition des médecins généralistes à participer à des projets de recherche ainsi que leurs attentes."
+        },
+        {
+          "contentType": "purpose",
+          "lang": "en",
+          "value": "To assess French GPs' willingness to participate in primary care research as well as their expectations"
+        }
+      ],
+      "subject": {
+        "keyword": [
+          {
+            "lang": "fr",
+            "value": "projets de recherche"
+          },
+          {
+            "lang": "fr",
+            "value": "attentes"
+          },
+          {
+            "lang": "fr",
+            "value": "expérience"
+          },
+          {
+            "lang": "fr",
+            "value": "médecins généralistes"
+          },
+          {
+            "lang": "en",
+            "value": "family practice"
+          },
+          {
+            "lang": "en",
+            "value": "research projects"
+          },
+          {
+            "lang": "en",
+            "value": "expectations"
+          },
+          {
+            "lang": "en",
+            "value": "experience"
+          }
+        ]
+      },
+      "qualityStatement": {
+        "standardsCompliance": {
+          "standard": {
+            "standardName": [
+              {
+                "lang": "fr",
+                "value": "Classification internationale des soins primaires (CISP-2)"
+              },
+              {
+                "lang": "en",
+                "value": "International classification of primary care (ICPC-2)"
+              }
+            ]
+          }
+        }
+      },
+      "sumDscr": {
+        "dataKind": [
+          {
+            "lang": "fr",
+            "value": "Données rapportées par le participant de l&#x27;étude"
+          },
+          {
+            "lang": "en",
+            "value": "Participant-reported health data"
+          }
+        ],
+        "anlyUnit": [
+          {
+            "lang": "fr",
+            "value": "Individus"
+          },
+          {
+            "lang": "en",
+            "value": "Individuals"
+          }
+        ],
+        "nation": [
+          {
+            "lang": "fr",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          },
+          {
+            "lang": "en",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          }
+        ],
+        "geogCover": [
+          {
+            "lang": "fr",
+            "value": "Auvergne Rhône-Alpes"
+          },
+          {
+            "lang": "en",
+            "value": "Auvergne Rhône-Alpes"
+          }
+        ],
+        "universe": [
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Masculin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Féminin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Male"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Female"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Adulte (19 à 24 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adulte (25 à 44 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Adulte (45 à 64 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Young Adult (19 to 24 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adult (25 to 44 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Middle Aged (45 to 64 years)"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Population générale"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "en",
+            "value": "General population"
+          },
+          {
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Médecins généralistes de la région Rhône-Alpes"
+          },
+          {
+            "clusion": "I",
+            "lang": "en",
+            "value": "General practitioners from the Rhône-Alpes region in France"
+          },
+          {
+            "clusion": "E",
+            "lang": "fr",
+            "value": ""
+          },
+          {
+            "clusion": "E",
+            "lang": "en",
+            "value": ""
+          }
+        ],
+        "collDate": [
+          {
+            "event": "start",
+            "value": "2009-01-01"
+          },
+          {
+            "event": "end",
+            "value": "2009-12-31"
+          }
+        ]
+      }
+    },
+    "dataAccs": {
+      "setAvail": {
+        "avlStatus": [
+          {
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_14cb"
+              }
+            ],
+            "value": "Accès aux seules métadonnées"
+          },
+          {
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_14cb"
+              }
+            ],
+            "value": "Metadata-only access"
+          }
+        ],
+        "conditions": []
+      },
+      "useStmt": {}
+    },
+    "othStdMat": {
+      "relMat": [
+        {
+          "lang": "fr",
+          "value": "Accès restreint sur projet spécifique"
+        },
+        {
+          "lang": "en",
+          "value": "Access on specific project only"
+        }
+      ]
+    },
+    "studyDevelopment": {
+      "developmentActivity": [
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Autres"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Others"
+        }
+      ]
+    }
+  },
+  "docDscr": {
+    "citation": {
+      "rspStmt": {
+        "AuthEnty": "Laurent LETRILLIART"
+      },
+      "prodStmt": {
+        "producer": [
+          {
+            "affiliation": "UNIVERSITE DE LYON",
+            "value": "Laurent;LETRILLIART"
+          }
+        ],
+        "prodPlac": "Portail Épidémiologie France"
+      }
+    }
+  },
+  "additional": {
+    "prodPlac": "Portail Épidémiologie France",
+    "relatedDocuments": {
+      "documentTitle": [
+        {
+          "lang": "fr"
+        },
+        {
+          "lang": "en"
+        }
+      ],
+      "documentLink": [
+        {
+          "lang": "fr",
+          "value": "http://www.urps-med-ra.fr/upload/editor/These_SUPPER_Irene_1309792830017.pdf"
+        },
+        {
+          "lang": "en",
+          "value": "http://www.urps-med-ra.fr/upload/editor/These_SUPPER_Irene_1309792830017.pdf"
+        }
+      ]
+    },
+    "creationDate": "04-02-2015",
+    "lastUpdatedManual": "01-09-2019",
+    "theme": {},
+    "governance": {},
+    "collaborations": {},
+    "mockSample": {},
+    "dataQuality": {},
+    "variableDictionnary": {},
+    "dataTypes": {
+      "isDataInBiobank": false
+    },
+    "collectionProcess": {
+      "collectionModeDetails": {
+        "lang": "fr",
+        "value": "Les données générales concernent les médecins généralistes et leur cabinet sur la dernière expérience en terme de recherche, le souhait de participer activement à de futurs projets de recherche ainsi que l’intérêt et les souhaits pour les priorités de recherche : types, thèmes et domaines de recherches privilégiés ainsi que les conditions ou les obstacles à la participation des médecins."
+      }
+    },
+    "geographicalCoverage": {
+      "geoDetail": [
+        {
+          "lang": "fr",
+          "value": "Rhône-Alpes"
+        },
+        {
+          "lang": "en",
+          "value": "Rhône-Alpes region"
+        }
+      ]
+    },
+    "activeFollowUp": {
+      "isActiveFollowUp": false
+    },
+    "dataCollectionIntegration": {
+      "isDataIntegration": false
+    },
+    "isHealthTheme": true
+  },
+  "schematype": "survey"
+}

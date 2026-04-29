@@ -1,0 +1,990 @@
+{
+  "stdyDscr": {
+    "citation": {
+      "titlStmt": {
+        "IDNo": [
+          {
+            "agency": "PEF",
+            "value": "6885"
+          },
+          {
+            "agency": "FReSH",
+            "value": "FRESH-PEF6885"
+          }
+        ],
+        "titl": [
+          {
+            "lang": "fr",
+            "value": "Cohorte de patients ayant une fracture du col du fémur : risques d'événements thromboemboliques veineux"
+          },
+          {
+            "lang": "en",
+            "value": "Cohort of Patients with Hip Fracture: Risk of Venous Thromboembolism"
+          }
+        ],
+        "altTitl": [
+          {
+            "lang": "fr",
+            "value": "ESCORTE : Evénements cliniques dans les Suites d'une intervention Chirurgicale Orthopédique à Risque Thrombotique Elevé"
+          },
+          {
+            "lang": "en",
+            "value": "ESCORTE: Clinical Events Following Orthopaedic Surgery with Increased Thrombotic Risk"
+          }
+        ]
+      },
+      "rspStmt": {
+        "AuthEnty": [
+          {
+            "name": "Nadia;ROSENCHER",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "ASSISTANCE PUBLIQUE HOPITAUX DE PARIS (AP-HP)"
+              },
+              {
+                "lang": "en",
+                "value": "ASSISTANCE PUBLIQUE HOPITAUX DE PARIS (AP-HP)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "0000-0003-0615-4804",
+                "role": "pi id",
+                "title": "ORCID"
+              },
+              {
+                "uri": "035490861",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/00pg5jh14",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "267500452",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ],
+            "isContact": false,
+            "email": "",
+            "PILabo": "Paris Public Hospitals – Cochin Hospital / Anaesthesia and Intensive Care Department"
+          },
+          {
+            "name": "Charles Marc;SAMAMA",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "ASSISTANCE PUBLIQUE HOPITAUX DE PARIS (AP-HP)"
+              },
+              {
+                "lang": "en",
+                "value": "ASSISTANCE PUBLIQUE HOPITAUX DE PARIS (AP-HP)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "029518164",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/00pg5jh14",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "267500452",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ],
+            "isContact": true,
+            "email": "marc.samama@aphp.fr",
+            "PILabo": "Paris Public Hospitals – Cochin Hospital"
+          }
+        ],
+        "othId": []
+      },
+      "distStmt": {
+        "contact": [
+          {
+            "name": "Charles Marc;SAMAMA",
+            "email": "marc.samama@aphp.fr",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "ASSISTANCE PUBLIQUE HOPITAUX DE PARIS (AP-HP)"
+              },
+              {
+                "lang": "en",
+                "value": "ASSISTANCE PUBLIQUE HOPITAUX DE PARIS (AP-HP)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/00pg5jh14",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "267500452",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          }
+        ]
+      },
+      "prodStmt": {
+        "fundAg": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "SANOFI (FRANCE)"
+              },
+              {
+                "lang": "en",
+                "value": "SANOFI (FRANCE)"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "ROR",
+                "uri": "https://ror.org/02n6c9837"
+              },
+              {
+                "title": "SIREN",
+                "uri": "395030844"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Industrie"
+              },
+              {
+                "lang": "en",
+                "value": "Industry"
+              }
+            ]
+          }
+        ],
+        "producer": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "ASSISTANCE PUBLIQUE HOPITAUX DE PARIS (AP-HP)"
+              },
+              {
+                "lang": "en",
+                "value": "ASSISTANCE PUBLIQUE HOPITAUX DE PARIS (AP-HP)"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "ROR",
+                "uri": "https://ror.org/00pg5jh14"
+              },
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "267500452"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "studyAuthorization": {
+      "authorizingAgency": {
+        "lang": "fr",
+        "value": "CNIL"
+      }
+    },
+    "method": {
+      "notes": [
+        {
+          "subject": "research type",
+          "lang": "fr",
+          "value": "Etude observationnelle"
+        },
+        {
+          "subject": "research type",
+          "lang": "en",
+          "value": "Observational Study"
+        },
+        {
+          "lang": "fr",
+          "subject": "observational study method",
+          "value": "Cohorte"
+        },
+        {
+          "lang": "en",
+          "subject": "observational study method",
+          "value": "Cohort study"
+        }
+      ],
+      "stdyClas": [
+        {
+          "lang": "fr",
+          "value": "Inconnu"
+        },
+        {
+          "lang": "en",
+          "value": "Unknown"
+        }
+      ],
+      "dataColl": {
+        "targetSampleSize": [
+          {
+            "lang": "fr",
+            "value": "[1000-10000[ individus"
+          },
+          {
+            "lang": "en",
+            "value": "[1000-10000[ individuals"
+          }
+        ],
+        "sampleFrame": {
+          "frameUnit": {
+            "unitType": [
+              {
+                "lang": "fr",
+                "value": "Via des structures (services ou établissements de santé, écoles, entreprises…)"
+              },
+              {
+                "lang": "en",
+                "value": "Through organizations (health services or institutions, schools, businesses, etc.)"
+              }
+            ]
+          }
+        },
+        "sources": [
+          {}
+        ],
+        "collMode": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Transcription",
+              "vocab": "CESSDA"
+            },
+            "value": "Transcription et saisie d’informations dans un enregistrement structuré"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Transcription",
+              "vocab": "CESSDA"
+            },
+            "value": "Converting or copying information into a structured record"
+          },
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Interview",
+              "vocab": "CESSDA"
+            },
+            "value": "Entretien avec le participant (dont clinique)"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Interview",
+              "vocab": "CESSDA"
+            },
+            "value": "Interview with the participant (including clinical)"
+          }
+        ],
+        "sampProc": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ],
+        "respRate": [
+          {
+            "lang": "fr",
+            "value": "7019"
+          },
+          {
+            "lang": "en",
+            "value": "7,019"
+          }
+        ]
+      }
+    },
+    "stdyInfo": {
+      "abstract": [
+        {
+          "contentType": "purpose",
+          "lang": "fr",
+          "value": "Déterminer les risques d'événements thromboemboliques veineux chez les patients ayant une fracture de hanche."
+        },
+        {
+          "contentType": "purpose",
+          "lang": "en",
+          "value": "To determine the risk of venous thromboembolism in patients with a hip fracture."
+        }
+      ],
+      "subject": {
+        "topcClas": [
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/4455c187-2f2f-4cd1-a4dd-449f59d73b39"
+              },
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/c42fc6ec-b216-4a24-9e9d-f5e781c175a0"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D002309"
+              }
+            ],
+            "value": "Cardiologie et médecine vasculaire"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/d37e4d8c-a978-40c7-ba4f-eee841851073"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D005853"
+              }
+            ],
+            "value": "Gériatrie"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/9239f328-78c9-40a5-a0b9-8e66fd9b6245"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D006402"
+              }
+            ],
+            "value": "Hématologie"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/38e57437-b2cc-4d26-a46e-c5b639c01e5f"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D010810"
+              }
+            ],
+            "value": "Médecine physique et de réadaptation"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/f6e18c52-6087-4662-904c-5c4b8174e40e"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D015272"
+              }
+            ],
+            "value": "Pneumologie"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/4455c187-2f2f-4cd1-a4dd-449f59d73b39"
+              },
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/c42fc6ec-b216-4a24-9e9d-f5e781c175a0"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D002309"
+              }
+            ],
+            "value": "Cardiology and vascular medicine"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/d37e4d8c-a978-40c7-ba4f-eee841851073"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D005853"
+              }
+            ],
+            "value": "Geriatrics"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/9239f328-78c9-40a5-a0b9-8e66fd9b6245"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D006402"
+              }
+            ],
+            "value": "Hematology"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/38e57437-b2cc-4d26-a46e-c5b639c01e5f"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D010810"
+              }
+            ],
+            "value": "Physical and Rehabilitation Medicine"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/f6e18c52-6087-4662-904c-5c4b8174e40e"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D015272"
+              }
+            ],
+            "value": "Pulmonary medicine"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "fr",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/925320484",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Thrombose veineuse profonde"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "en",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/925320484",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Deep vein thrombosis"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants liés au système de santé : Consommation des soins"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants liés au système de santé"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Healthcare system determinants: Use of care"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Healthcare system determinants"
+          }
+        ],
+        "keyword": [
+          {
+            "lang": "fr",
+            "value": "Événement thrombo-embolique"
+          },
+          {
+            "lang": "fr",
+            "value": "facteur de risque"
+          },
+          {
+            "lang": "fr",
+            "value": "chirurgie orthopédique"
+          },
+          {
+            "lang": "en",
+            "value": "thromboembolic event"
+          },
+          {
+            "lang": "en",
+            "value": "risk factor"
+          },
+          {
+            "lang": "en",
+            "value": "orthopaedic surgery"
+          }
+        ]
+      },
+      "qualityStatement": {
+        "standardsCompliance": {}
+      },
+      "sumDscr": {
+        "dataKind": [
+          {
+            "lang": "fr",
+            "value": "Données cliniques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données rapportées par le participant de l&#x27;étude"
+          },
+          {
+            "lang": "fr",
+            "value": "Données paracliniques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données paracliniques (hors biologiques) : Imagerie"
+          },
+          {
+            "lang": "en",
+            "value": "Clinical data"
+          },
+          {
+            "lang": "en",
+            "value": "Participant-reported health data"
+          },
+          {
+            "lang": "en",
+            "value": "Paraclinical data (non-biological) : Imaging"
+          }
+        ],
+        "anlyUnit": [
+          {
+            "lang": "fr",
+            "value": "Individus"
+          },
+          {
+            "lang": "en",
+            "value": "Individuals"
+          }
+        ],
+        "nation": [
+          {
+            "lang": "fr",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          },
+          {
+            "lang": "en",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          }
+        ],
+        "universe": [
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Masculin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Féminin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Male"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Female"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Adulte (19 à 24 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adulte (25 à 44 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Adulte (45 à 64 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Personne âgée (65 à 79 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000369"
+            },
+            "value": "Grand âge (80 ans et plus)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Young Adult (19 to 24 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adult (25 to 44 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Middle Aged (45 to 64 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Aged (65 to 79 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000369"
+            },
+            "value": "Aged, 80 and over (80 years and more)"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Patients"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "en",
+            "value": "Patients population"
+          },
+          {
+            "clusion": "I",
+            "lang": "fr",
+            "value": " homme ou femme - adulte - hospitalisé pour intervention sur fracture du col du fémur"
+          },
+          {
+            "clusion": "I",
+            "lang": "en",
+            "value": "– male or female  – adult  – admitted to hospital for hip fracture surgery"
+          },
+          {
+            "clusion": "E",
+            "lang": "fr",
+            "value": ""
+          },
+          {
+            "clusion": "E",
+            "lang": "en",
+            "value": ""
+          }
+        ],
+        "collDate": {
+          "event": "start",
+          "value": "2002-01-01"
+        }
+      }
+    },
+    "dataAccs": {
+      "setAvail": {
+        "avlStatus": [
+          {
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Accès réservé"
+          },
+          {
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Restricted access"
+          }
+        ],
+        "conditions": [
+          {
+            "lang": "fr",
+            "value": "Contacter le responsable scientifique"
+          },
+          {
+            "lang": "en",
+            "value": "Contact the principal investigator"
+          }
+        ]
+      },
+      "useStmt": {}
+    },
+    "othStdMat": {
+      "relMat": [
+        {
+          "lang": "fr",
+          "value": "Accès restreint sur projet spécifique"
+        },
+        {
+          "lang": "en",
+          "value": "Access on specific project only"
+        }
+      ]
+    },
+    "studyDevelopment": {
+      "developmentActivity": [
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/morbidité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/mortalité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/morbidity"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/mortality"
+        }
+      ]
+    }
+  },
+  "docDscr": {
+    "citation": {
+      "rspStmt": {
+        "AuthEnty": "Nadia ROSENCHER"
+      },
+      "prodStmt": {
+        "producer": [
+          {
+            "affiliation": "ASSISTANCE PUBLIQUE HOPITAUX DE PARIS (AP-HP)",
+            "value": "Nadia;ROSENCHER"
+          }
+        ],
+        "prodPlac": "Portail Épidémiologie France"
+      }
+    }
+  },
+  "additional": {
+    "prodPlac": "Portail Épidémiologie France",
+    "relatedDocuments": {
+      "documentTitle": [
+        {
+          "lang": "fr"
+        },
+        {
+          "lang": "en"
+        }
+      ],
+      "documentLink": [
+        {
+          "lang": "fr",
+          "value": "http://onlinelibrary.wiley.com/doi/10.1111/j.1538-7836.2005.01545.x/full"
+        },
+        {
+          "lang": "en",
+          "value": "http://onlinelibrary.wiley.com/doi/10.1111/j.1538-7836.2005.01545.x/full"
+        }
+      ]
+    },
+    "creationDate": "02-07-2013",
+    "lastUpdatedManual": "23-06-2016",
+    "theme": {},
+    "governance": {
+      "committee": true
+    },
+    "collaborations": {},
+    "mockSample": {},
+    "dataQuality": {},
+    "variableDictionnary": {},
+    "dataTypes": {
+      "clinicalDataDetails": [
+        {
+          "lang": "fr",
+          "value": "Visite de contrôle"
+        },
+        {
+          "lang": "en",
+          "value": "Follow-up visit"
+        }
+      ],
+      "isDataInBiobank": false
+    },
+    "collectionProcess": {},
+    "geographicalCoverage": {
+      "geoDetail": [
+        {
+          "lang": "fr",
+          "value": "France (531 Centres de chirurgie orthopédique)"
+        },
+        {
+          "lang": "en",
+          "value": "France (531 orthopaedic surgery centres)"
+        }
+      ]
+    },
+    "activeFollowUp": {
+      "isActiveFollowUp": true
+    },
+    "dataCollectionIntegration": {
+      "isDataIntegration": false
+    },
+    "isHealthTheme": true
+  },
+  "schematype": "survey"
+}

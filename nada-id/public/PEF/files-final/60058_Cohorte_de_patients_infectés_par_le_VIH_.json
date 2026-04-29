@@ -1,0 +1,963 @@
+{
+  "stdyDscr": {
+    "citation": {
+      "titlStmt": {
+        "IDNo": [
+          {
+            "agency": "PEF",
+            "value": "60058"
+          },
+          {
+            "agency": "FReSH",
+            "value": "FRESH-PEF60058"
+          }
+        ],
+        "titl": [
+          {
+            "lang": "fr",
+            "value": "Cohorte de patients infectés par le VIH et traités par interleukine-2 (IL-2). Étude de la tolérance, de l'évolution clinique et biologique à long terme d'un traitement par immunothérapie."
+          },
+          {
+            "lang": "en",
+            "value": "Cohort of HIV-Infected Patients Treated with Interleukin-2 (IL-2). Study of Tolerance and Long-Term Clinical and Biological Progression of Immunotherapy Treatment."
+          }
+        ],
+        "altTitl": [
+          {
+            "lang": "fr",
+            "value": "ANRS CO14 IL-2"
+          },
+          {
+            "lang": "en",
+            "value": "ANRS CO14 IL-2"
+          }
+        ]
+      },
+      "rspStmt": {
+        "AuthEnty": [
+          {
+            "name": "Yves;LEVY",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "ASSISTANCE PUBLIQUE HOPITAUX DE PARIS (AP-HP)"
+              },
+              {
+                "lang": "en",
+                "value": "ASSISTANCE PUBLIQUE HOPITAUX DE PARIS (AP-HP)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "0000-0002-5549-6256",
+                "role": "pi id",
+                "title": "ORCID"
+              },
+              {
+                "uri": "26731650X",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/00pg5jh14",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "267500452",
+                "role": "organisation id",
+                "title": "SIREN"
+              },
+              {
+                "uri": "200919261B",
+                "role": "labo id",
+                "title": "RNSR"
+              }
+            ],
+            "isContact": true,
+            "email": "yves.levy@aphp.fr",
+            "PILabo": "IMRB (Institut Mondor de Recherche / Inserm U955"
+          },
+          {
+            "name": "Jean-Pierre;ABOULKER",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE (INSERM)"
+              },
+              {
+                "lang": "en",
+                "value": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE (INSERM)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/02vjkv261",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "180036048",
+                "role": "organisation id",
+                "title": "SIREN"
+              },
+              {
+                "uri": "201019111J",
+                "role": "labo id",
+                "title": "RNSR"
+              }
+            ],
+            "isContact": false,
+            "email": "",
+            "PILabo": "INSERM SC10 jp.aboulker@vjf.inserm.fr"
+          },
+          {
+            "name": "Dominique;COSTAGLIOLA",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE (INSERM)"
+              },
+              {
+                "lang": "en",
+                "value": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE (INSERM)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "0000-0003-0765-0869",
+                "role": "pi id",
+                "title": "ORCID"
+              },
+              {
+                "uri": "109189108",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/02vjkv261",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "180036048",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ],
+            "isContact": false,
+            "email": "",
+            "PILabo": "INSERM U720"
+          }
+        ],
+        "othId": [
+          {
+            "type": "collaboration",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "Autres cohortes apparentées : base de données hospitalière française (fhdh) sur l'infection vih."
+              },
+              {
+                "lang": "en",
+                "value": "Other associated cohorts: French hospital database (FHDH) on HIV infection."
+              }
+            ]
+          }
+        ]
+      },
+      "distStmt": {
+        "contact": [
+          {
+            "name": "Yves;LEVY",
+            "email": "yves.levy@aphp.fr",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "ASSISTANCE PUBLIQUE HOPITAUX DE PARIS (AP-HP)"
+              },
+              {
+                "lang": "en",
+                "value": "ASSISTANCE PUBLIQUE HOPITAUX DE PARIS (AP-HP)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/00pg5jh14",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "267500452",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          }
+        ]
+      },
+      "prodStmt": {
+        "fundAg": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "AGENCE NATIONALE DE RECHERCHES SUR LE SIDA ET LES HEPATITES VIRALES (ANRS MIE)"
+              },
+              {
+                "lang": "en",
+                "value": "AGENCE NATIONALE DE RECHERCHES SUR LE SIDA ET LES HEPATITES VIRALES (ANRS MIE)"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "ROR",
+                "uri": "https://ror.org/01kv58h76"
+              },
+              {
+                "title": "SIREN",
+                "uri": "180089385"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ]
+          }
+        ],
+        "producer": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "AGENCE NATIONALE DE RECHERCHES SUR LE SIDA ET LES HEPATITES VIRALES (ANRS MIE)"
+              },
+              {
+                "lang": "en",
+                "value": "AGENCE NATIONALE DE RECHERCHES SUR LE SIDA ET LES HEPATITES VIRALES (ANRS MIE)"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "ROR",
+                "uri": "https://ror.org/01kv58h76"
+              },
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "180089385"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "studyAuthorization": {
+      "authorizingAgency": {
+        "lang": "fr",
+        "value": "CPP"
+      }
+    },
+    "method": {
+      "notes": [
+        {
+          "subject": "research type",
+          "lang": "fr",
+          "value": "Etude observationnelle"
+        },
+        {
+          "subject": "research type",
+          "lang": "en",
+          "value": "Observational Study"
+        },
+        {
+          "lang": "fr",
+          "subject": "observational study method",
+          "value": "Cohorte"
+        },
+        {
+          "lang": "en",
+          "subject": "observational study method",
+          "value": "Cohort study"
+        }
+      ],
+      "stdyClas": [
+        {
+          "lang": "fr",
+          "value": "Inconnu"
+        },
+        {
+          "lang": "en",
+          "value": "Unknown"
+        }
+      ],
+      "dataColl": {
+        "targetSampleSize": [
+          {
+            "lang": "fr",
+            "value": "[500-1000[ individus"
+          },
+          {
+            "lang": "en",
+            "value": "[500-1000[ individuals"
+          }
+        ],
+        "sampleFrame": {
+          "frameUnit": {
+            "unitType": [
+              {
+                "lang": "fr",
+                "value": "Base médico-administrative (de patients, Assurance Maladie/Mutuelle) Registre de maladies, de décès"
+              },
+              {
+                "lang": "en",
+                "value": "Medical-administrative database (patients, health insurance/mutual insurance) Disease and death registry"
+              }
+            ]
+          }
+        },
+        "sources": [
+          {}
+        ],
+        "collMode": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Transcription",
+              "vocab": "CESSDA"
+            },
+            "value": "Transcription et saisie d’informations dans un enregistrement structuré"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Transcription",
+              "vocab": "CESSDA"
+            },
+            "value": "Converting or copying information into a structured record"
+          }
+        ],
+        "sampProc": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ],
+        "respRate": [
+          {
+            "lang": "fr",
+            "value": "613Nombre de sujets nécessaire : [500-1000["
+          },
+          {
+            "lang": "en",
+            "value": "613 Number of required subjects : [500-1000]"
+          }
+        ]
+      }
+    },
+    "stdyInfo": {
+      "abstract": [
+        {
+          "contentType": "purpose",
+          "lang": "fr",
+          "value": "Objectif général : étudier la tolérance clinique à long terme d'un traitement par IL-2 administré à des patients infectés par le VIH. Surveiller tout particulièrement la survenue de lymphomes non hodgkiniens, de néoplasies, de pathologies auto-immunes systématiques ou spécifiques, événements cardio-vasculaires incluant les thromboses veineuses ou artérielles. Objectif secondaire : étudier l'évolution clinique (survenue d'événements liés au VIH et classant Sida) et l'évolution biologique (réponse immunitaire CD4 et CD8 et charge virale) de l'infection par le VIH."
+        },
+        {
+          "contentType": "purpose",
+          "lang": "en",
+          "value": "General objective: to study the long-term clinical tolerance of IL-2 treatment administered to patients infected with HIV. In particular, to monitor the occurrence of non-Hodgkin's lymphoma, neoplasia, systematic or specific autoimmune diseases and cardiovascular events, including venous or arterial thrombosis. Secondary objective: to investigate clinical progression (occurrence of events related to HIV and AIDS classification) and biological progression (CD4 and CD8 immune response and viral load) of HIV infection."
+        }
+      ],
+      "subject": {
+        "topcClas": [
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/7a3cf568-46ba-4840-be8f-f22fc030139f"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D000486"
+              }
+            ],
+            "value": "Immunologie médicale"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/fa2ceeab-3b2f-45e9-9243-e5a8005b98de"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D055552"
+              }
+            ],
+            "value": "Infectiologie"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/7a3cf568-46ba-4840-be8f-f22fc030139f"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D000486"
+              }
+            ],
+            "value": "Clinical immunology"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/fa2ceeab-3b2f-45e9-9243-e5a8005b98de"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D055552"
+              }
+            ],
+            "value": "Infectious disease medicine"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants liés au système de santé : Consommation des soins"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants liés au système de santé"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Healthcare system determinants: Use of care"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Healthcare system determinants"
+          }
+        ],
+        "keyword": [
+          {
+            "lang": "fr",
+            "value": "néoplasies"
+          },
+          {
+            "lang": "fr",
+            "value": "pathologies auto-immunes"
+          },
+          {
+            "lang": "fr",
+            "value": "systémiques"
+          },
+          {
+            "lang": "fr",
+            "value": "spécifiques"
+          },
+          {
+            "lang": "fr",
+            "value": "immuno-virologie"
+          },
+          {
+            "lang": "fr",
+            "value": "événements cardiovasculaires"
+          },
+          {
+            "lang": "fr",
+            "value": "évolution clinique"
+          },
+          {
+            "lang": "en",
+            "value": "Neoplasia"
+          },
+          {
+            "lang": "en",
+            "value": "autoimmune disease"
+          },
+          {
+            "lang": "en",
+            "value": "systemic"
+          },
+          {
+            "lang": "en",
+            "value": "specific"
+          },
+          {
+            "lang": "en",
+            "value": "clinical progression"
+          },
+          {
+            "lang": "en",
+            "value": "immunovirology"
+          },
+          {
+            "lang": "en",
+            "value": "cardiovascular events"
+          }
+        ]
+      },
+      "qualityStatement": {
+        "standardsCompliance": {},
+        "otherQualityStatement": [
+          {
+            "lang": "fr",
+            "value": "Présence d'une requête de cohérence après la saisie des données informatiques Gestion des données manquantes par retour au dossier source ou retour vers un tiers"
+          },
+          {
+            "lang": "en",
+            "value": "Request for consistency after data is processed electronically Missing data is managed by returning to source file or third party"
+          }
+        ]
+      },
+      "sumDscr": {
+        "dataKind": [
+          {
+            "lang": "fr",
+            "value": "Données cliniques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données paracliniques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données biologiques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données paracliniques (hors biologiques) : Anthropométrie"
+          },
+          {
+            "lang": "en",
+            "value": "Clinical data"
+          },
+          {
+            "lang": "en",
+            "value": "Biological data"
+          },
+          {
+            "lang": "en",
+            "value": "Paraclinical data (non-biological) : Anthropometry"
+          }
+        ],
+        "anlyUnit": [
+          {
+            "lang": "fr",
+            "value": "Individus"
+          },
+          {
+            "lang": "en",
+            "value": "Individuals"
+          }
+        ],
+        "nation": [
+          {
+            "lang": "fr",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          },
+          {
+            "lang": "en",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          }
+        ],
+        "universe": [
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Masculin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Féminin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Male"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Female"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Adulte (19 à 24 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adulte (25 à 44 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Adulte (45 à 64 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Personne âgée (65 à 79 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000369"
+            },
+            "value": "Grand âge (80 ans et plus)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Young Adult (19 to 24 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adult (25 to 44 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Middle Aged (45 to 64 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Aged (65 to 79 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000369"
+            },
+            "value": "Aged, 80 and over (80 years and more)"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Patients"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "en",
+            "value": "Patients population"
+          },
+          {
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Sujets de plus de 18 ans, infectés par le VIH, ayant reçu au moins une cure d’IL-2 dans le cadre d’un essai ANRS ou de l’autorisation temporaire d'utilisation, ayant signé le consentement éclairé et affiliés ou bénéficiaires d’un régime de sécurité sociale."
+          },
+          {
+            "clusion": "I",
+            "lang": "en",
+            "value": "HIV-infected individuals over 18 years of age that have received at least one course of IL-2 in the ANRS trial or authorisation for temporary use, who have given signed consent and are affiliated members or beneficiaries of a social security scheme."
+          },
+          {
+            "clusion": "E",
+            "lang": "fr",
+            "value": ""
+          },
+          {
+            "clusion": "E",
+            "lang": "en",
+            "value": ""
+          }
+        ],
+        "collDate": {
+          "event": "start",
+          "value": "2007-01-01"
+        }
+      }
+    },
+    "dataAccs": {
+      "setAvail": {
+        "avlStatus": [
+          {
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Accès réservé"
+          },
+          {
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Restricted access"
+          }
+        ],
+        "conditions": [
+          {
+            "lang": "fr",
+            "value": "Pour les équipes académiques : Condition d&#x27;accès soumis à l&#x27;accord du promoteur et du conseil scientifique Pour les industriels : Condition d&#x27;accès soumis a l&#x27;accord du promoteur, de son conseil d&#x27;administration et du conseil scientifique de la cohorte avec contractualisation."
+          },
+          {
+            "lang": "en",
+            "value": "For academic teams: Access in accordance with agreement from sponsor and Scientific Council. For indistrial teams: Access in accordance with agreement from sponsor, their Board of Directors and the cohort Scientific Council under contract."
+          }
+        ]
+      },
+      "useStmt": {
+        "restrctn": [
+          {
+            "lang": "fr",
+            "value": "Utilisation possible des données par des équipes académiques Utilisation possible des données par des industriels"
+          },
+          {
+            "lang": "en",
+            "value": "Data may be used by academic teams. Data may be used by industrial teams."
+          }
+        ]
+      }
+    },
+    "othStdMat": {
+      "relMat": [
+        {
+          "lang": "fr",
+          "value": "Accès restreint sur projet spécifique"
+        },
+        {
+          "lang": "en",
+          "value": "Access on specific project only"
+        }
+      ]
+    },
+    "studyDevelopment": {
+      "developmentActivity": [
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/morbidité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/mortalité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/morbidity"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/mortality"
+        }
+      ]
+    }
+  },
+  "docDscr": {
+    "citation": {
+      "rspStmt": {
+        "AuthEnty": "Jean-Pierre ABOULKER"
+      },
+      "prodStmt": {
+        "producer": [
+          {
+            "affiliation": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE (INSERM)",
+            "value": "Jean-Pierre;ABOULKER"
+          }
+        ],
+        "prodPlac": "Portail Épidémiologie France"
+      }
+    }
+  },
+  "additional": {
+    "prodPlac": "Portail Épidémiologie France",
+    "creationDate": "08-03-2013",
+    "lastUpdatedManual": "22-07-2014",
+    "theme": {},
+    "governance": {},
+    "collaborations": {},
+    "mockSample": {},
+    "dataQuality": {},
+    "variableDictionnary": {},
+    "dataTypes": {
+      "clinicalDataDetails": [
+        {
+          "lang": "fr",
+          "value": "Examen clinique à l’inclusion et au cours du suivi.Périodicité de l'examen : 4 ansInformations recueillies lors de l'examen clinique : tolérance IL2, suivi clinique et immuno-virologique de l'infection VIH."
+        },
+        {
+          "lang": "en",
+          "value": "Clinical examination at baseline and during follow-up. Frequency of examination: 4 years Information collected during clinical examination: IL2 tolerance, clinical and immuno-virological monitoring of HIV infection."
+        }
+      ],
+      "biologicalDataDetails": [
+        {
+          "lang": "fr",
+          "value": "Type de prélèvements réalisés : Sang"
+        },
+        {
+          "lang": "en",
+          "value": "Type of samples taken: Blood"
+        }
+      ],
+      "isDataInBiobank": true
+    },
+    "collectionProcess": {
+      "collectionModeDetails": [
+        {
+          "lang": "fr",
+          "value": "Examen clinique : saisie manuelle"
+        },
+        {
+          "lang": "en",
+          "value": "Clinical examination: manual input"
+        }
+      ]
+    },
+    "geographicalCoverage": {
+      "geoDetail": [
+        {
+          "lang": "fr",
+          "value": "Cohorte multicentrique (20 centres) française"
+        },
+        {
+          "lang": "en",
+          "value": "Multicentric cohort throughout France (20 centres)"
+        }
+      ]
+    },
+    "activeFollowUp": {
+      "isActiveFollowUp": true
+    },
+    "dataCollectionIntegration": {
+      "isDataIntegration": false
+    },
+    "isHealthTheme": true
+  },
+  "schematype": "survey"
+}

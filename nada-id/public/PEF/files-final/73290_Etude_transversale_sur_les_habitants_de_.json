@@ -1,0 +1,894 @@
+{
+  "stdyDscr": {
+    "citation": {
+      "titlStmt": {
+        "IDNo": [
+          {
+            "agency": "PEF",
+            "value": "73290"
+          },
+          {
+            "agency": "FReSH",
+            "value": "FRESH-PEF73290"
+          }
+        ],
+        "titl": [
+          {
+            "lang": "fr",
+            "value": "Etude transversale sur les habitants de Dunkerque et Lille : relations entre risque de troubles ventilatoires obstructifs et pollution atmosphérique d'origine industrielle"
+          },
+          {
+            "lang": "en",
+            "value": "Epidemiological Study on the Relationship Between Respiratory Health and Air Pollution From Industrial Sources"
+          }
+        ],
+        "altTitl": [
+          {
+            "lang": "fr",
+            "value": "ELISABET : Enquête LIttoral Souffle Air Biologie EnvironnemenT"
+          },
+          {
+            "lang": "en",
+            "value": "ELISABET"
+          }
+        ]
+      },
+      "rspStmt": {
+        "AuthEnty": [
+          {
+            "name": "Luc;DAUCHET",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "INSTITUT PASTEUR DE LILLE"
+              },
+              {
+                "lang": "en",
+                "value": "INSTITUT PASTEUR DE LILLE"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "0000-0002-2398-0596",
+                "role": "pi id",
+                "title": "ORCID"
+              },
+              {
+                "uri": "09198873X",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/05k9skc85",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "783696834",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ],
+            "isContact": true,
+            "email": "Luc.dauchet@pasteur-lille.fr",
+            "PILabo": "Institut Pasteur de Lille / Service d'Epidémiologie et de Santé Publique Hôpital Calmette - Centre Hospitalier et Universitaire de Lille"
+          }
+        ],
+        "othId": [
+          {
+            "type": "collaboration",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "NCD Risk Factor Collaboration (NCD-RisC)."
+              },
+              {
+                "lang": "en",
+                "value": "NCD Risk Factor Collaboration (NCD-RisC)."
+              }
+            ]
+          }
+        ]
+      },
+      "distStmt": {
+        "contact": [
+          {
+            "name": "Luc;DAUCHET",
+            "email": "Luc.dauchet@pasteur-lille.fr",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "INSTITUT PASTEUR DE LILLE"
+              },
+              {
+                "lang": "en",
+                "value": "INSTITUT PASTEUR DE LILLE"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/05k9skc85",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "783696834",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          }
+        ]
+      },
+      "prodStmt": {
+        "fundAg": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "EUROPEAN COMMISSION RESEARCH"
+              },
+              {
+                "lang": "en",
+                "value": "EUROPEAN COMMISSION RESEARCH"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "ROR",
+                "uri": "https://ror.org/00k4n6c32"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Public (Europe)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (Europe)"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "REGION HAUTS-DE-France"
+              },
+              {
+                "lang": "en",
+                "value": "REGION HAUTS-DE-France"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "SIREN",
+                "uri": "200053742"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "lang": "fr"
+              },
+              {
+                "lang": "en"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ]
+          }
+        ],
+        "producer": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "CENTRE HOSPITALIER UNIVERSITAIRE DE LILLE (CHU)"
+              },
+              {
+                "lang": "en",
+                "value": "CENTRE HOSPITALIER UNIVERSITAIRE DE LILLE (CHU)"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "ROR",
+                "uri": "https://ror.org/02ppyfa04"
+              },
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "265906719"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "studyAuthorization": [
+      {
+        "authorizingAgency": {
+          "lang": "fr",
+          "value": "CPP"
+        }
+      },
+      {
+        "authorizingAgency": {
+          "lang": "fr",
+          "value": "Autre"
+        }
+      }
+    ],
+    "method": {
+      "notes": [
+        {
+          "subject": "research type",
+          "lang": "fr",
+          "value": "Etude observationnelle"
+        },
+        {
+          "subject": "research type",
+          "lang": "en",
+          "value": "Observational Study"
+        }
+      ],
+      "stdyClas": [
+        {
+          "lang": "fr",
+          "value": "Étude complétée"
+        },
+        {
+          "lang": "en",
+          "value": "Completed study"
+        }
+      ],
+      "dataColl": {
+        "targetSampleSize": [
+          {
+            "lang": "fr",
+            "value": "[1000-10000[ individus"
+          },
+          {
+            "lang": "en",
+            "value": "[1000-10000[ individuals"
+          }
+        ],
+        "timeMeth": [
+          {
+            "lang": "fr",
+            "value": "Etude transversale non répétée"
+          },
+          {
+            "lang": "en",
+            "value": "One-time cross-sectional study"
+          }
+        ],
+        "sampleFrame": {
+          "frameUnit": {
+            "unitType": [
+              {
+                "lang": "fr",
+                "value": "Base de population à finalité statistique"
+              },
+              {
+                "lang": "en",
+                "value": "Population database for statistical purposes"
+              }
+            ]
+          }
+        },
+        "sources": [
+          {}
+        ],
+        "collMode": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Interview",
+              "vocab": "CESSDA"
+            },
+            "value": "Entretien avec le participant (dont clinique)"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Interview",
+              "vocab": "CESSDA"
+            },
+            "value": "Interview with the participant (including clinical)"
+          }
+        ],
+        "sampProc": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ],
+        "respRate": [
+          {
+            "lang": "fr",
+            "value": "3276"
+          },
+          {
+            "lang": "en",
+            "value": "3276"
+          }
+        ]
+      }
+    },
+    "stdyInfo": {
+      "abstract": [
+        {
+          "contentType": "purpose",
+          "lang": "fr",
+          "value": "Connaître les relations entre risque de troubles ventilatoires obstructifs et pollution atmosphérique d'origine industrielle. Évaluer la prévalence des troubles ventilatoires obstructifs dans deux populations urbaines en France. Connaître les niveaux d'imprégnation en métaux des populations vivant à proximité d'émissions industrielles."
+        },
+        {
+          "contentType": "purpose",
+          "lang": "en",
+          "value": "To compare the prevalence of the obstructive ventilatory disorders (OVD) in the Urban Community of Dunkirk touched by the industrial pollution in relation to the one recovered in the Urban Community of Lille less industrialized."
+        }
+      ],
+      "subject": {
+        "topcClas": [
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/4455c187-2f2f-4cd1-a4dd-449f59d73b39"
+              },
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/c42fc6ec-b216-4a24-9e9d-f5e781c175a0"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D002309"
+              }
+            ],
+            "value": "Cardiologie et médecine vasculaire"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/f6e18c52-6087-4662-904c-5c4b8174e40e"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D015272"
+              }
+            ],
+            "value": "Pneumologie"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/4455c187-2f2f-4cd1-a4dd-449f59d73b39"
+              },
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/c42fc6ec-b216-4a24-9e9d-f5e781c175a0"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D002309"
+              }
+            ],
+            "value": "Cardiology and vascular medicine"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/f6e18c52-6087-4662-904c-5c4b8174e40e"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D015272"
+              }
+            ],
+            "value": "Pulmonary medicine"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "fr",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/1656445230",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Asthme"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "en",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/1656445230",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Asthma"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants environnementaux : Climat"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants environnementaux : Autres"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants comportementaux"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants environnementaux"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Environmental determinants: Climate"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Environmental determinants: Other"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Behavioral determinants"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Environmental determinants"
+          }
+        ],
+        "keyword": [
+          {
+            "lang": "fr",
+            "value": "pollution industrielle"
+          },
+          {
+            "lang": "fr",
+            "value": "épreuves fonctionnelles respiratoires"
+          },
+          {
+            "lang": "en",
+            "value": "industrial air pollutant"
+          },
+          {
+            "lang": "en",
+            "value": "functional tests lung"
+          }
+        ]
+      },
+      "qualityStatement": {
+        "standardsCompliance": {}
+      },
+      "sumDscr": {
+        "dataKind": [
+          {
+            "lang": "fr",
+            "value": "Données cliniques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données rapportées par le participant de l&#x27;étude"
+          },
+          {
+            "lang": "fr",
+            "value": "Données biologiques"
+          },
+          {
+            "lang": "en",
+            "value": "Clinical data"
+          },
+          {
+            "lang": "en",
+            "value": "Participant-reported health data"
+          },
+          {
+            "lang": "en",
+            "value": "Biological data"
+          }
+        ],
+        "anlyUnit": [
+          {
+            "lang": "fr",
+            "value": "Individus"
+          },
+          {
+            "lang": "en",
+            "value": "Individuals"
+          }
+        ],
+        "nation": [
+          {
+            "lang": "fr",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          },
+          {
+            "lang": "en",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          }
+        ],
+        "geogCover": [
+          {
+            "lang": "fr",
+            "value": "Hauts-de-France"
+          },
+          {
+            "lang": "en",
+            "value": "Hauts-de-France"
+          }
+        ],
+        "universe": [
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Masculin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Féminin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Male"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Female"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adulte (25 à 44 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Adulte (45 à 64 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adult (25 to 44 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Middle Aged (45 to 64 years)"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Population générale"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "en",
+            "value": "General population"
+          },
+          {
+            "clusion": "I",
+            "lang": "fr",
+            "value": " hommes et femmes - âgées de 40 à 64 ans - inscrit sur les listes électorales des municipalités de la Communauté Urbaine de Dunkerque et la Communauté Urbaine de Lille"
+          },
+          {
+            "clusion": "I",
+            "lang": "en",
+            "value": "men and women - 40 years to 64 years - living in the Urban Community of Dunkirk or in the Urban Community of Lille"
+          },
+          {
+            "clusion": "E",
+            "lang": "fr",
+            "value": ""
+          },
+          {
+            "clusion": "E",
+            "lang": "en",
+            "value": ""
+          }
+        ],
+        "collDate": [
+          {
+            "event": "start",
+            "value": "2011-01-01"
+          },
+          {
+            "event": "end",
+            "value": "2013-01-01"
+          }
+        ]
+      }
+    },
+    "dataAccs": {
+      "setAvail": {
+        "avlStatus": [
+          {
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Accès réservé"
+          },
+          {
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Restricted access"
+          }
+        ],
+        "conditions": [
+          {
+            "lang": "fr",
+            "value": "Contacter le responsable scientifique. Le projet est ouvert à des collaborations pour des études ancillaires après accord du comité de pilotage."
+          },
+          {
+            "lang": "en",
+            "value": "possibility to propose Ancillary study after validation by the steering comity."
+          }
+        ]
+      },
+      "useStmt": {}
+    },
+    "othStdMat": {
+      "relMat": [
+        {
+          "lang": "fr",
+          "value": "Accès restreint sur projet spécifique"
+        },
+        {
+          "lang": "en",
+          "value": "Access on specific project only"
+        }
+      ]
+    },
+    "studyDevelopment": {
+      "developmentActivity": [
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/morbidité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/morbidity"
+        }
+      ]
+    }
+  },
+  "docDscr": {
+    "citation": {
+      "rspStmt": {
+        "AuthEnty": "Luc DAUCHET"
+      },
+      "prodStmt": {
+        "producer": [
+          {
+            "affiliation": "INSTITUT PASTEUR DE LILLE",
+            "value": "Luc;DAUCHET"
+          }
+        ],
+        "prodPlac": "Portail Épidémiologie France"
+      }
+    }
+  },
+  "additional": {
+    "prodPlac": "Portail Épidémiologie France",
+    "relatedDocuments": {
+      "documentTitle": [
+        {
+          "lang": "fr",
+          "value": "Epidemiological Study on the Relationship Between Respiratory Health and Air Pollution From Industrial Sources (ELISABET)"
+        },
+        {
+          "lang": "en",
+          "value": "Epidemiological Study on the Relationship Between Respiratory Health and Air Pollution From Industrial Sources (ELISABET)"
+        }
+      ],
+      "documentLink": [
+        {
+          "lang": "fr",
+          "value": "https://clinicaltrials.gov/ct2/show/NCT02490553"
+        },
+        {
+          "lang": "en",
+          "value": "https://clinicaltrials.gov/ct2/show/NCT02490553"
+        }
+      ]
+    },
+    "creationDate": "03-12-2015",
+    "lastUpdatedManual": "03-12-2015",
+    "theme": {},
+    "governance": {
+      "committee": true
+    },
+    "collaborations": {},
+    "mockSample": {},
+    "dataQuality": {},
+    "variableDictionnary": {},
+    "dataTypes": {
+      "clinicalDataDetails": [
+        {
+          "lang": "fr",
+          "value": "Explorations fonctionnelles respiratoires et de mesures de la fraction expirée du monoxyde d’azote. tension artériel."
+        },
+        {
+          "lang": "en",
+          "value": "spirometry testing, functional tests lung, Blood pressure"
+        }
+      ],
+      "biologicalDataDetails": [
+        {
+          "lang": "fr",
+          "value": "Prélèvement sanguin (44 ml permettant le dosage des métaux plasmatiques ainsi que des dosages biologiques standards), un prélèvement urinaire."
+        },
+        {
+          "lang": "en",
+          "value": "lipids, glycemia, HBA1C, Blood metals, standard bilogical analysis"
+        }
+      ],
+      "isDataInBiobank": true
+    },
+    "collectionProcess": {
+      "collectionModeDetails": [
+        {
+          "lang": "fr",
+          "value": "L'enquête a été effectuée le plus souvent au domicile des personnes sélectionnées. Les questionnaires seront administrés par interrogatoires dirigés."
+        },
+        {
+          "lang": "en",
+          "value": "Data was collected at home. In all cases, a trained, registered nurse administered a detailed questionnaire and performed spirometry testing."
+        }
+      ]
+    },
+    "geographicalCoverage": {
+      "geoDetail": [
+        {
+          "lang": "fr",
+          "value": "Dunkerque et Lille"
+        },
+        {
+          "lang": "en",
+          "value": "Dunkirk and Lille"
+        }
+      ]
+    },
+    "activeFollowUp": {
+      "isActiveFollowUp": false
+    },
+    "dataCollectionIntegration": {
+      "isDataIntegration": false
+    },
+    "isHealthTheme": true
+  },
+  "schematype": "survey"
+}

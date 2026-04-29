@@ -1,0 +1,929 @@
+{
+  "stdyDscr": {
+    "citation": {
+      "titlStmt": {
+        "IDNo": [
+          {
+            "agency": "PEF",
+            "value": "73209"
+          },
+          {
+            "agency": "FReSH",
+            "value": "FRESH-PEF73209"
+          }
+        ],
+        "titl": [
+          {
+            "lang": "fr",
+            "value": "Etude restrospective sur les décès d'enfants de moins d'1 an dans l'agglomération de Lille : mortalité infantile, défaveur et proximité aux industries polluantes"
+          },
+          {
+            "lang": "en",
+            "value": "Infant mortality, deprivation and proximity to polluting industrial facilities"
+          }
+        ]
+      },
+      "rspStmt": {
+        "AuthEnty": [
+          {
+            "name": "Cindy;PADILLA",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "INSTITUT DE RECHERCHE EN SANTE, ENVIRONNEMENT ET TRAVAIL (IRSET)"
+              },
+              {
+                "lang": "en",
+                "value": "INSTITUT DE RECHERCHE EN SANTE, ENVIRONNEMENT ET TRAVAIL (IRSET)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "177534974",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/01p178v10",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "201722263E",
+                "role": "labo id",
+                "title": "RNSR"
+              }
+            ],
+            "isContact": true,
+            "email": "cindy.padilla@ehesp.fr",
+            "PILabo": "Université Sorbonne Paris Cité / U1085 Inserm Equipe/activité : Effets neuroendocriniens des perturbateurs endoctriniens"
+          }
+        ],
+        "othId": []
+      },
+      "distStmt": {
+        "contact": [
+          {
+            "name": "Cindy;PADILLA",
+            "email": "cindy.padilla@ehesp.fr",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "INSTITUT DE RECHERCHE EN SANTE, ENVIRONNEMENT ET TRAVAIL (IRSET)"
+              },
+              {
+                "lang": "en",
+                "value": "INSTITUT DE RECHERCHE EN SANTE, ENVIRONNEMENT ET TRAVAIL (IRSET)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/01p178v10",
+                "role": "organisation id",
+                "title": "ROR"
+              }
+            ]
+          }
+        ]
+      },
+      "prodStmt": {
+        "fundAg": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "AGENCE DE L ENVIRONNEMENT ET DE LA MAITRISE DE L ENERGIE (ADEME)"
+              },
+              {
+                "lang": "en",
+                "value": "AGENCE DE L ENVIRONNEMENT ET DE LA MAITRISE DE L ENERGIE (ADEME)"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "SIREN",
+                "uri": "385290309"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "AGENCE NATIONALE DE LA RECHERCHE (ANR)"
+              },
+              {
+                "lang": "en",
+                "value": "AGENCE NATIONALE DE LA RECHERCHE (ANR)"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "ROR",
+                "uri": "https://ror.org/00rbzpz17"
+              },
+              {
+                "title": "SIREN",
+                "uri": "130002504"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "ECOLE DES HAUTES ETUDES EN SANTE PUBLIQUE (EHESP)"
+              },
+              {
+                "lang": "en",
+                "value": "ECOLE DES HAUTES ETUDES EN SANTE PUBLIQUE (EHESP)"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "ROR",
+                "uri": "https://ror.org/01sc83v92"
+              },
+              {
+                "title": "SIREN",
+                "uri": "130003627"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "MINISTERE DU TRAVAIL, DE LA SANTE, DES SOLIDARITES ET DES FAMILLES"
+              },
+              {
+                "lang": "en",
+                "value": "MINISTERE DU TRAVAIL, DE LA SANTE, DES SOLIDARITES ET DES FAMILLES"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "ROR",
+                "uri": "https://ror.org/01wp0c315"
+              },
+              {
+                "title": "SIREN",
+                "uri": "130016546"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "REGION HAUTS-DE-France"
+              },
+              {
+                "lang": "en",
+                "value": "REGION HAUTS-DE-France"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "SIREN",
+                "uri": "200053742"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ]
+          }
+        ],
+        "producer": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "INSTITUT DE RECHERCHE EN SANTE, ENVIRONNEMENT ET TRAVAIL (IRSET)"
+              },
+              {
+                "lang": "en",
+                "value": "INSTITUT DE RECHERCHE EN SANTE, ENVIRONNEMENT ET TRAVAIL (IRSET)"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "ROR",
+                "uri": "https://ror.org/01p178v10"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "UNIVERSITE PARIS CITE"
+              },
+              {
+                "lang": "en",
+                "value": "UNIVERSITE PARIS CITE"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "ROR",
+                "uri": "https://ror.org/05f82e368"
+              },
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "130025737"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "ECOLE DES HAUTES ETUDES EN SANTE PUBLIQUE (EHESP)"
+              },
+              {
+                "lang": "en",
+                "value": "ECOLE DES HAUTES ETUDES EN SANTE PUBLIQUE (EHESP)"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "ROR",
+                "uri": "https://ror.org/01sc83v92"
+              },
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "130003627"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "studyAuthorization": {
+      "authorizingAgency": {
+        "lang": "fr",
+        "value": "CNIL"
+      }
+    },
+    "method": {
+      "notes": [
+        {
+          "subject": "research type",
+          "lang": "fr",
+          "value": "Etude observationnelle"
+        },
+        {
+          "subject": "research type",
+          "lang": "en",
+          "value": "Observational Study"
+        }
+      ],
+      "stdyClas": [
+        {
+          "lang": "fr",
+          "value": "Étude complétée"
+        },
+        {
+          "lang": "en",
+          "value": "Completed study"
+        }
+      ],
+      "dataColl": {
+        "targetSampleSize": [
+          {
+            "lang": "fr",
+            "value": "[500-1000[ individus"
+          },
+          {
+            "lang": "en",
+            "value": "[500-1000[ individuals"
+          }
+        ],
+        "timeMeth": [
+          {
+            "lang": "fr",
+            "value": "Etude transversale non répétée"
+          },
+          {
+            "lang": "en",
+            "value": "One-time cross-sectional study"
+          }
+        ],
+        "sampleFrame": {
+          "frameUnit": {
+            "unitType": [
+              {
+                "lang": "fr",
+                "value": "Registre de maladies, de décès"
+              },
+              {
+                "lang": "en",
+                "value": "Disease and death registry"
+              }
+            ]
+          }
+        },
+        "sources": [
+          {}
+        ],
+        "collMode": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Transcription",
+              "vocab": "CESSDA"
+            },
+            "value": "Transcription et saisie d’informations dans un enregistrement structuré"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Transcription",
+              "vocab": "CESSDA"
+            },
+            "value": "Converting or copying information into a structured record"
+          }
+        ],
+        "sampProc": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ],
+        "respRate": [
+          {
+            "lang": "fr",
+            "value": "668"
+          },
+          {
+            "lang": "en",
+            "value": "668"
+          }
+        ]
+      }
+    },
+    "stdyInfo": {
+      "abstract": [
+        {
+          "contentType": "purpose",
+          "lang": "fr",
+          "value": "Étudier la relation entre les variabilités géographiques des inégalités de mortalité infantile et la défaveur socioéconomique et environnementale à une échelle fine de l'agglomération de Lille."
+        },
+        {
+          "contentType": "purpose",
+          "lang": "en",
+          "value": "Investigates the association between infant mortality and social deprivation categories at a small area level in the Lille metropolitan area."
+        }
+      ],
+      "subject": {
+        "topcClas": [
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/bf8aaaac-ddee-41cd-bb8a-c5a63de3fcbd"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D010372"
+              }
+            ],
+            "value": "Pédiatrie"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/bf8aaaac-ddee-41cd-bb8a-c5a63de3fcbd"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D010372"
+              }
+            ],
+            "value": "Paediatrics"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants environnementaux"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants environnementaux : Autres"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants socio-démographiques et économiques"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Environmental determinants"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Environmental determinants: Other"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Socio-demographic and economic determinants"
+          }
+        ],
+        "keyword": [
+          {
+            "lang": "fr",
+            "value": "Mortalité infantile"
+          },
+          {
+            "lang": "fr",
+            "value": "indicateurs d'état sanitaire"
+          },
+          {
+            "lang": "fr",
+            "value": "défaveur"
+          },
+          {
+            "lang": "fr",
+            "value": "théorème de Bayes"
+          },
+          {
+            "lang": "fr",
+            "value": "inégalités sociales de santé"
+          },
+          {
+            "lang": "en",
+            "value": "Infant mortality"
+          },
+          {
+            "lang": "en",
+            "value": "health status indicators"
+          },
+          {
+            "lang": "en",
+            "value": "deprivation"
+          },
+          {
+            "lang": "en",
+            "value": "Bayes theorem"
+          },
+          {
+            "lang": "en",
+            "value": "health status disparities"
+          }
+        ]
+      },
+      "qualityStatement": {
+        "standardsCompliance": {
+          "standard": {
+            "standardName": [
+              {
+                "lang": "fr",
+                "value": "L’unité géographique utilisée est l’IRIS (Îlots Regroupés pour l’Information Statistique, regroupant en moyenne 2000 habitants) qui constitue la plus petite unité géographique en France pour laquelle les données démographiques et socio-économiques du recensement national sont disponibles. Le niveau socio-démographique des Iris a été estimé par l'indicateur de défaveur socio-économique. Il a été construit à partir des données du recensement de l'Insee de 1999. Il est composé de 19 variables qui re flètent la dimension matérielle et sociale de la défaveur."
+              },
+              {
+                "lang": "en",
+                "value": "The small-area level used was the French census block, a sub-municipal division designated by the National Census Bureau. It is the smallest administrative unit in France for which socioeconomic and demographic information is available from the national census. To characterize the neighborhood deprivation, we used a socioeconomic deprivation index developed in France at the census block level including 19 socioeconomic indicators encompassing the various domains of deprivation."
+              }
+            ]
+          }
+        },
+        "otherQualityStatement": [
+          {
+            "lang": "fr",
+            "value": "Logiciel WinBUGS version 1.4.1"
+          },
+          {
+            "lang": "en",
+            "value": "WinBUGS version 1.4.1 logiciel"
+          }
+        ]
+      },
+      "sumDscr": {
+        "dataKind": [
+          {
+            "lang": "fr",
+            "value": "Données socio-démographiques"
+          },
+          {
+            "lang": "en",
+            "value": "Socio-demographic data"
+          }
+        ],
+        "anlyUnit": [
+          {
+            "lang": "fr",
+            "value": "Individus"
+          },
+          {
+            "lang": "en",
+            "value": "Individuals"
+          }
+        ],
+        "nation": [
+          {
+            "lang": "fr",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          },
+          {
+            "lang": "en",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          }
+        ],
+        "geogCover": [
+          {
+            "lang": "fr",
+            "value": "Hauts-de-France"
+          },
+          {
+            "lang": "en",
+            "value": "Hauts-de-France"
+          }
+        ],
+        "universe": [
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Masculin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Féminin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Male"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Female"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D007231"
+            },
+            "value": "Nouveau-né (naissance à 28j)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D007223"
+            },
+            "value": "Nourrisson (28j à 2 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D007231"
+            },
+            "value": "Infant, Newborn (birth to 28 days)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D007223"
+            },
+            "value": "Infant (28 days to 2 years)"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Population générale"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "en",
+            "value": "General population"
+          },
+          {
+            "clusion": "I",
+            "lang": "fr",
+            "value": " cas de décès d'enfants de moins d'1 an - vivant dans l'agglomération de Lille"
+          },
+          {
+            "clusion": "I",
+            "lang": "en",
+            "value": ""
+          },
+          {
+            "clusion": "E",
+            "lang": "fr",
+            "value": ""
+          },
+          {
+            "clusion": "E",
+            "lang": "en",
+            "value": ""
+          }
+        ],
+        "collDate": [
+          {
+            "event": "start",
+            "value": "2000-01-01"
+          },
+          {
+            "event": "end",
+            "value": "2009-01-01"
+          }
+        ]
+      }
+    },
+    "dataAccs": {
+      "setAvail": {
+        "avlStatus": [
+          {
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Accès réservé"
+          },
+          {
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Restricted access"
+          }
+        ],
+        "conditions": [
+          {
+            "lang": "fr",
+            "value": "Contacter le responsable scientifique"
+          },
+          {
+            "lang": "en"
+          }
+        ]
+      },
+      "useStmt": {}
+    },
+    "othStdMat": {
+      "relMat": [
+        {
+          "lang": "fr",
+          "value": "Accès restreint sur projet spécifique"
+        },
+        {
+          "lang": "en",
+          "value": "Access on specific project only"
+        }
+      ]
+    },
+    "studyDevelopment": {
+      "developmentActivity": [
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/mortalité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/mortality"
+        }
+      ]
+    }
+  },
+  "docDscr": {
+    "citation": {
+      "rspStmt": {
+        "AuthEnty": "Cindy PADILLA"
+      },
+      "prodStmt": {
+        "producer": [
+          {
+            "affiliation": "INSTITUT DE RECHERCHE EN SANTE, ENVIRONNEMENT ET TRAVAIL (IRSET)",
+            "value": "Cindy;PADILLA"
+          }
+        ],
+        "prodPlac": "Portail Épidémiologie France"
+      }
+    }
+  },
+  "additional": {
+    "prodPlac": "Portail Épidémiologie France",
+    "relatedDocuments": {
+      "documentTitle": [
+        {
+          "lang": "fr",
+          "value": "Mortalité infantile, défaveur et proximité aux industries polluantes : une analyse spatiale conduite à fine échelle (agglomération de Lille, France)"
+        },
+        {
+          "lang": "en",
+          "value": "Mortalité infantile, défaveur et proximité aux industries polluantes : une analyse spatiale conduite à fine échelle (agglomération de Lille, France)"
+        }
+      ],
+      "documentLink": [
+        {
+          "lang": "fr",
+          "value": "http://www.equitarea.org/documents/scientifiques/Padilla_ERS_2011.pdf"
+        },
+        {
+          "lang": "en",
+          "value": "http://www.equitarea.org/documents/scientifiques/Padilla_ERS_2011.pdf"
+        }
+      ]
+    },
+    "creationDate": "28-08-2015",
+    "lastUpdatedManual": "01-01-2019",
+    "theme": {},
+    "governance": {},
+    "collaborations": {},
+    "mockSample": {},
+    "dataQuality": {},
+    "variableDictionnary": {},
+    "dataTypes": {
+      "isDataInBiobank": false
+    },
+    "collectionProcess": {
+      "collectionModeDetails": [
+        {
+          "lang": "fr",
+          "value": "Les décès d'enfants de moins d'1 an ont été recueillis auprès des mairies de l'agglomération de Lille."
+        },
+        {
+          "lang": "en",
+          "value": "data were collected from all the municipalities of Lille metropolitan area."
+        }
+      ]
+    },
+    "geographicalCoverage": {
+      "geoDetail": [
+        {
+          "lang": "fr",
+          "value": "Agglomération de Lille"
+        },
+        {
+          "lang": "en",
+          "value": "Lille metropolitan area"
+        }
+      ]
+    },
+    "activeFollowUp": {
+      "isActiveFollowUp": false
+    },
+    "dataCollectionIntegration": {
+      "isDataIntegration": false
+    },
+    "isHealthTheme": true
+  },
+  "schematype": "survey"
+}

@@ -1,0 +1,766 @@
+{
+  "stdyDscr": {
+    "citation": {
+      "titlStmt": {
+        "IDNo": [
+          {
+            "agency": "PEF",
+            "value": "60142"
+          },
+          {
+            "agency": "FReSH",
+            "value": "FRESH-PEF60142"
+          }
+        ],
+        "titl": [
+          {
+            "lang": "fr",
+            "value": "Etude longitudinale sur des patients bénéficiant de la pose d'un défibrillateur automatique implantable/évaluation médico-économique"
+          },
+          {
+            "lang": "en",
+            "value": "Medico-Economic Evaluation of Automatic Implantable Defibrillator"
+          }
+        ],
+        "altTitl": [
+          {
+            "lang": "fr",
+            "value": "EVADEF"
+          },
+          {
+            "lang": "en",
+            "value": "EVADEF"
+          }
+        ]
+      },
+      "rspStmt": {
+        "AuthEnty": [
+          {
+            "name": "Jean-Yves;LE HEUZEY",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "ASSISTANCE PUBLIQUE HOPITAUX DE PARIS (AP-HP)"
+              },
+              {
+                "lang": "en",
+                "value": "ASSISTANCE PUBLIQUE HOPITAUX DE PARIS (AP-HP)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "029687721",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/00pg5jh14",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "267500452",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ],
+            "isContact": true,
+            "email": "jean-yves.le-heuzey@aphp.fr",
+            "PILabo": "DÉPARTEMENT DE CARDIOLOGIE A, HÔPITAL EUROPÉEN GEORGES POMPIDOU, 20 RUE LEBLANC, 75908 PARIS CEDEX 15"
+          }
+        ],
+        "othId": []
+      },
+      "distStmt": {
+        "contact": [
+          {
+            "name": "Jean-Yves;LE HEUZEY",
+            "email": "jean-yves.le-heuzey@aphp.fr",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "ASSISTANCE PUBLIQUE HOPITAUX DE PARIS (AP-HP)"
+              },
+              {
+                "lang": "en",
+                "value": "ASSISTANCE PUBLIQUE HOPITAUX DE PARIS (AP-HP)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/00pg5jh14",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "267500452",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          }
+        ]
+      },
+      "prodStmt": {
+        "fundAg": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "MINISTERE DU TRAVAIL, DE LA SANTE, DES SOLIDARITES ET DES FAMILLES"
+              },
+              {
+                "lang": "en",
+                "value": "MINISTERE DU TRAVAIL, DE LA SANTE, DES SOLIDARITES ET DES FAMILLES"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "ROR",
+                "uri": "https://ror.org/01wp0c315"
+              },
+              {
+                "title": "SIREN",
+                "uri": "130016546"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ]
+          }
+        ],
+        "producer": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "ASSOCIATION DE SOUTIEN A LA FILIALE D'IMAGERIE CARDIOVASCULAIRE DE LA SOCIETE FRANCAISE DE CARDIOLOGIE (ASFIC)"
+              },
+              {
+                "lang": "en",
+                "value": "ASSOCIATION DE SOUTIEN A LA FILIALE D'IMAGERIE CARDIOVASCULAIRE DE LA SOCIETE FRANCAISE DE CARDIOLOGIE (ASFIC)"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Privé à but non lucratif"
+              },
+              {
+                "lang": "en",
+                "value": "Private non-profit"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "ROR",
+                "uri": "https://ror.org/03vqp1c86"
+              },
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "411962640"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "studyAuthorization": {
+      "authorizingAgency": {
+        "lang": "fr",
+        "value": "CNIL"
+      }
+    },
+    "method": {
+      "notes": [
+        {
+          "subject": "research type",
+          "lang": "fr",
+          "value": "Etude observationnelle"
+        },
+        {
+          "subject": "research type",
+          "lang": "en",
+          "value": "Observational Study"
+        }
+      ],
+      "stdyClas": [
+        {
+          "lang": "fr",
+          "value": "Inconnu"
+        },
+        {
+          "lang": "en",
+          "value": "Unknown"
+        }
+      ],
+      "dataColl": {
+        "targetSampleSize": [
+          {
+            "lang": "fr",
+            "value": "[1000-10000[ individus"
+          },
+          {
+            "lang": "en",
+            "value": "[1000-10000[ individuals"
+          }
+        ],
+        "sampleFrame": {
+          "frameUnit": {
+            "unitType": [
+              {
+                "lang": "fr",
+                "value": "Via des structures (services ou établissements de santé, écoles, entreprises…)"
+              },
+              {
+                "lang": "en",
+                "value": "Through organizations (health services or institutions, schools, businesses, etc.)"
+              }
+            ]
+          }
+        },
+        "sources": [
+          {}
+        ],
+        "collMode": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "SelfAdministeredQuestionnaire",
+              "vocab": "CESSDA"
+            },
+            "value": "Questionnaire auto-administré"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "SelfAdministeredQuestionnaire",
+              "vocab": "CESSDA"
+            },
+            "value": "Self-administered questionnaire"
+          },
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Interview",
+              "vocab": "CESSDA"
+            },
+            "value": "Entretien avec le participant (dont clinique)"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Interview",
+              "vocab": "CESSDA"
+            },
+            "value": "Interview with the participant (including clinical)"
+          }
+        ],
+        "sampProc": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ],
+        "respRate": [
+          {
+            "lang": "fr",
+            "value": "2418"
+          },
+          {
+            "lang": "en",
+            "value": "2418"
+          }
+        ]
+      }
+    },
+    "stdyInfo": {
+      "abstract": [
+        {
+          "contentType": "purpose",
+          "lang": "fr",
+          "value": "Évaluer le coût lié à l'utilisation du défibrillateur automatique implantable en France Objectif secondaire : - Complications du défibrillateur automatique implantable ; - Étude des causes spécifiques de décès chez les patients porteurs de défibrillateurs ; - Impact psychologique du défibrillateur automatique implantable ; - Incidence des thérapies appropriées et inappropriées."
+        },
+        {
+          "contentType": "purpose",
+          "lang": "en",
+          "value": "To assess the cost of automatic implantable defibrillator usage in France. Secondary objective: - Complications associated with automatic implantable defibrillators; - To investigate cause-specific mortality in patients with automatic implantable defibrillators; - The psychological impact of automatic implantable defibrillators; - Incidence of appropriate and inappropriate therapies."
+        }
+      ],
+      "subject": {
+        "topcClas": [
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/4455c187-2f2f-4cd1-a4dd-449f59d73b39"
+              },
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/c42fc6ec-b216-4a24-9e9d-f5e781c175a0"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D002309"
+              }
+            ],
+            "value": "Cardiologie et médecine vasculaire"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/4455c187-2f2f-4cd1-a4dd-449f59d73b39"
+              },
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/c42fc6ec-b216-4a24-9e9d-f5e781c175a0"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D002309"
+              }
+            ],
+            "value": "Cardiology and vascular medicine"
+          }
+        ],
+        "keyword": [
+          {
+            "lang": "fr",
+            "value": "Complications"
+          },
+          {
+            "lang": "fr",
+            "value": "impact psychologique"
+          },
+          {
+            "lang": "fr",
+            "value": "décès"
+          },
+          {
+            "lang": "en",
+            "value": "psychological impact"
+          },
+          {
+            "lang": "en",
+            "value": "Complications"
+          },
+          {
+            "lang": "en",
+            "value": "death"
+          }
+        ]
+      },
+      "qualityStatement": {
+        "standardsCompliance": {},
+        "otherQualityStatement": {
+          "lang": "fr",
+          "value": "Présence d'une requête de cohérence au moment de la saisie des données informatiques et après la saisie des données informatiques.Gestion des données manquantes par retour au dossier source.Relance des médecins pour réaliser les visites de suivi.Relance des sujets pour réaliser les visites de suivi.Réalisation d'audit qualité internes tous les 12 moisLes patients sont informés de l'utilisation de leur données par écrit."
+        }
+      },
+      "sumDscr": {
+        "dataKind": [
+          {
+            "lang": "fr",
+            "value": "Données rapportées par le participant de l&#x27;étude"
+          },
+          {
+            "lang": "en",
+            "value": "Participant-reported health data"
+          }
+        ],
+        "anlyUnit": [
+          {
+            "lang": "fr",
+            "value": "Individus"
+          },
+          {
+            "lang": "en",
+            "value": "Individuals"
+          }
+        ],
+        "nation": [
+          {
+            "lang": "fr",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          },
+          {
+            "lang": "en",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          }
+        ],
+        "universe": [
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Masculin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Féminin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Male"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Female"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Adulte (19 à 24 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adulte (25 à 44 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Adulte (45 à 64 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Personne âgée (65 à 79 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000369"
+            },
+            "value": "Grand âge (80 ans et plus)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Young Adult (19 to 24 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adult (25 to 44 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Middle Aged (45 to 64 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Aged (65 to 79 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000369"
+            },
+            "value": "Aged, 80 and over (80 years and more)"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Patients"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "en",
+            "value": "Patients population"
+          },
+          {
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Tout patient bénéficiant de la pose d'un défibrillateur automatique implantable"
+          },
+          {
+            "clusion": "I",
+            "lang": "en",
+            "value": "All patients who received an automatic implantable defibrillator"
+          },
+          {
+            "clusion": "E",
+            "lang": "fr",
+            "value": ""
+          },
+          {
+            "clusion": "E",
+            "lang": "en",
+            "value": ""
+          }
+        ],
+        "collDate": [
+          {
+            "event": "start",
+            "value": "2003-01-01"
+          },
+          {
+            "event": "end",
+            "value": "2005-01-01"
+          }
+        ]
+      }
+    },
+    "dataAccs": {
+      "setAvail": {
+        "avlStatus": [
+          {
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_14cb"
+              }
+            ],
+            "value": "Accès aux seules métadonnées"
+          },
+          {
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_14cb"
+              }
+            ],
+            "value": "Metadata-only access"
+          }
+        ],
+        "conditions": []
+      },
+      "useStmt": {
+        "restrctn": {
+          "lang": "fr",
+          "value": "Utilisation impossible des données par des équipes académiques"
+        }
+      }
+    },
+    "othStdMat": {
+      "relMat": [
+        {
+          "lang": "fr",
+          "value": "Accès restreint sur projet spécifique"
+        },
+        {
+          "lang": "en",
+          "value": "Access on specific project only"
+        }
+      ]
+    },
+    "studyDevelopment": {
+      "developmentActivity": [
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/morbidité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/mortalité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/morbidity"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/mortality"
+        }
+      ]
+    }
+  },
+  "docDscr": {
+    "citation": {
+      "rspStmt": {
+        "AuthEnty": ""
+      },
+      "prodStmt": {
+        "producer": [
+          {
+            "affiliation": ""
+          }
+        ],
+        "prodPlac": "Portail Épidémiologie France"
+      }
+    }
+  },
+  "additional": {
+    "prodPlac": "Portail Épidémiologie France",
+    "relatedDocuments": {
+      "documentTitle": [
+        {
+          "lang": "fr",
+          "value": "Liste des publications dans HAL"
+        },
+        {
+          "lang": "en",
+          "value": "Liste des publications dans HAL"
+        }
+      ],
+      "documentLink": [
+        {
+          "lang": "fr",
+          "value": "http://tinyurl.com/Hal-EVADEF"
+        },
+        {
+          "lang": "en",
+          "value": "http://tinyurl.com/Hal-EVADEF"
+        }
+      ]
+    },
+    "creationDate": "08-03-2013",
+    "lastUpdatedManual": "05-09-2017",
+    "theme": {},
+    "governance": {},
+    "collaborations": {},
+    "mockSample": {},
+    "dataQuality": {},
+    "variableDictionnary": {},
+    "dataTypes": {
+      "isDataInBiobank": false
+    },
+    "collectionProcess": {
+      "collectionModeDetails": [
+        {
+          "lang": "fr",
+          "value": "- Autoquestionnaire : saisie manuelle à partir d’un questionnaire papier.- Entretiens : saisie à partir d’un questionnaire papier.- Examens cliniques : saisie manuscrite.- Examens biologiques : saisie manuscrite."
+        },
+        {
+          "lang": "en",
+          "value": "- Self-administered questionnaire: manual input from a paper questionnaire. - Interviews: input from a paper questionnaire. - Clinical examinations: handwritten. - Biological analysis: handwritten."
+        }
+      ]
+    },
+    "geographicalCoverage": {
+      "geoDetail": [
+        {
+          "lang": "fr",
+          "value": "22 centres en France"
+        },
+        {
+          "lang": "en",
+          "value": "22 centres throughout France"
+        }
+      ]
+    },
+    "activeFollowUp": {
+      "isActiveFollowUp": true
+    },
+    "dataCollectionIntegration": {
+      "isDataIntegration": false
+    },
+    "isHealthTheme": true
+  },
+  "schematype": "survey"
+}

@@ -1,0 +1,876 @@
+{
+  "stdyDscr": {
+    "citation": {
+      "titlStmt": {
+        "IDNo": [
+          {
+            "agency": "PEF",
+            "value": "60004"
+          },
+          {
+            "agency": "FReSH",
+            "value": "FRESH-PEF60004"
+          }
+        ],
+        "titl": [
+          {
+            "lang": "fr",
+            "value": "Cohorte pour la surveillance épidémiologique en lien avec le travail – Métiers du monde agricole"
+          },
+          {
+            "lang": "en",
+            "value": "Work-Related Epidemiological Surveillance Cohort - Agricultural Occupations"
+          }
+        ],
+        "altTitl": [
+          {
+            "lang": "fr",
+            "value": "COSET-MSA"
+          },
+          {
+            "lang": "en",
+            "value": "COSET-MSA"
+          }
+        ]
+      },
+      "rspStmt": {
+        "AuthEnty": [
+          {
+            "name": "Béatrice;GEOFFROY-PEREZ",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "SANTE PUBLIQUE FRANCE"
+              },
+              {
+                "lang": "en",
+                "value": "SANTE PUBLIQUE FRANCE"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "067138489",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/00dfw9p58",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "130022338",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ],
+            "isContact": true,
+            "email": "beatrice.geoffroy-perez@santepubliquefrance.fr",
+            "PILabo": "Santé publique France / DIRECTION SANTÉ ENVIRONNEMENT TRAVAIL (DSET)"
+          }
+        ],
+        "othId": [
+          {
+            "type": "collaboration",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "La cohorte Coset-MSA est un projet développé en partenariat avec la Caisse centrale de la Mutualité sociale agricole. Ce projet fait partie du programme Coset, consacré à la surveillance des risques professionnels."
+              },
+              {
+                "lang": "en",
+                "value": "The COSET-MCA cohort is a project developed in partnership with the Health Insurance Fund for Salaried Workers, the CESP (INSERM) computerised platform and the CONSTANCES cohort team (INSERM-UVSQ in partnership with the CNAM-TS)."
+              }
+            ]
+          }
+        ]
+      },
+      "distStmt": {
+        "contact": [
+          {
+            "name": "Béatrice;GEOFFROY-PEREZ",
+            "email": "beatrice.geoffroy-perez@santepubliquefrance.fr",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "SANTE PUBLIQUE FRANCE"
+              },
+              {
+                "lang": "en",
+                "value": "SANTE PUBLIQUE FRANCE"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/00dfw9p58",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "130022338",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          }
+        ]
+      },
+      "prodStmt": {
+        "fundAg": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "MINISTERE DE L'AGRICULTURE, DE L'AGRO-ALIMENTAIRE ET DE LA SOUVERAINETE ALIMENTAIRE"
+              },
+              {
+                "lang": "en",
+                "value": "MINISTERE DE L'AGRICULTURE, DE L'AGRO-ALIMENTAIRE ET DE LA SOUVERAINETE ALIMENTAIRE"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "SIREN",
+                "uri": "110070018"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "MINISTERE DU TRAVAIL, DE LA SANTE, DES SOLIDARITES ET DES FAMILLES"
+              },
+              {
+                "lang": "en",
+                "value": "MINISTERE DU TRAVAIL, DE LA SANTE, DES SOLIDARITES ET DES FAMILLES"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "ROR",
+                "uri": "https://ror.org/01wp0c315"
+              },
+              {
+                "title": "SIREN",
+                "uri": "130016546"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "SANTE PUBLIQUE FRANCE"
+              },
+              {
+                "lang": "en",
+                "value": "SANTE PUBLIQUE FRANCE"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "ROR",
+                "uri": "https://ror.org/00dfw9p58"
+              },
+              {
+                "title": "SIREN",
+                "uri": "130022338"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ]
+          }
+        ],
+        "producer": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "SANTE PUBLIQUE FRANCE"
+              },
+              {
+                "lang": "en",
+                "value": "SANTE PUBLIQUE FRANCE"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "ROR",
+                "uri": "https://ror.org/00dfw9p58"
+              },
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "130022338"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "studyAuthorization": {
+      "authorizingAgency": {
+        "lang": "fr",
+        "value": "CNIL"
+      }
+    },
+    "method": {
+      "notes": [
+        {
+          "subject": "research type",
+          "lang": "fr",
+          "value": "Etude observationnelle"
+        },
+        {
+          "subject": "research type",
+          "lang": "en",
+          "value": "Observational Study"
+        },
+        {
+          "lang": "fr",
+          "subject": "observational study method",
+          "value": "Cohorte"
+        },
+        {
+          "lang": "en",
+          "subject": "observational study method",
+          "value": "Cohort study"
+        }
+      ],
+      "stdyClas": [
+        {
+          "lang": "fr",
+          "value": "Inconnu"
+        },
+        {
+          "lang": "en",
+          "value": "Unknown"
+        }
+      ],
+      "dataColl": {
+        "targetSampleSize": [
+          {
+            "lang": "fr",
+            "value": ">= 20000 individus"
+          },
+          {
+            "lang": "en",
+            "value": ">= 20000 individuals"
+          }
+        ],
+        "sampleFrame": {
+          "frameUnit": {
+            "unitType": [
+              {
+                "lang": "fr",
+                "value": "Base de population à finalité statistique"
+              },
+              {
+                "lang": "en",
+                "value": "Population database for statistical purposes"
+              }
+            ]
+          }
+        },
+        "sources": [
+          {
+            "citation": [
+              {
+                "lang": "fr",
+                "value": "SNDS (PMSI, DCIR, Causes médicales de décès CNAV), Bases cotisations, contrats salariés et accidents du travail du régime agricole"
+              },
+              {
+                "lang": "en",
+                "value": "PMSI, SNIIRAM, CNAV, CépiDc, contribution databases, employee contracts and work-related accidents from the agricultural scheme."
+              }
+            ],
+            "srcOrig": [
+              {
+                "lang": "fr",
+                "value": "Base médico-administrative"
+              },
+              {
+                "lang": "en",
+                "value": "Medico-administrative database"
+              }
+            ]
+          }
+        ],
+        "collMode": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "SelfAdministeredQuestionnaire",
+              "vocab": "CESSDA"
+            },
+            "value": "Questionnaire auto-administré"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "SelfAdministeredQuestionnaire",
+              "vocab": "CESSDA"
+            },
+            "value": "Self-administered questionnaire"
+          }
+        ],
+        "sampProc": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ],
+        "respRate": [
+          {
+            "lang": "fr",
+            "value": "27 000 personnes répondant au questionnaire d'inclusion en 2017-2018 constituant la cohorte active ; 90 000 personnes dans la cohorte passive (27 000 répondants + environ 63 000 individus non répondants au questionnaire) : recueil SNDS, données administratives des Régimes et CNAV"
+          },
+          {
+            "lang": "en",
+            "value": "30,000 for nationwide study; 60,000 individuals that did not respond to the questionnaire were passively monitored (BMA); 2,500 active workers from the agricultural scheme in the pilot cohort;+7,500 non-respondents to the questionnaire passively monitored. Extended: 30,000 active agricultural workers in the cohort + sample of 60,000 non-respondents to the questionnaire."
+          }
+        ]
+      }
+    },
+    "stdyInfo": {
+      "abstract": [
+        {
+          "contentType": "purpose",
+          "lang": "fr",
+          "value": "L’objectif général du programme COSET (cohortes pour la surveillance épidémiologique en lien avec le travail) est de décrire l'état de santé des actifs et anciens actifs en lien avec les facteurs professionnels. ce programme contribuera à identifier les métiers et les conditions de travail à risque pour la santé, et à proposer des recommandations en matière de prévention. Pour cela, ce programme s'appuie sur des données issues de plusieurs cohortes représentatives des actifs des trois principaux Régimes. Le DST met en œuvre les cohortes concernant les actifs affiliés à la MSA (COSET-MSA) et à la Sécurité sociale des Indépendants (voir fiche COSET-IND). Les objectifs de la cohorte COSET-MSA sont ceux du programme COSET, déclinés aux travailleurs inclus au Régime agricole. Objectifs spécifiques : - Décrire et surveiller les liens entre la morbidité/mortalité des actifs et les expositions professionnelles qu’elles soient d’origine physique, chimique, psychosociale ou organisationnelle ; - Calculer des fractions de morbidité/mortalité attribuables aux facteurs d’exposition professionnelle ; - Faciliter la mise en place d’études ad hoc en cas de repérage de problèmes émergents ou mal documentés sur le plan scientifique ; - Identifier et surveiller à grande échelle des sous-populations soumises à des risques spécifiques ; - Réaliser des comparaisons entre les travailleurs issus des différents régimes de sécurité sociale et suivis dans le cadre du programme Coset."
+        },
+        {
+          "contentType": "purpose",
+          "lang": "en",
+          "value": "The COSET programme's general objective (Work-Related Epidemiological Surveillance Cohort) is to provide information on the health of the economically active population in connection with occupational factors. The programme shall help identify occupations and working conditions that pose a health risk, and provide prevention recommendations. The programme relies on data from multiple representative cohorts of economically active individuals from three principal social welfare schemes.. The DTS formed cohorts of workers affiliated with the MSA (Social Security Scheme for Agricultural Workers) (COSET-MSA) and the RSI (Social Security Scheme for Independent Workers) (see COSET-RSI sheet). The objectives of the COSET-MSA cohort are similar to the COSET programme that applies to workers affiliated with the agricultural scheme. Specific objectives: - To describe and monitor the links between morbidity/mortality between workers and occupational exposure, whether it is physical, chemical, psychosocial or organisational; - To calculate morbidity/mortality fractions from occupational exposure factors; - To promote the establishment of ad hoc studies to identify issues that are emerging or poorly documented in the scientific plan; - To identify and monitor sub-populations affected by specific risks on a large scale; - To compare workers affiliated with different social security schemes and monitored as part of the COSET programme."
+        }
+      ],
+      "subject": {
+        "topcClas": [
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/b533acc2-aff1-4c65-80ca-5d5bee865ba9"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D004778"
+              }
+            ],
+            "value": "Santé publique, environnementale et du travail"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/b533acc2-aff1-4c65-80ca-5d5bee865ba9"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D004778"
+              }
+            ],
+            "value": "Public, environmental and occupational health"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants socio-démographiques et économiques : Emploi"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants socio-démographiques et économiques"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Socio-demographic and economic determinants: Employment"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Socio-demographic and economic determinants"
+          }
+        ],
+        "keyword": [
+          {
+            "lang": "fr",
+            "value": "environnement professionnel"
+          },
+          {
+            "lang": "fr",
+            "value": "troubles musculosquelettiques"
+          },
+          {
+            "lang": "fr",
+            "value": "asthme"
+          },
+          {
+            "lang": "fr",
+            "value": "dépressivite"
+          },
+          {
+            "lang": "fr",
+            "value": "cardiopathies ischémiques"
+          },
+          {
+            "lang": "fr",
+            "value": "santé"
+          },
+          {
+            "lang": "en",
+            "value": "work environment"
+          },
+          {
+            "lang": "en",
+            "value": "musculoskeletal disorders"
+          },
+          {
+            "lang": "en",
+            "value": "asthma"
+          },
+          {
+            "lang": "en",
+            "value": "depression"
+          },
+          {
+            "lang": "en",
+            "value": "ischaemic heart disease"
+          },
+          {
+            "lang": "en",
+            "value": "health"
+          }
+        ]
+      },
+      "qualityStatement": {
+        "standardsCompliance": {},
+        "otherQualityStatement": [
+          {
+            "lang": "fr",
+            "value": "Contrôle cohérence au moment de la saisie des données informatiques Gestion de la non-réponse partielle ou de vague par imputation et correction de la non-réponse totale par re-pondération grâce à l'exploitation de données externes (bases assurances maladie et vieillesse) collectées pour répondants et échantillon de non répondants Les patients sont informés de l'utilisation de leur données par écrit au moment de l'inclusion"
+          },
+          {
+            "lang": "en",
+            "value": "Consistency checks during computerised data entry. Management of partial or wave non-response by imputation and correction of complete non-response through re-weighting using leveraged external data (health insurance and pension databases) collected for respondents and non-respondent sample. Individuals are informed about the use of their data in writing at baseline."
+          }
+        ]
+      },
+      "sumDscr": {
+        "dataKind": [
+          {
+            "lang": "fr",
+            "value": "Données rapportées par le participant de l&#x27;étude"
+          },
+          {
+            "lang": "fr",
+            "value": "Données socio-démographiques"
+          },
+          {
+            "lang": "en",
+            "value": "Participant-reported health data"
+          },
+          {
+            "lang": "en",
+            "value": "Socio-demographic data"
+          }
+        ],
+        "anlyUnit": [
+          {
+            "lang": "fr",
+            "value": "Individus"
+          },
+          {
+            "lang": "en",
+            "value": "Individuals"
+          }
+        ],
+        "nation": [
+          {
+            "lang": "fr",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          },
+          {
+            "lang": "en",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          }
+        ],
+        "universe": [
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Masculin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Féminin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Male"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Female"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Adulte (19 à 24 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adulte (25 à 44 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Adulte (45 à 64 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Young Adult (19 to 24 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adult (25 to 44 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Middle Aged (45 to 64 years)"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Population générale"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "en",
+            "value": "General population"
+          },
+          {
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Hommes et femmes âgés de 18 à 65 ans et actifs affiliés à la MSA l'année précédant le tirage au sort"
+          },
+          {
+            "clusion": "I",
+            "lang": "en",
+            "value": "Men and women between 18 and 65 years old and affiliated with the MSA the year prior to random selection."
+          },
+          {
+            "clusion": "E",
+            "lang": "fr",
+            "value": ""
+          },
+          {
+            "clusion": "E",
+            "lang": "en",
+            "value": ""
+          }
+        ],
+        "collDate": [
+          {
+            "event": "start",
+            "value": "2017-01-01"
+          },
+          {
+            "event": "end",
+            "value": "2018-01-01"
+          }
+        ]
+      }
+    },
+    "dataAccs": {
+      "setAvail": {
+        "avlStatus": [
+          {
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Accès réservé"
+          },
+          {
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Restricted access"
+          }
+        ],
+        "complete": {
+          "lang": "fr",
+          "value": "- anonymisée, pour assurer la confidentialité des données"
+        },
+        "conditions": []
+      },
+      "useStmt": {
+        "restrctn": [
+          {
+            "lang": "fr",
+            "value": "Utilisation possible des données par des équipes académiques selon demande écrite avec protocole. Accord CNIL"
+          },
+          {
+            "lang": "en",
+            "value": "Data may be used by academic teams through written request with protocol. CNIL approval."
+          }
+        ]
+      }
+    },
+    "othStdMat": {
+      "relMat": [
+        {
+          "lang": "fr",
+          "value": "Accès restreint sur projet spécifique"
+        },
+        {
+          "lang": "en",
+          "value": "Access on specific project only"
+        }
+      ]
+    },
+    "studyDevelopment": {
+      "developmentActivity": [
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/morbidité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/mortalité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Consommation de soins/services de santé"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Qualité de vie/santé perçue"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/morbidity"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/mortality"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health care consumption and services"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Quality of life/health perception"
+        }
+      ]
+    }
+  },
+  "docDscr": {
+    "citation": {
+      "rspStmt": {
+        "AuthEnty": "Béatrice GEOFFROY"
+      },
+      "prodStmt": {
+        "producer": [
+          {
+            "affiliation": "SANTE PUBLIQUE FRANCE",
+            "value": "Béatrice;GEOFFROY"
+          }
+        ],
+        "prodPlac": "Portail Épidémiologie France"
+      }
+    }
+  },
+  "additional": {
+    "prodPlac": "Portail Épidémiologie France",
+    "creationDate": "08-03-2013",
+    "lastUpdatedManual": "17-02-2020",
+    "theme": {},
+    "governance": {
+      "committee": true
+    },
+    "collaborations": {},
+    "mockSample": {},
+    "dataQuality": {},
+    "variableDictionnary": {},
+    "dataTypes": {
+      "isDataInBiobank": false
+    },
+    "collectionProcess": {
+      "collectionModeDetails": [
+        {
+          "lang": "fr",
+          "value": "Autoquestionnaire en ligne accessible par Internet ; extraction de données des systèmes d'information existants"
+        },
+        {
+          "lang": "en",
+          "value": "Self-administered questionnaire is available online."
+        }
+      ]
+    },
+    "geographicalCoverage": {
+      "geoDetail": [
+        {
+          "lang": "fr",
+          "value": "Extension nationale en 2017 : Travailleurs affiliés au Régime agricole en France métropolitaine et Exploitants des DOM."
+        },
+        {
+          "lang": "en",
+          "value": "5 pilot départements in 2010: Bouches du Rhône, Pyrénées Atlantique, Saône-et-Loire, Finistère, Pas-de-Calais. National extension in 2014: metropolitan France and farmers in overseas départements."
+        }
+      ]
+    },
+    "activeFollowUp": {
+      "isActiveFollowUp": true
+    },
+    "dataCollectionIntegration": {
+      "isDataIntegration": true
+    },
+    "isHealthTheme": true
+  },
+  "schematype": "survey"
+}

@@ -1,0 +1,947 @@
+{
+  "stdyDscr": {
+    "citation": {
+      "titlStmt": {
+        "IDNo": [
+          {
+            "agency": "PEF",
+            "value": "220"
+          },
+          {
+            "agency": "FReSH",
+            "value": "FRESH-PEF220"
+          }
+        ],
+        "titl": [
+          {
+            "lang": "fr",
+            "value": "REGISTRE DES HEPATITES DE COTE-D’OR ET DOUBS (registre qualifié 2012-2015)"
+          },
+          {
+            "lang": "en",
+            "value": "Doubs and Côte d'Or viral hepatitis register"
+          }
+        ]
+      },
+      "rspStmt": {
+        "AuthEnty": [
+          {
+            "name": "Anne;MINELLO",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "chu"
+              },
+              {
+                "lang": "en",
+                "value": "chu"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "079360971",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/0377z4z10",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "262100076",
+                "role": "organisation id",
+                "title": "SIREN"
+              },
+              {
+                "uri": "200716508T",
+                "role": "labo id",
+                "title": "RNSR"
+              }
+            ],
+            "isContact": true,
+            "email": "anne.minello@chu-dijon.fr",
+            "PILabo": "CHU / Inserm U 866. Faculté de Médecine de Dijon"
+          }
+        ],
+        "othId": []
+      },
+      "distStmt": {
+        "contact": [
+          {
+            "name": "Anne;MINELLO",
+            "email": "anne.minello@chu-dijon.fr",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "chu"
+              },
+              {
+                "lang": "en",
+                "value": "chu"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/0377z4z10",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "262100076",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          }
+        ]
+      },
+      "prodStmt": {
+        "fundAg": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE (INSERM)"
+              },
+              {
+                "lang": "en",
+                "value": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE (INSERM)"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "ROR",
+                "uri": "https://ror.org/02vjkv261"
+              },
+              {
+                "title": "SIREN",
+                "uri": "180036048"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "SANTE PUBLIQUE FRANCE"
+              },
+              {
+                "lang": "en",
+                "value": "SANTE PUBLIQUE FRANCE"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "ROR",
+                "uri": "https://ror.org/00dfw9p58"
+              },
+              {
+                "title": "SIREN",
+                "uri": "130022338"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ]
+          }
+        ],
+        "producer": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "CENTRE HOSPITALIER UNIVERSITAIRE DE DIJON"
+              },
+              {
+                "lang": "en",
+                "value": "CENTRE HOSPITALIER UNIVERSITAIRE DE DIJON"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "ROR",
+                "uri": "https://ror.org/0377z4z10"
+              },
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "262100076"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "studyAuthorization": {
+      "authorizingAgency": {
+        "lang": "fr",
+        "value": "CNIL"
+      }
+    },
+    "method": {
+      "notes": [
+        {
+          "subject": "research type",
+          "lang": "fr",
+          "value": "Etude observationnelle"
+        },
+        {
+          "subject": "research type",
+          "lang": "en",
+          "value": "Observational Study"
+        },
+        {
+          "lang": "fr",
+          "subject": "observational study method",
+          "value": "Registre de morbidité"
+        },
+        {
+          "lang": "en",
+          "subject": "observational study method",
+          "value": "Morbidity registry"
+        }
+      ],
+      "stdyClas": [
+        {
+          "lang": "fr",
+          "value": "Inconnu"
+        },
+        {
+          "lang": "en",
+          "value": "Unknown"
+        }
+      ],
+      "dataColl": {
+        "targetSampleSize": [
+          {
+            "lang": "fr",
+            "value": "[1000-10000[ individus"
+          },
+          {
+            "lang": "en",
+            "value": "[1000-10000[ individuals"
+          }
+        ],
+        "sampleFrame": {
+          "frameUnit": {}
+        },
+        "sources": [
+          {}
+        ],
+        "collMode": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ],
+        "sampProc": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ],
+        "respRate": [
+          {
+            "lang": "fr",
+            "value": "1994-2009: 3750"
+          },
+          {
+            "lang": "en",
+            "value": "1994-2009: 3750"
+          }
+        ]
+      }
+    },
+    "stdyInfo": {
+      "abstract": [
+        {
+          "contentType": "purpose",
+          "lang": "fr",
+          "value": "Objectifs du registre en termes santé publique (surveillance, évaluation) Ils se développent selon deux axes : l’épidémiologie descriptive et l’évaluation des pratiques de soins. Le premier axe a pour objectif la surveillance sanitaire des infections virales B et C : - étude des taux de détection des sérologies virales B et C et de leur évolution, - étude de l’évolution au cours du temps des modes de contamination, - étude des modalités diagnostiques (dépistage systématique, démarche diagnostique devant des anomalies biologiques ou des symptômes), - évaluation de l’impact sur l’incidence des hépatites aiguës B du changement de politique vaccinale anti-virale B en 1998. Dans le domaine des pratiques de soins nos objectifs sont : - étude des modalités de prise en charge des hépatites virale B et C au niveau de la population prise dans son ensemble, - évaluation de l’impact des conférences de consensus et des recommandations nationales de bonnes pratiques cliniques, - analyse des filières de soins. Objectifs du registre en termes de recherche - Etude de l’histoire naturelle des hépatites B et C dans la cohorte constituée : causes de mortalité, risque de complications. - Etudes anthropologiques pour comprendre les freins à la prise en charge des patients atteints d’hépatite C et étude des déterminants de la proposition de diagnostic et de soins des migrants atteints d’hépatite B et C. - Relation entre les caractéristiques épidémiologiques des hépatites virales B et C, leur prise en charge et les facteurs d’environnement (habitat, catégories sociales…). - Etude du risque de lymphome non hodgkinien chez les malades contaminés par le virus C."
+        },
+        {
+          "contentType": "purpose",
+          "lang": "en",
+          "value": "Register objectives in terms of public health (monitoring, assessment) These concern two different methods: descriptive epidemiology and assessment of healthcare practices. The objective of the first method is health monitoring of B and C viral infections: - study of the detection rates of B and C viral serologies and of their trends over time, - study of the contamination method trends over time, - study of diagnostic techniques (systematic screening, diagnostic approach if biological anomalies or symptoms detected), - assessment of the impact of the change in the B viral vaccination campaign in 1998 on the incidence of acute hepatitis B. In the field of healthcare practice, our objectives are: - study of the arrangements for treating hepatitis B and C in the population in general, - assessment of the impact of consensus conferences and national recommendations of good clinical practice, - analysis of care sectors. Register's objectives in terms of research - Study of the natural history of hepatitis B and C in the cohort formed: causes of death, risk of complications. - Anthropological studies to understand what is hampering the treatment of hepatitis C sufferers and study of the determinants of the diagnosis and care proposal for immigrants suffering from hepatitis B"
+        }
+      ],
+      "subject": {
+        "topcClas": [
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/fa2ceeab-3b2f-45e9-9243-e5a8005b98de"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D055552"
+              }
+            ],
+            "value": "Infectiologie"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/27c456a1-051a-42f6-b52a-3beff0487da7"
+              }
+            ],
+            "value": "Hépatologie"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/fa2ceeab-3b2f-45e9-9243-e5a8005b98de"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D055552"
+              }
+            ],
+            "value": "Infectious disease medicine"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/27c456a1-051a-42f6-b52a-3beff0487da7"
+              }
+            ],
+            "value": "Hepatology"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "fr",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/2046015098",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Certaines maladies inflammatoires précisées du foie"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "en",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/2046015098",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Certain specified inflammatory liver diseases"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "fr",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/1781315693",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Cirrhose hépatique"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "en",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/1781315693",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Hepatic cirrhosis"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants comportementaux"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Behavioral determinants"
+          }
+        ],
+        "keyword": [
+          {
+            "lang": "fr",
+            "value": "virus C virus B incidence"
+          },
+          {
+            "lang": "en",
+            "value": "B virus C virus incidence"
+          }
+        ]
+      },
+      "qualityStatement": {
+        "standardsCompliance": {}
+      },
+      "sumDscr": {
+        "dataKind": [
+          {
+            "lang": "fr",
+            "value": "Données cliniques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données biologiques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données socio-démographiques"
+          },
+          {
+            "lang": "en",
+            "value": "Clinical data"
+          },
+          {
+            "lang": "en",
+            "value": "Biological data"
+          },
+          {
+            "lang": "en",
+            "value": "Socio-demographic data"
+          }
+        ],
+        "anlyUnit": [
+          {
+            "lang": "fr",
+            "value": "Individus"
+          },
+          {
+            "lang": "en",
+            "value": "Individuals"
+          }
+        ],
+        "nation": [
+          {
+            "lang": "fr",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          },
+          {
+            "lang": "en",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          }
+        ],
+        "geogCover": [
+          {
+            "lang": "fr",
+            "value": "Bourgogne Franche-Comté"
+          },
+          {
+            "lang": "en",
+            "value": "Bourgogne Franche-Comté"
+          }
+        ],
+        "universe": [
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Masculin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Féminin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Male"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Female"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D007231"
+            },
+            "value": "Nouveau-né (naissance à 28j)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D007223"
+            },
+            "value": "Nourrisson (28j à 2 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D002675"
+            },
+            "value": "Petite enfance (2 à 5 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D002648"
+            },
+            "value": "Enfance (6 à 12 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000293"
+            },
+            "value": "Adolescence (13 à 18 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Adulte (19 à 24 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adulte (25 à 44 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Adulte (45 à 64 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Personne âgée (65 à 79 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000369"
+            },
+            "value": "Grand âge (80 ans et plus)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D007231"
+            },
+            "value": "Infant, Newborn (birth to 28 days)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D007223"
+            },
+            "value": "Infant (28 days to 2 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D002675"
+            },
+            "value": "Child, Preschool (2 to 5 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D002648"
+            },
+            "value": "Child (6 to 12 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Young Adult (19 to 24 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adult (25 to 44 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Middle Aged (45 to 64 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Aged (65 to 79 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000369"
+            },
+            "value": "Aged, 80 and over (80 years and more)"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Patients"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "en",
+            "value": "Patients population"
+          },
+          {
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Adultes et Enfants porteurs de l’antigène HBs (Ag HBs) et/ou des anticorps anti-virus de l’hépatite C (VHC)"
+          },
+          {
+            "clusion": "I",
+            "lang": "en",
+            "value": "Adults and Children carrying the HBs antigen (HBs Ag) and/or hepatitis C (HCV) antibodies"
+          },
+          {
+            "clusion": "E",
+            "lang": "fr",
+            "value": ""
+          },
+          {
+            "clusion": "E",
+            "lang": "en",
+            "value": ""
+          }
+        ],
+        "collDate": {
+          "event": "start",
+          "value": "1994-01-01"
+        }
+      }
+    },
+    "dataAccs": {
+      "setAvail": {
+        "avlStatus": [
+          {
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Accès réservé"
+          },
+          {
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Restricted access"
+          }
+        ],
+        "conditions": [
+          {
+            "lang": "fr",
+            "value": "accès aux données du Registre sur demande"
+          },
+          {
+            "lang": "en",
+            "value": "access to the Register&#x27;s data by request"
+          }
+        ]
+      },
+      "useStmt": {}
+    },
+    "othStdMat": {
+      "relMat": [
+        {
+          "lang": "fr",
+          "value": "Accès restreint sur projet spécifique"
+        },
+        {
+          "lang": "en",
+          "value": "Access on specific project only"
+        }
+      ]
+    },
+    "studyDevelopment": {
+      "developmentActivity": [
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/morbidité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/mortalité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/morbidity"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/mortality"
+        }
+      ]
+    }
+  },
+  "docDscr": {
+    "citation": {
+      "rspStmt": {
+        "AuthEnty": "Anne MINELLO"
+      },
+      "prodStmt": {
+        "producer": [
+          {
+            "affiliation": "chu",
+            "value": "Anne;MINELLO"
+          }
+        ],
+        "prodPlac": "Portail Épidémiologie France"
+      }
+    }
+  },
+  "additional": {
+    "prodPlac": "Portail Épidémiologie France",
+    "relatedDocuments": {
+      "documentTitle": [
+        {
+          "lang": "fr"
+        },
+        {
+          "lang": "en"
+        }
+      ],
+      "documentLink": [
+        {
+          "lang": "fr",
+          "value": "http://tinyurl.com/PUBMED-RHCD"
+        },
+        {
+          "lang": "en",
+          "value": "http://tinyurl.com/PUBMED-RHCD"
+        }
+      ]
+    },
+    "creationDate": "28-12-2010",
+    "lastUpdatedManual": "15-09-2017",
+    "theme": {},
+    "governance": {},
+    "collaborations": {},
+    "mockSample": {},
+    "dataQuality": {},
+    "variableDictionnary": {},
+    "dataTypes": {
+      "biologicalDataDetails": [
+        {
+          "lang": "fr",
+          "value": "ADN, ARN, TransaminasesSérologies virales D, HIV"
+        },
+        {
+          "lang": "en",
+          "value": "B virus C virus incidence"
+        }
+      ],
+      "isDataInBiobank": false
+    },
+    "collectionProcess": {
+      "collectionModeDetails": [
+        {
+          "lang": "fr",
+          "value": "Recueil actif (Envois en temps réel par les laboratoires et signalement en temps réel par les gastroentérologues)"
+        },
+        {
+          "lang": "en",
+          "value": "Active collection (Dispatches in real time by laboratories and real-time reporting by gastroenterologists)"
+        }
+      ]
+    },
+    "geographicalCoverage": {
+      "geoDetail": [
+        {
+          "lang": "fr",
+          "value": "Côte-d'or et Doubs"
+        },
+        {
+          "lang": "en",
+          "value": "Côte-d'or et Doubs"
+        }
+      ]
+    },
+    "activeFollowUp": {
+      "isActiveFollowUp": true
+    },
+    "dataCollectionIntegration": {
+      "isDataIntegration": false
+    },
+    "isHealthTheme": true
+  },
+  "schematype": "survey"
+}

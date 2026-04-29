@@ -1,0 +1,787 @@
+{
+  "stdyDscr": {
+    "citation": {
+      "titlStmt": {
+        "IDNo": [
+          {
+            "agency": "PEF",
+            "value": "60039"
+          },
+          {
+            "agency": "FReSH",
+            "value": "FRESH-PEF60039"
+          }
+        ],
+        "titl": [
+          {
+            "lang": "fr",
+            "value": "Etude longitudinale sur des femmes de plus de 65 ans survivantes d'un premier cancer du sein/impact psychosocial"
+          },
+          {
+            "lang": "en",
+            "value": "Longitudinal Study on The Psychosocial Impact of Breast Pathologies in Elderly Women"
+          }
+        ],
+        "altTitl": [
+          {
+            "lang": "fr",
+            "value": "ELIPPSE 65"
+          },
+          {
+            "lang": "en",
+            "value": "ELIPPSE 65"
+          }
+        ]
+      },
+      "rspStmt": {
+        "AuthEnty": [
+          {
+            "name": "Jean-Paul;MOATTI",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "INSTITUT DE RECHERCHE POUR LE DEVELOPPEMENT (IRD)"
+              },
+              {
+                "lang": "en",
+                "value": "INSTITUT DE RECHERCHE POUR LE DEVELOPPEMENT (IRD)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "031742386",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/05q3vnk25",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "180006025",
+                "role": "organisation id",
+                "title": "SIREN"
+              },
+              {
+                "uri": "200919261B",
+                "role": "labo id",
+                "title": "RNSR"
+              }
+            ],
+            "isContact": false,
+            "email": "",
+            "PILabo": "IRD"
+          },
+          {
+            "name": "Dominique;REY",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE (INSERM)"
+              },
+              {
+                "lang": "en",
+                "value": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE (INSERM)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/02vjkv261",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "180036048",
+                "role": "organisation id",
+                "title": "SIREN"
+              },
+              {
+                "uri": "200817366W",
+                "role": "labo id",
+                "title": "RNSR"
+              }
+            ],
+            "isContact": false,
+            "email": "",
+            "PILabo": "INSERM / U912"
+          }
+        ],
+        "othId": []
+      },
+      "distStmt": {},
+      "prodStmt": {
+        "fundAg": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "FONDATION DE FRANCE"
+              },
+              {
+                "lang": "en",
+                "value": "FONDATION DE FRANCE"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "SIREN",
+                "uri": "784314908"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Privé à but non lucratif"
+              },
+              {
+                "lang": "en",
+                "value": "Private non-profit"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "INSTITUT NATIONAL DU CANCER (INCA)"
+              },
+              {
+                "lang": "en",
+                "value": "INSTITUT NATIONAL DU CANCER (INCA)"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "ROR",
+                "uri": "https://ror.org/03m8vkq32"
+              },
+              {
+                "title": "SIREN",
+                "uri": "187512777"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "REGION PACA"
+              },
+              {
+                "lang": "en",
+                "value": "REGION PACA"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "SIREN",
+                "uri": "231300021"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "CANCEROPÔLE"
+              },
+              {
+                "lang": "en",
+                "value": "CANCEROPÔLE"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ]
+          }
+        ],
+        "producer": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE (INSERM)"
+              },
+              {
+                "lang": "en",
+                "value": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE (INSERM)"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "ROR",
+                "uri": "https://ror.org/02vjkv261"
+              },
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "180036048"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "studyAuthorization": {
+      "authorizingAgency": {
+        "lang": "fr",
+        "value": "CNIL"
+      }
+    },
+    "method": {
+      "notes": [
+        {
+          "subject": "research type",
+          "lang": "fr",
+          "value": "Etude observationnelle"
+        },
+        {
+          "subject": "research type",
+          "lang": "en",
+          "value": "Observational Study"
+        }
+      ],
+      "stdyClas": [
+        {
+          "lang": "fr",
+          "value": "Inconnu"
+        },
+        {
+          "lang": "en",
+          "value": "Unknown"
+        }
+      ],
+      "dataColl": {
+        "targetSampleSize": [
+          {
+            "lang": "fr",
+            "value": "< 500 individus"
+          },
+          {
+            "lang": "en",
+            "value": "< 500 individuals"
+          }
+        ],
+        "sampleFrame": {
+          "frameUnit": {
+            "unitType": [
+              {
+                "lang": "fr",
+                "value": "Via des structures (services ou établissements de santé, écoles, entreprises…)"
+              },
+              {
+                "lang": "en",
+                "value": "Through organizations (health services or institutions, schools, businesses, etc.)"
+              }
+            ]
+          }
+        },
+        "sources": [
+          {}
+        ],
+        "collMode": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "SelfAdministeredQuestionnaire",
+              "vocab": "CESSDA"
+            },
+            "value": "Questionnaire auto-administré"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "SelfAdministeredQuestionnaire",
+              "vocab": "CESSDA"
+            },
+            "value": "Self-administered questionnaire"
+          },
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Interview",
+              "vocab": "CESSDA"
+            },
+            "value": "Entretien avec le participant (dont clinique)"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Interview",
+              "vocab": "CESSDA"
+            },
+            "value": "Interview with the participant (including clinical)"
+          }
+        ],
+        "sampProc": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ],
+        "respRate": [
+          {
+            "lang": "fr",
+            "value": "338"
+          },
+          {
+            "lang": "en",
+            "value": "338"
+          }
+        ]
+      }
+    },
+    "stdyInfo": {
+      "abstract": [
+        {
+          "contentType": "purpose",
+          "lang": "fr",
+          "value": "Objectif général: étudier : - la qualité de vie à long terme et la survie (5 à 10 ans) chez les survivantes de plus de 65 ans d'un cancer du sein dans les departements de Bouches-du-Rhône, Var, Alpes maritimes. - la place du cancer par rapport aux comorbidités - l'image du corps - l'observance au traitement, et en particulier à l'hormonothérapie - les aides sociales, besoins, aidants"
+        },
+        {
+          "contentType": "purpose",
+          "lang": "en",
+          "value": "General objective: to investigate: - the long-term quality of life and survival (5 to 10 years) of breast cancer survivors over the age of 65 within the Bouches-du-Rhône, Var and Alpes-Maritimes départements. - the weight of cancer compared with co-morbidities - body image - adherence to treatment, in particular hormonal therapy - social aid, needs and support"
+        }
+      ],
+      "subject": {
+        "topcClas": [
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/5784b7f1-c7ce-49d9-9f38-aebcda0ff41d"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D008495"
+              }
+            ],
+            "value": "Oncologie"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/5784b7f1-c7ce-49d9-9f38-aebcda0ff41d"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D008495"
+              }
+            ],
+            "value": "Oncology"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants socio-démographiques et économiques"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Socio-demographic and economic determinants"
+          }
+        ],
+        "keyword": [
+          {
+            "lang": "fr",
+            "value": "vie après l'épisode aigü"
+          },
+          {
+            "lang": "fr",
+            "value": "événements de santé"
+          },
+          {
+            "lang": "fr",
+            "value": "rechute"
+          },
+          {
+            "lang": "fr",
+            "value": "décès"
+          },
+          {
+            "lang": "fr",
+            "value": "vécu des effets secondaires"
+          },
+          {
+            "lang": "en",
+            "value": "Health episodes"
+          },
+          {
+            "lang": "en",
+            "value": "relapse"
+          },
+          {
+            "lang": "en",
+            "value": "death"
+          },
+          {
+            "lang": "en",
+            "value": "side effects"
+          },
+          {
+            "lang": "en",
+            "value": "life after acute episode of illness"
+          }
+        ]
+      },
+      "qualityStatement": {
+        "standardsCompliance": {},
+        "otherQualityStatement": {
+          "lang": "fr",
+          "value": "Présence d'une requête de cohérence après la saisie des données informatiques Gestion des données manquantes par retour au dossier source ou retour vers le patient"
+        }
+      },
+      "sumDscr": {
+        "dataKind": [
+          {
+            "lang": "fr",
+            "value": "Données rapportées par le participant de l&#x27;étude"
+          },
+          {
+            "lang": "en",
+            "value": "Participant-reported health data"
+          }
+        ],
+        "anlyUnit": [
+          {
+            "lang": "fr",
+            "value": "Individus"
+          },
+          {
+            "lang": "en",
+            "value": "Individuals"
+          }
+        ],
+        "nation": [
+          {
+            "lang": "fr",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          },
+          {
+            "lang": "en",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          }
+        ],
+        "geogCover": [
+          {
+            "lang": "fr",
+            "value": "Provence - Alpes - Côte d'Azur"
+          },
+          {
+            "lang": "en",
+            "value": "Provence - Alpes - Côte d'Azur"
+          }
+        ],
+        "universe": [
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Féminin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Female"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000369"
+            },
+            "value": "Grand âge (80 ans et plus)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000369"
+            },
+            "value": "Aged, 80 and over (80 years and more)"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Patients"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "en",
+            "value": "Patients population"
+          },
+          {
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Survivantes d'un premier cancer du sein âgées de 65 ans et plus, faisant l'objet d'une déclaration ALD dans les trois départements de l'étude"
+          },
+          {
+            "clusion": "I",
+            "lang": "en",
+            "value": "Survivors of primary breast cancer aged 65 and over, diagnosed with long-term disease in the three départements involved in the study"
+          },
+          {
+            "clusion": "E",
+            "lang": "fr",
+            "value": ""
+          },
+          {
+            "clusion": "E",
+            "lang": "en",
+            "value": ""
+          }
+        ],
+        "collDate": [
+          {
+            "event": "start",
+            "value": "2007-01-01"
+          },
+          {
+            "event": "end",
+            "value": "2015-01-01"
+          }
+        ]
+      }
+    },
+    "dataAccs": {
+      "setAvail": {
+        "avlStatus": [
+          {
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Accès réservé"
+          },
+          {
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Restricted access"
+          }
+        ],
+        "conditions": [
+          {
+            "lang": "fr",
+            "value": "Condition d&#x27;accès en ce qui concerne les questionnaires et les bases, la mise à disposition à d&#x27;autres équipes n&#x27;est envisageable qu&#x27;a la fin des études et après notre propre exploitation des données, sauf en cas de collaboration directe sur des thématiques particulières. Condition d&#x27;accès la collaboration avec des industriels pourrait être envisagée ponctuellement sur la base d&#x27;études précises mais sans soutien structurel."
+          },
+          {
+            "lang": "en",
+            "value": "Access conditions for questionnaires and databases, provided to other teams only upon completion of studies and after our own data mining, except when directly working together in specific fields. Access conditions for industrial collaboration will be timely considered based on specific studies but without structural support."
+          }
+        ]
+      },
+      "useStmt": {
+        "restrctn": [
+          {
+            "lang": "fr",
+            "value": "Utilisation possible des données par des équipes académiques Utilisation possible des données par des industriels"
+          },
+          {
+            "lang": "en",
+            "value": "Data may be used by academic teams. Data may be used by industrial teams"
+          }
+        ]
+      }
+    },
+    "othStdMat": {
+      "relMat": [
+        {
+          "lang": "fr",
+          "value": "Accès restreint sur projet spécifique"
+        },
+        {
+          "lang": "en",
+          "value": "Access on specific project only"
+        }
+      ]
+    },
+    "studyDevelopment": {
+      "developmentActivity": [
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Qualité de vie/santé perçue"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Quality of life/health perception"
+        }
+      ]
+    }
+  },
+  "docDscr": {
+    "citation": {
+      "rspStmt": {
+        "AuthEnty": "Jean-Paul MOATTI"
+      },
+      "prodStmt": {
+        "producer": [
+          {
+            "affiliation": "INSTITUT DE RECHERCHE POUR LE DEVELOPPEMENT (IRD)",
+            "value": "Jean-Paul;MOATTI"
+          }
+        ],
+        "prodPlac": "Portail Épidémiologie France"
+      }
+    }
+  },
+  "additional": {
+    "prodPlac": "Portail Épidémiologie France",
+    "relatedDocuments": {
+      "documentTitle": [
+        {
+          "lang": "fr",
+          "value": "Liste des publications dans Pubmed"
+        },
+        {
+          "lang": "en",
+          "value": "Liste des publications dans Pubmed"
+        }
+      ],
+      "documentLink": [
+        {
+          "lang": "fr",
+          "value": "http://tinyurl.com/Pubmed-ELIPPSE-65"
+        },
+        {
+          "lang": "en",
+          "value": "http://tinyurl.com/Pubmed-ELIPPSE-65"
+        }
+      ]
+    },
+    "creationDate": "08-03-2013",
+    "lastUpdatedManual": "12-08-2014",
+    "theme": {},
+    "governance": {},
+    "collaborations": {},
+    "mockSample": {},
+    "dataQuality": {},
+    "variableDictionnary": {},
+    "dataTypes": {
+      "isDataInBiobank": false
+    },
+    "collectionProcess": {
+      "collectionModeDetails": [
+        {
+          "lang": "fr",
+          "value": "Auto-questionnaire : saisie à partir d’un questionnaire papier Examens cliniques : étape manuscrite (saisie manuelle) avec double saisie"
+        },
+        {
+          "lang": "en",
+          "value": "Self-administered questionnaire: input from a paper questionnaire; Clinical examinations: handwritten (manual input) with double data entry"
+        }
+      ]
+    },
+    "geographicalCoverage": {
+      "geoDetail": [
+        {
+          "lang": "fr",
+          "value": "Bouches du Rhône, Vars, Alpes Maritimes"
+        },
+        {
+          "lang": "en",
+          "value": "Bouches-du-Rhône, Var and Alpes-Maritimes"
+        }
+      ]
+    },
+    "activeFollowUp": {
+      "isActiveFollowUp": true
+    },
+    "dataCollectionIntegration": {
+      "isDataIntegration": false
+    },
+    "isHealthTheme": true
+  },
+  "schematype": "survey"
+}

@@ -1,0 +1,135 @@
+.cep-form {
+    width: 100%;
+    margin: 0 auto;
+    font-family: Arial, sans-serif;
+}
+
+.cep-form h2 {
+    text-align: center;
+    color: #3a2c73;
+    margin-bottom: 20px;
+}
+
+.cep-row {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    margin-bottom: 15px;
+}
+
+.cep-row p {
+    flex: 1;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+.cep-row label {
+    margin-bottom: 5px;
+    font-weight: 600;
+    text-align: left;
+}
+
+.cep-row input {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background: #f7f8fc;
+    outline: none;
+    transition: 0.3s;
+}
+
+.cep-row input:focus {
+    border-color: #3a2c73;
+    box-shadow: 0 0 5px rgba(58, 44, 115, 0.2);
+}
+
+.cep-form input[type="submit"] {
+    background: #3a2c73;
+    color: #fff;
+    border: none;
+    padding: 12px 25px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-weight: 600;
+    transition: 0.3s;
+}
+
+.cep-form input[type="submit"]:hover {
+    background: #2e235c;
+}
+
+.cep-error {
+    color: #d93025;
+    margin-bottom: 10px;
+    font-weight: 600;
+    border-left: 4px solid #d93025;
+    display: flex;
+    border-radius: 4px;
+    padding: 10px !important;
+    background: #d930250a;
+}
+
+.cep-success {
+    color: #34a853;
+    margin-bottom: 10px;
+    font-weight: 600;
+    background: #34a8530d;
+}
+
+.input-validator {
+    font-size: 12px;
+    margin-top: 4px;
+}
+
+.password-bloc > div {
+    display: flex;
+}
+
+.submit-button-row {
+    text-align: right;
+    text-transform: capitalize;
+    margin-top: 20px;
+}
+
+/* DEBUT CODE:  style champs institution page edit profile  */
+.ui-menu.ui-widget.ui-widget-content.ui-autocomplete {
+    background: var(--wp--preset--color--white);
+    overflow-y: auto;
+    max-height: 200px;
+    padding: 15px;
+}
+
+.ui-autocomplete .ui-menu-item {
+    cursor: pointer;
+    border-bottom: 1px solid var(--wp--preset--color--oxygenated-blue);
+}
+
+.ui-autocomplete .ui-menu-item:last-child {
+    border-bottom: none;
+}
+
+.ui-autocomplete {
+    list-style: none !important;
+    padding-left: 0;
+    margin: 0;
+}
+
+/* S’assure que chaque item n’a pas de puce */
+.ui-autocomplete .ui-menu-item {
+    list-style: none !important;
+    padding-left: 0;
+}
+/* FIN CODE STYLE*/
+
+/* edit profile */
+.editprofile label::after {
+    content: "";
+}
+
+.editprofile .is-required label::after {
+    content: " *";
+    color: var(--wp--preset--color--red);
+    font-weight: bold;
+    font-size: var(--wp--preset--font-size--xl-normal);
+}

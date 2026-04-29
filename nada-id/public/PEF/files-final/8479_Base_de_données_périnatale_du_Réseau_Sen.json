@@ -1,0 +1,884 @@
+{
+  "stdyDscr": {
+    "citation": {
+      "titlStmt": {
+        "IDNo": [
+          {
+            "agency": "PEF",
+            "value": "8479"
+          },
+          {
+            "agency": "FReSH",
+            "value": "FRESH-PEF8479"
+          }
+        ],
+        "titl": [
+          {
+            "lang": "fr",
+            "value": "Base de données périnatale du Réseau Sentinelle AUDIPOG"
+          },
+          {
+            "lang": "en",
+            "value": "Sentinel Network perinatal database AUDIPOG"
+          }
+        ],
+        "altTitl": [
+          {
+            "lang": "fr",
+            "value": "AUDIPOG"
+          },
+          {
+            "lang": "en",
+            "value": "AUDIPOG"
+          }
+        ]
+      },
+      "rspStmt": {
+        "AuthEnty": [
+          {
+            "name": "Françoise;VENDITTELLI",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "UNIVERSITE CLAUDE BERNARD LYON 1"
+              },
+              {
+                "lang": "en",
+                "value": "UNIVERSITE CLAUDE BERNARD LYON 1"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "061049069",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/029brtt94",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "196917744",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ],
+            "isContact": true,
+            "email": "FVendittelli@chu-clermontferrand.fr",
+            "PILabo": "Faculté de Médecine Lyon / Audipog"
+          }
+        ],
+        "othId": [
+          {
+            "type": "collaboration",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "Convention avec le Collège National des gynécologues-Obstétriciens Français (CNGOF) ; Convention avec le Collège National des Sages-Femmes (CNSF) ; Convention avec la Société Française de Médecine Périnatale (SFMP)."
+              },
+              {
+                "lang": "en",
+                "value": "Convention with the Collège National des gynécologues-Obstétriciens Français (CNGOF); Convention with the Collège National des Sages-Femmes (CNSF); Convention with the Société Française de Médecine Périnatale (SFMP)."
+              }
+            ]
+          }
+        ]
+      },
+      "distStmt": {
+        "contact": [
+          {
+            "name": "Françoise;VENDITTELLI",
+            "email": "FVendittelli@chu-clermontferrand.fr",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "UNIVERSITE CLAUDE BERNARD LYON 1"
+              },
+              {
+                "lang": "en",
+                "value": "UNIVERSITE CLAUDE BERNARD LYON 1"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/029brtt94",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "196917744",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          }
+        ]
+      },
+      "prodStmt": {
+        "fundAg": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "ASSOCIATION DES UTILISATEURS DE DOSSIERS INFORMATISES EN PEDIATRIE, OBSTETRIQUE ET GYNECOLOGIE (AUDIPOG)"
+              },
+              {
+                "lang": "en",
+                "value": "ASSOCIATION DES UTILISATEURS DE DOSSIERS INFORMATISES EN PEDIATRIE, OBSTETRIQUE ET GYNECOLOGIE (AUDIPOG)"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "SIREN",
+                "uri": "398708537"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Privé à but non lucratif"
+              },
+              {
+                "lang": "en",
+                "value": "Private non-profit"
+              }
+            ]
+          }
+        ],
+        "producer": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "ASSOCIATION DES UTILISATEURS DE DOSSIERS INFORMATISES EN PEDIATRIE, OBSTETRIQUE ET GYNECOLOGIE (AUDIPOG)"
+              },
+              {
+                "lang": "en",
+                "value": "ASSOCIATION DES UTILISATEURS DE DOSSIERS INFORMATISES EN PEDIATRIE, OBSTETRIQUE ET GYNECOLOGIE (AUDIPOG)"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Privé à but non lucratif"
+              },
+              {
+                "lang": "en",
+                "value": "Private non-profit"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "398708537"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "studyAuthorization": {
+      "authorizingAgency": {
+        "lang": "fr",
+        "value": "CNIL"
+      }
+    },
+    "method": {
+      "notes": [
+        {
+          "subject": "research type",
+          "lang": "fr",
+          "value": "Etude observationnelle"
+        },
+        {
+          "subject": "research type",
+          "lang": "en",
+          "value": "Observational Study"
+        },
+        {
+          "lang": "fr",
+          "subject": "observational study method",
+          "value": "Cohorte"
+        },
+        {
+          "lang": "en",
+          "subject": "observational study method",
+          "value": "Cohort study"
+        }
+      ],
+      "stdyClas": [
+        {
+          "lang": "fr",
+          "value": "Inconnu"
+        },
+        {
+          "lang": "en",
+          "value": "Unknown"
+        }
+      ],
+      "dataColl": {
+        "targetSampleSize": [
+          {
+            "lang": "fr",
+            "value": ">= 20000 individus"
+          },
+          {
+            "lang": "en",
+            "value": ">= 20000 individuals"
+          }
+        ],
+        "sampleFrame": {
+          "frameUnit": {
+            "unitType": [
+              {
+                "lang": "fr",
+                "value": "Via des structures (services ou établissements de santé, écoles, entreprises…)"
+              },
+              {
+                "lang": "en",
+                "value": "Through organizations (health services or institutions, schools, businesses, etc.)"
+              }
+            ]
+          }
+        },
+        "sources": [
+          {}
+        ],
+        "collMode": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Transcription",
+              "vocab": "CESSDA"
+            },
+            "value": "Transcription et saisie d’informations dans un enregistrement structuré"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Transcription",
+              "vocab": "CESSDA"
+            },
+            "value": "Converting or copying information into a structured record"
+          }
+        ],
+        "sampProc": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ],
+        "respRate": [
+          {
+            "lang": "fr",
+            "value": "600 000 nouveaux-nés"
+          },
+          {
+            "lang": "en",
+            "value": "600 000 newborns"
+          }
+        ]
+      }
+    },
+    "stdyInfo": {
+      "abstract": [
+        {
+          "contentType": "purpose",
+          "lang": "fr",
+          "value": "Les objectifs du Réseau Sentinelle, définis lors de sa création en 1994, étaient les suivants : - surveiller, année après année, les indicateurs de santé périnatale (indicateurs de recrutement, de pratiques et de résultats), par une mise en commun des données issues des fichiers des maternités participant au Réseau ; - fournir aux maternités un outil d'évaluation de leurs pratiques et de leurs résultats, en comparant les résultats des analyses pratiquées sur leurs propres fichiers à ceux du Réseau Sentinelle (benchmarking) ; - réaliser des études épidémiologiques à partir de la base de données ; - mettre en place des études multicentriques, à la demande d'un ou plusieurs membres du Réseau."
+        },
+        {
+          "contentType": "purpose",
+          "lang": "en",
+          "value": "The objectives of the Sentinelle Network, defined when it was set up in 1994, were as follows: - to monitor perinatal health indicators (recruitment, practices and results) year after year, by pooling data from the files of maternity units participating in the Network; - provide maternity units with a tool for assessing their practices and results, by comparing the results of analyses carried out on their own files with those of the Sentinelle Network (benchmarking) ; - conduct epidemiological studies based on the database ; - set up multicenter studies, at the request of one or more Network members."
+        }
+      ],
+      "subject": {
+        "topcClas": [
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/7de64596-5b0d-4977-8f98-b982ff2ec17d"
+              },
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/284ca20c-beb4-4abe-99fa-ef4513358bad"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D006176"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D009774"
+              }
+            ],
+            "value": "Gynécologie et obstétrique"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/bf8aaaac-ddee-41cd-bb8a-c5a63de3fcbd"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D010372"
+              }
+            ],
+            "value": "Pédiatrie"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/7de64596-5b0d-4977-8f98-b982ff2ec17d"
+              },
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/284ca20c-beb4-4abe-99fa-ef4513358bad"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D006176"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D009774"
+              }
+            ],
+            "value": "Gynaecology and obstetrics"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/bf8aaaac-ddee-41cd-bb8a-c5a63de3fcbd"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D010372"
+              }
+            ],
+            "value": "Paediatrics"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants liés au système de santé : Consommation des soins"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants socio-démographiques et économiques : Emploi"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants socio-démographiques et économiques"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants liés au système de santé"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Healthcare system determinants: Use of care"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Socio-demographic and economic determinants: Employment"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Socio-demographic and economic determinants"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Healthcare system determinants"
+          }
+        ],
+        "keyword": [
+          {
+            "lang": "fr",
+            "value": "santé périnatale"
+          },
+          {
+            "lang": "fr",
+            "value": "maternité"
+          },
+          {
+            "lang": "fr",
+            "value": "résultats"
+          },
+          {
+            "lang": "fr",
+            "value": "accouchement"
+          },
+          {
+            "lang": "fr",
+            "value": "Surveillance"
+          },
+          {
+            "lang": "fr",
+            "value": "pratiques"
+          },
+          {
+            "lang": "fr",
+            "value": "antécédents"
+          },
+          {
+            "lang": "fr",
+            "value": "grossesse"
+          },
+          {
+            "lang": "fr",
+            "value": "nouveau-né"
+          },
+          {
+            "lang": "en",
+            "value": "perinatal health"
+          },
+          {
+            "lang": "en",
+            "value": "maternity"
+          },
+          {
+            "lang": "en",
+            "value": "results"
+          },
+          {
+            "lang": "en",
+            "value": "delivery"
+          },
+          {
+            "lang": "en",
+            "value": "Monitoring"
+          },
+          {
+            "lang": "en",
+            "value": "practices"
+          },
+          {
+            "lang": "en",
+            "value": "history"
+          },
+          {
+            "lang": "en",
+            "value": "pregnancy"
+          },
+          {
+            "lang": "en",
+            "value": "newborn"
+          }
+        ]
+      },
+      "qualityStatement": {
+        "standardsCompliance": {},
+        "otherQualityStatement": [
+          {
+            "lang": "fr",
+            "value": "Lexique à disposition des utilisateurs de dossiers papiers ou informatisés utilisant les spécifications à destination des éditeurs de logiciels métiers de spécialité. Ces derniers disposent de contrôle à la saisie (idem sur le dossier d'évaluation disponible sur le site web de l'association). Validation par un datamanager et validation scientifique par des professionnels, si besoin, avant intégration dans la base. sollicitation des maternités en cas de doute."
+          },
+          {
+            "lang": "en",
+            "value": "Glossary available to users of paper or computerised files using specifications intended for publishers of specialist software. The latter have data entry controls (as in the assessment file available on the association's website). Validation by a data manager and scientific validation by professionals, if necessary, before integration into the database. Maternity wards are consulted in case of doubt."
+          }
+        ]
+      },
+      "sumDscr": {
+        "dataKind": [
+          {
+            "lang": "fr",
+            "value": "Données cliniques"
+          },
+          {
+            "lang": "en",
+            "value": "Clinical data"
+          }
+        ],
+        "anlyUnit": [
+          {
+            "lang": "fr",
+            "value": "Individus"
+          },
+          {
+            "lang": "en",
+            "value": "Individuals"
+          }
+        ],
+        "nation": [
+          {
+            "lang": "fr",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          },
+          {
+            "lang": "en",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          }
+        ],
+        "universe": [
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Féminin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Female"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D007231"
+            },
+            "value": "Nouveau-né (naissance à 28j)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000293"
+            },
+            "value": "Adolescence (13 à 18 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Adulte (19 à 24 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adulte (25 à 44 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Adulte (45 à 64 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D007231"
+            },
+            "value": "Infant, Newborn (birth to 28 days)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Young Adult (19 to 24 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adult (25 to 44 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Middle Aged (45 to 64 years)"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Population générale"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "en",
+            "value": "General population"
+          },
+          {
+            "clusion": "I",
+            "lang": "fr",
+            "value": " Femme ayant accouché après 22 semaines d'aménorrhée (supérieur ou égal à 22 semaines d'aménorrhée ; si début de grossesse indéterminé : fœtus supérieur ou égal à 500g)."
+          },
+          {
+            "clusion": "I",
+            "lang": "en",
+            "value": ""
+          },
+          {
+            "clusion": "E",
+            "lang": "fr",
+            "value": ""
+          },
+          {
+            "clusion": "E",
+            "lang": "en",
+            "value": ""
+          }
+        ],
+        "collDate": [
+          {
+            "event": "start",
+            "value": "1994-01-01"
+          },
+          {
+            "event": "end",
+            "value": "2008-01-01"
+          }
+        ]
+      }
+    },
+    "dataAccs": {
+      "setAvail": {
+        "avlStatus": [
+          {
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Accès réservé"
+          },
+          {
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Restricted access"
+          }
+        ],
+        "conditions": [
+          {
+            "lang": "fr",
+            "value": "Contacter le responsable scientifique pour travailler sur la base complète sinon, un extrait de la base est en accès réservé aux membres de l’association (via un mot de passe) pour des requêtes uni et bivariées seulement."
+          },
+          {
+            "lang": "en",
+            "value": "Contact the scientific manager to work on the complete database; otherwise, an extract of the database is available to association members only (via password) for uni and bivariate queries only."
+          }
+        ]
+      },
+      "useStmt": {}
+    },
+    "othStdMat": {
+      "relMat": [
+        {
+          "lang": "fr",
+          "value": "Accès restreint sur projet spécifique"
+        },
+        {
+          "lang": "en",
+          "value": "Access on specific project only"
+        }
+      ]
+    },
+    "studyDevelopment": {
+      "developmentActivity": [
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/morbidité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/mortalité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Consommation de soins/services de santé"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/morbidity"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/mortality"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health care consumption and services"
+        }
+      ]
+    }
+  },
+  "docDscr": {
+    "citation": {
+      "rspStmt": {
+        "AuthEnty": "Françoise VENDITTELLI"
+      },
+      "prodStmt": {
+        "producer": [
+          {
+            "affiliation": "UNIVERSITE CLAUDE BERNARD LYON 1",
+            "value": "Françoise;VENDITTELLI"
+          }
+        ],
+        "prodPlac": "Portail Épidémiologie France"
+      }
+    }
+  },
+  "additional": {
+    "prodPlac": "Portail Épidémiologie France",
+    "relatedDocuments": {
+      "documentTitle": [
+        {
+          "lang": "fr"
+        },
+        {
+          "lang": "en"
+        }
+      ],
+      "documentLink": [
+        {
+          "lang": "fr",
+          "value": "http://www.audipog.net/docs_liste.php?rub=1"
+        },
+        {
+          "lang": "en",
+          "value": "http://www.audipog.net/docs_liste.php?rub=1"
+        }
+      ]
+    },
+    "creationDate": "24-03-2014",
+    "lastUpdatedManual": "20-06-2025",
+    "theme": {},
+    "governance": {},
+    "collaborations": {},
+    "mockSample": {},
+    "dataQuality": {},
+    "variableDictionnary": {},
+    "dataTypes": {
+      "clinicalDataDetails": {
+        "lang": "fr",
+        "value": "--"
+      },
+      "isDataInBiobank": false
+    },
+    "collectionProcess": {
+      "collectionModeDetails": [
+        {
+          "lang": "fr",
+          "value": "Export de dossiers informatisés ou export de bases de données périnatales de maternités ou saisie par les maternités sur le dossier d'évaluation mis à disposition de ses membres sur le site web de l'Audipog ou à défaut sur une fiche papier qui sera ressaisie par l'Audipog."
+        },
+        {
+          "lang": "en",
+          "value": "Export of computerised files or export of perinatal databases from maternity wards or entry by maternity wards on the assessment form made available to its members on the Audipog website or, failing that, on a paper form which will be re-entered by Audipog."
+        }
+      ]
+    },
+    "geographicalCoverage": {
+      "geoDetail": [
+        {
+          "lang": "fr",
+          "value": "France"
+        },
+        {
+          "lang": "en",
+          "value": "France"
+        }
+      ]
+    },
+    "activeFollowUp": {
+      "isActiveFollowUp": false
+    },
+    "dataCollectionIntegration": {
+      "isDataIntegration": false
+    },
+    "isHealthTheme": true
+  },
+  "schematype": "survey"
+}

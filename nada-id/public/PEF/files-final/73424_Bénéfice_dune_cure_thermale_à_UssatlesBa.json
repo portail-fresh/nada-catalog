@@ -1,0 +1,772 @@
+{
+  "stdyDscr": {
+    "citation": {
+      "titlStmt": {
+        "IDNo": [
+          {
+            "agency": "PEF",
+            "value": "73424"
+          },
+          {
+            "agency": "FReSH",
+            "value": "FRESH-PEF73424"
+          }
+        ],
+        "titl": [
+          {
+            "lang": "fr",
+            "value": "Bénéfice d’une cure thermale à Ussat-les-Bains dans la lombalgie chronique"
+          },
+          {
+            "lang": "en",
+            "value": "Benefits of a spa treatment at Ussat-les-Bains for chronic low-back pain"
+          }
+        ],
+        "altTitl": [
+          {
+            "lang": "fr",
+            "value": "USSATHERM-Rhumato"
+          },
+          {
+            "lang": "en",
+            "value": "USSATHERM-Rhumato"
+          }
+        ]
+      },
+      "rspStmt": {
+        "AuthEnty": [
+          {
+            "name": "Pauline;BOSCO-LEVY",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "UNIVERSITE DE BORDEAUX"
+              },
+              {
+                "lang": "en",
+                "value": "UNIVERSITE DE BORDEAUX"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "0000-0001-9763-5974",
+                "role": "pi id",
+                "title": "ORCID"
+              },
+              {
+                "uri": "188371400",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/057qpr032",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "130018351",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ],
+            "isContact": false,
+            "email": "",
+            "PILabo": ""
+          }
+        ],
+        "othId": []
+      },
+      "distStmt": {},
+      "prodStmt": {
+        "fundAg": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "GIE DES THERMES D'USSAT"
+              },
+              {
+                "lang": "en",
+                "value": "GIE DES THERMES D'USSAT"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "SIREN",
+                "uri": "352872261"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Industrie"
+              },
+              {
+                "lang": "en",
+                "value": "Industry"
+              }
+            ]
+          }
+        ],
+        "producer": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "UNIVERSITE DE BORDEAUX"
+              },
+              {
+                "lang": "en",
+                "value": "UNIVERSITE DE BORDEAUX"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "ROR",
+                "uri": "https://ror.org/057qpr032"
+              },
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "130018351"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "studyAuthorization": [
+      {
+        "authorizingAgency": {
+          "lang": "fr",
+          "value": "CPP"
+        }
+      },
+      {
+        "authorizingAgency": {
+          "lang": "fr",
+          "value": "ANSM"
+        }
+      }
+    ],
+    "method": {
+      "notes": [
+        {
+          "subject": "research type",
+          "lang": "fr",
+          "value": "Etude observationnelle"
+        },
+        {
+          "subject": "research type",
+          "lang": "en",
+          "value": "Observational Study"
+        },
+        {
+          "lang": "fr",
+          "subject": "observational study method",
+          "value": "Cohorte"
+        },
+        {
+          "lang": "en",
+          "subject": "observational study method",
+          "value": "Cohort study"
+        }
+      ],
+      "stdyClas": [
+        {
+          "lang": "fr",
+          "value": "Inconnu"
+        },
+        {
+          "lang": "en",
+          "value": "Unknown"
+        }
+      ],
+      "dataColl": {
+        "targetSampleSize": {
+          "lang": "fr",
+          "value": "< 500 individus"
+        },
+        "sampleFrame": {
+          "frameUnit": {
+            "unitType": [
+              {
+                "lang": "fr",
+                "value": "Via des structures (services ou établissements de santé, écoles, entreprises…)"
+              },
+              {
+                "lang": "en",
+                "value": "Through organizations (health services or institutions, schools, businesses, etc.)"
+              }
+            ]
+          }
+        },
+        "sources": [
+          {}
+        ],
+        "collMode": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "SelfAdministeredQuestionnaire",
+              "vocab": "CESSDA"
+            },
+            "value": "Questionnaire auto-administré"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "SelfAdministeredQuestionnaire",
+              "vocab": "CESSDA"
+            },
+            "value": "Self-administered questionnaire"
+          },
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Interview",
+              "vocab": "CESSDA"
+            },
+            "value": "Entretien avec le participant (dont clinique)"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Interview",
+              "vocab": "CESSDA"
+            },
+            "value": "Interview with the participant (including clinical)"
+          }
+        ],
+        "sampProc": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ],
+        "respRate": [
+          {
+            "lang": "fr",
+            "value": "60 patients"
+          },
+          {
+            "lang": "en",
+            "value": "60 patients"
+          }
+        ]
+      }
+    },
+    "stdyInfo": {
+      "abstract": [
+        {
+          "contentType": "purpose",
+          "lang": "fr",
+          "value": "L'objectif principal est d'évaluer l’évolution de l’incapacité fonctionnelle due à une lombalgie chronique, 6 mois après une cure thermale à Ussat-les-Bains."
+        },
+        {
+          "contentType": "purpose",
+          "lang": "en",
+          "value": "The main objective is to evaluate the evolution of functional disability due to chronic low back pain, 6 months after a spa treatment at Ussat-les-Bains."
+        }
+      ],
+      "subject": {
+        "topcClas": [
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/bfb0bafd-7894-45ba-84fc-ddab5fd6c537"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D012219"
+              }
+            ],
+            "value": "Rhumatologie"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/bfb0bafd-7894-45ba-84fc-ddab5fd6c537"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D012219"
+              }
+            ],
+            "value": "Rheumatology"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "fr",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/1473673350",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Maladies du système musculosquelettique ou du tissu conjonctif"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "en",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/1473673350",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Diseases of the musculoskeletal system or connective tissue"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Autre"
+          }
+        ],
+        "keyword": [
+          {
+            "lang": "fr",
+            "value": "Cure thermale"
+          },
+          {
+            "lang": "fr",
+            "value": "Lombalgie chronique"
+          },
+          {
+            "lang": "fr",
+            "value": "incapacité fonctionnelle"
+          },
+          {
+            "lang": "fr",
+            "value": "cohorte"
+          },
+          {
+            "lang": "fr",
+            "value": "qualité de vie"
+          },
+          {
+            "lang": "en",
+            "value": "Spa treatment"
+          },
+          {
+            "lang": "en",
+            "value": "chronic chronic low-back pain"
+          },
+          {
+            "lang": "en",
+            "value": "functional disability"
+          },
+          {
+            "lang": "en",
+            "value": "cohort"
+          },
+          {
+            "lang": "en",
+            "value": "quality of life"
+          }
+        ]
+      },
+      "qualityStatement": {
+        "standardsCompliance": {},
+        "otherQualityStatement": [
+          {
+            "lang": "fr",
+            "value": "Les différents questionnaires de l'étude seront monitorés par un Attaché de Recherche Epidémiologique afin de vérifier la cohérence des données. Ce dernier pourra solliciter le médecin thermal en cas de questionnaires non renvoyés ou de précisions sur les données complétées. Un contrôle des données recueillies sur site pourra également être effectué par un Attaché de Recherche Epidémiologique."
+          },
+          {
+            "lang": "en",
+            "value": "The various questionnaires used in the study will be monitored by an Epidemiological Research Assistant in order to verify data consistency. The latter may contact the spa doctor in the event of questionnaires not being returned or if clarification is required on the data provided. An Epidemiological Research Assistant may also carry out checks on the data collected on site."
+          }
+        ]
+      },
+      "sumDscr": {
+        "dataKind": [
+          {
+            "lang": "fr",
+            "value": "Données cliniques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données rapportées par le participant de l&#x27;étude"
+          },
+          {
+            "lang": "en",
+            "value": "Clinical data"
+          },
+          {
+            "lang": "en",
+            "value": "Participant-reported health data"
+          }
+        ],
+        "anlyUnit": [
+          {
+            "lang": "fr",
+            "value": "Individus"
+          },
+          {
+            "lang": "en",
+            "value": "Individuals"
+          }
+        ],
+        "nation": [
+          {
+            "lang": "fr",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          },
+          {
+            "lang": "en",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          }
+        ],
+        "geogCover": [
+          {
+            "lang": "fr",
+            "value": "Occitanie"
+          },
+          {
+            "lang": "en",
+            "value": "Occitanie"
+          }
+        ],
+        "universe": [
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Masculin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Féminin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Male"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Female"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Adulte (19 à 24 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adulte (25 à 44 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Adulte (45 à 64 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Personne âgée (65 à 79 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000369"
+            },
+            "value": "Grand âge (80 ans et plus)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Young Adult (19 to 24 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adult (25 to 44 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Middle Aged (45 to 64 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Aged (65 to 79 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000369"
+            },
+            "value": "Aged, 80 and over (80 years and more)"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Patients"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "en",
+            "value": "Patients population"
+          },
+          {
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Patient présentant des douleurs liées à une lombalgie chronique depuis au moins 6 mois. Patient ayant complété l'Echelle Visuelle Analogique (EVA) pour l'évaluation des douleurs lombaires ressenties sur les 8 derniers jours avec un score supérieur à 4/10. Patient acceptant de participer à l’étude, ayant complété et signé le Formulaire de consentement exprès libre et éclairé du Patient."
+          },
+          {
+            "clusion": "I",
+            "lang": "en",
+            "value": ""
+          },
+          {
+            "clusion": "E",
+            "lang": "fr",
+            "value": ""
+          },
+          {
+            "clusion": "E",
+            "lang": "en",
+            "value": ""
+          }
+        ],
+        "collDate": [
+          {
+            "event": "start",
+            "value": "2020-01-01"
+          },
+          {
+            "event": "end",
+            "value": "2022-01-01"
+          }
+        ]
+      }
+    },
+    "dataAccs": {
+      "setAvail": {
+        "avlStatus": [
+          {
+            "lang": "fr",
+            "value": "A définir"
+          },
+          {
+            "lang": "en",
+            "value": "To be defined"
+          }
+        ],
+        "notes": [
+          {
+            "lang": "fr",
+            "value": "La propriété et l&#x27;accès aux données de l&#x27;étude ont fait l&#x27;objet d&#x27;une convention entre l&#x27;Université de Bordeaux et la Société thermale d&#x27;Ussat."
+          },
+          {
+            "lang": "en",
+            "value": "Ownership and access to the study data are covered by an agreement between the Université de Bordeaux and the Société thermale d&#x27;Ussat. Terms of access to the database are to be defined for any third party."
+          }
+        ],
+        "conditions": []
+      },
+      "useStmt": {}
+    },
+    "othStdMat": {
+      "relMat": {
+        "lang": "fr",
+        "value": "Accès restreint sur projet spécifique"
+      }
+    },
+    "studyDevelopment": {
+      "developmentActivity": [
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/morbidité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Consommation de soins/services de santé"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Qualité de vie/santé perçue"
+        }
+      ]
+    }
+  },
+  "docDscr": {
+    "citation": {
+      "rspStmt": {
+        "AuthEnty": "Cécile DROZ-PERROTEAU"
+      },
+      "prodStmt": {
+        "producer": [
+          {
+            "affiliation": "UNIVERSITE DE BORDEAUX",
+            "value": "Cécile;DROZ-PERROTEAU"
+          }
+        ],
+        "prodPlac": "Portail Épidémiologie France"
+      }
+    }
+  },
+  "additional": {
+    "prodPlac": "Portail Épidémiologie France",
+    "creationDate": "----",
+    "lastUpdatedManual": "07-03-2023",
+    "theme": {},
+    "governance": {
+      "committee": true
+    },
+    "collaborations": {},
+    "mockSample": {},
+    "dataQuality": {},
+    "variableDictionnary": {},
+    "dataTypes": {
+      "isDataInBiobank": false
+    },
+    "collectionProcess": {
+      "collectionModeDetails": [
+        {
+          "lang": "fr",
+          "value": "Les données d'étude sont recueillies par des questionnaires papiers standardisés : des questionnaires médicaux remplis par le médecin thermal et des auto-questionnaires remplis par les patients."
+        },
+        {
+          "lang": "en",
+          "value": "Study data is collected using standardised paper questionnaires: medical questionnaires completed by the spa doctor and self-administered questionnaires completed by patients."
+        }
+      ]
+    },
+    "geographicalCoverage": {
+      "geoDetail": [
+        {
+          "lang": "fr",
+          "value": "Patients réalisant une cure thermale à Ussat-les-Bains dans la région Languedoc-Roussillon Midi-Pyrénées"
+        },
+        {
+          "lang": "en",
+          "value": "Patients undergoing spa treatment in Ussat-les-Bains in the Languedoc-Roussillon Midi-Pyrénées region"
+        }
+      ]
+    },
+    "activeFollowUp": {
+      "isActiveFollowUp": true
+    },
+    "dataCollectionIntegration": {
+      "isDataIntegration": false
+    },
+    "isHealthTheme": true
+  },
+  "schematype": "survey"
+}

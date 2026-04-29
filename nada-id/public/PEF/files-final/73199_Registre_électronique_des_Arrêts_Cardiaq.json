@@ -1,0 +1,994 @@
+{
+  "stdyDscr": {
+    "citation": {
+      "titlStmt": {
+        "IDNo": [
+          {
+            "agency": "PEF",
+            "value": "73199"
+          },
+          {
+            "agency": "FReSH",
+            "value": "FRESH-PEF73199"
+          }
+        ],
+        "titl": [
+          {
+            "lang": "fr",
+            "value": "Registre électronique des Arrêts Cardiaques"
+          },
+          {
+            "lang": "en",
+            "value": "Electronic Registry of Cardiac Arrests"
+          }
+        ],
+        "altTitl": [
+          {
+            "lang": "fr",
+            "value": "RéAC"
+          },
+          {
+            "lang": "en",
+            "value": "RéAC"
+          }
+        ]
+      },
+      "rspStmt": {
+        "AuthEnty": [
+          {
+            "name": "Pierre-Yves;GUEUGNIAUD",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "HOSPICES CIVILS DE LYON (HCL)"
+              },
+              {
+                "lang": "en",
+                "value": "HOSPICES CIVILS DE LYON (HCL)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "057752451",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/01502ca60",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "266900273",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ],
+            "isContact": true,
+            "email": "pierre-yves.gueugniaud@chu-lyon.fr",
+            "PILabo": "Edouard Herriot Hospital Group"
+          },
+          {
+            "name": "Hervé;HUBERT",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "UNIVERSITE DE LILLE"
+              },
+              {
+                "lang": "en",
+                "value": "UNIVERSITE DE LILLE"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "0000-0003-2944-7597",
+                "role": "pi id",
+                "title": "ORCID"
+              },
+              {
+                "uri": "074563653",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/02kzqn938",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "130029754",
+                "role": "organisation id",
+                "title": "SIREN"
+              },
+              {
+                "uri": "199814198W",
+                "role": "labo id",
+                "title": "RNSR"
+              }
+            ],
+            "isContact": true,
+            "email": "herve.hubert@registreac.org",
+            "PILabo": "Lille University / Lille Public Health Laboratory (EA2694)"
+          }
+        ],
+        "othId": [
+          {
+            "type": "collaboration",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "EuReCA - European Registry of Cardiac Arrest"
+              },
+              {
+                "lang": "en",
+                "value": "EuReCA—European Registry of Cardiac Arrest"
+              }
+            ]
+          }
+        ]
+      },
+      "distStmt": {
+        "contact": [
+          {
+            "name": "Pierre-Yves;GUEUGNIAUD",
+            "email": "pierre-yves.gueugniaud@chu-lyon.fr",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "HOSPICES CIVILS DE LYON (HCL)"
+              },
+              {
+                "lang": "en",
+                "value": "HOSPICES CIVILS DE LYON (HCL)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/01502ca60",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "266900273",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          },
+          {
+            "name": "Hervé;HUBERT",
+            "email": "herve.hubert@registreac.org",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "UNIVERSITE DE LILLE"
+              },
+              {
+                "lang": "en",
+                "value": "UNIVERSITE DE LILLE"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/02kzqn938",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "130029754",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          }
+        ]
+      },
+      "prodStmt": {
+        "fundAg": [
+          {
+            "name": [
+              {
+                "lang": "fr"
+              },
+              {
+                "lang": "en"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Autre"
+              },
+              {
+                "lang": "en",
+                "value": "Other"
+              }
+            ]
+          }
+        ],
+        "producer": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "REGISTRE ELECTRONIQUE DES ARRETS CARDIAQUES (REAC)"
+              },
+              {
+                "lang": "en",
+                "value": "REGISTRE ELECTRONIQUE DES ARRETS CARDIAQUES (REAC)"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Privé à but non lucratif"
+              },
+              {
+                "lang": "en",
+                "value": "Private non-profit"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "793074246"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "studyAuthorization": {
+      "authorizingAgency": {
+        "lang": "fr",
+        "value": "CNIL"
+      }
+    },
+    "method": {
+      "notes": [
+        {
+          "subject": "research type",
+          "lang": "fr",
+          "value": "Etude observationnelle"
+        },
+        {
+          "subject": "research type",
+          "lang": "en",
+          "value": "Observational Study"
+        },
+        {
+          "lang": "fr",
+          "subject": "observational study method",
+          "value": "Registre de morbidité"
+        },
+        {
+          "lang": "en",
+          "subject": "observational study method",
+          "value": "Morbidity registry"
+        }
+      ],
+      "stdyClas": [
+        {
+          "lang": "fr",
+          "value": "Inconnu"
+        },
+        {
+          "lang": "en",
+          "value": "Unknown"
+        }
+      ],
+      "dataColl": {
+        "targetSampleSize": [
+          {
+            "lang": "fr",
+            "value": ">= 20000 individus"
+          },
+          {
+            "lang": "en",
+            "value": ">= 20000 individuals"
+          }
+        ],
+        "sampleFrame": {
+          "frameUnit": {}
+        },
+        "sources": [
+          {}
+        ],
+        "collMode": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Transcription",
+              "vocab": "CESSDA"
+            },
+            "value": "Transcription et saisie d’informations dans un enregistrement structuré"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Transcription",
+              "vocab": "CESSDA"
+            },
+            "value": "Converting or copying information into a structured record"
+          }
+        ],
+        "sampProc": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ],
+        "respRate": [
+          {
+            "lang": "fr",
+            "value": "45000 ( juin 2015)"
+          },
+          {
+            "lang": "en",
+            "value": "45,000 (June 2015)"
+          }
+        ]
+      }
+    },
+    "stdyInfo": {
+      "abstract": [
+        {
+          "contentType": "purpose",
+          "lang": "fr",
+          "value": "L’objectif principal de RéAC est d’améliorer les conditions de prise en charge des victimes d’arrêts cardiaques et ainsi améliorer les chances de survie des patients."
+        },
+        {
+          "contentType": "purpose",
+          "lang": "en",
+          "value": "The main aim of RéAC is to improve the treatment conditions for cardiac arrest victims, as well as improve the chances of survival for patients."
+        }
+      ],
+      "subject": {
+        "topcClas": [
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/e92e8adc-8256-4a4c-a052-b3cad420db7d"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D000776"
+              }
+            ],
+            "value": "Anesthésiologie"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/5e1591e2-d02b-436c-8216-6b8912eee467"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D004635"
+              }
+            ],
+            "value": "Médecine d’urgence"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/e92e8adc-8256-4a4c-a052-b3cad420db7d"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D000776"
+              }
+            ],
+            "value": "Anaesthesiology"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/5e1591e2-d02b-436c-8216-6b8912eee467"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D004635"
+              }
+            ],
+            "value": "Emergency medicine"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "fr",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/395422191",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Arrêt cardiaque"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "en",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/395422191",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Cardiac arrest"
+          }
+        ],
+        "keyword": [
+          {
+            "lang": "fr",
+            "value": "SAMU/SMUR"
+          },
+          {
+            "lang": "fr",
+            "value": "Registre"
+          },
+          {
+            "lang": "fr",
+            "value": "Prise en charge"
+          },
+          {
+            "lang": "fr",
+            "value": "arrêt cardiaque"
+          },
+          {
+            "lang": "en",
+            "value": "cardiac arrest"
+          },
+          {
+            "lang": "en",
+            "value": "SAMU/SMUR"
+          },
+          {
+            "lang": "en",
+            "value": "registry"
+          },
+          {
+            "lang": "en",
+            "value": "treatment"
+          }
+        ]
+      },
+      "qualityStatement": {
+        "standardsCompliance": {},
+        "otherQualityStatement": [
+          {
+            "lang": "fr",
+            "value": "Monitoring, SDV"
+          },
+          {
+            "lang": "en",
+            "value": "Monitoring, SDV"
+          }
+        ]
+      },
+      "sumDscr": {
+        "dataKind": [
+          {
+            "lang": "fr",
+            "value": "Données cliniques"
+          },
+          {
+            "lang": "en",
+            "value": "Clinical data"
+          }
+        ],
+        "anlyUnit": [
+          {
+            "lang": "fr",
+            "value": "Individus"
+          },
+          {
+            "lang": "en",
+            "value": "Individuals"
+          }
+        ],
+        "nation": [
+          {
+            "lang": "fr",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          },
+          {
+            "lang": "en",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          }
+        ],
+        "universe": [
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Masculin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Féminin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Male"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Female"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D007231"
+            },
+            "value": "Nouveau-né (naissance à 28j)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D007223"
+            },
+            "value": "Nourrisson (28j à 2 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D002675"
+            },
+            "value": "Petite enfance (2 à 5 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D002648"
+            },
+            "value": "Enfance (6 à 12 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000293"
+            },
+            "value": "Adolescence (13 à 18 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Adulte (19 à 24 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adulte (25 à 44 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Adulte (45 à 64 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Personne âgée (65 à 79 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000369"
+            },
+            "value": "Grand âge (80 ans et plus)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D007231"
+            },
+            "value": "Infant, Newborn (birth to 28 days)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D007223"
+            },
+            "value": "Infant (28 days to 2 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D002675"
+            },
+            "value": "Child, Preschool (2 to 5 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D002648"
+            },
+            "value": "Child (6 to 12 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Young Adult (19 to 24 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adult (25 to 44 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Middle Aged (45 to 64 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Aged (65 to 79 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000369"
+            },
+            "value": "Aged, 80 and over (80 years and more)"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Patients"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "en",
+            "value": "Patients population"
+          },
+          {
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Patients victimes d'arrêt cardiaque extra-hospitalier (Registre créé en Juillet 2011) et intra-hospitalier (Actuellement en phase de test dans les établissements volontaires)"
+          },
+          {
+            "clusion": "I",
+            "lang": "en",
+            "value": "Patients who were victims of out-of-hospital (registry created in July 2011) and in-hospital cardiac arrests (currently in testing phase within volunteer establishments)."
+          },
+          {
+            "clusion": "E",
+            "lang": "fr",
+            "value": ""
+          },
+          {
+            "clusion": "E",
+            "lang": "en",
+            "value": ""
+          }
+        ],
+        "collDate": {
+          "event": "start",
+          "value": "2011-01-01"
+        }
+      }
+    },
+    "dataAccs": {
+      "setAvail": {
+        "avlStatus": [
+          {
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Accès réservé"
+          },
+          {
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Restricted access"
+          }
+        ],
+        "conditions": [
+          {
+            "lang": "fr",
+            "value": "Plusieurs niveaux d&#x27;accès sont mis en place: - Les données principales (statistiques) au niveau national sont en libre accès (site internet) - Les données précises nationales et par centre sont disponibles pour chaque investigateur/utilisateur inscrit dans le registre. - La base de donnée (anonymisée) du centre est accessible pour tout utilisateur de ce centre (par SMUR, SAMU, réseau de saisie) - La base de donnée (anonymisée) complète est accessible aux investigateurs ou extérieurs sur formulation d&#x27;une demande motivée (projet de recherche, thèse etc) auprès du conseil scientifique du registre."
+          },
+          {
+            "lang": "en",
+            "value": "Several access levels are in place: —Principal data (statistics) at national level are freely available (website); —National data per centre are available to every registered investigator/user; —Database (anonymised) from the centre is available to all centre users (by SMUR, SAMU, entry network); —Full database (anonymised) is available to investigators or external parties by reasoned request (research project, thesis, etc.) to the registry scientific committee."
+          }
+        ]
+      },
+      "useStmt": {}
+    },
+    "othStdMat": {
+      "relMat": [
+        {
+          "lang": "fr",
+          "value": "Accès libre"
+        },
+        {
+          "lang": "en",
+          "value": "Free access"
+        }
+      ]
+    },
+    "studyDevelopment": {
+      "developmentActivity": [
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/morbidité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/mortalité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Consommation de soins/services de santé"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Qualité de vie/santé perçue"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/morbidity"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/mortality"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health care consumption and services"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Quality of life/health perception"
+        }
+      ]
+    }
+  },
+  "docDscr": {
+    "citation": {
+      "rspStmt": {
+        "AuthEnty": "Hervé HUBERT"
+      },
+      "prodStmt": {
+        "producer": [
+          {
+            "affiliation": "UNIVERSITE DE LILLE",
+            "value": "Hervé;HUBERT"
+          }
+        ],
+        "prodPlac": "Portail Épidémiologie France"
+      }
+    }
+  },
+  "additional": {
+    "prodPlac": "Portail Épidémiologie France",
+    "relatedDocuments": {
+      "documentTitle": [
+        {
+          "lang": "fr",
+          "value": "Liste des publications"
+        },
+        {
+          "lang": "en",
+          "value": "Liste des publications"
+        }
+      ],
+      "documentLink": [
+        {
+          "lang": "fr",
+          "value": "http://registreac.org/?cat=41"
+        },
+        {
+          "lang": "en",
+          "value": "http://registreac.org/?cat=41"
+        }
+      ]
+    },
+    "creationDate": "17-08-2015",
+    "lastUpdatedManual": "05-07-2016",
+    "theme": {},
+    "governance": {
+      "committee": true
+    },
+    "collaborations": {},
+    "mockSample": {},
+    "dataQuality": {},
+    "variableDictionnary": {},
+    "dataTypes": {
+      "clinicalDataDetails": [
+        {
+          "lang": "fr",
+          "value": "Données sociodémographiques, les horaires et les intervalles de temps, l'histoire de l'arrêt cardique, la description de l'accompagnement, les résultats immédiats des patients. La réanimation cardio-pulmonaire,"
+        },
+        {
+          "lang": "en",
+          "value": "Sociodemographic data; time periods and schedules; history of cardiac arrest; description of accompanying party; immediate outcome for patients. Cardiopulmonary resuscitation."
+        }
+      ],
+      "isDataInBiobank": false
+    },
+    "collectionProcess": {
+      "collectionModeDetails": [
+        {
+          "lang": "fr",
+          "value": "Fiche d'intervention \"Arrêt Cardiaque\" remplie lors des interventions par les équipes du SMUR"
+        },
+        {
+          "lang": "en",
+          "value": "Cardiac arrest intervention sheet completed during procedure by Mobile Emergency and Resuscitation Service (SMUR) teams."
+        }
+      ]
+    },
+    "geographicalCoverage": {
+      "geoDetail": [
+        {
+          "lang": "fr",
+          "value": "France"
+        },
+        {
+          "lang": "en",
+          "value": "France"
+        }
+      ]
+    },
+    "activeFollowUp": {
+      "isActiveFollowUp": true
+    },
+    "dataCollectionIntegration": {
+      "isDataIntegration": false
+    },
+    "isHealthTheme": true
+  },
+  "schematype": "survey"
+}

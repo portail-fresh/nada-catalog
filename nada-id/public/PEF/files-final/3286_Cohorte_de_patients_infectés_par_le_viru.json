@@ -1,0 +1,1030 @@
+{
+  "stdyDscr": {
+    "citation": {
+      "titlStmt": {
+        "IDNo": [
+          {
+            "agency": "PEF",
+            "value": "3286"
+          },
+          {
+            "agency": "FReSH",
+            "value": "FRESH-PEF3286"
+          }
+        ],
+        "titl": [
+          {
+            "lang": "fr",
+            "value": "Cohorte de patients infectés par le virus de l'hépatite B ou C : options thérapeutiques"
+          },
+          {
+            "lang": "en",
+            "value": "Therapeutic options for hepatitis B and C: a French nationwide cohort study"
+          }
+        ],
+        "altTitl": [
+          {
+            "lang": "fr",
+            "value": "HEPATHER"
+          },
+          {
+            "lang": "en",
+            "value": "HEPATHER"
+          }
+        ]
+      },
+      "rspStmt": {
+        "AuthEnty": [
+          {
+            "name": "Stanislas;POL",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "ASSISTANCE PUBLIQUE HOPITAUX DE PARIS (AP-HP)"
+              },
+              {
+                "lang": "en",
+                "value": "ASSISTANCE PUBLIQUE HOPITAUX DE PARIS (AP-HP)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "032856520",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/00pg5jh14",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "267500452",
+                "role": "organisation id",
+                "title": "SIREN"
+              },
+              {
+                "uri": "200217519N",
+                "role": "labo id",
+                "title": "RNSR"
+              }
+            ],
+            "isContact": true,
+            "email": "stanislas.pol@aphp.fr",
+            "PILabo": "Assistance Publique des Hôpitaux de Paris / U1016 Institut COCHIN- EMC - Régénération, ploïdie et senescence dans la pathophysiologie hépatique"
+          },
+          {
+            "name": "Fabrice;CARRAT",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE (INSERM)"
+              },
+              {
+                "lang": "en",
+                "value": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE (INSERM)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "0000-0002-8672-7918",
+                "role": "pi id",
+                "title": "ORCID"
+              },
+              {
+                "uri": "061656720",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/02vjkv261",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "180036048",
+                "role": "organisation id",
+                "title": "SIREN"
+              },
+              {
+                "uri": "200616418Z",
+                "role": "labo id",
+                "title": "RNSR"
+              }
+            ],
+            "isContact": true,
+            "email": "fabrice.carrat@iplesp.upmc.fr",
+            "PILabo": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE - / Unité INSERM UMR-S 707: Épidémiologie, Systèmes d'Information, Modélisation Equipe : Epidémiologie des maladies infectieuses et modélisation"
+          }
+        ],
+        "othId": []
+      },
+      "distStmt": {
+        "contact": [
+          {
+            "name": "Stanislas;POL",
+            "email": "stanislas.pol@aphp.fr",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "ASSISTANCE PUBLIQUE HOPITAUX DE PARIS (AP-HP)"
+              },
+              {
+                "lang": "en",
+                "value": "ASSISTANCE PUBLIQUE HOPITAUX DE PARIS (AP-HP)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/00pg5jh14",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "267500452",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          },
+          {
+            "name": "Fabrice;CARRAT",
+            "email": "fabrice.carrat@iplesp.upmc.fr",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE (INSERM)"
+              },
+              {
+                "lang": "en",
+                "value": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE (INSERM)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/02vjkv261",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "180036048",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          }
+        ]
+      },
+      "prodStmt": {
+        "fundAg": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "AGENCE NATIONALE DE RECHERCHES SUR LE SIDA ET LES HEPATITES VIRALES (ANRS MIE)"
+              },
+              {
+                "lang": "en",
+                "value": "AGENCE NATIONALE DE RECHERCHES SUR LE SIDA ET LES HEPATITES VIRALES (ANRS MIE)"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "ROR",
+                "uri": "https://ror.org/01kv58h76"
+              },
+              {
+                "title": "SIREN",
+                "uri": "180089385"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "AGENCE NATIONALE DE LA RECHERCHE (ANR)"
+              },
+              {
+                "lang": "en",
+                "value": "AGENCE NATIONALE DE LA RECHERCHE (ANR)"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "ROR",
+                "uri": "https://ror.org/00rbzpz17"
+              },
+              {
+                "title": "SIREN",
+                "uri": "130002504"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ]
+          }
+        ],
+        "producer": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "AGENCE NATIONALE DE RECHERCHES SUR LE SIDA ET LES HEPATITES VIRALES (ANRS MIE)"
+              },
+              {
+                "lang": "en",
+                "value": "AGENCE NATIONALE DE RECHERCHES SUR LE SIDA ET LES HEPATITES VIRALES (ANRS MIE)"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "ROR",
+                "uri": "https://ror.org/01kv58h76"
+              },
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "180089385"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE (INSERM)"
+              },
+              {
+                "lang": "en",
+                "value": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE (INSERM)"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "ROR",
+                "uri": "https://ror.org/02vjkv261"
+              },
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "180036048"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "studyAuthorization": [
+      {
+        "authorizingAgency": {
+          "lang": "fr",
+          "value": "CNIL"
+        }
+      },
+      {
+        "authorizingAgency": {
+          "lang": "fr",
+          "value": "ANSM"
+        }
+      },
+      {
+        "authorizingAgency": {
+          "lang": "fr",
+          "value": "CPP"
+        }
+      }
+    ],
+    "method": {
+      "notes": [
+        {
+          "subject": "research type",
+          "lang": "fr",
+          "value": "Etude observationnelle"
+        },
+        {
+          "subject": "research type",
+          "lang": "en",
+          "value": "Observational Study"
+        },
+        {
+          "lang": "fr",
+          "subject": "observational study method",
+          "value": "Cohorte"
+        },
+        {
+          "lang": "en",
+          "subject": "observational study method",
+          "value": "Cohort study"
+        }
+      ],
+      "stdyClas": [
+        {
+          "lang": "fr",
+          "value": "Inconnu"
+        },
+        {
+          "lang": "en",
+          "value": "Unknown"
+        }
+      ],
+      "dataColl": {
+        "targetSampleSize": [
+          {
+            "lang": "fr",
+            "value": ">= 20000 individus"
+          },
+          {
+            "lang": "en",
+            "value": ">= 20000 individuals"
+          }
+        ],
+        "sampleFrame": {
+          "frameUnit": {
+            "unitType": [
+              {
+                "lang": "fr",
+                "value": "Via des structures (services ou établissements de santé, écoles, entreprises…)"
+              },
+              {
+                "lang": "en",
+                "value": "Through organizations (health services or institutions, schools, businesses, etc.)"
+              }
+            ]
+          }
+        },
+        "sources": [
+          {}
+        ],
+        "collMode": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Interview",
+              "vocab": "CESSDA"
+            },
+            "value": "Entretien avec le participant (dont clinique)"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Interview",
+              "vocab": "CESSDA"
+            },
+            "value": "Interview with the participant (including clinical)"
+          }
+        ],
+        "sampProc": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ],
+        "respRate": [
+          {
+            "lang": "fr",
+            "value": "- 15,000 patients / hépatite C c- 10,000 patients / hépatite B c"
+          },
+          {
+            "lang": "en",
+            "value": "- 15,000 patients / hépatite C c- 10,000 patients / hépatite B c"
+          }
+        ]
+      }
+    },
+    "stdyInfo": {
+      "abstract": [
+        {
+          "contentType": "purpose",
+          "lang": "fr",
+          "value": "Le projet HEPATHER a pour objectifs de mettre en place une cohorte de patients infectés par le virus de l'hépatite B ou C dans le but d'améliorer leur prise en charge, compte tenu des évolutions récentes des options thérapeutiques avec la venue de nouveaux médicaments sur le marché. Un enjeu majeur scientifique et de santé publique sera d'améliorer la qualité de la prise en charge des hépatites chroniques en prenant en compte les différentes options thérapeutiques disponibles et les caractéristiques de l'hôte. Les objectifs de la cohorte seront: - Epidémiologie descriptive de ces infections chroniques dans le contexte ou les techniques de screening des infections virales et de diagnostique précoce sont de plus en plus présents et que les techniques génétiques et de recherche de biomarqueurs pour suivre la progression de la maladie évoluent rapidement; - Obtenir des données relatives à l'efficacité, la sécurité des nouveaux traitements dans la vie réele, issues d'un large échantillon de patient et avec des données de suivi à long terme, qui permettrons d'estimer l'impact en santé publique de ces traitements en termes de réduction de la morbidité ou de la mortalité; - Etudier les effets relatifs des traitements pour déterminer, au niveau du patient, lequel serait le plus à même d'améliorer sa santé globale et limiter l'émergence de variants et de \"breakthrough\"; - Analyse coût-efficacité comparative des stratégies thérapeutiques de prise en charge des infections chroniques à HBV et HCV; - Disposer de ressource et de compétences de bon niveau pour le design d'essais cliniques sur des sous-populations spécifiques. Ce projet dispose par ailleurs d'une instance de gouvernance originale, composée d'institutions académiques et de régulation, d'industries pharmaceutiques, et d'associations de patients."
+        },
+        {
+          "contentType": "purpose",
+          "lang": "en",
+          "value": "The HEPATHER project aims to set-up a cohort of patients with viral hepatitis B or C in order to improve management and care, givin the changing era of therapeutic options as news drugs come on the market. A major scientific and public-health challenge will be to improve quality of medical care in chronic hepatitis taking into account the different treatment options and host characteristics. The objectives of this cohort will be: - To describe the epidemiology of these chronic infection at a period when screening of viral infection and early diagnosis increase, and genetic and research of biomarkers of disease progression or treatment success are rapidly evolving; -To obtain original data on efficacy and safety of new hepatitis treatments in real-life, on a large size of patients, with a long term follow-up, allowing to estimate the public health impact of these treatments in terms of reduction of morbidity or mortality; - To study the relative effects of treatments to determine, at the level patient, which will be most likely to improve overall health and to limit emergence of variants and breakthrough; - To elaborate and compare cost-effectiveness strategies for the management and treatment of chronic HCV and HBV infections ; - To offer outstanding competency and ressources for the design of clinical trials on specific sub-population This project got an original governance including academic and regulatory institutions as well as pharmaceutical industries and patients associations"
+        }
+      ],
+      "subject": {
+        "topcClas": [
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/fa2ceeab-3b2f-45e9-9243-e5a8005b98de"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D055552"
+              }
+            ],
+            "value": "Infectiologie"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/27c456a1-051a-42f6-b52a-3beff0487da7"
+              }
+            ],
+            "value": "Hépatologie"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/fa2ceeab-3b2f-45e9-9243-e5a8005b98de"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D055552"
+              }
+            ],
+            "value": "Infectious disease medicine"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/27c456a1-051a-42f6-b52a-3beff0487da7"
+              }
+            ],
+            "value": "Hepatology"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants liés au système de santé : Consommation des soins"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants liés au système de santé"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Healthcare system determinants: Use of care"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Healthcare system determinants"
+          }
+        ],
+        "keyword": [
+          {
+            "lang": "fr",
+            "value": "Traitements"
+          },
+          {
+            "lang": "fr",
+            "value": "virologie"
+          },
+          {
+            "lang": "fr",
+            "value": "pathologie et physiopathologie"
+          },
+          {
+            "lang": "fr",
+            "value": "santé publique"
+          },
+          {
+            "lang": "fr",
+            "value": "antiviraux"
+          },
+          {
+            "lang": "fr",
+            "value": "résistance"
+          },
+          {
+            "lang": "en",
+            "value": "Therapeutics"
+          },
+          {
+            "lang": "en",
+            "value": "Virology"
+          },
+          {
+            "lang": "en",
+            "value": "Pathology and Physiopathology"
+          },
+          {
+            "lang": "en",
+            "value": "Public health"
+          },
+          {
+            "lang": "en",
+            "value": "antiviral HBV therapies"
+          },
+          {
+            "lang": "en",
+            "value": "drug resistant mutants"
+          }
+        ]
+      },
+      "qualityStatement": {
+        "standardsCompliance": {}
+      },
+      "sumDscr": {
+        "dataKind": [
+          {
+            "lang": "fr",
+            "value": "Données cliniques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données rapportées par le participant de l&#x27;étude"
+          },
+          {
+            "lang": "fr",
+            "value": "Données biologiques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données socio-démographiques"
+          },
+          {
+            "lang": "en",
+            "value": "Clinical data"
+          },
+          {
+            "lang": "en",
+            "value": "Participant-reported health data"
+          },
+          {
+            "lang": "en",
+            "value": "Biological data"
+          },
+          {
+            "lang": "en",
+            "value": "Socio-demographic data"
+          }
+        ],
+        "anlyUnit": [
+          {
+            "lang": "fr",
+            "value": "Individus"
+          },
+          {
+            "lang": "en",
+            "value": "Individuals"
+          }
+        ],
+        "nation": [
+          {
+            "lang": "fr",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          },
+          {
+            "lang": "en",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          }
+        ],
+        "universe": [
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Masculin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Féminin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Male"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Female"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Adulte (19 à 24 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adulte (25 à 44 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Adulte (45 à 64 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Personne âgée (65 à 79 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000369"
+            },
+            "value": "Grand âge (80 ans et plus)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Young Adult (19 to 24 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adult (25 to 44 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Middle Aged (45 to 64 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Aged (65 to 79 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000369"
+            },
+            "value": "Aged, 80 and over (80 years and more)"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Patients"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "en",
+            "value": "Patients population"
+          },
+          {
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Patients positifs pour l'infection au virus de l'hépatite B (HBV): - Hépatite B chronique définie par la persistance d'antigène HBs depuis au moins 6 mois, avec moins de 50% de porteurs inactifs  -  Hépatite B aiguë récemment diagnostiquée: apparition depuis moins de 6 mois de seuils détectables d'antigènes HBs, avec ou sans association d'hépatite D aiguë  Patients positifs pour l'infection au virus de l'hépatite C (HCV): - Hépatite C chronique: anticorps anti-HCV positifs depuis au moins 6 mois, et ARN HCV positifs - Hépatite C aiguë récemment diagnostiquée: sérologie positive pour ARN HCV depuis moins de 6 mois chez les patients à risques (positifs ou non pour la présence d'anticorps) - Patients guéris d'une hépatite C, définis par une éradication de long terme faisant suite à un traitement ou spontannée, caractérisés par une sérologie positive aux anti-corps anti-HCV et négative pour l'ARN pour deux prélèvements consécutifs à 6 mois d'intervalle"
+          },
+          {
+            "clusion": "I",
+            "lang": "en",
+            "value": "HBV-positive patients - chronic hepatitis B defined by a positive HBs Ag for at least 6 months, with less than 50% of inactive carriers - acute hepatitis B defined as a recent appearance (<6 months) of detectable HBs Ag, with or without association with acute or chonic hepatitis D  HCV-positive patients - chronic hepatitis C defined by the positivity for anti-HCV antibodies for at least 6 months, and positive HCV-RNA, - acute hepatitis B defined by the recent appearance of HCV RNA (<6 months) in patients with risk factors (with or without positives antibodies) - patients with cured hepatitis C defined by lond term radication, either treatment, either spontaneous, a positive anti-HCV antibodies associated to a negative  RNA at two collection - 6 months interval time (this patients should represent less than 10% patients)."
+          },
+          {
+            "clusion": "E",
+            "lang": "fr",
+            "value": ""
+          },
+          {
+            "clusion": "E",
+            "lang": "en",
+            "value": ""
+          }
+        ],
+        "collDate": {
+          "event": "start",
+          "value": "2012-01-01"
+        }
+      }
+    },
+    "dataAccs": {
+      "setAvail": {
+        "avlStatus": [
+          {
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Accès réservé"
+          },
+          {
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Restricted access"
+          }
+        ],
+        "conditions": [
+          {
+            "lang": "fr",
+            "value": "L&#x27;accès aux données de la base sera déterminée au cas par cas par le comité exécutif en accord avec le comité scientifique du projet. La propriété intellectuelle et la contractualisation sera gérée par Inserm-Transfert. Une attention toute particulière sera portée aux questions de confidentialité et aux questions éthiques ainsi qu&#x27;à l&#x27;utilisation du matériel biologique conservé en rapport à l&#x27;apport scientifique attendu pour le projet d&#x27;utilisation, compte-tenu qu&#x27;il s&#x27;agit d&#x27;une ressource périssable dont il convient d&#x27;éviter la déplétion. Le protocole du projet sera examiné par le comité exécutif. Ce comité assistera les chercheurs académiques ou privés dans le requêtes et les conseillera si nécessaire quant à la qualité des données, le design à mettre en place et l&#x27;analyse des données. Ce comité veillera à la cohérence de l&#x27;ensemble des projets soumis. Les aspects méthodologiques et scientifiques seront évalués par le comité exécutif sur la base des avis rendus par le comité scientifique. Des experts extérieurs et indépendants au projet pourront être sollicités pour donner leur avis sur la validation d&#x27;un accès aux données, par exemple pour les questions d&#x27;accès d&#x27;un industriel aux données relatives aux produits d&#x27;un autre industriel. Le comité priorisera les demandes d&#x27;accès. Le monitorage des données recueillies dans le cadre d&#x27;études ancillaires sera sous la responsabilité du comité exécutif. Ces données seront stockées et remises à disposition d&#x27;autres chercheurs. La base de données d&#x27;HEPATHER étant accessible par le web, l&#x27;ajout de nouveaux questionnaires dans le cadre d&#x27;études ancillaires en sera facilité."
+          },
+          {
+            "lang": "en",
+            "value": "Accessibility of the database will be determined case by case by the executive committee in agreement with the scientific committee. The intellectual property and contractual issues will be managed by Inserm Transfert. Special attention will be paid on confidentiality, ethical issues and on the use of the biobank to yield the greatest scientific value to the community and avoid depletion of this finite ressource. The proposal will be examined by the executive committee. The committee will assist academic and private researchers with queries and will advise on data quality, study design and data analysis if necessary. The committee will ensure the coherence with other projects. The executive committee will evaluate methodological aspects and scientific relevance based on reports from the scientific committee. Independent external experts will provide advice on decisions relative to access rights, for example on issues related to the access on one industrial to data linked to the product of another industrial. It will prioritize projects. In preparation for data sharing, much attention will be paid to the wording within subject consent documents. The flexibility of web-based database will also facilitate the addition of new questionnaires for ancillary studies."
+          }
+        ]
+      },
+      "useStmt": {
+        "citReq": [
+          {
+            "lang": "fr",
+            "value": "Le comité exécutif mettra en place un règlement pour faciliter l&#x27;utilisation des données et le repérage des publications liées ou résultant de l&#x27;analyse des données d&#x27;HEPATHER ."
+          },
+          {
+            "lang": "en",
+            "value": "The executive committee will establish policies to facilitate data sharing and to provide a mechanism for tracking publications related to and resulting from Hepather data. Moreover the executive committee will monitor contributions of the ancillary studies to the community and will require results to be incorporated into a resource database for use by other researchers."
+          }
+        ]
+      }
+    },
+    "othStdMat": {
+      "relMat": [
+        {
+          "lang": "fr",
+          "value": "Accès restreint sur projet spécifique"
+        },
+        {
+          "lang": "en",
+          "value": "Access on specific project only"
+        }
+      ]
+    },
+    "studyDevelopment": {
+      "developmentActivity": [
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/morbidité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/mortalité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Consommation de soins/services de santé"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Qualité de vie/santé perçue"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/morbidity"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/mortality"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health care consumption and services"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Quality of life/health perception"
+        }
+      ]
+    }
+  },
+  "docDscr": {
+    "citation": {
+      "rspStmt": {
+        "AuthEnty": "Fabrice CARRAT"
+      },
+      "prodStmt": {
+        "producer": [
+          {
+            "affiliation": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE (INSERM)",
+            "value": "Fabrice;CARRAT"
+          }
+        ],
+        "prodPlac": "Portail Épidémiologie France"
+      }
+    }
+  },
+  "additional": {
+    "prodPlac": "Portail Épidémiologie France",
+    "relatedDocuments": {
+      "documentTitle": [
+        {
+          "lang": "fr"
+        },
+        {
+          "lang": "en"
+        }
+      ],
+      "documentLink": [
+        {
+          "lang": "fr",
+          "value": "https://www.ncbi.nlm.nih.gov/pubmed/?term=(hepather+NOT+heather)+AND+Carrat+F%5BAuthor%5D"
+        },
+        {
+          "lang": "en",
+          "value": "https://www.ncbi.nlm.nih.gov/pubmed/?term=(hepather+NOT+heather)+AND+Carrat+F%5BAuthor%5D"
+        }
+      ]
+    },
+    "creationDate": "29-03-2012",
+    "lastUpdatedManual": "21-05-2012",
+    "theme": {},
+    "governance": {},
+    "collaborations": {},
+    "mockSample": {},
+    "dataQuality": {},
+    "variableDictionnary": {},
+    "dataTypes": {
+      "biologicalDataDetails": [
+        {
+          "lang": "fr",
+          "value": "Suivi hépatiteVirologie"
+        },
+        {
+          "lang": "en",
+          "value": "hepatitis followvirology"
+        }
+      ],
+      "isDataInBiobank": true
+    },
+    "collectionProcess": {
+      "collectionModeDetails": [
+        {
+          "lang": "fr",
+          "value": "Des données seront collectés rétrospectivement et prospectivement ,sur une période de suivi prévue de 10 ans, dans le but d'analyser l'épidémiologie, l'historique des traitements, les facteurs de risques génétiques et environnementaux de la progression de la pathologies, les interactions entre ces facteurs de risques et des paramètres individuels et de santé publique variés.Lorsqu'un patient éligible pour l'étude arrivera à la visite d'inclusion, il se soumettra à une série d'évaluations incluant des questionnaires, des mesures cliniques, et le prélèvement de sang, d'urine et de fecès. Des informations démographique détaillées seront recueillies, ainsi que des informations cliniques, biologiques et virologiques. Dans chaque centre, la base de données contenant les dossiers médicaux (si elle existe) et la possibilité de l'exporter seront évaluées. On attend ainsi que 80% de l'hitoire médicale du patient puisse être intégrée aux données de la cohorte.Le suivi de ces patients combinera le recueil d'informations cliniques concernant des évènements particuliers (initiation d'un traitement, évènement de santé), et l'utilisation des bases de données administratives nationales pour valider le décès ou d'autres évènements de santé.Le système d'information dédié de la cohorte permettra en outre que les patients reportent eux-mêmes des items variés et notamment des études QoL ."
+        },
+        {
+          "lang": "en",
+          "value": "Retrospective and prospective data will be collected with an anticipated follow-up of 10 years to allow analyzing the epidemiology, treatment hisory, genetic and environmental risk factors of disease progression, interactions between these factors and various individual and public health outcomes.When a eligible patient arrives at the assessment he/she will move through a series of assessment involving questionnaires, measurements, and blood/urine/feces sampling. During the visit, detailed demographics, clinical, biological and virological data will be collected. In each participing center, the existing database (if any) and the capacities of extracting and importing data from the database into the dedicated information system will be investigated. It is expected that 80% of historical patient data in the cohort would be imported from existing medical files.The general approach of follow-up will be to combine systematic follow-up visits for particular events (such as clinical event or initiation of therapy) with using a variety of different national administrative databases and sources to ascertain death and other health related information, using support of the PLASTICO plateforme.The devoted information system will allow patient to self report on various items and most notably QoL studies."
+        }
+      ]
+    },
+    "geographicalCoverage": {
+      "geoDetail": [
+        {
+          "lang": "fr",
+          "value": "France"
+        },
+        {
+          "lang": "en",
+          "value": "30 clinical centers widespread in France"
+        }
+      ]
+    },
+    "activeFollowUp": {
+      "isActiveFollowUp": true
+    },
+    "dataCollectionIntegration": {
+      "isDataIntegration": false
+    },
+    "isHealthTheme": true
+  },
+  "schematype": "survey"
+}

@@ -1,0 +1,941 @@
+{
+  "stdyDscr": {
+    "citation": {
+      "titlStmt": {
+        "IDNo": [
+          {
+            "agency": "PEF",
+            "value": "232"
+          },
+          {
+            "agency": "FReSH",
+            "value": "FRESH-PEF232"
+          }
+        ],
+        "titl": [
+          {
+            "lang": "fr",
+            "value": "Registre des cardiopathies ischémiques de la communauté urbaine de Lille (registre qualifié)"
+          },
+          {
+            "lang": "en",
+            "value": "Registre des cardiopathies ischémiques de la communauté urbaine de Lille (registre qualifié)"
+          }
+        ]
+      },
+      "rspStmt": {
+        "AuthEnty": [
+          {
+            "name": "Philippe;AMOUYEL",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "INSTITUT PASTEUR DE LILLE"
+              },
+              {
+                "lang": "en",
+                "value": "INSTITUT PASTEUR DE LILLE"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "0000-0001-9088-234X",
+                "role": "pi id",
+                "title": "ORCID"
+              },
+              {
+                "uri": "058556818",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/05k9skc85",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "783696834",
+                "role": "organisation id",
+                "title": "SIREN"
+              },
+              {
+                "uri": "200616418Z",
+                "role": "labo id",
+                "title": "RNSR"
+              }
+            ],
+            "isContact": true,
+            "email": "philippe.amouyel@pasteur-lille.fr",
+            "PILabo": "Institut Pasteur de Lille / Service d'épidémiologie et Santé Publique, Inserm U1167, Université Lille Nord de France"
+          },
+          {
+            "name": "Jean;DALLONGEVILLE",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "INSTITUT PASTEUR DE LILLE"
+              },
+              {
+                "lang": "en",
+                "value": "INSTITUT PASTEUR DE LILLE"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "115967281",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/05k9skc85",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "783696834",
+                "role": "organisation id",
+                "title": "SIREN"
+              },
+              {
+                "uri": "200616418Z",
+                "role": "labo id",
+                "title": "RNSR"
+              }
+            ],
+            "isContact": true,
+            "email": "jean.dallongeville@pasteur-lille.fr",
+            "PILabo": "Institut Pasteur de Lille / Service d'épidémiologie et Santé Publique, Inserm U1167, Université Lille Nord de France"
+          }
+        ],
+        "othId": [
+          {
+            "type": "collaboration",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "reseau MONICA FRANCE (3 registres des cardiopathies ischemiques)"
+              },
+              {
+                "lang": "en",
+                "value": "MONICA Project"
+              }
+            ]
+          }
+        ]
+      },
+      "distStmt": {
+        "contact": [
+          {
+            "name": "Philippe;AMOUYEL",
+            "email": "philippe.amouyel@pasteur-lille.fr",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "INSTITUT PASTEUR DE LILLE"
+              },
+              {
+                "lang": "en",
+                "value": "INSTITUT PASTEUR DE LILLE"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/05k9skc85",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "783696834",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          },
+          {
+            "name": "Jean;DALLONGEVILLE",
+            "email": "jean.dallongeville@pasteur-lille.fr",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "INSTITUT PASTEUR DE LILLE"
+              },
+              {
+                "lang": "en",
+                "value": "INSTITUT PASTEUR DE LILLE"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/05k9skc85",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "783696834",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          }
+        ]
+      },
+      "prodStmt": {
+        "fundAg": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE (INSERM)"
+              },
+              {
+                "lang": "en",
+                "value": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE (INSERM)"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "ROR",
+                "uri": "https://ror.org/02vjkv261"
+              },
+              {
+                "title": "SIREN",
+                "uri": "180036048"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "INSTITUT PASTEUR DE LILLE"
+              },
+              {
+                "lang": "en",
+                "value": "INSTITUT PASTEUR DE LILLE"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "ROR",
+                "uri": "https://ror.org/05k9skc85"
+              },
+              {
+                "title": "SIREN",
+                "uri": "783696834"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Privé à but non lucratif"
+              },
+              {
+                "lang": "en",
+                "value": "Private non-profit"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "SANTE PUBLIQUE FRANCE"
+              },
+              {
+                "lang": "en",
+                "value": "SANTE PUBLIQUE FRANCE"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "ROR",
+                "uri": "https://ror.org/00dfw9p58"
+              },
+              {
+                "title": "SIREN",
+                "uri": "130022338"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ]
+          }
+        ],
+        "producer": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE (INSERM)"
+              },
+              {
+                "lang": "en",
+                "value": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE (INSERM)"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "ROR",
+                "uri": "https://ror.org/02vjkv261"
+              },
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "180036048"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "UNIVERSITE DE LILLE"
+              },
+              {
+                "lang": "en",
+                "value": "UNIVERSITE DE LILLE"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "ROR",
+                "uri": "https://ror.org/02kzqn938"
+              },
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "130029754"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "INSTITUT PASTEUR DE LILLE"
+              },
+              {
+                "lang": "en",
+                "value": "INSTITUT PASTEUR DE LILLE"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Privé à but non lucratif"
+              },
+              {
+                "lang": "en",
+                "value": "Private non-profit"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "ROR",
+                "uri": "https://ror.org/05k9skc85"
+              },
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "783696834"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "studyAuthorization": {
+      "authorizingAgency": {
+        "lang": "fr",
+        "value": "CNIL"
+      }
+    },
+    "method": {
+      "notes": [
+        {
+          "subject": "research type",
+          "lang": "fr",
+          "value": "Etude observationnelle"
+        },
+        {
+          "subject": "research type",
+          "lang": "en",
+          "value": "Observational Study"
+        },
+        {
+          "lang": "fr",
+          "subject": "observational study method",
+          "value": "Registre de morbidité"
+        },
+        {
+          "lang": "en",
+          "subject": "observational study method",
+          "value": "Morbidity registry"
+        }
+      ],
+      "stdyClas": [
+        {
+          "lang": "fr",
+          "value": "Inconnu"
+        },
+        {
+          "lang": "en",
+          "value": "Unknown"
+        }
+      ],
+      "dataColl": {
+        "targetSampleSize": [
+          {
+            "lang": "fr",
+            "value": "[10000-20000[ individus"
+          },
+          {
+            "lang": "en",
+            "value": "[10000-20000[ individuals"
+          }
+        ],
+        "sampleFrame": {
+          "frameUnit": {}
+        },
+        "sources": [
+          {}
+        ],
+        "collMode": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Transcription",
+              "vocab": "CESSDA"
+            },
+            "value": "Transcription et saisie d’informations dans un enregistrement structuré"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Transcription",
+              "vocab": "CESSDA"
+            },
+            "value": "Converting or copying information into a structured record"
+          }
+        ],
+        "sampProc": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ],
+        "respRate": [
+          {
+            "lang": "fr",
+            "value": "1997-2005: 10709 patients"
+          },
+          {
+            "lang": "en",
+            "value": "1997-2005: 10709 patients"
+          }
+        ]
+      }
+    },
+    "stdyInfo": {
+      "abstract": [
+        {
+          "contentType": "purpose",
+          "lang": "fr",
+          "value": "- estimation continue des indicateurs épidémiologiques décrivant l’infarctus du myocarde : taux d’incidence, taux de survenue (cas incidents et cas récidivants), taux de mortalité, taux de létalité. Tous ces chiffres sont fournis par sexe, par année et sont standardisés sur l’âge. - Utilisation des données enregistrées pour le développement de programmes de recherche en épidémiologie analytique sur les déterminants environnementaux et génétiques des cardiopathies ischémiques. - Conception et développement d’études spécifiques ciblées sur des questions intéressant les cardiologues (syndrome coronaire aigu, prise en charge à la phase aiguë de la maladie, étude de survie…), l’Institut de Veille Sanitaire (validation des certificats de décès pour les décès d’origine coronaire, validation des données du PMSI pour l’infarctus du myocarde), les acteurs régionaux (enquêtes de population sur les facteurs de risque). - Transmission d’informations et calculs spécifiques sur demande des DDASS, DRASS, et tout partenaire susceptible d’être intéressé par des données sur les cardiopathies ischémiques en France."
+        },
+        {
+          "contentType": "purpose",
+          "lang": "en",
+          "value": "Continuous recording of epidemiological indicators describing myocardial infarction: rate of incidence, rate of occurrence (incident cases and recurrent cases), rate of mortality, fatality rate. All of these figures are provided by sex, by year and are standardized on age. - Use of the recorded data for developing research programs in analytical epidemiology on the environmental and genetic determinants of ischemic heart diseases. - Design and development of specific targeted studies on issues of interest to cardiologists (acute coronary syndrome, caring for the acute phase of the disease, study of survival, etc.), Institut de Veille Sanitaire (French Institute for Public Health Surveillance) (validation of the death certificates for deaths of a coronary origin, validation of data from PMSI for myocardial infarction), regional stakeholders (population surveys on the risk factors). - Transmission of specific information and calculations as requested by the DDASS, DRASS, and any partner that may be interested by the data on ischemic heart diseases in France."
+        }
+      ],
+      "subject": {
+        "topcClas": [
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/4455c187-2f2f-4cd1-a4dd-449f59d73b39"
+              },
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/c42fc6ec-b216-4a24-9e9d-f5e781c175a0"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D002309"
+              }
+            ],
+            "value": "Cardiologie et médecine vasculaire"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/4455c187-2f2f-4cd1-a4dd-449f59d73b39"
+              },
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/c42fc6ec-b216-4a24-9e9d-f5e781c175a0"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D002309"
+              }
+            ],
+            "value": "Cardiology and vascular medicine"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants environnementaux : Autres"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants environnementaux"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Environmental determinants: Other"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Environmental determinants"
+          }
+        ],
+        "keyword": [
+          {
+            "lang": "fr",
+            "value": "Cardiopathies Ischémiques"
+          },
+          {
+            "lang": "fr",
+            "value": "infarctus du myocarde"
+          },
+          {
+            "lang": "en",
+            "value": "Ischemic heart diseases"
+          },
+          {
+            "lang": "en",
+            "value": "myocardial infarction"
+          }
+        ]
+      },
+      "qualityStatement": {
+        "standardsCompliance": {}
+      },
+      "sumDscr": {
+        "dataKind": [
+          {
+            "lang": "fr",
+            "value": "Données cliniques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données socio-démographiques"
+          },
+          {
+            "lang": "en",
+            "value": "Clinical data"
+          },
+          {
+            "lang": "en",
+            "value": "Socio-demographic data"
+          }
+        ],
+        "anlyUnit": [
+          {
+            "lang": "fr",
+            "value": "Individus"
+          },
+          {
+            "lang": "en",
+            "value": "Individuals"
+          }
+        ],
+        "nation": [
+          {
+            "lang": "fr",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          },
+          {
+            "lang": "en",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          }
+        ],
+        "geogCover": [
+          {
+            "lang": "fr",
+            "value": "Hauts-de-France"
+          },
+          {
+            "lang": "en",
+            "value": "Hauts-de-France"
+          }
+        ],
+        "universe": [
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Masculin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Féminin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Male"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Female"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adulte (25 à 44 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Adulte (45 à 64 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Personne âgée (65 à 79 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adult (25 to 44 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Middle Aged (45 to 64 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Aged (65 to 79 years)"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Population générale"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "en",
+            "value": "General population"
+          },
+          {
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Population surveillée: Hommes et femmes âgés de 35 à 74 ans domiciliés dans la communauté urbaine de Lille  Définition des cas enregistrés de 1997 à 2005: Catégorie 1 : Infarctus aigu du myocarde Catégorie 2 : Décès coronaire Catégorie 3 : Mort subite (en moins de 24 heures) Catégorie 4 : Décès non coronaire Catégorie 9 : Décès d’origine indéterminée  Depuis 2006, nous avons ajouté les catégories suivantes: Catégorie 5 : Syndrome coronaire aigu Catégorie 6 : Angor instable Catégorie 7 : Autres épisodes d'Insuffisance coronaire aiguë"
+          },
+          {
+            "clusion": "I",
+            "lang": "en",
+            "value": "Definition of the recorded cases: Category 1: Acute myocardial infarction Category 2: Coronary death Category 3: Sudden death (in less than 24 hours) Category 4: Non-coronary death Category 9: Death of undetermined origin"
+          },
+          {
+            "clusion": "E",
+            "lang": "fr",
+            "value": ""
+          },
+          {
+            "clusion": "E",
+            "lang": "en",
+            "value": ""
+          }
+        ],
+        "collDate": {
+          "event": "start",
+          "value": "1997-01-01"
+        }
+      }
+    },
+    "dataAccs": {
+      "setAvail": {
+        "avlStatus": [
+          {
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Accès réservé"
+          },
+          {
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Restricted access"
+          }
+        ],
+        "conditions": [
+          {
+            "lang": "fr",
+            "value": "Contacter le responsable scientifique"
+          },
+          {
+            "lang": "en"
+          }
+        ]
+      },
+      "useStmt": {}
+    },
+    "othStdMat": {
+      "relMat": [
+        {
+          "lang": "fr",
+          "value": "Accès restreint sur projet spécifique"
+        },
+        {
+          "lang": "en",
+          "value": "Access on specific project only"
+        }
+      ]
+    },
+    "studyDevelopment": {
+      "developmentActivity": [
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/morbidité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/mortalité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/morbidity"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/mortality"
+        }
+      ]
+    }
+  },
+  "docDscr": {
+    "citation": {
+      "rspStmt": {
+        "AuthEnty": "Philippe AMOUYEL"
+      },
+      "prodStmt": {
+        "producer": [
+          {
+            "affiliation": "INSTITUT PASTEUR DE LILLE",
+            "value": "Philippe;AMOUYEL"
+          }
+        ],
+        "prodPlac": "Portail Épidémiologie France"
+      }
+    }
+  },
+  "additional": {
+    "prodPlac": "Portail Épidémiologie France",
+    "relatedDocuments": {
+      "documentTitle": [
+        {
+          "lang": "fr"
+        },
+        {
+          "lang": "en"
+        }
+      ],
+      "documentLink": [
+        {
+          "lang": "fr",
+          "value": "http://tinyurl.com/PUBMED-RCICUL"
+        },
+        {
+          "lang": "en",
+          "value": "http://tinyurl.com/PUBMED-RCICUL"
+        }
+      ]
+    },
+    "creationDate": "04-01-2011",
+    "lastUpdatedManual": "29-10-2020",
+    "theme": {},
+    "governance": {},
+    "collaborations": {},
+    "mockSample": {},
+    "dataQuality": {},
+    "variableDictionnary": {},
+    "dataTypes": {
+      "isDataInBiobank": false
+    },
+    "collectionProcess": {
+      "collectionModeDetails": [
+        {
+          "lang": "fr",
+          "value": "- Actif - Passif- Lettres de sortie - Listings d’entrée- Dossiers médicaux- Cahiers d’entrées- Mains courantes, fiches SAMU, DIM"
+        },
+        {
+          "lang": "en",
+          "value": "- Active - Passive- Release letters - Arrivals listings- Medical dossiers- Arrival logbooks- Day books, SAMU sheets"
+        }
+      ]
+    },
+    "geographicalCoverage": {
+      "geoDetail": [
+        {
+          "lang": "fr",
+          "value": "Communauté urbaine de Lille"
+        },
+        {
+          "lang": "en",
+          "value": "Urban community of Lille"
+        }
+      ]
+    },
+    "activeFollowUp": {
+      "isActiveFollowUp": true
+    },
+    "dataCollectionIntegration": {
+      "isDataIntegration": false
+    },
+    "isHealthTheme": true
+  },
+  "schematype": "survey"
+}

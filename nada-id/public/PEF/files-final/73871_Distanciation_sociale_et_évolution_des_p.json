@@ -1,0 +1,708 @@
+{
+  "stdyDscr": {
+    "citation": {
+      "titlStmt": {
+        "IDNo": [
+          {
+            "agency": "PEF",
+            "value": "73871"
+          },
+          {
+            "agency": "FReSH",
+            "value": "FRESH-PEF73871"
+          }
+        ],
+        "titl": [
+          {
+            "lang": "fr",
+            "value": "Distanciation sociale et évolution des préférences sociales en période de crise sanitaire aigüe"
+          },
+          {
+            "lang": "en",
+            "value": "Social distancing and pro-sociality in times of acute sanitary crisis"
+          }
+        ],
+        "altTitl": [
+          {
+            "lang": "fr",
+            "value": "DISTANCING"
+          },
+          {
+            "lang": "en",
+            "value": "DISTANCING"
+          }
+        ]
+      },
+      "rspStmt": {
+        "AuthEnty": [
+          {
+            "name": "Marie-Claire;VILLEVAL",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE (CNRS)"
+              },
+              {
+                "lang": "en",
+                "value": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE (CNRS)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "0000-0001-8578-5449",
+                "role": "pi id",
+                "title": "ORCID"
+              },
+              {
+                "uri": "029244730",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/02feahw73",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "180089013",
+                "role": "organisation id",
+                "title": "SIREN"
+              },
+              {
+                "uri": "199512098B",
+                "role": "labo id",
+                "title": "RNSR"
+              }
+            ],
+            "isContact": true,
+            "email": "villeval@gate.cnrs.fr",
+            "PILabo": "CNRS / GATE UMR5824"
+          }
+        ],
+        "othId": []
+      },
+      "distStmt": {
+        "contact": [
+          {
+            "name": "Marie-Claire;VILLEVAL",
+            "email": "villeval@gate.cnrs.fr",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE (CNRS)"
+              },
+              {
+                "lang": "en",
+                "value": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE (CNRS)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/02feahw73",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "180089013",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          }
+        ]
+      },
+      "prodStmt": {
+        "fundAg": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "AGENCE NATIONALE DE LA RECHERCHE (ANR)"
+              },
+              {
+                "lang": "en",
+                "value": "AGENCE NATIONALE DE LA RECHERCHE (ANR)"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "ROR",
+                "uri": "https://ror.org/00rbzpz17"
+              },
+              {
+                "title": "SIREN",
+                "uri": "130002504"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ]
+          }
+        ],
+        "producer": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE (CNRS)"
+              },
+              {
+                "lang": "en",
+                "value": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE (CNRS)"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "ROR",
+                "uri": "https://ror.org/02feahw73"
+              },
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "180089013"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "studyAuthorization": {
+      "authorizingAgency": {
+        "lang": "fr",
+        "value": "CNIL"
+      }
+    },
+    "method": {
+      "notes": [
+        {
+          "subject": "research type",
+          "lang": "fr",
+          "value": "Etude observationnelle"
+        },
+        {
+          "subject": "research type",
+          "lang": "en",
+          "value": "Observational Study"
+        }
+      ],
+      "stdyClas": [
+        {
+          "lang": "fr",
+          "value": "Inconnu"
+        },
+        {
+          "lang": "en",
+          "value": "Unknown"
+        }
+      ],
+      "dataColl": {
+        "targetSampleSize": {
+          "lang": "fr",
+          "value": "< 500 individus"
+        },
+        "sampleFrame": {
+          "frameUnit": {
+            "unitType": [
+              {
+                "lang": "fr",
+                "value": "Autre"
+              },
+              {
+                "lang": "en",
+                "value": "Other"
+              }
+            ]
+          }
+        },
+        "sources": [
+          {}
+        ],
+        "collMode": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Experiment.WebBased",
+              "vocab": "CESSDA"
+            },
+            "value": "Expérimentation en ligne à l'aide des outils numériques"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Experiment.WebBased",
+              "vocab": "CESSDA"
+            },
+            "value": "Online experimentation using digital tools"
+          }
+        ],
+        "sampProc": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ]
+      }
+    },
+    "stdyInfo": {
+      "abstract": [
+        {
+          "contentType": "purpose",
+          "lang": "fr",
+          "value": "L'étude repose sur une démarche d'économie comportementale et expérimentale permettant d'éliciter les préférences sociales des individus à travers la prise de décisions incitées monétairement. L'expérience est menée en ligne avec 350 participants qui se sont connectés chaque semaine du 18 mars au 24 juin sur notre site (15 sessions). Chaque session est similaire et comprend un test d’orientation en termes de valeurs sociales (SVO ; Murphy et al., 2011), un jeu de confiance et un questionnaire pour mesurer le degré de distanciation sociale avec la famille et les amis, et la norme sociale face à la violation de la règle de distanciation. Ces mesures permettent d'identifier le degré de pro-socialité de l'individu, sa propension à faire confiance à autrui et à réciproquer cette confiance, sa perception de la norme sociale en matière de violation de la règle de distanciation sociale. La répétition des mesures chaque semaine pendant 3 mois permet de mesurer l’évolution des préférences en fonction du durcissement des mesures de confinement puis de leur levée."
+        },
+        {
+          "contentType": "purpose",
+          "lang": "en",
+          "value": "The study uses a behavioral and experimental economics approach to elicit individuals' social preferences through monetarily incentivized decision making The experiment was carried out online, with 350 participants logging on each week from March 18 to June 24 (15 sessions). Each session is similar and includes a social values orientation test (SVO; Murphy et al., 2011), a trust game and a questionnaire to measure the degree of social distancing from family and friends, and the social norm in the face of violating the distancing rule. These measures identify the individual's degree of pro-sociality, his propensity to trust others and reciprocate that trust, and his perception of the social norm regarding violation of the social distancing rule. Repeating the measures every week for 3 months enables us to measure the evolution of preferences as a function of the tightening of the lockdown measures and their subsequent lifting."
+        }
+      ],
+      "subject": {
+        "topcClas": [
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/a3898340-a42d-4f5e-a822-1de204a9a867"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D005762"
+              }
+            ],
+            "value": "Gastroentérologie"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/a3898340-a42d-4f5e-a822-1de204a9a867"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D005762"
+              }
+            ],
+            "value": "Gastroenterology"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "fr",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/1730556128",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "COVID-19"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "en",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/1730556128",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "COVID-19"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Autre"
+          }
+        ],
+        "keyword": [
+          {
+            "lang": "fr",
+            "value": "Pandémie"
+          },
+          {
+            "lang": "fr",
+            "value": "distanciation sociale"
+          },
+          {
+            "lang": "fr",
+            "value": "pro-socialité"
+          },
+          {
+            "lang": "fr",
+            "value": "confiance"
+          },
+          {
+            "lang": "fr",
+            "value": "normes sociales"
+          },
+          {
+            "lang": "fr",
+            "value": "expérimentation"
+          },
+          {
+            "lang": "en",
+            "value": "Pandemic"
+          },
+          {
+            "lang": "en",
+            "value": "social distancing"
+          },
+          {
+            "lang": "en",
+            "value": "pro-sociality"
+          },
+          {
+            "lang": "en",
+            "value": "trust"
+          },
+          {
+            "lang": "en",
+            "value": "social norms"
+          },
+          {
+            "lang": "en",
+            "value": "experimentation"
+          }
+        ]
+      },
+      "qualityStatement": {
+        "standardsCompliance": {}
+      },
+      "sumDscr": {
+        "dataKind": [
+          {
+            "lang": "fr",
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "value": "Other"
+          }
+        ],
+        "anlyUnit": [
+          {
+            "lang": "fr",
+            "value": "Individus"
+          },
+          {
+            "lang": "en",
+            "value": "Individuals"
+          }
+        ],
+        "nation": [
+          {
+            "lang": "fr",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          },
+          {
+            "lang": "en",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          }
+        ],
+        "universe": [
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Masculin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Féminin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": {},
+              "vocabURI": {}
+            },
+            "value": "Autre"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Male"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Female"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": {},
+              "vocabURI": {}
+            },
+            "value": "Other"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Adulte (19 à 24 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adulte (25 à 44 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Adulte (45 à 64 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Young Adult (19 to 24 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adult (25 to 44 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Middle Aged (45 to 64 years)"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Population générale"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "en",
+            "value": "General population"
+          },
+          {
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Appartenance à la base de sujets expérimentaux  volontaires de Gate-Lab."
+          },
+          {
+            "clusion": "I",
+            "lang": "en",
+            "value": ""
+          },
+          {
+            "clusion": "E",
+            "lang": "fr",
+            "value": ""
+          },
+          {
+            "clusion": "E",
+            "lang": "en",
+            "value": ""
+          }
+        ],
+        "collDate": [
+          {
+            "event": "start",
+            "value": "2020-01-01"
+          },
+          {
+            "event": "end",
+            "value": "2020-12-31"
+          }
+        ]
+      }
+    },
+    "dataAccs": {
+      "setAvail": {
+        "avlStatus": [
+          {
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_f1cf"
+              }
+            ],
+            "value": "Sous embargo"
+          },
+          {
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_f1cf"
+              }
+            ],
+            "value": "Embargoed access"
+          }
+        ],
+        "conditions": [
+          {
+            "lang": "fr",
+            "value": "Données mises à disposition dès publication des articles de recherche."
+          },
+          {
+            "lang": "en",
+            "value": "Data made available as soon as research articles are published."
+          }
+        ]
+      },
+      "useStmt": {}
+    },
+    "othStdMat": {
+      "relMat": {
+        "lang": "fr",
+        "value": "Pas d’accès"
+      }
+    },
+    "studyDevelopment": {}
+  },
+  "docDscr": {
+    "citation": {
+      "rspStmt": {
+        "AuthEnty": "Marie-Claire VILLEVAL"
+      },
+      "prodStmt": {
+        "producer": [
+          {
+            "affiliation": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE (CNRS)",
+            "value": "Marie-Claire;VILLEVAL"
+          }
+        ],
+        "prodPlac": "Portail Épidémiologie France"
+      }
+    }
+  },
+  "additional": {
+    "prodPlac": "Portail Épidémiologie France",
+    "creationDate": "----",
+    "lastUpdatedManual": "13-01-2021",
+    "theme": {},
+    "governance": {
+      "committee": false
+    },
+    "collaborations": {},
+    "mockSample": {},
+    "dataQuality": {},
+    "variableDictionnary": {},
+    "dataTypes": {
+      "isDataInBiobank": false
+    },
+    "collectionProcess": {
+      "collectionModeDetails": [
+        {
+          "lang": "fr",
+          "value": "Expériences en ligne"
+        },
+        {
+          "lang": "en",
+          "value": "Online experiences"
+        }
+      ]
+    },
+    "geographicalCoverage": {},
+    "activeFollowUp": {
+      "isActiveFollowUp": true
+    },
+    "dataCollectionIntegration": {
+      "isDataIntegration": false
+    },
+    "isHealthTheme": true
+  },
+  "schematype": "survey"
+}

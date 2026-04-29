@@ -1,0 +1,755 @@
+{
+  "stdyDscr": {
+    "citation": {
+      "titlStmt": {
+        "IDNo": [
+          {
+            "agency": "PEF",
+            "value": "164"
+          },
+          {
+            "agency": "FReSH",
+            "value": "FRESH-PEF164"
+          }
+        ],
+        "titl": [
+          {
+            "lang": "fr",
+            "value": "Etude longitudinale sur des patients atteints de bronchopneumopathie chronique obstructive traités par Seretide Diskus 500 µg / 50 doses ®"
+          },
+          {
+            "lang": "en",
+            "value": "Follow-up cohort of patients with chronic obstructive pulmonary disease treated by Seretide Diskus 500 µg / 50 doses ®"
+          }
+        ],
+        "altTitl": [
+          {
+            "lang": "fr",
+            "value": "USB"
+          },
+          {
+            "lang": "en",
+            "value": "USB"
+          }
+        ]
+      },
+      "rspStmt": {
+        "AuthEnty": [
+          {
+            "name": "Céline;PRIBIL",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "GLAXOSMITHKLINE (FRANCE)"
+              },
+              {
+                "lang": "en",
+                "value": "GLAXOSMITHKLINE (FRANCE)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/00z1h3j87",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "592052146",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ],
+            "isContact": true,
+            "email": "celine.c.pribil@gsk.com",
+            "PILabo": "Laboratoire GSK"
+          }
+        ],
+        "othId": []
+      },
+      "distStmt": {
+        "contact": [
+          {
+            "name": "Céline;PRIBIL",
+            "email": "celine.c.pribil@gsk.com",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "GLAXOSMITHKLINE (FRANCE)"
+              },
+              {
+                "lang": "en",
+                "value": "GLAXOSMITHKLINE (FRANCE)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/00z1h3j87",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "592052146",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          }
+        ]
+      },
+      "prodStmt": {
+        "fundAg": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "GLAXOSMITHKLINE (FRANCE)"
+              },
+              {
+                "lang": "en",
+                "value": "GLAXOSMITHKLINE (FRANCE)"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "ROR",
+                "uri": "https://ror.org/00z1h3j87"
+              },
+              {
+                "title": "SIREN",
+                "uri": "592052146"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Industrie"
+              },
+              {
+                "lang": "en",
+                "value": "Industry"
+              }
+            ]
+          }
+        ],
+        "producer": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "GLAXOSMITHKLINE (FRANCE)"
+              },
+              {
+                "lang": "en",
+                "value": "GLAXOSMITHKLINE (FRANCE)"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Industrie"
+              },
+              {
+                "lang": "en",
+                "value": "Industry"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "ROR",
+                "uri": "https://ror.org/00z1h3j87"
+              },
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "592052146"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "studyAuthorization": {
+      "authorizingAgency": {
+        "lang": "fr",
+        "value": "CNIL"
+      }
+    },
+    "method": {
+      "notes": [
+        {
+          "subject": "research type",
+          "lang": "fr",
+          "value": "Etude observationnelle"
+        },
+        {
+          "subject": "research type",
+          "lang": "en",
+          "value": "Observational Study"
+        }
+      ],
+      "stdyClas": [
+        {
+          "lang": "fr",
+          "value": "Inconnu"
+        },
+        {
+          "lang": "en",
+          "value": "Unknown"
+        }
+      ],
+      "dataColl": {
+        "targetSampleSize": [
+          {
+            "lang": "fr",
+            "value": "[500-1000[ individus"
+          },
+          {
+            "lang": "en",
+            "value": "[500-1000[ individuals"
+          }
+        ],
+        "sampleFrame": {
+          "frameUnit": {
+            "unitType": [
+              {
+                "lang": "fr",
+                "value": "Via les professionnels d&#x27;exercice libéral"
+              },
+              {
+                "lang": "en",
+                "value": "Through independent healthcare practitioners"
+              }
+            ]
+          }
+        },
+        "sources": [
+          {}
+        ],
+        "collMode": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "SelfAdministeredQuestionnaire",
+              "vocab": "CESSDA"
+            },
+            "value": "Questionnaire auto-administré"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "SelfAdministeredQuestionnaire",
+              "vocab": "CESSDA"
+            },
+            "value": "Self-administered questionnaire"
+          },
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Interview",
+              "vocab": "CESSDA"
+            },
+            "value": "Entretien avec le participant (dont clinique)"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Interview",
+              "vocab": "CESSDA"
+            },
+            "value": "Interview with the participant (including clinical)"
+          }
+        ],
+        "sampProc": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ],
+        "respRate": [
+          {
+            "lang": "fr",
+            "value": "767"
+          },
+          {
+            "lang": "en",
+            "value": "767"
+          }
+        ]
+      }
+    },
+    "stdyInfo": {
+      "abstract": [
+        {
+          "contentType": "purpose",
+          "lang": "fr",
+          "value": "Décrire la population rejointe par SERETIDE Diskus 500 µg / 50 doses dans le cadre du traitement de la BPCO, leurs modalités de prescription et leurs conditions réelles d'utilisation (notamment l’observance) ainsi que l'évolution clinique des patients. Évaluer l’impact des associations fixes sur la morbidité objective et sur la morbidité ressentie de la BPCO."
+        },
+        {
+          "contentType": "purpose",
+          "lang": "en",
+          "value": "Describe the population pursuing SERETIDE Diskus 500 µg / 50 doses within the framework of treating OCPD, the methods for prescribing it and their actual conditions of use (observance in particular) as well as the clinical change in patients. Evaluate the impact of the fixed-dose combinations on objective morbidity and on perceived morbidity of OCPD."
+        }
+      ],
+      "subject": {
+        "topcClas": [
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/f6e18c52-6087-4662-904c-5c4b8174e40e"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D015272"
+              }
+            ],
+            "value": "Pneumologie"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/f6e18c52-6087-4662-904c-5c4b8174e40e"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D015272"
+              }
+            ],
+            "value": "Pulmonary medicine"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants liés au système de santé : Consommation des soins"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants liés au système de santé"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Healthcare system determinants: Use of care"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Healthcare system determinants"
+          }
+        ],
+        "keyword": [
+          {
+            "lang": "fr",
+            "value": "cohorte"
+          },
+          {
+            "lang": "fr",
+            "value": "Seretide Diskus®"
+          },
+          {
+            "lang": "en",
+            "value": "cohort"
+          },
+          {
+            "lang": "en",
+            "value": "Seretide Diskus"
+          }
+        ]
+      },
+      "qualityStatement": {
+        "standardsCompliance": {}
+      },
+      "sumDscr": {
+        "dataKind": [
+          {
+            "lang": "fr",
+            "value": "Données cliniques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données rapportées par le participant de l&#x27;étude"
+          },
+          {
+            "lang": "en",
+            "value": "Clinical data"
+          },
+          {
+            "lang": "en",
+            "value": "Participant-reported health data"
+          }
+        ],
+        "anlyUnit": [
+          {
+            "lang": "fr",
+            "value": "Individus"
+          },
+          {
+            "lang": "en",
+            "value": "Individuals"
+          }
+        ],
+        "nation": [
+          {
+            "lang": "fr",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          },
+          {
+            "lang": "en",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          }
+        ],
+        "universe": [
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Masculin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Féminin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Male"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Female"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adulte (25 à 44 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Adulte (45 à 64 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Personne âgée (65 à 79 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000369"
+            },
+            "value": "Grand âge (80 ans et plus)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adult (25 to 44 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Middle Aged (45 to 64 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Aged (65 to 79 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000369"
+            },
+            "value": "Aged, 80 and over (80 years and more)"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Patients"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "en",
+            "value": "Patients population"
+          },
+          {
+            "clusion": "I",
+            "lang": "fr",
+            "value": "•Patient chez qui un traitement par Seretide® Diskus 50 µg / 50 doses est initié le jour de l’inclusion •Patients âgés de plus de 40 ans, •Fumeurs ou ex-fumeurs (> 15 paquets-années)"
+          },
+          {
+            "clusion": "I",
+            "lang": "en",
+            "value": "• Patient in whom a treatment via Seretide® Diskus 50 µg / 50 doses is initiated on the day of inclusion • Patients over the age of 40 years, • Smokers or ex-smokers (> 15 pack-years)"
+          },
+          {
+            "clusion": "E",
+            "lang": "fr",
+            "value": ""
+          },
+          {
+            "clusion": "E",
+            "lang": "en",
+            "value": ""
+          }
+        ],
+        "collDate": [
+          {
+            "event": "start",
+            "value": "2007-01-01"
+          },
+          {
+            "event": "end",
+            "value": "2011-01-01"
+          }
+        ]
+      }
+    },
+    "dataAccs": {
+      "setAvail": {
+        "avlStatus": [
+          {
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Accès réservé"
+          },
+          {
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Restricted access"
+          }
+        ],
+        "conditions": []
+      },
+      "useStmt": {}
+    },
+    "othStdMat": {
+      "relMat": [
+        {
+          "lang": "fr",
+          "value": "Accès restreint sur projet spécifique"
+        },
+        {
+          "lang": "en",
+          "value": "Access on specific project only"
+        }
+      ]
+    },
+    "studyDevelopment": {
+      "developmentActivity": [
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/morbidité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Consommation de soins/services de santé"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Qualité de vie/santé perçue"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/morbidity"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health care consumption and services"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Quality of life/health perception"
+        }
+      ]
+    }
+  },
+  "docDscr": {
+    "citation": {
+      "rspStmt": {
+        "AuthEnty": "Céline PRIBIL"
+      },
+      "prodStmt": {
+        "producer": [
+          {
+            "affiliation": "GLAXOSMITHKLINE (FRANCE)",
+            "value": "Céline;PRIBIL"
+          }
+        ],
+        "prodPlac": "Portail Épidémiologie France"
+      }
+    }
+  },
+  "additional": {
+    "prodPlac": "Portail Épidémiologie France",
+    "relatedDocuments": {
+      "documentTitle": [
+        {
+          "lang": "fr",
+          "value": "Liste des publications dans Pubmed"
+        },
+        {
+          "lang": "en",
+          "value": "Liste des publications dans Pubmed"
+        }
+      ],
+      "documentLink": [
+        {
+          "lang": "fr",
+          "value": "http://tinyurl.com/Pubmed-USB"
+        },
+        {
+          "lang": "en",
+          "value": "http://tinyurl.com/Pubmed-USB"
+        }
+      ]
+    },
+    "creationDate": "14-12-2010",
+    "lastUpdatedManual": "06-04-2012",
+    "theme": {},
+    "governance": {},
+    "collaborations": {},
+    "mockSample": {},
+    "dataQuality": {},
+    "variableDictionnary": {},
+    "dataTypes": {
+      "isDataInBiobank": false
+    },
+    "collectionProcess": {
+      "collectionModeDetails": [
+        {
+          "lang": "fr",
+          "value": "• Une fiche des caractéristiques médecin complétée à l’implantation du centre.• Un registre de non inclusion des patients traités pour BPCO consultant pendant la période d'inclusion • Un questionnaire d’inclusion complété par le médecin à J0 • Un questionnaire de suivi complété par le médecin à chaque visite de suivi naturalistique pendant toute la durée de l’étude• Un auto-questionnaire complété par le patient à la visite d’inclusion • Un auto-questionnaire complété par le patient à chaque visite de suivi naturalistique pendant toute la durée de l’étude• Un questionnaire des dernières nouvelles pour les patients sortis d’étude en cours de suivi"
+        },
+        {
+          "lang": "en",
+          "value": "• A doctor characteristics sheet completed at the location of the center• A non-inclusion registry of the patients treated for OPCD that consult during the inclusion period • An inclusion questionnaire completed by the doctor on D0 • A follow-up questionnaire completed by the doctor at each naturalistic follow-up visit throughout the entire duration of the study• A self-questionnaire completed by the patient at the inclusion visit • A self questionnaire completed by the patient at each naturalistic follow-up visit throughout the entire duration of the study• A questionnaire on the latest news for patients who left the study during follow-up"
+        }
+      ]
+    },
+    "geographicalCoverage": {
+      "geoDetail": [
+        {
+          "lang": "fr",
+          "value": "France"
+        },
+        {
+          "lang": "en",
+          "value": "France"
+        }
+      ]
+    },
+    "activeFollowUp": {
+      "isActiveFollowUp": true
+    },
+    "dataCollectionIntegration": {
+      "isDataIntegration": false
+    },
+    "isHealthTheme": true
+  },
+  "schematype": "survey"
+}

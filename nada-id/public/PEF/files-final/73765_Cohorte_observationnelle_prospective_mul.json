@@ -1,0 +1,638 @@
+{
+  "stdyDscr": {
+    "citation": {
+      "titlStmt": {
+        "IDNo": [
+          {
+            "agency": "PEF",
+            "value": "73765"
+          },
+          {
+            "agency": "FReSH",
+            "value": "FRESH-PEF73765"
+          }
+        ],
+        "titl": [
+          {
+            "lang": "fr",
+            "value": "Cohorte observationnelle, prospective, multicentrique de patients suivis en post-hospitalisation pour évaluer les séquelles respiratoires à distance de l’infection à SARS-CoV-2 (COVID-19)"
+          },
+          {
+            "lang": "en",
+            "value": "Observational, prospective, multicentre cohort of patients followed up after hospitalisation to evaluate respiratory sequelae subsequent to SARS-CoV-2 (COVID-19) infection"
+          }
+        ],
+        "altTitl": [
+          {
+            "lang": "fr",
+            "value": "SISCOVID"
+          },
+          {
+            "lang": "en",
+            "value": "SISCOVID"
+          }
+        ]
+      },
+      "rspStmt": {
+        "AuthEnty": [
+          {
+            "name": "George;CALCAIANU",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "GROUPE HOSPITALIER DE LA REGION DE MULHOUSE ET SUD ALSACE (GHRMSA)"
+              },
+              {
+                "lang": "en",
+                "value": "GROUPE HOSPITALIER DE LA REGION DE MULHOUSE ET SUD ALSACE (GHRMSA)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "259330418",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/054jcxz87",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "200046985",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ],
+            "isContact": true,
+            "email": "george-daniel.calcaianu@ghrmsa.fr",
+            "PILabo": ""
+          }
+        ],
+        "othId": [
+          {
+            "type": "collaboration",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "13 centres associés (CHR Orléans, CH Colmar, CHD La Roche Sur Yon, CH de la Côte Basque, CH Le Raincy Montfermeil, CH Douai, CHR Metz-Thionville, CH du Mans, CH Dunkerque, CH Soissons, CH Libourne, CH Annecy, CH Chambéry)"
+              },
+              {
+                "lang": "en",
+                "value": "13 associated centers (CHR Orléans, CH Colmar, CHD La Roche Sur Yon, CH de la Côte Basque, CH Le Raincy Montfermeil, CH Douai, CHR Metz-Thionville, CH du Mans, CH Dunkerque, CH Soissons, CH Libourne, CH Annecy, CH Chambéry)"
+              }
+            ]
+          }
+        ]
+      },
+      "distStmt": {
+        "contact": [
+          {
+            "name": "George;CALCAIANU",
+            "email": "george-daniel.calcaianu@ghrmsa.fr",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "GROUPE HOSPITALIER DE LA REGION DE MULHOUSE ET SUD ALSACE (GHRMSA)"
+              },
+              {
+                "lang": "en",
+                "value": "GROUPE HOSPITALIER DE LA REGION DE MULHOUSE ET SUD ALSACE (GHRMSA)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/054jcxz87",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "200046985",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          }
+        ]
+      },
+      "prodStmt": {
+        "producer": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "GROUPE HOSPITALIER DE LA REGION DE MULHOUSE ET SUD ALSACE (GHRMSA)"
+              },
+              {
+                "lang": "en",
+                "value": "GROUPE HOSPITALIER DE LA REGION DE MULHOUSE ET SUD ALSACE (GHRMSA)"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "ROR",
+                "uri": "https://ror.org/054jcxz87"
+              },
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "200046985"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "studyAuthorization": {
+      "authorizingAgency": {
+        "lang": "fr",
+        "value": "CPP"
+      }
+    },
+    "method": {
+      "notes": [
+        {
+          "subject": "research type",
+          "lang": "fr",
+          "value": "Etude observationnelle"
+        },
+        {
+          "subject": "research type",
+          "lang": "en",
+          "value": "Observational Study"
+        }
+      ],
+      "stdyClas": [
+        {
+          "lang": "fr",
+          "value": "Inconnu"
+        },
+        {
+          "lang": "en",
+          "value": "Unknown"
+        }
+      ],
+      "dataColl": {
+        "targetSampleSize": [
+          {
+            "lang": "fr",
+            "value": "< 500 individus"
+          },
+          {
+            "lang": "en",
+            "value": "< 500 individuals"
+          }
+        ],
+        "sampleFrame": {
+          "frameUnit": {}
+        },
+        "sources": [
+          {}
+        ],
+        "collMode": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Transcription",
+              "vocab": "CESSDA"
+            },
+            "value": "Transcription et saisie d’informations dans un enregistrement structuré"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Transcription",
+              "vocab": "CESSDA"
+            },
+            "value": "Converting or copying information into a structured record"
+          },
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Interview",
+              "vocab": "CESSDA"
+            },
+            "value": "Entretien avec le participant (dont clinique)"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Interview",
+              "vocab": "CESSDA"
+            },
+            "value": "Interview with the participant (including clinical)"
+          }
+        ],
+        "sampProc": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ]
+      }
+    },
+    "stdyInfo": {
+      "abstract": [
+        {
+          "contentType": "purpose",
+          "lang": "fr",
+          "value": "Evaluer les séquelles respiratoires après l’infection à SARS-CoV-2 chez les patients hospitalisés pour pneumonie sévère 02-requérante COVID-19 avec suivi ambulatoire à distance par : - TomoDensitoMétrie thoracique-Basse Dose (TDM-BD), - Exploration Fonctionnelle Respiratoire statique (EFR), - Gazométrie artérielle en Air Ambiant au repos (GdS AA) et/ou sous Oxygène (GdS O2), - Test de Marche de 6 minutes en Air Ambiant (TM6 AA) et/ou sous Oxygène (TM6 O2)"
+        },
+        {
+          "contentType": "purpose",
+          "lang": "en",
+          "value": "Evaluate the respiratory sequelae after SARS-CoV-2 infection in patients hospitalised for severe COVID-19 pneumonia requiring O2, with subsequent outpatient follow-up (6 months) by: - Low-dose chest CT scan (LD-chest CT), - Static lung function tests (LFT), - Arterial blood gases in ambient air at rest (AA BG) and/or with oxygen (O2 BG), - 6-minute walking test in ambient air (6WT AA) and/or with oxygen (6WT O2)"
+        }
+      ],
+      "subject": {
+        "topcClas": [
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/f6e18c52-6087-4662-904c-5c4b8174e40e"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D015272"
+              }
+            ],
+            "value": "Pneumologie"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/f6e18c52-6087-4662-904c-5c4b8174e40e"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D015272"
+              }
+            ],
+            "value": "Pulmonary medicine"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "fr",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/1024154490",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Pneumonie virale"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "en",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/1024154490",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Viral pneumonia"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "fr",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/1730556128",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "COVID-19"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "en",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/1730556128",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "COVID-19"
+          }
+        ]
+      },
+      "qualityStatement": {
+        "standardsCompliance": {}
+      },
+      "sumDscr": {
+        "dataKind": [
+          {
+            "lang": "fr",
+            "value": "Données cliniques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données biologiques"
+          },
+          {
+            "lang": "en",
+            "value": "Clinical data"
+          },
+          {
+            "lang": "en",
+            "value": "Biological data"
+          }
+        ],
+        "anlyUnit": [
+          {
+            "lang": "fr",
+            "value": "Individus"
+          },
+          {
+            "lang": "en",
+            "value": "Individuals"
+          }
+        ],
+        "nation": [
+          {
+            "lang": "fr",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          },
+          {
+            "lang": "en",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          }
+        ],
+        "universe": [
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Masculin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Féminin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Male"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Female"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Adulte (19 à 24 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adulte (25 à 44 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Adulte (45 à 64 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Personne âgée (65 à 79 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000369"
+            },
+            "value": "Grand âge (80 ans et plus)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Young Adult (19 to 24 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adult (25 to 44 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Middle Aged (45 to 64 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Aged (65 to 79 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000369"
+            },
+            "value": "Aged, 80 and over (80 years and more)"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Patients"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "en",
+            "value": "Patients population"
+          },
+          {
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Patient informé oralement de la recherche et ne s’opposant pas à la recherche Age >= 18 ans inclus Patient hospitalisé pour pneumonie sévère O2-requérante COVID-19 Patient ayant contracté une infection à SARS-CoV-2 prouvée par RT-PCR et/ou sérologie rétrospective et/ou un syndrome COVID-19 avec scanner thoracique évocateur (durant la période du 1er mars 2020 au 30 juin 2020)"
+          },
+          {
+            "clusion": "I",
+            "lang": "en",
+            "value": "Patient having received verbal information and not objecting to the study Age >= 18 years inclusive Patient hospitalised for severe COVID-19 pneumonia requiring O2 Patient having contracted SARS-CoV-2 infection proven by RT-PCR and/or retrospective serology and/or COVID-19 syndrome with chest CT scan consistent with infection (over the period from 1 March 2020 to 30 June 2020)"
+          },
+          {
+            "clusion": "E",
+            "lang": "fr",
+            "value": ""
+          },
+          {
+            "clusion": "E",
+            "lang": "en",
+            "value": ""
+          }
+        ],
+        "collDate": {
+          "event": "start",
+          "value": "2020-01-01"
+        }
+      }
+    },
+    "dataAccs": {
+      "setAvail": {
+        "avlStatus": [
+          {
+            "lang": "fr",
+            "value": "A définir"
+          },
+          {
+            "lang": "en",
+            "value": "To be defined"
+          }
+        ],
+        "conditions": []
+      },
+      "useStmt": {}
+    },
+    "othStdMat": {},
+    "studyDevelopment": {}
+  },
+  "docDscr": {
+    "citation": {
+      "rspStmt": {
+        "AuthEnty": "MARIE DIESEL"
+      },
+      "prodStmt": {
+        "producer": [
+          {
+            "affiliation": "GROUPE HOSPITALIER DE LA REGION DE MULHOUSE ET SUD ALSACE (GHRMSA)",
+            "value": "MARIE;DIESEL"
+          }
+        ],
+        "prodPlac": "Portail Épidémiologie France"
+      }
+    }
+  },
+  "additional": {
+    "prodPlac": "Portail Épidémiologie France",
+    "creationDate": "16-11-2020",
+    "lastUpdatedManual": "03-05-2021",
+    "fundingAgent": {},
+    "theme": {},
+    "governance": {},
+    "collaborations": {},
+    "mockSample": {},
+    "dataQuality": {},
+    "variableDictionnary": {},
+    "dataTypes": {
+      "isDataInBiobank": false
+    },
+    "collectionProcess": {},
+    "geographicalCoverage": {},
+    "activeFollowUp": {},
+    "dataCollectionIntegration": {
+      "isDataIntegration": false
+    },
+    "isHealthTheme": true
+  },
+  "schematype": "survey"
+}

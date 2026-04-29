@@ -1,0 +1,862 @@
+{
+  "stdyDscr": {
+    "citation": {
+      "titlStmt": {
+        "IDNo": [
+          {
+            "agency": "PEF",
+            "value": "73260"
+          },
+          {
+            "agency": "FReSH",
+            "value": "FRESH-PEF73260"
+          }
+        ],
+        "titl": [
+          {
+            "lang": "fr",
+            "value": "Étude de sécurité et de pharmacocinétique en pratique réelle de Pylera® en France : l'étude SAPHARY"
+          },
+          {
+            "lang": "en",
+            "value": "A Safety and Pharmacokinetic study in Real-life practice of Pylera® in France: The SAPHARY study"
+          }
+        ],
+        "altTitl": [
+          {
+            "lang": "fr",
+            "value": "SAPHARY"
+          },
+          {
+            "lang": "en",
+            "value": "SAPHARY"
+          }
+        ]
+      },
+      "rspStmt": {
+        "AuthEnty": [
+          {
+            "name": "Patrick;BLIN",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "UNIVERSITE DE BORDEAUX"
+              },
+              {
+                "lang": "en",
+                "value": "UNIVERSITE DE BORDEAUX"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "0000-0003-4005-7928",
+                "role": "pi id",
+                "title": "ORCID"
+              },
+              {
+                "uri": "182433455",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/057qpr032",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "130018351",
+                "role": "organisation id",
+                "title": "SIREN"
+              },
+              {
+                "uri": "200120110J",
+                "role": "labo id",
+                "title": "RNSR"
+              }
+            ],
+            "isContact": true,
+            "email": "patrick.blin@u-bordeaux.fr",
+            "PILabo": "Université de Bordeaux / Bordeaux PharmacoEpi - Université de Bordeaux - Service de Pharmacologie médicale - CIC Bordeaux CIC 1401"
+          }
+        ],
+        "othId": []
+      },
+      "distStmt": {
+        "contact": [
+          {
+            "name": "Patrick;BLIN",
+            "email": "patrick.blin@u-bordeaux.fr",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "UNIVERSITE DE BORDEAUX"
+              },
+              {
+                "lang": "en",
+                "value": "UNIVERSITE DE BORDEAUX"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/057qpr032",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "130018351",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          }
+        ]
+      },
+      "prodStmt": {
+        "fundAg": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "ALLERGAN INDUSTRIE"
+              },
+              {
+                "lang": "en",
+                "value": "ALLERGAN INDUSTRIE"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "SIREN",
+                "uri": "344097902"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Industrie"
+              },
+              {
+                "lang": "en",
+                "value": "Industry"
+              }
+            ]
+          }
+        ],
+        "producer": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "UNIVERSITE DE BORDEAUX"
+              },
+              {
+                "lang": "en",
+                "value": "UNIVERSITE DE BORDEAUX"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "ROR",
+                "uri": "https://ror.org/057qpr032"
+              },
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "130018351"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "studyAuthorization": [
+      {
+        "authorizingAgency": {
+          "lang": "fr",
+          "value": "CNIL"
+        }
+      },
+      {
+        "authorizingAgency": {
+          "lang": "fr",
+          "value": "CPP"
+        }
+      },
+      {
+        "authorizingAgency": {
+          "lang": "fr",
+          "value": "CESREES"
+        }
+      }
+    ],
+    "method": {
+      "notes": [
+        {
+          "subject": "research type",
+          "lang": "fr",
+          "value": "Etude observationnelle"
+        },
+        {
+          "subject": "research type",
+          "lang": "en",
+          "value": "Observational Study"
+        },
+        {
+          "lang": "fr",
+          "subject": "observational study method",
+          "value": "Cohorte"
+        },
+        {
+          "lang": "en",
+          "subject": "observational study method",
+          "value": "Cohort study"
+        }
+      ],
+      "stdyClas": [
+        {
+          "lang": "fr",
+          "value": "Inconnu"
+        },
+        {
+          "lang": "en",
+          "value": "Unknown"
+        }
+      ],
+      "dataColl": {
+        "targetSampleSize": [
+          {
+            "lang": "fr",
+            "value": "< 500 individus"
+          },
+          {
+            "lang": "en",
+            "value": "< 500 individuals"
+          }
+        ],
+        "sampleFrame": {
+          "frameUnit": {
+            "unitType": [
+              {
+                "lang": "fr",
+                "value": "Via les professionnels d&#x27;exercice libéral"
+              },
+              {
+                "lang": "en",
+                "value": "Through independent healthcare practitioners"
+              }
+            ]
+          }
+        },
+        "sources": [
+          {}
+        ],
+        "collMode": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Transcription",
+              "vocab": "CESSDA"
+            },
+            "value": "Transcription et saisie d’informations dans un enregistrement structuré"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Transcription",
+              "vocab": "CESSDA"
+            },
+            "value": "Converting or copying information into a structured record"
+          }
+        ],
+        "sampProc": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ],
+        "respRate": [
+          {
+            "lang": "fr",
+            "value": "200"
+          },
+          {
+            "lang": "en",
+            "value": "200 subjects"
+          }
+        ]
+      }
+    },
+    "stdyInfo": {
+      "abstract": [
+        {
+          "contentType": "purpose",
+          "lang": "fr",
+          "value": "L'objectif principal de l'étude est de vérifier l'absence d'accumulation de bismuth chez les sujets à qui l'on a prescrit Pylera®, par une approche pharmacocinétique en vie réelle."
+        },
+        {
+          "contentType": "purpose",
+          "lang": "en",
+          "value": "The primary objective of the study is to verify the absence of accumulation of bismuth in subjects prescribed Pylera®, a pharmacokinetic approach in a real-life setting."
+        }
+      ],
+      "subject": {
+        "topcClas": [
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/a3898340-a42d-4f5e-a822-1de204a9a867"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D005762"
+              }
+            ],
+            "value": "Gastroentérologie"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/a3898340-a42d-4f5e-a822-1de204a9a867"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D005762"
+              }
+            ],
+            "value": "Gastroenterology"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "fr",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/979408586",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Codes d'extension"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "en",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/979408586",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Extension Codes"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Autre"
+          }
+        ],
+        "keyword": [
+          {
+            "lang": "fr",
+            "value": "effet indésirable neurologique"
+          },
+          {
+            "lang": "fr",
+            "value": "infection à Helicobacter Pylori"
+          },
+          {
+            "lang": "fr",
+            "value": "Bismuth"
+          },
+          {
+            "lang": "fr",
+            "value": "Pylera"
+          },
+          {
+            "lang": "fr",
+            "value": "Bordeaux PharmacoEpi"
+          },
+          {
+            "lang": "fr",
+            "value": "Service de Pharmacologie médicale"
+          },
+          {
+            "lang": "en",
+            "value": "Bismuth"
+          },
+          {
+            "lang": "en",
+            "value": "neurological adverse event"
+          },
+          {
+            "lang": "en",
+            "value": "Pylera"
+          },
+          {
+            "lang": "en",
+            "value": "Helicobacter Pylori infection"
+          },
+          {
+            "lang": "en",
+            "value": "Bordeaux PharmacoEpi"
+          },
+          {
+            "lang": "en",
+            "value": "Service de Pharmacologie médicale"
+          }
+        ]
+      },
+      "qualityStatement": {
+        "standardsCompliance": {
+          "standard": {
+            "standardName": [
+              {
+                "lang": "fr",
+                "value": "Codage MedDRA pour les événements indésirables neurologiques et non neurologiques (SOC et PT) ; code ATC"
+              },
+              {
+                "lang": "en",
+                "value": "MedDRA coding for neurological and non neurological adverse event (SOC and PT); ATC code"
+              }
+            ]
+          }
+        }
+      },
+      "sumDscr": {
+        "dataKind": [
+          {
+            "lang": "fr",
+            "value": "Données cliniques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données rapportées par le participant de l&#x27;étude"
+          },
+          {
+            "lang": "fr",
+            "value": "Données biologiques"
+          },
+          {
+            "lang": "en",
+            "value": "Clinical data"
+          },
+          {
+            "lang": "en",
+            "value": "Participant-reported health data"
+          },
+          {
+            "lang": "en",
+            "value": "Biological data"
+          }
+        ],
+        "anlyUnit": [
+          {
+            "lang": "fr",
+            "value": "Individus"
+          },
+          {
+            "lang": "en",
+            "value": "Individuals"
+          }
+        ],
+        "nation": [
+          {
+            "lang": "fr",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          },
+          {
+            "lang": "en",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          }
+        ],
+        "universe": [
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Masculin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Féminin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Male"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Female"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Adulte (19 à 24 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adulte (25 à 44 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Adulte (45 à 64 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Personne âgée (65 à 79 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000369"
+            },
+            "value": "Grand âge (80 ans et plus)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Young Adult (19 to 24 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adult (25 to 44 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Middle Aged (45 to 64 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Aged (65 to 79 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000369"
+            },
+            "value": "Aged, 80 and over (80 years and more)"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Patients"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "en",
+            "value": "Patients population"
+          },
+          {
+            "clusion": "I",
+            "lang": "fr",
+            "value": " Hommes et femmes âgés de 18 ans et plus ayant reçu une prescription de l'investigateur pour un traitement par Pylera®. - Capacité mentale et légale de donner un consentement éclairé écrit et jugé par l'investigateur capable de suivre les procédures décrites dans le protocole.  "
+          },
+          {
+            "clusion": "I",
+            "lang": "en",
+            "value": "Men and women 18 years of age and older who have received a prescription for Pylera® therapy from the Investigator - Mental and legal ability to give written Informed Consent and judged by the Investigator to be capable of following the procedures outlined within the protocol  "
+          },
+          {
+            "clusion": "E",
+            "lang": "fr",
+            "value": "Femmes enceintes ou allaitantes - Inquiétude de l'investigateur quant à la sécurité de la participation du sujet à l'étude ou toute autre raison pour laquelle l'investigateur considère que le sujet n'est pas apte à participer à l'étude"
+          },
+          {
+            "clusion": "E",
+            "lang": "en",
+            "value": " Women who are pregnant or nursing - Any concern by the Investigator regarding the safe participating of the subject in the study or for any other reason the Investigator considers the subject inappropriate for participating in the study"
+          }
+        ],
+        "collDate": [
+          {
+            "event": "start",
+            "value": "2014-01-01"
+          },
+          {
+            "event": "end",
+            "value": "2016-01-01"
+          }
+        ]
+      }
+    },
+    "dataAccs": {
+      "setAvail": {
+        "avlStatus": [
+          {
+            "lang": "fr",
+            "value": "A définir"
+          },
+          {
+            "lang": "en",
+            "value": "To be defined"
+          }
+        ],
+        "notes": [
+          {
+            "lang": "fr",
+            "value": "La propriété des données est définie dans un accord-cadre établi entre le promoteur, l&#x27;université de Bordeaux et l&#x27;ADERA (association à but non lucratif)"
+          },
+          {
+            "lang": "en",
+            "value": "The ownership of data is defined in a Master Agreement established between the Sponsor, the University of Bordeaux and ADERA (a non-profit making association)."
+          }
+        ],
+        "conditions": []
+      },
+      "useStmt": {}
+    },
+    "othStdMat": {
+      "relMat": [
+        {
+          "lang": "fr",
+          "value": "Accès restreint sur projet spécifique"
+        },
+        {
+          "lang": "en",
+          "value": "Access on specific project only"
+        }
+      ]
+    },
+    "studyDevelopment": {
+      "developmentActivity": [
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/morbidité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/mortalité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Consommation de soins/services de santé"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Autres"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/morbidity"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/mortality"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health care consumption and services"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Others"
+        }
+      ]
+    }
+  },
+  "docDscr": {
+    "citation": {
+      "rspStmt": {
+        "AuthEnty": "Cécile DROZ-PERROTEAU"
+      },
+      "prodStmt": {
+        "producer": [
+          {
+            "affiliation": "UNIVERSITE DE BORDEAUX",
+            "value": "Cécile;DROZ-PERROTEAU"
+          }
+        ],
+        "prodPlac": "Portail Épidémiologie France"
+      }
+    }
+  },
+  "additional": {
+    "prodPlac": "Portail Épidémiologie France",
+    "creationDate": "04-11-2015",
+    "lastUpdatedManual": "07-07-2025",
+    "theme": {},
+    "governance": {
+      "committee": true
+    },
+    "collaborations": {},
+    "mockSample": {},
+    "dataQuality": {},
+    "variableDictionnary": {},
+    "dataTypes": {
+      "clinicalDataDetails": [
+        {
+          "lang": "fr",
+          "value": "Dossiers médicaux, dossiers cliniques, notes des infirmières, correspondance médicale concernant le patient, notes d'évolution concernant le patient, rapports de pathologie, rapports de laboratoire, feuilles de travail de l'étude, dossier patient informatisé."
+        },
+        {
+          "lang": "en",
+          "value": "Medical charts, clinic charts, nurses' notes, medical correspondence regarding the human subject, subject progress notes, pathology reports, laboratory reports, study worksheets, electronic hospital reporting system"
+        }
+      ],
+      "biologicalDataDetails": [
+        {
+          "lang": "fr",
+          "value": "Concentration de bismuth dans le sang total et le plasma avant le début du traitement par Pyelra® et à la fin du traitement de 10 jours par Pylera®."
+        },
+        {
+          "lang": "en",
+          "value": "Whole blood and plasma concentration of bismuth provided prior to start Pyelra® treatment and upon completion of the 10-day treatment with Pylera®"
+        }
+      ],
+      "isDataInBiobank": true
+    },
+    "collectionProcess": {
+      "collectionModeDetails": [
+        {
+          "lang": "fr",
+          "value": "Cahiers d'observation (Case Report Form, CRF) sur papier est rempli par l'investigateur à chaque visite de suivi."
+        },
+        {
+          "lang": "en",
+          "value": "Paper Case Report Form completed by investigator at each follow-up visit."
+        }
+      ]
+    },
+    "geographicalCoverage": {
+      "geoDetail": [
+        {
+          "lang": "fr",
+          "value": "France"
+        },
+        {
+          "lang": "en",
+          "value": "France"
+        }
+      ]
+    },
+    "activeFollowUp": {
+      "isActiveFollowUp": true
+    },
+    "dataCollectionIntegration": {
+      "isDataIntegration": false
+    },
+    "isHealthTheme": true
+  },
+  "schematype": "survey"
+}

@@ -1,0 +1,907 @@
+{
+  "stdyDscr": {
+    "citation": {
+      "titlStmt": {
+        "IDNo": [
+          {
+            "agency": "PEF",
+            "value": "241"
+          },
+          {
+            "agency": "FReSH",
+            "value": "FRESH-PEF241"
+          }
+        ],
+        "titl": [
+          {
+            "lang": "fr",
+            "value": "Registre des AVC du pays de Brest (registre qualifié 2011-2017)"
+          },
+          {
+            "lang": "en",
+            "value": "Registre des AVC du pays de Brest (registre qualifié 2011-2017)"
+          }
+        ],
+        "altTitl": [
+          {
+            "lang": "fr",
+            "value": "BREST (The Brest REgistry of STroke)"
+          },
+          {
+            "lang": "en",
+            "value": "BREST (The Brest REgistry of STroke)"
+          }
+        ]
+      },
+      "rspStmt": {
+        "AuthEnty": [
+          {
+            "name": "Serge;TIMSIT",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "CENTRE HOSPITALIER REGIONAL ET UNIVERSITAIRE DE BREST (CHRU)"
+              },
+              {
+                "lang": "en",
+                "value": "CENTRE HOSPITALIER REGIONAL ET UNIVERSITAIRE DE BREST (CHRU)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "0000-0003-0346-8576",
+                "role": "pi id",
+                "title": "ORCID"
+              },
+              {
+                "uri": "035207884",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/03evbwn87",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "200023059",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ],
+            "isContact": true,
+            "email": "serge.timsit@chu-brest.fr",
+            "PILabo": "CHRU / Service de Neurologie"
+          }
+        ],
+        "othId": [
+          {
+            "type": "collaboration",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "Registres de Dijon, Lille, EHESP, InVS, CTAD-PEPI (rennes)"
+              },
+              {
+                "lang": "en",
+                "value": "Registries of Dijon and Lille, EHESP, InVS, CTAD-PEPI (Rennes)"
+              }
+            ]
+          }
+        ]
+      },
+      "distStmt": {
+        "contact": [
+          {
+            "name": "Serge;TIMSIT",
+            "email": "serge.timsit@chu-brest.fr",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "CENTRE HOSPITALIER REGIONAL ET UNIVERSITAIRE DE BREST (CHRU)"
+              },
+              {
+                "lang": "en",
+                "value": "CENTRE HOSPITALIER REGIONAL ET UNIVERSITAIRE DE BREST (CHRU)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/03evbwn87",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "200023059",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          }
+        ]
+      },
+      "prodStmt": {
+        "fundAg": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE (INSERM)"
+              },
+              {
+                "lang": "en",
+                "value": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE (INSERM)"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "ROR",
+                "uri": "https://ror.org/02vjkv261"
+              },
+              {
+                "title": "SIREN",
+                "uri": "180036048"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "SANTE PUBLIQUE FRANCE"
+              },
+              {
+                "lang": "en",
+                "value": "SANTE PUBLIQUE FRANCE"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "ROR",
+                "uri": "https://ror.org/00dfw9p58"
+              },
+              {
+                "title": "SIREN",
+                "uri": "130022338"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ]
+          }
+        ],
+        "producer": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "CENTRE HOSPITALIER REGIONAL ET UNIVERSITAIRE DE BREST (CHRU)"
+              },
+              {
+                "lang": "en",
+                "value": "CENTRE HOSPITALIER REGIONAL ET UNIVERSITAIRE DE BREST (CHRU)"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "ROR",
+                "uri": "https://ror.org/03evbwn87"
+              },
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "200023059"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "studyAuthorization": {
+      "authorizingAgency": {
+        "lang": "fr",
+        "value": "CNIL"
+      }
+    },
+    "method": {
+      "notes": [
+        {
+          "subject": "research type",
+          "lang": "fr",
+          "value": "Etude observationnelle"
+        },
+        {
+          "subject": "research type",
+          "lang": "en",
+          "value": "Observational Study"
+        },
+        {
+          "lang": "fr",
+          "subject": "observational study method",
+          "value": "Registre de morbidité"
+        },
+        {
+          "lang": "en",
+          "subject": "observational study method",
+          "value": "Morbidity registry"
+        }
+      ],
+      "stdyClas": [
+        {
+          "lang": "fr",
+          "value": "Inconnu"
+        },
+        {
+          "lang": "en",
+          "value": "Unknown"
+        }
+      ],
+      "dataColl": {
+        "targetSampleSize": [
+          {
+            "lang": "fr",
+            "value": "[1000-10000[ individus"
+          },
+          {
+            "lang": "en",
+            "value": "[1000-10000[ individuals"
+          }
+        ],
+        "sampleFrame": {
+          "frameUnit": {}
+        },
+        "sources": [
+          {}
+        ],
+        "collMode": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Interview",
+              "vocab": "CESSDA"
+            },
+            "value": "Entretien avec le participant (dont clinique)"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Interview",
+              "vocab": "CESSDA"
+            },
+            "value": "Interview with the participant (including clinical)"
+          }
+        ],
+        "sampProc": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ],
+        "respRate": [
+          {
+            "lang": "fr",
+            "value": "851 (2008) - 898 (2009) - 823 (2010) - 809 (2011) - 841 (2012) - 896 (2013)"
+          },
+          {
+            "lang": "en",
+            "value": "851 in 2008 - 898 in 2009 - 823 in 2010 - 809 in 2011 - 841 in 2012 - 896 in 2013"
+          }
+        ]
+      }
+    },
+    "stdyInfo": {
+      "abstract": [
+        {
+          "contentType": "purpose",
+          "lang": "fr",
+          "value": "L’objectif principal du registre est le recensement exhaustif des cas validés d’accident vasculaire cérébral sur une base bien définie géographiquement pour calculer une incidence. En fait les perspectives à moyens terme sont triples : • En terme épidémiologique et de santé publique : 1. Obtenir des données d’incidence et évaluer les disparités régionales et internationales Il s’agit d’obtenir des données d’incidence valides sachant qu’il existe seulement deux registres français à Dijon et Lille. Nos résultats mettent en évidence un fort taux d’incidence des AVC dans le pays de Brest. . Les taux d’attaque standardisés combinés pour 2008-2010 étaient pour 100000 habitants pour les hommes de 356,7 (IC95% : 317,5-396,0), de 445,5 (IC95% : 414,7-476,3), et de 464,1 (IC95% : 415,0-513,2) et pour les femmes de 244,8 (IC95% : 219,7-269,8), 300,9 (IC95% : 282,9-319,0) et 362,4 (IC95% :331,8- 393,1) pour Dijon, Brest et Lille respectivement (Cf comparaison des registres). Les fortes disparités d’incidence ne sont pas à ce jour expliquées. 2. Obtenir des données de mortalités à court et à long terme Depuis l’initiation du registre nous avons mis en place une étude de la mortalité des patients du registre des AVC du Pays de Brest. Cette étude de la mortalité a été établie séparément pour les accidents ischémiques et les accidents hémorragiques qui ont des mortalités très différentes. Cette mortalité a été étudiée à court terme (≤ 28 jours) mais aussi à plus long terme (> 28 jours). Nous avons actuellement un suivi maximal de 6 ans pour ceux ayant été recensés en 2008. Un projet de collaboration entre l’InVS, le CHU de Brest et la plateforme de Rennes portera sur les causes de la mort 3. Phamaco-épidémiologie En termes cliniques, le registre offre l’opportunité de faire l’état des lieux des pratiques (diagnostiques, thérapeutiques et des filères) et de proposer ainsi une meilleure charge des AVC. Cette démarche est en adéquation avec les programmes pilotes développés par l’HAS d’amélioration de qualité et de la sécurité des soins. Nous avons un projet d’analyse du risque d’hémorragie associé aux anticoagulants et aux anti-agrégants dans la population du pays de Brest mais aussi à Dijon et à Lille en collaboration avec les deux autres registres. Cette étude à une pertinence particulière depuis 2012 avec l’introduction des nouveaux anti-coagulants (Anticoagulants Oraux Directs) qui ont des risques associés de saignement moindre que les anti-vitamine-K dans les études randomisées les comparant.(Projet PHRC qui sera soumis en 2015) • En terme de recherche clinique nous avons initiés plusieurs travaux : 1. Etude de l’incidence et des conséquences des accidents vasculaires cérébraux selon les caractéristiques socioéconomiques des territoires dans le Pays de Brest (SOCAVAC). 2. Identifier les prédicteurs cliniques de la mortalité à court et à long terme des patients ayant eu un accident hémorragique. 3. Identifier les prédicteurs cliniques de mortalité à court et long terme des patients ayant eu un accident ischémique cérébral. 4. Identifier les prédicteurs génétiques de mortalité et de récidive à long terme des patients ayant eu un accident ischémique cérébral. 5. Identifier un algorithme d’identification des AVC à partir des bases de données préexistantes"
+        },
+        {
+          "contentType": "purpose",
+          "lang": "en",
+          "value": "The main objective of Brest Stroke Registry is to regroup all confirmed cases of stroke over a defined geographical zone in order to calculate an incidence. There are three prospective medium-term goals: - In respect with public health epidemiology: 1- To obtain incidence data and evaluate the regional and international divergences This is about obtaining confirmed incidence data given that there are only two French data bases in Dijon and Lille. Our results put forward a high stroke incidence rate in the region of Brest. The rates of combined standardized attacks for 2008-2010 in 1 00 000 people were: For men: 356.7 (IC95%: 317,5-396.0); 445.5 (IC95%: 414.7-476.3) and 464.1 (IC95%: 415.0-513.2) for Dijon, Brest and Lille respectively. (Cf registry comparison) For women: 244.8 (IC95%: 219.7-269.8); 300.9 (IC95%: 282.9-319.0) and 362.4 (IC95%: 331.8-393.1) for Dijon, Brest and Lille respectively. (Cf registry comparison) To date, there is no explanation for this high divergence of data. 2- To obtain the mortality data in short and long term. Since the onset of the registry, we have implemented a study on the mortality of stroke patients of Brest Registry. This study has been realized independently for both types of stroke, i.e. ischemic and hemorrhagic, with different caused mortality. This mortality was studied at medium-term (≤ 28 days) as well as at long-term (> 28 days). Currently, we have followed all collected data in 2008 for a maximum of 6 years. There will be a collaboration project between InVS, Brest CHU and Rennes network on all causes of death. 3- Pharmaco-epidemiology In clinical terms, the registry offers an opportunity to do an inventory of all current practices (diagnosis, therapies and the subsidiaries) and propose in this manner the best management of stroke. This strategy is in line with the pilot programs deployed by the HAS (French High Health Authority) for improvement of quality and safety of the health care. We have a project to analyse the bleeding risk associated with anticoagulants and anti-platelet agents in people of Brest as well as that of Dijon and Lille (in collaboration with their respective registry). This study has gained a particular characteristic since 2012 with emerging new oral anticoagulants (OAC) which have shown less associated bleeding risks compared with vitamin K antagonists (randomized controlled trials). Hospital Project Call for Funding will be submitted in 2015. - In terms of clinical researc we have initiated several projects: 1- Study the impactand consequences of stroke by socio-economic characteristics of the territories in the Pays de Brest (SOCAVAC) 2- Identify short and long term clinical predictors of mortality in patients who have had a hemorrhagic stroke. 3- To identify clinical predictors of mortality in the short and long-term patients with ischemic stroke. 4- To identify genetic predictors of mortality and long-term recurrence of patients with ischemic stroke 5- Identify stroke identification algorithm from existing databases"
+        }
+      ],
+      "subject": {
+        "topcClas": [
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/c4793dfe-e80e-49dd-9fcc-a1a742de1b25"
+              },
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/00a5c4f4-b7ee-41a4-bcdf-3a02e6be1660"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D009462"
+              }
+            ],
+            "value": "Neurologie"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/c4793dfe-e80e-49dd-9fcc-a1a742de1b25"
+              },
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/00a5c4f4-b7ee-41a4-bcdf-3a02e6be1660"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D009462"
+              }
+            ],
+            "value": "Neurology"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants environnementaux : Autres"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants comportementaux"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants liés au système de santé : Consommation des soins"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants environnementaux"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants liés au système de santé"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Environmental determinants: Other"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Behavioral determinants"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Healthcare system determinants: Use of care"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Environmental determinants"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Healthcare system determinants"
+          }
+        ],
+        "keyword": [
+          {
+            "lang": "fr",
+            "value": "Registre"
+          },
+          {
+            "lang": "fr",
+            "value": "Banque de données"
+          },
+          {
+            "lang": "fr",
+            "value": "Facteurs de risque vasculaires"
+          },
+          {
+            "lang": "fr",
+            "value": "accident vasculaire cérébral (AVC)"
+          },
+          {
+            "lang": "en",
+            "value": "Databank"
+          },
+          {
+            "lang": "en",
+            "value": "Vascular risk factors"
+          },
+          {
+            "lang": "en",
+            "value": "Stroke"
+          },
+          {
+            "lang": "en",
+            "value": "transient ischaemic attack (TIA)"
+          },
+          {
+            "lang": "en",
+            "value": "epidemiology"
+          },
+          {
+            "lang": "en",
+            "value": "registry"
+          }
+        ]
+      },
+      "qualityStatement": {
+        "standardsCompliance": {}
+      },
+      "sumDscr": {
+        "dataKind": [
+          {
+            "lang": "fr",
+            "value": "Données cliniques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données paracliniques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données socio-démographiques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données paracliniques (hors biologiques) : Imagerie"
+          },
+          {
+            "lang": "fr",
+            "value": "Données paracliniques (hors biologiques) : Exploration fonctionnelle"
+          },
+          {
+            "lang": "en",
+            "value": "Clinical data"
+          },
+          {
+            "lang": "en",
+            "value": "Socio-demographic data"
+          },
+          {
+            "lang": "en",
+            "value": "Paraclinical data (non-biological) : Imaging"
+          },
+          {
+            "lang": "en",
+            "value": "Paraclinical data (non-biological) : Function testing"
+          }
+        ],
+        "anlyUnit": [
+          {
+            "lang": "fr",
+            "value": "Individus"
+          },
+          {
+            "lang": "en",
+            "value": "Individuals"
+          }
+        ],
+        "nation": [
+          {
+            "lang": "fr",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          },
+          {
+            "lang": "en",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          }
+        ],
+        "geogCover": [
+          {
+            "lang": "fr",
+            "value": "Bretagne"
+          },
+          {
+            "lang": "en",
+            "value": "Bretagne"
+          }
+        ],
+        "universe": [
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Masculin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Féminin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Male"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Female"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000293"
+            },
+            "value": "Adolescence (13 à 18 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Adulte (19 à 24 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adulte (25 à 44 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Adulte (45 à 64 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Personne âgée (65 à 79 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000369"
+            },
+            "value": "Grand âge (80 ans et plus)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Young Adult (19 to 24 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adult (25 to 44 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Middle Aged (45 to 64 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Aged (65 to 79 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000369"
+            },
+            "value": "Aged, 80 and over (80 years and more)"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Patients"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "en",
+            "value": "Patients population"
+          },
+          {
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Diagnostic validé pour l’une des pathologies suivantes : - AVC ischémique,  - Hématome intracrânien non traumatique  - Thrombose veineuse cérébrale  Diagnostic posé après le 31 décembre 2007 - Age > 15 ans à la date du diagnostic - Patient domicilié au moment du diagnostic dans l’une des 79 communes préalablement définies"
+          },
+          {
+            "clusion": "I",
+            "lang": "en",
+            "value": "Diagnostic validated for one of the following pathologies: - Ischemic stroke,  - Non-traumatic intracranial hematoma - Cerebral venous thrombosis  Diagnostic after December 31, 2007 Age > 15 years on the date of the diagnostic Patient domiciled at the time of the diagnostic in one of the 79 communes defined beforehand"
+          },
+          {
+            "clusion": "E",
+            "lang": "fr",
+            "value": ""
+          },
+          {
+            "clusion": "E",
+            "lang": "en",
+            "value": ""
+          }
+        ],
+        "collDate": {
+          "event": "start",
+          "value": "2008-01-01"
+        }
+      }
+    },
+    "dataAccs": {
+      "setAvail": {
+        "avlStatus": [
+          {
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Accès réservé"
+          },
+          {
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Restricted access"
+          }
+        ],
+        "conditions": [
+          {
+            "lang": "fr",
+            "value": "Collaborations souhaitées après validation par le Conseil Scientique du Registre."
+          },
+          {
+            "lang": "en",
+            "value": "Collaboration required after validation by the Scientific Committee of the Registry."
+          }
+        ]
+      },
+      "useStmt": {}
+    },
+    "othStdMat": {
+      "relMat": [
+        {
+          "lang": "fr",
+          "value": "Accès restreint sur projet spécifique"
+        },
+        {
+          "lang": "en",
+          "value": "Access on specific project only"
+        }
+      ]
+    },
+    "studyDevelopment": {
+      "developmentActivity": [
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/morbidité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/mortalité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/morbidity"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/mortality"
+        }
+      ]
+    }
+  },
+  "docDscr": {
+    "citation": {
+      "rspStmt": {
+        "AuthEnty": "Serge TIMSIT"
+      },
+      "prodStmt": {
+        "producer": [
+          {
+            "affiliation": "CENTRE HOSPITALIER REGIONAL ET UNIVERSITAIRE DE BREST (CHRU)",
+            "value": "Serge;TIMSIT"
+          }
+        ],
+        "prodPlac": "Portail Épidémiologie France"
+      }
+    }
+  },
+  "additional": {
+    "prodPlac": "Portail Épidémiologie France",
+    "relatedDocuments": {
+      "documentTitle": [
+        {
+          "lang": "fr"
+        },
+        {
+          "lang": "en"
+        }
+      ],
+      "documentLink": [
+        {
+          "lang": "fr",
+          "value": "http://tinyurl.com/PUBMED-AVCBREST"
+        },
+        {
+          "lang": "en",
+          "value": "http://tinyurl.com/PUBMED-AVCBREST"
+        }
+      ]
+    },
+    "creationDate": "04-01-2011",
+    "lastUpdatedManual": "09-03-2012",
+    "theme": {},
+    "governance": {},
+    "collaborations": {},
+    "mockSample": {},
+    "dataQuality": {},
+    "variableDictionnary": {},
+    "dataTypes": {
+      "isDataInBiobank": false
+    },
+    "collectionProcess": {
+      "collectionModeDetails": [
+        {
+          "lang": "fr",
+          "value": "Visite, mail, téléphone, lettre, logiciels informatiques (SAU, Imagerie), Registre des Entrées de l'HIA, Certificat de décès."
+        },
+        {
+          "lang": "en",
+          "value": "Visit, email, telephone, letter, computer software (SAU, Imaging), Arrivals registry of the HIA, Death certificate."
+        }
+      ]
+    },
+    "geographicalCoverage": {
+      "geoDetail": [
+        {
+          "lang": "fr",
+          "value": "Sujets résidents dans le pays de Brest à l’exclusion de la Communauté de Communes de la Presqu'île de Crozon et de la Communauté de communes de l'Aulne Maritime"
+        },
+        {
+          "lang": "en",
+          "value": "Subjects residing in the Brest area except for the Community of Communes of Presqu'île de Crozon and of the Community of Communes of Aulne Maritime"
+        }
+      ]
+    },
+    "activeFollowUp": {
+      "isActiveFollowUp": true
+    },
+    "dataCollectionIntegration": {
+      "isDataIntegration": false
+    },
+    "isHealthTheme": true
+  },
+  "schematype": "survey"
+}

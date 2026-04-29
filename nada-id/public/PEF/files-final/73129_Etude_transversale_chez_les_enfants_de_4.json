@@ -1,0 +1,697 @@
+{
+  "stdyDscr": {
+    "citation": {
+      "titlStmt": {
+        "IDNo": [
+          {
+            "agency": "PEF",
+            "value": "73129"
+          },
+          {
+            "agency": "FReSH",
+            "value": "FRESH-PEF73129"
+          }
+        ],
+        "titl": [
+          {
+            "lang": "fr",
+            "value": "Etude transversale chez les enfants de 4-5 ans scolarisés dans l’Hérault"
+          },
+          {
+            "lang": "en",
+            "value": "Cross-sectional study of children of 4-5 years of age in school in Hérault"
+          }
+        ]
+      },
+      "rspStmt": {
+        "AuthEnty": [
+          {
+            "name": "Bernard;LEDESERT",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "CREAI-ORS OCCITANIE (CREAI-ORS LR)"
+              },
+              {
+                "lang": "en",
+                "value": "CREAI-ORS OCCITANIE (CREAI-ORS LR)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "03064903X",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "775589229",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ],
+            "isContact": true,
+            "email": "b.ledesert@creaiors-occitanie.fr",
+            "PILabo": ""
+          }
+        ],
+        "othId": []
+      },
+      "distStmt": {
+        "contact": [
+          {
+            "name": "Bernard;LEDESERT",
+            "email": "b.ledesert@creaiors-occitanie.fr",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "CREAI-ORS OCCITANIE (CREAI-ORS LR)"
+              },
+              {
+                "lang": "en",
+                "value": "CREAI-ORS OCCITANIE (CREAI-ORS LR)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "775589229",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          }
+        ]
+      },
+      "prodStmt": {
+        "fundAg": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "ARS OCCITANIE"
+              },
+              {
+                "lang": "en",
+                "value": "ARS OCCITANIE"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "SIREN",
+                "uri": "130008048"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ]
+          }
+        ],
+        "producer": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "CREAI-ORS OCCITANIE (CREAI-ORS LR)"
+              },
+              {
+                "lang": "en",
+                "value": "CREAI-ORS OCCITANIE (CREAI-ORS LR)"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Privé à but non lucratif"
+              },
+              {
+                "lang": "en",
+                "value": "Private non-profit"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "775589229"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "studyAuthorization": {
+      "authorizingAgency": {
+        "lang": "fr",
+        "value": "CNIL"
+      }
+    },
+    "method": {
+      "notes": [
+        {
+          "subject": "research type",
+          "lang": "fr",
+          "value": "Etude observationnelle"
+        },
+        {
+          "subject": "research type",
+          "lang": "en",
+          "value": "Observational Study"
+        }
+      ],
+      "stdyClas": [
+        {
+          "lang": "fr",
+          "value": "Inconnu"
+        },
+        {
+          "lang": "en",
+          "value": "Unknown"
+        }
+      ],
+      "dataColl": {
+        "targetSampleSize": [
+          {
+            "lang": "fr",
+            "value": "[10000-20000[ individus"
+          },
+          {
+            "lang": "en",
+            "value": "[10000-20000[ individuals"
+          }
+        ],
+        "timeMeth": [
+          {
+            "lang": "fr",
+            "value": "Etude transversale répétée"
+          },
+          {
+            "lang": "en",
+            "value": "Repeated cross-sectional study"
+          }
+        ],
+        "sampleFrame": {
+          "frameUnit": {
+            "unitType": [
+              {
+                "lang": "fr",
+                "value": "Base de population à finalité statistique"
+              },
+              {
+                "lang": "en",
+                "value": "Population database for statistical purposes"
+              }
+            ]
+          }
+        },
+        "sources": [
+          {}
+        ],
+        "collMode": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Interview",
+              "vocab": "CESSDA"
+            },
+            "value": "Entretien avec le participant (dont clinique)"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Interview",
+              "vocab": "CESSDA"
+            },
+            "value": "Interview with the participant (including clinical)"
+          }
+        ],
+        "sampProc": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ],
+        "respRate": [
+          {
+            "lang": "fr",
+            "value": "10 285"
+          },
+          {
+            "lang": "en",
+            "value": "10 285"
+          }
+        ]
+      }
+    },
+    "stdyInfo": {
+      "abstract": [
+        {
+          "contentType": "purpose",
+          "lang": "fr",
+          "value": "Décrire la prévalence du surpoids et de l’obésité des enfants de 4-5 ans et son évolution par rapport aux enquêtes antérieures ; · Décrire les pratiques autour de la collation, des en-cas et des goûters dans les classes de moyenne section de maternelle de l’Hérault et leurs évolutions par rapport à l’année 2007 ; · Décrire les pratiques d’activité physique d’un échantillon d’enfants de 4-5 ans scolarisés en moyenne section de maternelle."
+        },
+        {
+          "contentType": "purpose",
+          "lang": "en",
+          "value": "To describe the prevalence of overweight and obesity in children of 4-5 years of age and their evolution in relation to previous surveys; · To describe practices related to snacks and treats in second year of nursery school classes in Hérault and their evolution compared to the year 2007; · To describe the physical activity practices of a sample of children of 4-5 years of age in their second year of nursery school."
+        }
+      ],
+      "subject": {
+        "topcClas": [
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/4b9f8efb-68dd-45a1-b04c-d23d457d6898"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D058006"
+              }
+            ],
+            "value": "Médecine générale"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/4b9f8efb-68dd-45a1-b04c-d23d457d6898"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D058006"
+              }
+            ],
+            "value": "General medicine"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants comportementaux"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants comportementaux : Alimentation"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Behavioral determinants"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Behavioral determinants: Eating habits"
+          }
+        ],
+        "keyword": [
+          {
+            "lang": "fr",
+            "value": "Corpulence"
+          },
+          {
+            "lang": "fr",
+            "value": "obésoté"
+          },
+          {
+            "lang": "fr",
+            "value": "habitudes alimentaires"
+          },
+          {
+            "lang": "fr",
+            "value": "enfants"
+          },
+          {
+            "lang": "fr",
+            "value": "scolaire"
+          },
+          {
+            "lang": "fr",
+            "value": "surpoids"
+          },
+          {
+            "lang": "en",
+            "value": "Corpulence"
+          },
+          {
+            "lang": "en",
+            "value": "obesity"
+          },
+          {
+            "lang": "en",
+            "value": "dietary habits"
+          },
+          {
+            "lang": "en",
+            "value": "children"
+          },
+          {
+            "lang": "en",
+            "value": "scholastic"
+          },
+          {
+            "lang": "en",
+            "value": "overweight"
+          }
+        ]
+      },
+      "qualityStatement": {
+        "standardsCompliance": {
+          "standard": {
+            "standardName": [
+              {
+                "lang": "fr",
+                "value": "Les données de poids, taille, sexe et âge ont été traitées pour déterminer la prévalence des situations de maigreur, de surpoids et d’obésité en référence aux normes internationales (IOTF 2000"
+              },
+              {
+                "lang": "en",
+                "value": "Data on weight, height, sex and age were handled in order to determine the prevalence of situations of emaciation, overweight and obesity according to international standards (IOTF 2000"
+              }
+            ]
+          }
+        }
+      },
+      "sumDscr": {
+        "dataKind": [
+          {
+            "lang": "fr",
+            "value": "Données cliniques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données rapportées par le participant de l&#x27;étude"
+          },
+          {
+            "lang": "en",
+            "value": "Clinical data"
+          },
+          {
+            "lang": "en",
+            "value": "Participant-reported health data"
+          }
+        ],
+        "anlyUnit": [
+          {
+            "lang": "fr",
+            "value": "Individus"
+          },
+          {
+            "lang": "en",
+            "value": "Individuals"
+          }
+        ],
+        "nation": [
+          {
+            "lang": "fr",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          },
+          {
+            "lang": "en",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          }
+        ],
+        "geogCover": [
+          {
+            "lang": "fr",
+            "value": "Occitanie"
+          },
+          {
+            "lang": "en",
+            "value": "Occitanie"
+          }
+        ],
+        "universe": [
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Masculin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Féminin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Male"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Female"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D002675"
+            },
+            "value": "Petite enfance (2 à 5 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D002675"
+            },
+            "value": "Child, Preschool (2 to 5 years)"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Population générale"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "en",
+            "value": "General population"
+          },
+          {
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Tous les enfants de moyenne section de maternelle scolarisés dans toutes les classes de toutes les écoles de l’Hérault, publiques et privées, en 2011-2012 sont concernées"
+          },
+          {
+            "clusion": "I",
+            "lang": "en",
+            "value": "All children enrolled in all second year of nursery school classes in all Hérault schools, public and private, in 2011-2012 are involved"
+          },
+          {
+            "clusion": "E",
+            "lang": "fr",
+            "value": ""
+          },
+          {
+            "clusion": "E",
+            "lang": "en",
+            "value": ""
+          }
+        ],
+        "collDate": [
+          {
+            "event": "start",
+            "value": "2012-01-01"
+          },
+          {
+            "event": "end",
+            "value": "2012-12-31"
+          }
+        ]
+      }
+    },
+    "dataAccs": {
+      "setAvail": {
+        "avlStatus": [
+          {
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Accès réservé"
+          },
+          {
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Restricted access"
+          }
+        ],
+        "conditions": [
+          {
+            "lang": "fr",
+            "value": "Contacter le responsable scientifique"
+          },
+          {
+            "lang": "en",
+            "value": "Contact the principal investigator"
+          }
+        ]
+      },
+      "useStmt": {}
+    },
+    "othStdMat": {
+      "relMat": [
+        {
+          "lang": "fr",
+          "value": "Accès restreint sur projet spécifique"
+        },
+        {
+          "lang": "en",
+          "value": "Access on specific project only"
+        }
+      ]
+    },
+    "studyDevelopment": {
+      "developmentActivity": [
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/mortalité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/mortality"
+        }
+      ]
+    }
+  },
+  "docDscr": {
+    "citation": {
+      "rspStmt": {
+        "AuthEnty": "Bernard LEDESERT"
+      },
+      "prodStmt": {
+        "producer": [
+          {
+            "affiliation": "CREAI-ORS OCCITANIE (CREAI-ORS LR)",
+            "value": "Bernard;LEDESERT"
+          }
+        ],
+        "prodPlac": "Portail Épidémiologie France"
+      }
+    }
+  },
+  "additional": {
+    "prodPlac": "Portail Épidémiologie France",
+    "creationDate": "01-07-2015",
+    "lastUpdatedManual": "19-10-2017",
+    "theme": {},
+    "governance": {},
+    "collaborations": {},
+    "mockSample": {},
+    "dataQuality": {},
+    "variableDictionnary": {},
+    "dataTypes": {
+      "clinicalDataDetails": [
+        {
+          "lang": "fr",
+          "value": "sexe, sa date de naissance, sa taille et son poids"
+        },
+        {
+          "lang": "en",
+          "value": "sex, their date of birth, their height and their weight"
+        }
+      ],
+      "isDataInBiobank": false
+    },
+    "collectionProcess": {
+      "collectionModeDetails": [
+        {
+          "lang": "fr",
+          "value": "Ln questionnaire « prises alimentaires » complété par l’enseignant de chaque classe concernée, Le questionnaire « activité physique » à faire compléter par les parents des enfants des écoles tirées au sort"
+        },
+        {
+          "lang": "en",
+          "value": "The \"dietary intake\" questionnaire completed by the teacher of each class involved, The \"physical activity\" questionnaire to be completed by the parents of children at the randomly selected schools"
+        }
+      ]
+    },
+    "geographicalCoverage": {
+      "geoDetail": [
+        {
+          "lang": "fr",
+          "value": "Hérault"
+        },
+        {
+          "lang": "en",
+          "value": "Hérault"
+        }
+      ]
+    },
+    "activeFollowUp": {
+      "isActiveFollowUp": false
+    },
+    "dataCollectionIntegration": {
+      "isDataIntegration": false
+    },
+    "isHealthTheme": true
+  },
+  "schematype": "survey"
+}

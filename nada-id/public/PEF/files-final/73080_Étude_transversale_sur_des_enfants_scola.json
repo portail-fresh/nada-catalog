@@ -1,0 +1,763 @@
+{
+  "stdyDscr": {
+    "citation": {
+      "titlStmt": {
+        "IDNo": [
+          {
+            "agency": "PEF",
+            "value": "73080"
+          },
+          {
+            "agency": "FReSH",
+            "value": "FRESH-PEF73080"
+          }
+        ],
+        "titl": [
+          {
+            "lang": "fr",
+            "value": "Étude transversale sur des enfants scolarisés en maternelle : perception et pratique de la collation en Aquitaine"
+          },
+          {
+            "lang": "en",
+            "value": "Cross-sectional study of children in nursery school: perception and practice of snacking in Aquitaine"
+          }
+        ],
+        "altTitl": [
+          {
+            "lang": "fr",
+            "value": "Collation"
+          },
+          {
+            "lang": "en",
+            "value": "Collation"
+          }
+        ]
+      },
+      "rspStmt": {
+        "AuthEnty": [
+          {
+            "name": "Hélène;THIBAULT",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "UNIVERSITE DE BORDEAUX"
+              },
+              {
+                "lang": "en",
+                "value": "UNIVERSITE DE BORDEAUX"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "192703544",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/057qpr032",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "130018351",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ],
+            "isContact": true,
+            "email": "helene.thibault@u-bordeaux.fr",
+            "PILabo": "ISPED"
+          }
+        ],
+        "othId": []
+      },
+      "distStmt": {
+        "contact": [
+          {
+            "name": "Hélène;THIBAULT",
+            "email": "helene.thibault@u-bordeaux.fr",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "UNIVERSITE DE BORDEAUX"
+              },
+              {
+                "lang": "en",
+                "value": "UNIVERSITE DE BORDEAUX"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/057qpr032",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "130018351",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          }
+        ]
+      },
+      "prodStmt": {
+        "fundAg": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "UNIVERSITE DE BORDEAUX"
+              },
+              {
+                "lang": "en",
+                "value": "UNIVERSITE DE BORDEAUX"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "ROR",
+                "uri": "https://ror.org/057qpr032"
+              },
+              {
+                "title": "SIREN",
+                "uri": "130018351"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ]
+          }
+        ],
+        "producer": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "UNIVERSITE DE BORDEAUX"
+              },
+              {
+                "lang": "en",
+                "value": "UNIVERSITE DE BORDEAUX"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "ROR",
+                "uri": "https://ror.org/057qpr032"
+              },
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "130018351"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "studyAuthorization": {
+      "authorizingAgency": {
+        "lang": "fr",
+        "value": "CNIL"
+      }
+    },
+    "method": {
+      "notes": [
+        {
+          "subject": "research type",
+          "lang": "fr",
+          "value": "Etude observationnelle"
+        },
+        {
+          "subject": "research type",
+          "lang": "en",
+          "value": "Observational Study"
+        }
+      ],
+      "stdyClas": [
+        {
+          "lang": "fr",
+          "value": "Inconnu"
+        },
+        {
+          "lang": "en",
+          "value": "Unknown"
+        }
+      ],
+      "dataColl": {
+        "targetSampleSize": [
+          {
+            "lang": "fr",
+            "value": "[1000-10000[ individus"
+          },
+          {
+            "lang": "en",
+            "value": "[1000-10000[ individuals"
+          }
+        ],
+        "timeMeth": [
+          {
+            "lang": "fr",
+            "value": "Etude transversale répétée"
+          },
+          {
+            "lang": "en",
+            "value": "Repeated cross-sectional study"
+          }
+        ],
+        "sampleFrame": {
+          "frameUnit": {
+            "unitType": [
+              {
+                "lang": "fr",
+                "value": "Base de population à finalité statistique"
+              },
+              {
+                "lang": "en",
+                "value": "Population database for statistical purposes"
+              }
+            ]
+          }
+        },
+        "sources": [
+          {}
+        ],
+        "collMode": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Interview",
+              "vocab": "CESSDA"
+            },
+            "value": "Entretien avec le participant (dont clinique)"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Interview",
+              "vocab": "CESSDA"
+            },
+            "value": "Interview with the participant (including clinical)"
+          }
+        ],
+        "sampProc": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ],
+        "respRate": [
+          {
+            "lang": "fr",
+            "value": "1315 (2005 : 387 ; 2008: 928)"
+          },
+          {
+            "lang": "en",
+            "value": "1315 (2005 : 387 ; 2008: 928)"
+          }
+        ]
+      }
+    },
+    "stdyInfo": {
+      "abstract": [
+        {
+          "contentType": "purpose",
+          "lang": "fr",
+          "value": "L'objectif est de réaliser un état des lieux des pratiques habituelles , des enfants scolarisés en maternelle, en termes de collation à l’école, y compris goûters d’anniversaire, en Aquitaine. Cet état des lieux permettra d'acquérir des informations sur les perceptions, les pratiques, les évolutions et les attentes des enseignants et ainsi de guider les modalités de l’intervention visant à améliorer ces pratiques. La reconduction de cette enquête à distance de l’intervention permettra d’apprécier l’efficacité de celle-ci et l’évolution des perceptions des enseignants."
+        },
+        {
+          "contentType": "purpose",
+          "lang": "en",
+          "value": "The purpose is to make an inventory of the habitual practices of nursery school children in terms of snacks at school, including birthday treats, in Aquitaine. This inventory allows for the acquisition of information on the perceptions, practices, changes and expectations of the students, as well as guidance of the methods of intervention intended to improve these practices. The renewal of this survey after intervention allows for the evaluation of its efficacy and the change in students' perceptions."
+        }
+      ],
+      "subject": {
+        "topcClas": [
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/d1dd1bac-5313-4ab3-837f-4acd3ec521a7"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D004704"
+              }
+            ],
+            "value": "Endocrinologie"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/4b9f8efb-68dd-45a1-b04c-d23d457d6898"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D058006"
+              }
+            ],
+            "value": "Médecine générale"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/d1dd1bac-5313-4ab3-837f-4acd3ec521a7"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D004704"
+              }
+            ],
+            "value": "Endocrinology"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/4b9f8efb-68dd-45a1-b04c-d23d457d6898"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D058006"
+              }
+            ],
+            "value": "General medicine"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants comportementaux"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants comportementaux : Alimentation"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Behavioral determinants"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Behavioral determinants: Eating habits"
+          }
+        ],
+        "keyword": [
+          {
+            "lang": "fr",
+            "value": "Collation"
+          },
+          {
+            "lang": "fr",
+            "value": "école maternelle"
+          },
+          {
+            "lang": "fr",
+            "value": "grignotage"
+          },
+          {
+            "lang": "fr",
+            "value": "alimentation"
+          },
+          {
+            "lang": "fr",
+            "value": "nutrition"
+          },
+          {
+            "lang": "fr",
+            "value": "pratique"
+          },
+          {
+            "lang": "fr",
+            "value": "connaissance"
+          },
+          {
+            "lang": "en",
+            "value": "Snacking"
+          },
+          {
+            "lang": "en",
+            "value": "nursery school"
+          },
+          {
+            "lang": "en",
+            "value": "knowledge"
+          },
+          {
+            "lang": "en",
+            "value": "snacking"
+          },
+          {
+            "lang": "en",
+            "value": "diet"
+          },
+          {
+            "lang": "en",
+            "value": "nutrition"
+          },
+          {
+            "lang": "en",
+            "value": "practice"
+          }
+        ]
+      },
+      "qualityStatement": {
+        "standardsCompliance": {},
+        "otherQualityStatement": [
+          {
+            "lang": "fr",
+            "value": "Epi info. Stata"
+          },
+          {
+            "lang": "en",
+            "value": "Epi info. Stata"
+          }
+        ]
+      },
+      "sumDscr": {
+        "dataKind": [
+          {
+            "lang": "fr",
+            "value": "Données rapportées par le participant de l&#x27;étude"
+          },
+          {
+            "lang": "en",
+            "value": "Participant-reported health data"
+          }
+        ],
+        "anlyUnit": [
+          {
+            "lang": "fr",
+            "value": "Individus"
+          },
+          {
+            "lang": "en",
+            "value": "Individuals"
+          }
+        ],
+        "nation": [
+          {
+            "lang": "fr",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          },
+          {
+            "lang": "en",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          }
+        ],
+        "geogCover": [
+          {
+            "lang": "fr",
+            "value": "Nouvelle-Aquitaine"
+          },
+          {
+            "lang": "en",
+            "value": "Nouvelle-Aquitaine"
+          }
+        ],
+        "universe": [
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Masculin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Féminin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Male"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Female"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D002675"
+            },
+            "value": "Petite enfance (2 à 5 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D002675"
+            },
+            "value": "Child, Preschool (2 to 5 years)"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Population générale"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "en",
+            "value": "General population"
+          },
+          {
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Écoles maternelles de l'académie de Bordeaux répondant au questionnaire"
+          },
+          {
+            "clusion": "I",
+            "lang": "en",
+            "value": "Nursery schools of the Bordeaux school district completing the questionnaire"
+          },
+          {
+            "clusion": "E",
+            "lang": "fr",
+            "value": ""
+          },
+          {
+            "clusion": "E",
+            "lang": "en",
+            "value": ""
+          }
+        ],
+        "collDate": [
+          {
+            "event": "start",
+            "value": "2005-01-01"
+          },
+          {
+            "event": "end",
+            "value": "2008-01-01"
+          }
+        ]
+      }
+    },
+    "dataAccs": {
+      "setAvail": {
+        "avlStatus": [
+          {
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Accès réservé"
+          },
+          {
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Restricted access"
+          }
+        ],
+        "conditions": [
+          {
+            "lang": "fr",
+            "value": "Contacter le responsable scientifique"
+          },
+          {
+            "lang": "en",
+            "value": "Contact the principal investigator"
+          }
+        ]
+      },
+      "useStmt": {}
+    },
+    "othStdMat": {
+      "relMat": [
+        {
+          "lang": "fr",
+          "value": "Accès restreint sur projet spécifique"
+        },
+        {
+          "lang": "en",
+          "value": "Access on specific project only"
+        }
+      ]
+    },
+    "studyDevelopment": {
+      "developmentActivity": [
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Autres"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Others"
+        }
+      ]
+    }
+  },
+  "docDscr": {
+    "citation": {
+      "rspStmt": {
+        "AuthEnty": "Hélène THIBAULT"
+      },
+      "prodStmt": {
+        "producer": [
+          {
+            "affiliation": "UNIVERSITE DE BORDEAUX",
+            "value": "Hélène;THIBAULT"
+          }
+        ],
+        "prodPlac": "Portail Épidémiologie France"
+      }
+    }
+  },
+  "additional": {
+    "prodPlac": "Portail Épidémiologie France",
+    "relatedDocuments": {
+      "documentTitle": [
+        {
+          "lang": "fr"
+        },
+        {
+          "lang": "en"
+        }
+      ],
+      "documentLink": [
+        {
+          "lang": "fr",
+          "value": "http://www.nutritionenfantaquitaine.fr/content/les-articles-scientifiques-publies-par-le-programme-aquitain"
+        },
+        {
+          "lang": "en",
+          "value": "http://www.nutritionenfantaquitaine.fr/content/les-articles-scientifiques-publies-par-le-programme-aquitain"
+        }
+      ]
+    },
+    "creationDate": "13-05-2015",
+    "lastUpdatedManual": "01-01-2018",
+    "theme": {},
+    "governance": {},
+    "collaborations": {},
+    "mockSample": {},
+    "dataQuality": {},
+    "variableDictionnary": {},
+    "dataTypes": {
+      "isDataInBiobank": false
+    },
+    "collectionProcess": {
+      "collectionModeDetails": [
+        {
+          "lang": "fr",
+          "value": "Questionnaire à remplir"
+        },
+        {
+          "lang": "en",
+          "value": "Questionnaire to be filled out"
+        }
+      ]
+    },
+    "geographicalCoverage": {
+      "geoDetail": [
+        {
+          "lang": "fr",
+          "value": "Aquitaine"
+        },
+        {
+          "lang": "en",
+          "value": "Aquitaine"
+        }
+      ]
+    },
+    "activeFollowUp": {
+      "isActiveFollowUp": false
+    },
+    "dataCollectionIntegration": {
+      "isDataIntegration": false
+    },
+    "isHealthTheme": true
+  },
+  "schematype": "survey"
+}

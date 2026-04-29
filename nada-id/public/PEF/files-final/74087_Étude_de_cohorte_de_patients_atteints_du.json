@@ -1,0 +1,722 @@
+{
+  "stdyDscr": {
+    "citation": {
+      "titlStmt": {
+        "IDNo": [
+          {
+            "agency": "PEF",
+            "value": "74087"
+          },
+          {
+            "agency": "FReSH",
+            "value": "FRESH-PEF74087"
+          },
+          {
+            "agency": "NCT",
+            "value": "NCT01343901"
+          }
+        ],
+        "titl": [
+          {
+            "lang": "fr",
+            "value": "Étude de cohorte de patients atteints d'un cancer colorectal métastatique et traités par Avastin® en première intention pour des métastases hépatiques considérées comme potentiellement résécables"
+          },
+          {
+            "lang": "en",
+            "value": "A Cohort Study of Patients With Metastatic Colorectal Cancer Treated With Avastin® as First-line Therapy for Liver Metastases Considered as Potentially Resectable"
+          }
+        ],
+        "altTitl": [
+          {
+            "lang": "fr",
+            "value": "PICASSO"
+          },
+          {
+            "lang": "en",
+            "value": "PICASSO"
+          }
+        ]
+      },
+      "rspStmt": {
+        "othId": []
+      },
+      "distStmt": {
+        "contact": [
+          {
+            "name": ";Medical data center",
+            "email": "data_sharing.france@roche.com",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "F. HOFFMANN-LA ROCHE AG"
+              },
+              {
+                "lang": "en",
+                "value": "F. HOFFMANN-LA ROCHE AG"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/01mqmer16",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "775752140",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          }
+        ]
+      },
+      "prodStmt": {
+        "fundAg": [
+          {
+            "name": [
+              {
+                "lang": "fr"
+              },
+              {
+                "lang": "en"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Autre"
+              },
+              {
+                "lang": "en",
+                "value": "Other"
+              }
+            ]
+          }
+        ],
+        "producer": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "F. HOFFMANN-LA ROCHE AG"
+              },
+              {
+                "lang": "en",
+                "value": "F. HOFFMANN-LA ROCHE AG"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Industrie"
+              },
+              {
+                "lang": "en",
+                "value": "Industry"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "775752140"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "studyAuthorization": {
+      "authorizingAgency": {
+        "lang": "fr",
+        "value": "Autre"
+      }
+    },
+    "method": {
+      "notes": [
+        {
+          "subject": "research type",
+          "lang": "fr",
+          "value": "Etude observationnelle"
+        },
+        {
+          "subject": "research type",
+          "lang": "en",
+          "value": "Observational Study"
+        },
+        {
+          "lang": "fr",
+          "subject": "observational study method",
+          "value": "Cohorte"
+        },
+        {
+          "lang": "en",
+          "subject": "observational study method",
+          "value": "Cohort study"
+        }
+      ],
+      "stdyClas": [
+        {
+          "lang": "fr",
+          "value": "Inconnu"
+        },
+        {
+          "lang": "en",
+          "value": "Unknown"
+        }
+      ],
+      "dataColl": {
+        "targetSampleSize": [
+          {
+            "lang": "fr",
+            "value": "< 500 individus"
+          },
+          {
+            "lang": "en",
+            "value": "< 500 individuals"
+          }
+        ],
+        "sampleFrame": {
+          "frameUnit": {
+            "unitType": [
+              {
+                "lang": "fr",
+                "value": "Via les professionnels d&#x27;exercice libéral"
+              },
+              {
+                "lang": "en",
+                "value": "Through independent healthcare practitioners"
+              }
+            ]
+          }
+        },
+        "sources": [
+          {}
+        ],
+        "collMode": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Transcription",
+              "vocab": "CESSDA"
+            },
+            "value": "Transcription et saisie d’informations dans un enregistrement structuré"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Transcription",
+              "vocab": "CESSDA"
+            },
+            "value": "Converting or copying information into a structured record"
+          }
+        ],
+        "sampProc": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ],
+        "respRate": [
+          {
+            "lang": "fr",
+            "value": "218"
+          },
+          {
+            "lang": "en",
+            "value": "218"
+          }
+        ]
+      }
+    },
+    "stdyInfo": {
+      "abstract": [
+        {
+          "contentType": "purpose",
+          "lang": "fr",
+          "value": "Objectif principal : évaluer l'efficacité et l'innocuité du bevacizumab en tant que traitement de première intention chez les participants atteints de cancer colorectal et de métastases hépatiques potentiellement résécables. Objectifs secondaires : - Décrire les caractéristiques des patients traités par Avastin®, - Décrire le sous-groupe de patients présentant des métastases manquantes non réséquées, avec ou sans chirurgie, - Décrire les critères utilisés pour définir l'absence de résection, - Décrire la survie sans progression chez tous les patients, - Décrire la survie sans récidive chez tous les patients réséqués ne présentant pas de maladie métastatique détectable, - Décrire la survie globale chez tous les patients, - Décrire la réponse histopathologique chez les patients réséqués, - Décrire les modalités de traitement par Avastin®, - Décrire le profil de sécurité d'Avastin®."
+        },
+        {
+          "contentType": "purpose",
+          "lang": "en",
+          "value": "Primary Objective: evaluate the efficacy and safety of bevacizumab as first-line treatment in participants with colorectal cancer and potentially resectable liver metastases. Secondary Objectives: - To describe patients’ characteristics treated with Avastin®, - To describe the subgroup of patients with unresected missing metastases, with or without surgery, - To describe criteria used to define unresectability, - To describe progression-free survival in all patients, - To describe relapse-free survival in all resected patients with no DMD, - To describe overall survival in all patients, - To describe histopathological response in resected patients, - To describe Avastin® treatment modalities, - To describe safety profile of Avastin®."
+        }
+      ],
+      "subject": {
+        "topcClas": [
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/a3898340-a42d-4f5e-a822-1de204a9a867"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D005762"
+              }
+            ],
+            "value": "Gastroentérologie"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/a3898340-a42d-4f5e-a822-1de204a9a867"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D005762"
+              }
+            ],
+            "value": "Gastroenterology"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "fr",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/1643222460",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Tumeurs malignes, déclarées ou supposées primitives, de localisations précisées, à l'exception des tissus lymphoïde, hématopoïétique, du système nerveux central ou de tissus apparentés"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "en",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/1643222460",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Malignant neoplasms, stated or presumed to be primary, of specified sites, except of lymphoid, haematopoietic, central nervous system or related tissues"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants liés au système de santé : Consommation des soins"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants liés au système de santé"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Healthcare system determinants: Use of care"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Healthcare system determinants"
+          }
+        ],
+        "keyword": [
+          {
+            "lang": "fr",
+            "value": "bevacizumab"
+          },
+          {
+            "lang": "en",
+            "value": "bevacizumab"
+          }
+        ]
+      },
+      "qualityStatement": {
+        "standardsCompliance": {
+          "standard": {
+            "standardName": [
+              {
+                "lang": "fr",
+                "value": "similaire à CDISC"
+              },
+              {
+                "lang": "en",
+                "value": "CDISC like"
+              }
+            ]
+          }
+        },
+        "otherQualityStatement": [
+          {
+            "lang": "fr",
+            "value": "Bonnes pratiques cliniques/Bonnes Pratiques de Pharmacovigilance (GCP/GVP)"
+          },
+          {
+            "lang": "en",
+            "value": "GCP/GVP"
+          }
+        ]
+      },
+      "sumDscr": {
+        "dataKind": [
+          {
+            "lang": "fr",
+            "value": "Données cliniques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données rapportées par le participant de l&#x27;étude"
+          },
+          {
+            "lang": "en",
+            "value": "Clinical data"
+          },
+          {
+            "lang": "en",
+            "value": "Participant-reported health data"
+          }
+        ],
+        "anlyUnit": [
+          {
+            "lang": "fr",
+            "value": "Individus"
+          },
+          {
+            "lang": "en",
+            "value": "Individuals"
+          }
+        ],
+        "nation": [
+          {
+            "lang": "fr",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          },
+          {
+            "lang": "en",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          }
+        ],
+        "universe": [
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Masculin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Féminin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Male"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Female"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Adulte (19 à 24 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adulte (25 à 44 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Adulte (45 à 64 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Personne âgée (65 à 79 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000369"
+            },
+            "value": "Grand âge (80 ans et plus)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Young Adult (19 to 24 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adult (25 to 44 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Middle Aged (45 to 64 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Aged (65 to 79 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000369"
+            },
+            "value": "Aged, 80 and over (80 years and more)"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Patients"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "en",
+            "value": "Patients population"
+          },
+          {
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Critères d'inclusion :\n- Homme ou femme âgé de 18 ans ou plus,\n- Diagnostiqué avec un adénocarcinome du colon ou du rectum incluant exclusivement des métastases hépatiques ou hépatiques et pulmonaires,\n- Pour lequel un traitement de première ligne par Avastin® a été mis en place dans le cadre d'une maladie métastatique potentiellement résécable\n- Qui a été informé oralement et par écrit de l'étude, de ses objectifs et de ses modalités de mise en œuvre et qui ne s'est pas opposé à ce que les données recueillies fassent l'objet d'un traitement automatisé."
+          },
+          {
+            "clusion": "I",
+            "lang": "en",
+            "value": "Inclusion criteria: - Man or woman aged 18 years or over,Diagnosed with a colon or rectal adenocarcinoma including exclusively liver or liver and lung metastases, - For whom a first-line treatment with Avastin® was set up by a MDC in the context of potentially resectable metastatic disease, - Who has been informed orally and in writing about the study, its objectives and modalities of implementation and who did not object that the collected data were subject to an automated processing."
+          },
+          {
+            "clusion": "E",
+            "lang": "fr",
+            "value": "des métastases hépatiques ou hépatiques et pulmonaires, - Pour lequel un traitement de première ligne par Avastin® a été mis en place dans le cadre d'une maladie métastatique potentiellement résécable, - Qui a été informé oralement et par écrit de l'étude, de ses objectifs et de ses modalités de mise en œuvre et qui ne s'est pas opposé à ce que les données recueillies fassent l'objet d'un traitement automatisé  : - Patient considéré comme résécable d'emblée à l'inclusion, - Patient considéré comme ne pouvant jamais être résécable, - Patient déjà inclus dans une étude clinique portant sur un médicament anticancéreux cytotoxique et/ou une thérapie innovante"
+          },
+          {
+            "clusion": "E",
+            "lang": "en",
+            "value": " Patient considered as upfront resectable at inclusion, - Patient considered as he/she could never be resectable, - Patient already enrolled in a clinical study for cytotoxic anticancer medication and/or innovative therapy."
+          }
+        ],
+        "collDate": [
+          {
+            "event": "start",
+            "value": "2010-01-01"
+          },
+          {
+            "event": "end",
+            "value": "2015-01-01"
+          }
+        ]
+      }
+    },
+    "dataAccs": {
+      "setAvail": {
+        "avlStatus": [
+          {
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Accès réservé"
+          },
+          {
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Restricted access"
+          }
+        ],
+        "conditions": []
+      },
+      "useStmt": {}
+    },
+    "othStdMat": {
+      "relMat": [
+        {
+          "lang": "fr",
+          "value": "Accès restreint sur projet spécifique"
+        },
+        {
+          "lang": "en",
+          "value": "Access on specific project only"
+        }
+      ]
+    },
+    "studyDevelopment": {
+      "developmentActivity": [
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/morbidité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/mortalité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/morbidity"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/mortality"
+        }
+      ]
+    }
+  },
+  "docDscr": {
+    "citation": {
+      "rspStmt": {
+        "AuthEnty": "Camille BACHOT"
+      },
+      "prodStmt": {
+        "producer": [
+          {
+            "affiliation": "F. HOFFMANN-LA ROCHE AG",
+            "value": "Camille;BACHOT"
+          }
+        ],
+        "prodPlac": "Portail Épidémiologie France"
+      }
+    }
+  },
+  "additional": {
+    "prodPlac": "Portail Épidémiologie France",
+    "creationDate": "02-11-2021",
+    "lastUpdatedManual": "07-07-2025",
+    "theme": {},
+    "governance": {
+      "committee": true
+    },
+    "collaborations": {},
+    "mockSample": {},
+    "dataQuality": {},
+    "variableDictionnary": {},
+    "dataTypes": {
+      "isDataInBiobank": false
+    },
+    "collectionProcess": {
+      "collectionModeDetails": [
+        {
+          "lang": "fr",
+          "value": "eCRF"
+        },
+        {
+          "lang": "en",
+          "value": "eCRF"
+        }
+      ]
+    },
+    "geographicalCoverage": {},
+    "activeFollowUp": {
+      "isActiveFollowUp": true
+    },
+    "dataCollectionIntegration": {
+      "isDataIntegration": false
+    },
+    "isHealthTheme": true
+  },
+  "schematype": "survey"
+}

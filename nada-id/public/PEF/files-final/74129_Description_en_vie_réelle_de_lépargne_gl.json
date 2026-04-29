@@ -1,0 +1,752 @@
+{
+  "stdyDscr": {
+    "citation": {
+      "titlStmt": {
+        "IDNo": [
+          {
+            "agency": "PEF",
+            "value": "74129"
+          },
+          {
+            "agency": "FReSH",
+            "value": "FRESH-PEF74129"
+          },
+          {
+            "agency": "NCT",
+            "value": "NCT01392001"
+          }
+        ],
+        "titl": [
+          {
+            "lang": "fr",
+            "value": "Description en vie réelle de l'épargne glucocorticoïde chez les patients traités par RoActemra® pour une polyarthrite rhumatoïde modérée à sévère"
+          },
+          {
+            "lang": "en",
+            "value": "Description in real life of glucocorticoid-sparing in patients treated with Roactemra® for moderate to severe rheumatoid arthritis"
+          }
+        ],
+        "altTitl": [
+          {
+            "lang": "fr",
+            "value": "SPARE-1"
+          },
+          {
+            "lang": "en",
+            "value": "SPARE-1"
+          }
+        ]
+      },
+      "rspStmt": {
+        "othId": []
+      },
+      "distStmt": {
+        "contact": [
+          {
+            "name": ";Medical data center",
+            "email": "data_sharing.france@roche.com",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "F. HOFFMANN-LA ROCHE AG"
+              },
+              {
+                "lang": "en",
+                "value": "F. HOFFMANN-LA ROCHE AG"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/01mqmer16",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "775752140",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          }
+        ]
+      },
+      "prodStmt": {
+        "fundAg": [
+          {
+            "name": [
+              {
+                "lang": "fr"
+              },
+              {
+                "lang": "en"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Autre"
+              },
+              {
+                "lang": "en",
+                "value": "Other"
+              }
+            ]
+          }
+        ],
+        "producer": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "F. HOFFMANN-LA ROCHE AG"
+              },
+              {
+                "lang": "en",
+                "value": "F. HOFFMANN-LA ROCHE AG"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Industrie"
+              },
+              {
+                "lang": "en",
+                "value": "Industry"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "775752140"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "studyAuthorization": {
+      "authorizingAgency": {
+        "lang": "fr",
+        "value": "Autre"
+      }
+    },
+    "method": {
+      "notes": [
+        {
+          "subject": "research type",
+          "lang": "fr",
+          "value": "Etude observationnelle"
+        },
+        {
+          "subject": "research type",
+          "lang": "en",
+          "value": "Observational Study"
+        },
+        {
+          "lang": "fr",
+          "subject": "observational study method",
+          "value": "Cohorte"
+        },
+        {
+          "lang": "en",
+          "subject": "observational study method",
+          "value": "Cohort study"
+        }
+      ],
+      "stdyClas": [
+        {
+          "lang": "fr",
+          "value": "Inconnu"
+        },
+        {
+          "lang": "en",
+          "value": "Unknown"
+        }
+      ],
+      "dataColl": {
+        "targetSampleSize": [
+          {
+            "lang": "fr",
+            "value": "< 500 individus"
+          },
+          {
+            "lang": "en",
+            "value": "< 500 individuals"
+          }
+        ],
+        "sampleFrame": {
+          "frameUnit": {
+            "unitType": [
+              {
+                "lang": "fr",
+                "value": "Via des structures (services ou établissements de santé, écoles, entreprises…)"
+              },
+              {
+                "lang": "en",
+                "value": "Through organizations (health services or institutions, schools, businesses, etc.)"
+              }
+            ]
+          }
+        },
+        "sources": [
+          {}
+        ],
+        "collMode": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ],
+        "sampProc": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ],
+        "respRate": [
+          {
+            "lang": "fr",
+            "value": "321"
+          },
+          {
+            "lang": "en",
+            "value": "321"
+          }
+        ]
+      }
+    },
+    "stdyInfo": {
+      "abstract": [
+        {
+          "contentType": "purpose",
+          "lang": "fr",
+          "value": "Objectif primaire : Décrire en vie réelle l'effet d'épargne glucocorticoïde après 12 mois de traitement par RoActemra® chez des patients atteints de PR modérée à sévère et déterminer les facteurs prédictifs. Objectifs secondaires : 1. décrire les caractéristiques de la population au début de l'étude ; 2. évaluer l'efficacité du RoActemra® (réponse EULAR et/ou dosage des glucocorticoïdes) en vie réelle ; 3. décrire la prise en charge thérapeutique de la polyarthrite rhumatoïde [glucocorticoïdes et/ou antirhumatismaux modificateurs de la maladie (ARMM) conventionnels en association avec le RoActemra®] ; 4. décrire l'évolution de la capacité fonctionnelle des patients et l'impact de la maladie sur le patient au cours du suivi (questionnaires d'auto-évaluation HAQ-DI et RAID) ; 5. évaluer la sécurité du RoActemra®."
+        },
+        {
+          "contentType": "purpose",
+          "lang": "en",
+          "value": "Primary objective : To describe in real life the glucocorticoid-sparing effect after 12 months of treatment with RoActemra® in patients with moderate to severe RA and to determine predictive factors. Secondary objectives: 1. to describe the characteristics of the population at baseline; 2. to evaluate efficacy of RoActemra® (EULAR response and/or glucocorticoid dosage) in real life; 3. to describe therapeutic management of RA [glucocorticoids and/or conventional Disease-Modifying Anti-Rheumatic Drug(s) (DMARDs) in combination with RoActemra®]; 4. to describe change in functional capacity of patients and impact of the disease on the patient over time during follow-up (HAQ-DI and RAID self-report questionnaires); 5. to assess safety of RoActemra®."
+        }
+      ],
+      "subject": {
+        "topcClas": [
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/bfb0bafd-7894-45ba-84fc-ddab5fd6c537"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D012219"
+              }
+            ],
+            "value": "Rhumatologie"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/bfb0bafd-7894-45ba-84fc-ddab5fd6c537"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D012219"
+              }
+            ],
+            "value": "Rheumatology"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "fr",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/396939646",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Arthropathies inflammatoires"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "en",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/396939646",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Inflammatory arthropathies"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants liés au système de santé : Consommation des soins"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants liés au système de santé"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Healthcare system determinants: Use of care"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Healthcare system determinants"
+          }
+        ],
+        "keyword": [
+          {
+            "lang": "fr",
+            "value": "Tocilizumab"
+          },
+          {
+            "lang": "en",
+            "value": "Tocilizumab"
+          }
+        ]
+      },
+      "qualityStatement": {
+        "standardsCompliance": {
+          "standard": {
+            "standardName": [
+              {
+                "lang": "fr",
+                "value": "CDISC"
+              },
+              {
+                "lang": "en",
+                "value": "CDISC"
+              }
+            ]
+          }
+        },
+        "otherQualityStatement": [
+          {
+            "lang": "fr",
+            "value": "Bonnes pratiques cliniques/Bonnes Pratiques de Pharmacovigilance (GCP/GVP)"
+          },
+          {
+            "lang": "en",
+            "value": "GCP/GVP"
+          }
+        ]
+      },
+      "sumDscr": {
+        "dataKind": [
+          {
+            "lang": "fr",
+            "value": "Données cliniques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données biologiques"
+          },
+          {
+            "lang": "en",
+            "value": "Clinical data"
+          },
+          {
+            "lang": "en",
+            "value": "Biological data"
+          }
+        ],
+        "anlyUnit": [
+          {
+            "lang": "fr",
+            "value": "Individus"
+          },
+          {
+            "lang": "en",
+            "value": "Individuals"
+          }
+        ],
+        "nation": [
+          {
+            "lang": "fr",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          },
+          {
+            "lang": "en",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          }
+        ],
+        "universe": [
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Masculin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Féminin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Male"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Female"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Adulte (19 à 24 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adulte (25 à 44 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Adulte (45 à 64 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Personne âgée (65 à 79 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000369"
+            },
+            "value": "Grand âge (80 ans et plus)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Young Adult (19 to 24 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adult (25 to 44 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Middle Aged (45 to 64 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Aged (65 to 79 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000369"
+            },
+            "value": "Aged, 80 and over (80 years and more)"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Patients"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "en",
+            "value": "Patients population"
+          },
+          {
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Critères d'inclusion : - Patients âgés de 18 ans et plus ; - Patients atteints de polyarthrite rhumatoïde modérée à sévère ; - Patients pour lesquels le rhumatologue a décidé d'initier un traitement par RoActemra® ; - Patients prenant des glucocorticoïdes oraux >5 mg/jour de prednisone ou équivalent depuis au moins 3 mois ; - Les patients ayant reçu des informations orales et écrites sur l'étude et n'ayant pas soulevé d'objection à la collecte et au traitement informatique de leurs données personnelles.  "
+          },
+          {
+            "clusion": "I",
+            "lang": "en",
+            "value": "Inclusion criteria: - Patients aged 18 years and older; - Patients with moderate to severe rheumatoid arthritis; - Patients for whom the rheumatologist decided to initiate treatment with RoActemra®;  - Patients taking oral glucocorticoids >5 mg/day of prednisone or equivalent for at least 3 months; - Patients having received oral and written information about the study and having raised no objections to the collection and computer processing of his/her personal data.  "
+          },
+          {
+            "clusion": "E",
+            "lang": "fr",
+            "value": "Les patients participant à un essai clinique sur la polyarthrite rhumatoïde au moment de l'inclusion ne pouvaient pas participer à l'étude"
+          },
+          {
+            "clusion": "E",
+            "lang": "en",
+            "value": "patients participating in a clinical trial on rheumatoid arthritis at time of inclusion could not participate to the study."
+          }
+        ],
+        "collDate": [
+          {
+            "event": "start",
+            "value": "2011-01-01"
+          },
+          {
+            "event": "end",
+            "value": "2013-01-01"
+          }
+        ]
+      }
+    },
+    "dataAccs": {
+      "setAvail": {
+        "avlStatus": [
+          {
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Accès réservé"
+          },
+          {
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Restricted access"
+          }
+        ],
+        "conditions": []
+      },
+      "useStmt": {}
+    },
+    "othStdMat": {
+      "relMat": [
+        {
+          "lang": "fr",
+          "value": "Accès restreint sur projet spécifique"
+        },
+        {
+          "lang": "en",
+          "value": "Access on specific project only"
+        }
+      ]
+    },
+    "studyDevelopment": {
+      "developmentActivity": [
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/morbidité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/mortalité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Consommation de soins/services de santé"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Qualité de vie/santé perçue"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/morbidity"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/mortality"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health care consumption and services"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Quality of life/health perception"
+        }
+      ]
+    }
+  },
+  "docDscr": {
+    "citation": {
+      "rspStmt": {
+        "AuthEnty": "Camille BACHOT"
+      },
+      "prodStmt": {
+        "producer": [
+          {
+            "affiliation": "F. HOFFMANN-LA ROCHE AG",
+            "value": "Camille;BACHOT"
+          }
+        ],
+        "prodPlac": "Portail Épidémiologie France"
+      }
+    }
+  },
+  "additional": {
+    "prodPlac": "Portail Épidémiologie France",
+    "creationDate": "23-06-2022",
+    "lastUpdatedManual": "13-01-2025",
+    "theme": {},
+    "governance": {
+      "committee": true
+    },
+    "collaborations": {},
+    "mockSample": {},
+    "dataQuality": {},
+    "variableDictionnary": {},
+    "dataTypes": {
+      "clinicalDataDetails": [
+        {
+          "lang": "fr",
+          "value": "Validation des critères d'inclusion et d'exclusion - Données sociodémographiques - Antécédents médicaux et maladies concomitantes - Antécédents de polyarthrite rhumatoïde, traitements antérieurs et/ou en cours - Données cliniques et biologiques les plus récentes - Évaluation globale par le médecin de l'activité de la polyarthrite rhumatoïde (asymptomatique à très sévère) - Traitements de la polyarthrite rhumatoïde et motif d'arrêt le cas échéant - Traitement par RoActemra® - Événements indésirables - Motif d'arrêt précoce de l'étude - HAQ-DI, échelle RAID."
+        },
+        {
+          "lang": "en",
+          "value": "Validation of inclusion and exclusion criteria - Sociodemographic data - Medical history and concomitant diseases - RA history, previous and/or ongoing RA treatments - Most recent clinical and biological data - Physician global assessment of RA activity (asymptomatic to very severe) - RA treatments and reason for discontinuation where applicable - Treatment with RoActemra® - Adverse events - Reason for early study discontinuation - HAQ-DI, RAID scale."
+        }
+      ],
+      "isDataInBiobank": false
+    },
+    "collectionProcess": {
+      "collectionModeDetails": [
+        {
+          "lang": "fr",
+          "value": "papier"
+        },
+        {
+          "lang": "en",
+          "value": "paper"
+        }
+      ]
+    },
+    "geographicalCoverage": {},
+    "activeFollowUp": {
+      "isActiveFollowUp": true
+    },
+    "dataCollectionIntegration": {
+      "isDataIntegration": false
+    },
+    "isHealthTheme": true
+  },
+  "schematype": "survey"
+}

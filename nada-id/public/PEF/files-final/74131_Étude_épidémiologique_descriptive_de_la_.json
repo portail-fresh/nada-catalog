@@ -1,0 +1,738 @@
+{
+  "stdyDscr": {
+    "citation": {
+      "titlStmt": {
+        "IDNo": [
+          {
+            "agency": "PEF",
+            "value": "74131"
+          },
+          {
+            "agency": "FReSH",
+            "value": "FRESH-PEF74131"
+          }
+        ],
+        "titl": [
+          {
+            "lang": "fr",
+            "value": "Étude épidémiologique descriptive de la prise de décision thérapeutique lors de la prise en charge de la polyarthrite rhumatoïde : critères des médecins et opinions des patients"
+          },
+          {
+            "lang": "en",
+            "value": "Descriptive epidemiological study of therapeutic decision-making during management of rheumatoid arthritis: physicians’ criteria and patients’ opinions"
+          }
+        ],
+        "altTitl": [
+          {
+            "lang": "fr",
+            "value": "DUO"
+          },
+          {
+            "lang": "en",
+            "value": "DUO"
+          }
+        ]
+      },
+      "rspStmt": {
+        "othId": []
+      },
+      "distStmt": {
+        "contact": [
+          {
+            "name": ";Medical data center",
+            "email": "data_sharing.france@roche.com",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "F. HOFFMANN-LA ROCHE AG"
+              },
+              {
+                "lang": "en",
+                "value": "F. HOFFMANN-LA ROCHE AG"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/01mqmer16",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "775752140",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          }
+        ]
+      },
+      "prodStmt": {
+        "fundAg": [
+          {
+            "name": [
+              {
+                "lang": "fr"
+              },
+              {
+                "lang": "en"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Autre"
+              },
+              {
+                "lang": "en",
+                "value": "Other"
+              }
+            ]
+          }
+        ],
+        "producer": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "F. HOFFMANN-LA ROCHE AG"
+              },
+              {
+                "lang": "en",
+                "value": "F. HOFFMANN-LA ROCHE AG"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Industrie"
+              },
+              {
+                "lang": "en",
+                "value": "Industry"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "775752140"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "studyAuthorization": {
+      "authorizingAgency": {
+        "lang": "fr",
+        "value": "Autre"
+      }
+    },
+    "method": {
+      "notes": [
+        {
+          "subject": "research type",
+          "lang": "fr",
+          "value": "Etude observationnelle"
+        },
+        {
+          "subject": "research type",
+          "lang": "en",
+          "value": "Observational Study"
+        },
+        {
+          "lang": "fr",
+          "subject": "observational study method",
+          "value": "Cohorte"
+        },
+        {
+          "lang": "en",
+          "subject": "observational study method",
+          "value": "Cohort study"
+        }
+      ],
+      "stdyClas": [
+        {
+          "lang": "fr",
+          "value": "Inconnu"
+        },
+        {
+          "lang": "en",
+          "value": "Unknown"
+        }
+      ],
+      "dataColl": {
+        "targetSampleSize": [
+          {
+            "lang": "fr",
+            "value": "[1000-10000[ individus"
+          },
+          {
+            "lang": "en",
+            "value": "[1000-10000[ individuals"
+          }
+        ],
+        "sampleFrame": {
+          "frameUnit": {
+            "unitType": [
+              {
+                "lang": "fr",
+                "value": "Via des structures (services ou établissements de santé, écoles, entreprises…)"
+              },
+              {
+                "lang": "en",
+                "value": "Through organizations (health services or institutions, schools, businesses, etc.)"
+              }
+            ]
+          }
+        },
+        "sources": [
+          {}
+        ],
+        "collMode": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ],
+        "sampProc": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ],
+        "respRate": [
+          {
+            "lang": "fr",
+            "value": "1115"
+          },
+          {
+            "lang": "en",
+            "value": "1115"
+          }
+        ]
+      }
+    },
+    "stdyInfo": {
+      "abstract": [
+        {
+          "contentType": "purpose",
+          "lang": "fr",
+          "value": "Objectifs principaux : Décrire les critères utilisés pour la prise de décision thérapeutique pour les patients atteints de polyarthrite rhumatoïde : - données cliniques, biologiques et radiologiques, impact de la polyarthrite rhumatoïde sur la vie des patients selon les médecins ; - impact de la polyarthrite rhumatoïde sur la vie des patients selon les patients ; - caractéristiques des médecins. Objectifs secondaires : - Décrire les caractéristiques de la population de patients inclus en fonction des modifications de traitement après la visite d'inclusion."
+        },
+        {
+          "contentType": "purpose",
+          "lang": "en",
+          "value": "Primary objectives: To describe the criteria used for therapeutic decision-making for RA patients: - clinical, biological and radiological data, impact of RA on patients’ life according to physicians; - impact of RA on patients’ life according to patients; - physicians’ characteristics. Secondary objectives: - To describe the characteristics of the included patient population depending on treatment modifications after the inclusion visit."
+        }
+      ],
+      "subject": {
+        "topcClas": [
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/bfb0bafd-7894-45ba-84fc-ddab5fd6c537"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D012219"
+              }
+            ],
+            "value": "Rhumatologie"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/bfb0bafd-7894-45ba-84fc-ddab5fd6c537"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D012219"
+              }
+            ],
+            "value": "Rheumatology"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "fr",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/396939646",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Arthropathies inflammatoires"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "en",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/396939646",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Inflammatory arthropathies"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants liés au système de santé : Consommation des soins"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants liés au système de santé"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Healthcare system determinants: Use of care"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Healthcare system determinants"
+          }
+        ],
+        "keyword": [
+          {
+            "lang": "fr",
+            "value": "Tocilizumab"
+          },
+          {
+            "lang": "en",
+            "value": "Tocilizumab"
+          }
+        ]
+      },
+      "qualityStatement": {
+        "standardsCompliance": {
+          "standard": {
+            "standardName": [
+              {
+                "lang": "fr",
+                "value": "CDISC"
+              },
+              {
+                "lang": "en",
+                "value": "CDISC"
+              }
+            ]
+          }
+        },
+        "otherQualityStatement": [
+          {
+            "lang": "fr",
+            "value": "Bonnes pratiques cliniques/Bonnes Pratiques de Pharmacovigilance (GCP/GVP)"
+          },
+          {
+            "lang": "en",
+            "value": "GCP/GVP"
+          }
+        ]
+      },
+      "sumDscr": {
+        "dataKind": [
+          {
+            "lang": "fr",
+            "value": "Données cliniques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données biologiques"
+          },
+          {
+            "lang": "en",
+            "value": "Clinical data"
+          },
+          {
+            "lang": "en",
+            "value": "Biological data"
+          }
+        ],
+        "anlyUnit": [
+          {
+            "lang": "fr",
+            "value": "Individus"
+          },
+          {
+            "lang": "en",
+            "value": "Individuals"
+          }
+        ],
+        "nation": [
+          {
+            "lang": "fr",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          },
+          {
+            "lang": "en",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          }
+        ],
+        "universe": [
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Masculin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Féminin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Male"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Female"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Adulte (19 à 24 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adulte (25 à 44 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Adulte (45 à 64 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Personne âgée (65 à 79 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000369"
+            },
+            "value": "Grand âge (80 ans et plus)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Young Adult (19 to 24 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adult (25 to 44 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Middle Aged (45 to 64 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Aged (65 to 79 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000369"
+            },
+            "value": "Aged, 80 and over (80 years and more)"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Patients"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "en",
+            "value": "Patients population"
+          },
+          {
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Critères d'inclusion : - Adulte (âgé de >= 18 ans) ; - Traité pour la polyarthrite rhumatoïde ; - Vouloir et pouvoir remplir l'auto-questionnaire en français sur l'impact de la polyarthrite rhumatoïde pendant la visite ; - Avoir été informé de l'étude oralement et par écrit et ne pas s'opposer au traitement de ses données.  "
+          },
+          {
+            "clusion": "I",
+            "lang": "en",
+            "value": "Inclusion criteria: - Adult (aged >= 18 years); - Treated for RA; - Willing and able to complete the self-questionnaire in French on the impact of RA during the visit; - Having been informed about the study orally and in writing and not objecting to their data being processed.  "
+          },
+          {
+            "clusion": "E",
+            "lang": "fr",
+            "value": "Les patients participant à une autre étude clinique évaluant le traitement de la polyarthrite rhumatoïde au moment de l'inclusion"
+          },
+          {
+            "clusion": "E",
+            "lang": "en",
+            "value": "patients participating in another clinical study assessing RA treatment at the time of inclusion."
+          }
+        ],
+        "collDate": [
+          {
+            "event": "start",
+            "value": "2009-01-01"
+          },
+          {
+            "event": "end",
+            "value": "2009-12-31"
+          }
+        ]
+      }
+    },
+    "dataAccs": {
+      "setAvail": {
+        "avlStatus": [
+          {
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Accès réservé"
+          },
+          {
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Restricted access"
+          }
+        ],
+        "conditions": []
+      },
+      "useStmt": {}
+    },
+    "othStdMat": {
+      "relMat": [
+        {
+          "lang": "fr",
+          "value": "Accès restreint sur projet spécifique"
+        },
+        {
+          "lang": "en",
+          "value": "Access on specific project only"
+        }
+      ]
+    },
+    "studyDevelopment": {
+      "developmentActivity": [
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/morbidité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Consommation de soins/services de santé"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Qualité de vie/santé perçue"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/morbidity"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health care consumption and services"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Quality of life/health perception"
+        }
+      ]
+    }
+  },
+  "docDscr": {
+    "citation": {
+      "rspStmt": {
+        "AuthEnty": "Camille BACHOT"
+      },
+      "prodStmt": {
+        "producer": [
+          {
+            "affiliation": "F. HOFFMANN-LA ROCHE AG",
+            "value": "Camille;BACHOT"
+          }
+        ],
+        "prodPlac": "Portail Épidémiologie France"
+      }
+    }
+  },
+  "additional": {
+    "prodPlac": "Portail Épidémiologie France",
+    "creationDate": "23-06-2022",
+    "lastUpdatedManual": "07-07-2025",
+    "theme": {},
+    "governance": {
+      "committee": true
+    },
+    "collaborations": {},
+    "mockSample": {},
+    "dataQuality": {},
+    "variableDictionnary": {},
+    "dataTypes": {
+      "clinicalDataDetails": [
+        {
+          "lang": "fr",
+          "value": "Date de la visite d'inclusion - Information du patient sur l'étude - Données générales : âge, sexe, poids, taille - Date du diagnostic initial - Caractéristiques de la maladie - Traitement symptomatique en cours ou corticostéroïdes (dose) - DMARDs passés et actuels : noms des molécules (méthotrexate, hydroxychloroquine, sulfasalazine, sels d'or, léflunomide, D-pénicillamine, azathioprine, ciclosporine, infliximab, étanercept, adalimumab, abatacept, rituximab, anakinra, autres), schémas thérapeutiques en cours, voie d'administration et date de mise en œuvre du méthotrexate (le cas échéant), date de la dernière perfusion de rituximab (le cas échéant) - Sécurité : tout effet indésirable ou inconfort ressenti par le patient, selon le médecin - Entretien avec le patient : Activité globale de la polyarthrite rhumatoïde évaluée par l’échelle visuelle analogique (EVA), degré d'asthénie, intensité de la douleur, durée de la raideur matinale, réveils nocturnes liés à la polyarthrite rhumatoïde - Examen clinique : localisation des articulations sensibles et des articulations gonflées (sur 28) - Examen biologique (dernier disponible pour 2009) : dates et valeurs de la vitesse de sédimentation des érythrocytes (1ʳᵉ heure), de la protéine C-réactive et de la concentration en hémoglobine – Indice d’activité de la maladie DAS 28 (Disease Activity Score évaluant 28 articulations, si calculé), basé sur la vitesse de sédimentation des érythrocytes ou la protéine C-réactive pour le calcul. - Traitement prescrit à la fin de la visite (traitement modifié ou non) - Conditions dans lesquelles l'auto-questionnaire du patient a été rempli : avant la visite/pendant la visite mais avant que la décision thérapeutique ne soit prise, autre (à préciser)."
+        },
+        {
+          "lang": "en",
+          "value": "Date of inclusion visit - Patient information about the study - General data: age, sex, weight, height - Date of initial diagnosis - Disease characteristics - Ongoing symptomatic treatment or corticosteroids (dose) - Past and current DMARDs: names of compounds (methotrexate, hydroxychloroquine, sulfasalazine, gold salts, leflunomide, D-penicillamine, azathioprine, cyclosporine, infliximab, etanercept, adalimumab, abatacept, rituximab, anakinra, others), ongoing therapeutic regimens, route of administration and date of implementation of methotrexate (if applicable), date of last infusion of rituximab (if applicable) - Safety: any adverse reactions or discomfort experienced by the patient, according to the physician - Patient interview: global RA activity (VAS), degree of asthenia, intensity of pain, duration of morning stiffness, nocturnal wakening related to RA - Clinical examination: localisation of tender joints and swollen joints (out of 28) - Biological examination (last available for 2009): dates and values of ESR (1st hour), CRP and hemoglobin concentration - DAS 28 (if calculated), with ESR or CRP for the calculation - Treatment prescribed at the end of the visit (whether treament modified or not) - Conditions under which the patient self-questionnaire was completed: before the visit/during the visit but before the therapeutic decision was made, other (to precise)."
+        }
+      ],
+      "isDataInBiobank": false
+    },
+    "collectionProcess": {
+      "collectionModeDetails": [
+        {
+          "lang": "fr",
+          "value": "papier"
+        },
+        {
+          "lang": "en",
+          "value": "paper"
+        }
+      ]
+    },
+    "geographicalCoverage": {},
+    "activeFollowUp": {
+      "isActiveFollowUp": true
+    },
+    "dataCollectionIntegration": {
+      "isDataIntegration": false
+    },
+    "isHealthTheme": true
+  },
+  "schematype": "survey"
+}

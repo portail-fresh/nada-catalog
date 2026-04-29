@@ -1,0 +1,722 @@
+{
+  "stdyDscr": {
+    "citation": {
+      "titlStmt": {
+        "IDNo": [
+          {
+            "agency": "PEF",
+            "value": "74134"
+          },
+          {
+            "agency": "FReSH",
+            "value": "FRESH-PEF74134"
+          },
+          {
+            "agency": "NCT",
+            "value": "NCT01974271"
+          }
+        ],
+        "titl": [
+          {
+            "lang": "fr",
+            "value": "Impact des comorbidités sur la stabilité de l'hémoglobine chez les patients atteints de maladie rénale chronique sous dialyse traités par méthoxy polyéthylène glycol-époétine bêta (C.E.R.A.)"
+          },
+          {
+            "lang": "en",
+            "value": "Impact of comorbidities on hemoglobin stability in chronic kidney disease patients on dialysis treated with C.E.R.A"
+          }
+        ],
+        "altTitl": [
+          {
+            "lang": "fr",
+            "value": "MIRIADE"
+          },
+          {
+            "lang": "en",
+            "value": "MIRIADE"
+          }
+        ]
+      },
+      "rspStmt": {
+        "othId": []
+      },
+      "distStmt": {
+        "contact": [
+          {
+            "name": ";Medical data center",
+            "email": "data_sharing.france@roche.com",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "F. HOFFMANN-LA ROCHE AG"
+              },
+              {
+                "lang": "en",
+                "value": "F. HOFFMANN-LA ROCHE AG"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/01mqmer16",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "775752140",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          }
+        ]
+      },
+      "prodStmt": {
+        "fundAg": [
+          {
+            "name": [
+              {
+                "lang": "fr"
+              },
+              {
+                "lang": "en"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Autre"
+              },
+              {
+                "lang": "en",
+                "value": "Other"
+              }
+            ]
+          }
+        ],
+        "producer": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "F. HOFFMANN-LA ROCHE AG"
+              },
+              {
+                "lang": "en",
+                "value": "F. HOFFMANN-LA ROCHE AG"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Industrie"
+              },
+              {
+                "lang": "en",
+                "value": "Industry"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "775752140"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "studyAuthorization": {
+      "authorizingAgency": {
+        "lang": "fr",
+        "value": "Autre"
+      }
+    },
+    "method": {
+      "notes": [
+        {
+          "subject": "research type",
+          "lang": "fr",
+          "value": "Etude observationnelle"
+        },
+        {
+          "subject": "research type",
+          "lang": "en",
+          "value": "Observational Study"
+        },
+        {
+          "lang": "fr",
+          "subject": "observational study method",
+          "value": "Cohorte"
+        },
+        {
+          "lang": "en",
+          "subject": "observational study method",
+          "value": "Cohort study"
+        }
+      ],
+      "stdyClas": [
+        {
+          "lang": "fr",
+          "value": "Inconnu"
+        },
+        {
+          "lang": "en",
+          "value": "Unknown"
+        }
+      ],
+      "dataColl": {
+        "targetSampleSize": [
+          {
+            "lang": "fr",
+            "value": "[500-1000[ individus"
+          },
+          {
+            "lang": "en",
+            "value": "[500-1000[ individuals"
+          }
+        ],
+        "sampleFrame": {
+          "frameUnit": {
+            "unitType": [
+              {
+                "lang": "fr",
+                "value": "Via des structures (services ou établissements de santé, écoles, entreprises…)"
+              },
+              {
+                "lang": "en",
+                "value": "Through organizations (health services or institutions, schools, businesses, etc.)"
+              }
+            ]
+          }
+        },
+        "sources": [
+          {}
+        ],
+        "collMode": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Transcription",
+              "vocab": "CESSDA"
+            },
+            "value": "Transcription et saisie d’informations dans un enregistrement structuré"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Transcription",
+              "vocab": "CESSDA"
+            },
+            "value": "Converting or copying information into a structured record"
+          }
+        ],
+        "sampProc": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ],
+        "respRate": [
+          {
+            "lang": "fr",
+            "value": "636"
+          },
+          {
+            "lang": "en",
+            "value": "636"
+          }
+        ]
+      }
+    },
+    "stdyInfo": {
+      "abstract": [
+        {
+          "contentType": "purpose",
+          "lang": "fr",
+          "value": "Objectif principal : Décrire l'impact des comorbidités* sur la stabilité de l'hémoglobine** après 6 mois de traitement par Mircera® chez des patients atteints de maladie rénale chronique et dialysés, dans le cadre d'une pratique clinique courante. * Les comorbidités des patients seront analysées sur la base de leur Indice de Comorbidité de Charlson (ICC). ** La stabilité de l'hémoglobine est définie comme une variation de +/- 1g/dL du taux d'hémoglobine entre la première injection de Mircera® et le 6e mois de traitement, sans transfusion de globules rouges durant cette période. Objectifs secondaires : - Dans la population globale de l'étude et dans chaque sous-groupe de patients défini par une plage de l'indice de comorbidité de Charlson (<=3, [4-5], [6-7], >=8) : - Décrire les caractéristiques de base des patients ; - Décrire les changements mensuels du taux d'hémoglobine ; - Décrire la dose mensuelle de Mircera®. - Décrire l'état vital des patients et tous les événements indésirables survenus au cours de la période d'observation avec Mircera® ; - Décrire la stabilité du taux d'hémoglobine après 6 mois de traitement par Mircera®, selon les sous-groupes de l'indice de comorbidité de Liu (<=3 ; [4-6] ; [7-9] ; >=10) ; - Décrire la proportion de patients dont le taux d'hémoglobine se situe entre 10 et 12 g/dL, avec ou sans stabilité de l'hémoglobine après 6 mois de traitement par Mircera®, selon les sous-groupes des indices de comorbidité de Charlson et de Liu."
+        },
+        {
+          "contentType": "purpose",
+          "lang": "en",
+          "value": "Primary objective: To describe in CKD patients on dialysis the impact of comorbidities* on hemoglobin stability** after 6 months of treatment with Mircera® in routine clinical practice * Patients’ comorbidities will be analyzed on the basis of the CCI. ** Hemoglobin stability is defined as a variation of +/- 1g/dL of hemoglobin level between the first Mircera® injection and the 6th month of treatment, without red blood cells transfusion during this period. Secondary objectives: - In the overall study population and in each subgroup of patients defined by a range of the Charlson comorbidity index (<=3, [4-5], [6-7], >=8): - - To describe baseline characteristics of the patients; - - To describe the monthly changes in hemoglobin level; - - To describe monthly Mircera® dose. - To describe patients’ vital status and all adverse events over the observation period with Mircera®; - To describe the hemoglobin stability after 6 months of treatment with Mircera®, according to subgroups of Liu comorbidity index (<=3; [4-6]; [7-9]; >=10); - To describe the proportion of patients with an Hb level within the range 10-12 g/dL with or without hemoglobin stability after 6 months of treatment with Mircera®, according to the subgroups of Charlson and Liu comorbidity indexes."
+        }
+      ],
+      "subject": {
+        "topcClas": [
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/3961e9d2-ab3b-451b-b246-20fc0ec3b0c4"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D009398"
+              }
+            ],
+            "value": "Néphrologie"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/3961e9d2-ab3b-451b-b246-20fc0ec3b0c4"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D009398"
+              }
+            ],
+            "value": "Nephrology"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "fr",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/412389819",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Maladie rénale chronique"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "en",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/412389819",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Chronic kidney disease"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants liés au système de santé : Consommation des soins"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants liés au système de santé"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Healthcare system determinants: Use of care"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Healthcare system determinants"
+          }
+        ],
+        "keyword": [
+          {
+            "lang": "fr",
+            "value": "MIRCERA®"
+          },
+          {
+            "lang": "en",
+            "value": "MIRCERA®"
+          }
+        ]
+      },
+      "qualityStatement": {
+        "standardsCompliance": {
+          "standard": {
+            "standardName": [
+              {
+                "lang": "fr",
+                "value": "CDISC"
+              },
+              {
+                "lang": "en",
+                "value": "CDISC"
+              }
+            ]
+          }
+        },
+        "otherQualityStatement": [
+          {
+            "lang": "fr",
+            "value": "Bonnes pratiques cliniques/Bonnes Pratiques de Pharmacovigilance (GCP/GVP)"
+          },
+          {
+            "lang": "en",
+            "value": "GCP/GVP"
+          }
+        ]
+      },
+      "sumDscr": {
+        "dataKind": [
+          {
+            "lang": "fr",
+            "value": "Données cliniques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données biologiques"
+          },
+          {
+            "lang": "en",
+            "value": "Clinical data"
+          },
+          {
+            "lang": "en",
+            "value": "Biological data"
+          }
+        ],
+        "anlyUnit": [
+          {
+            "lang": "fr",
+            "value": "Individus"
+          },
+          {
+            "lang": "en",
+            "value": "Individuals"
+          }
+        ],
+        "nation": [
+          {
+            "lang": "fr",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          },
+          {
+            "lang": "en",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          }
+        ],
+        "universe": [
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Masculin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Féminin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Male"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Female"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Adulte (19 à 24 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adulte (25 à 44 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Adulte (45 à 64 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Personne âgée (65 à 79 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000369"
+            },
+            "value": "Grand âge (80 ans et plus)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Young Adult (19 to 24 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adult (25 to 44 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Middle Aged (45 to 64 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Aged (65 to 79 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000369"
+            },
+            "value": "Aged, 80 and over (80 years and more)"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Patients"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "en",
+            "value": "Patients population"
+          },
+          {
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Critères d'inclusion : - Patient âgé de 18 ans ou plus ; - Patient atteint d'IRC sous hémodialyse ou hémodiafiltration depuis au moins 3 mois ; - Patient déjà traité avec un agent stimulant l'érythropoïèse (ASE) ; - Patient pour lequel l'investigateur a décidé d'initier un traitement avec Mircera® pour des raisons médicales ; - Patient dont le dernier taux d'hémoglobine se situait dans l'intervalle [10 12] g/dL avant l'instauration du traitement par Mircera® ; - Patient ayant reçu des informations orales et écrites sur l'étude, sans objection quant à l'utilisation de ses données personnelles, et ayant signé un formulaire de consentement éclairé.  "
+          },
+          {
+            "clusion": "I",
+            "lang": "en",
+            "value": "Inclusion criteria: - Patient aged 18 years or older;  - CKD patient on hemodialysis or hemodiafiltration for at least 3 months;  - Patient previously treated with an ESA; - Patient for whom the investigator decided to initiate a treatment with Mircera® for medical reasons;  - Patient with last hemoglobin level within the range [10  12] g/dL before Mircera® initiation; - Patient having received oral and written information about the study, without any objections for the use of his/her personal data, and having signed a written informed consent form.  "
+          },
+          {
+            "clusion": "E",
+            "lang": "fr",
+            "value": ""
+          },
+          {
+            "clusion": "E",
+            "lang": "en",
+            "value": "Patients participating in a clinical trial on renal anemia at inclusion were excluded from study entry."
+          }
+        ],
+        "collDate": [
+          {
+            "event": "start",
+            "value": "2014-01-01"
+          },
+          {
+            "event": "end",
+            "value": "2015-01-01"
+          }
+        ]
+      }
+    },
+    "dataAccs": {
+      "setAvail": {
+        "avlStatus": [
+          {
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Accès réservé"
+          },
+          {
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Restricted access"
+          }
+        ],
+        "conditions": []
+      },
+      "useStmt": {}
+    },
+    "othStdMat": {
+      "relMat": [
+        {
+          "lang": "fr",
+          "value": "Accès restreint sur projet spécifique"
+        },
+        {
+          "lang": "en",
+          "value": "Access on specific project only"
+        }
+      ]
+    },
+    "studyDevelopment": {
+      "developmentActivity": [
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Consommation de soins/services de santé"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health care consumption and services"
+        }
+      ]
+    }
+  },
+  "docDscr": {
+    "citation": {
+      "rspStmt": {
+        "AuthEnty": "Camille BACHOT"
+      },
+      "prodStmt": {
+        "producer": [
+          {
+            "affiliation": "F. HOFFMANN-LA ROCHE AG",
+            "value": "Camille;BACHOT"
+          }
+        ],
+        "prodPlac": "Portail Épidémiologie France"
+      }
+    }
+  },
+  "additional": {
+    "prodPlac": "Portail Épidémiologie France",
+    "creationDate": "23-06-2022",
+    "lastUpdatedManual": "07-07-2025",
+    "theme": {},
+    "governance": {
+      "committee": true
+    },
+    "collaborations": {},
+    "mockSample": {},
+    "dataQuality": {},
+    "variableDictionnary": {},
+    "dataTypes": {
+      "clinicalDataDetails": [
+        {
+          "lang": "fr",
+          "value": "Données démographiques - Antécédents de la maladie - Comorbidités - Biologie - Traitements anémiques antérieurs - Traitements anémiques concomitants - Effets indésirables."
+        },
+        {
+          "lang": "en",
+          "value": "Demographic - Disease History - Comorbidities - Biology - Previous anemia treatments - Concomitant anemia treatments - Adverse Events."
+        }
+      ],
+      "isDataInBiobank": false
+    },
+    "collectionProcess": {
+      "collectionModeDetails": [
+        {
+          "lang": "fr",
+          "value": "eCRF"
+        },
+        {
+          "lang": "en",
+          "value": "eCRF"
+        }
+      ]
+    },
+    "geographicalCoverage": {},
+    "activeFollowUp": {
+      "isActiveFollowUp": true
+    },
+    "dataCollectionIntegration": {
+      "isDataIntegration": false
+    },
+    "isHealthTheme": true
+  },
+  "schematype": "survey"
+}

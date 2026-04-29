@@ -1,0 +1,292 @@
+/* Existing form styles... */
+.form-row {
+    display: flex;
+    gap: 12px;
+    flex-wrap: wrap;
+    align-items: flex-end;
+}
+
+.pointContact {
+    background: var(--wp--preset--color--white);
+    border-radius: 20px;
+    padding: 9px;
+    width: 50px;
+    cursor: pointer;
+    float: left;
+}
+
+.pictos .pointContact {
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+    padding: 5px;
+}
+
+.pictos .pointContact img {
+    width: 30px;
+    height: 30px;
+    display: block;
+    object-fit: contain;
+    max-width: none;
+}
+
+.catag-card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.pictos {
+    width: 120px;
+    justify-content: flex-end;
+    gap: 10px;
+}
+
+.field {
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+}
+
+.field label {
+    font-weight: 600;
+    color: var(--primary);
+    margin-bottom: 6px;
+}
+
+.field select,
+.field input[type="text"] {
+    border-radius: var(--wp--preset--border-radius--md);
+    border: 1px solid var(--wp--preset--color--oxygenated-blue);
+    padding: 8px 10px;
+    background: var(--wp--preset--color--white)
+}
+
+.field.small {
+    min-width: 120px;
+}
+
+.field.grow {
+    flex: 1 1 320px;
+    min-width: 180px;
+}
+
+.modal-backdrop.show {
+    display: none !important;
+}
+
+span.btn-text-collape {
+    width: calc(100% - 50px);
+}
+
+.checked-indicator.badge {
+    padding: 5px 8px;
+}
+
+#nadaAccordion .accordion-button {
+    line-height: 23px;
+}
+
+.modal-footer .btn-validate {
+    border-radius: var(--wp--preset--border-radius--md);
+    color: var(--wp--preset--color--white) !important;
+    border: 1px solid var(--wp--preset--color--primary);
+    background-color: var(--wp--preset--color--primary) !important;
+    background-image: inherit;
+}
+
+.modal-footer .btn-secondary {
+    border-radius: var(--wp--preset--border-radius--md);
+    border: 1px solid var(--wp--preset--color--primary);
+    background: initial;
+    color: var(--wp--preset--color--primary);
+}
+
+.contributor_btn {
+    background: var(--wp--preset--color--primary);
+    color: var(--wp--preset--color--white);
+    padding: 8px 15px;
+    border-radius: 10px;
+    margin: 5px;
+    border: 1px solid var(--wp--preset--color--primary);
+}
+
+.contributor_btn:hover,
+.contributor_btn:focus {
+    background: var(--wp--preset--color--white);
+    color: var(--wp--preset--color--primary);
+}
+
+.btn-remove-filter {
+    padding: 0 5px !important;
+    font-size: var(--wp--preset--font-size--small) !important;
+}
+
+.btn-remove-filter:hover {
+    color: var(--wp--preset--color--white) !important;
+}
+
+.pagination_footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 18px;
+    color: var(--wp--preset--color--primary);
+}
+
+.pagination {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    gap: 6px;
+    align-items: center;
+}
+
+.pagination a,
+.pagination span {
+    display: inline-block;
+    padding: 6px 10px;
+    border-radius: unset !important;
+    text-decoration: none;
+    color: var(--wp--preset--color--light-blue);
+    border: 1px solid transparent;
+    cursor: pointer;
+}
+
+.pagination .current {
+    background: var(--wp--preset--color--tinted-white);
+    color: var(--wp--preset--color--primary);
+    border: 1px solid var(--wp--preset--color--oxygenated-blue);
+    pointer-events: none;
+}
+
+.pagination a:hover {
+    background: var(--wp--preset--color--oxygenated-blue);
+    border: 1px solid var(--wp--preset--color--oxygenated-blue);
+}
+
+.pagination .disabled {
+    color: var(--wp--preset--color--light-blue);
+    pointer-events: none;
+}
+
+#nadaAccordion .accordion-body,
+#nadaAccordion .accordion-collapse {
+    width: 100%;
+}
+
+.facette-input {
+    height: 38px;
+    margin-bottom: 15px;
+    border-radius: var(--wp--preset--border-radius--md) !important;
+    border: 1px solid var(--wp--preset--color--oxygenated-blue) !important;
+    padding: 8px 10px !important;
+    background: var(--wp--preset--color--white)
+}
+
+.facette-item {
+    display: flex;
+    align-items: start;
+    margin-bottom: 8px;
+    border-bottom: 1px solid var(--wp--preset--color--oxygenated-blue);
+    padding-bottom: 8px;
+}
+
+.facette-list .facette-item:last-child {
+    border: none !important;
+    padding-bottom: 0 !important;
+    margin-bottom: 0 !important;
+}
+
+.facette-item label {
+    margin: 0;
+    display: flex;
+    align-items: start;
+    width: 100%;
+}
+
+.facette-item input {
+    margin-top: 5px;
+}
+
+.facetteTitle {
+    width: calc(100% - 36px);
+    display: block;
+    padding: 0;
+    font-size: var(--wp--preset--font-size--small);
+    font-weight: 500;
+    margin-right: 5px;
+}
+
+.facetteFound {
+    background: var(--wp--preset--color--primary);
+    border-radius: var(--wp--preset--border-radius--sm);
+    color: var(--wp--preset--color--white);
+    width: auto;
+    padding: 0 7px;
+    text-align: center;
+}
+
+.facette-toggle {
+    margin-top: 15px;
+    background: var(--wp--preset--color--light-blue);
+    text-align: center;
+    color: var(--wp--preset--color--white) !important;
+    border-radius: var(--wp--preset--border-radius--sm);
+    cursor: pointer;
+}
+
+.accordion-button:not(.collapsed) {
+    background: var(--wp--preset--color--primary) !important;
+    box-shadow: var(--wp--preset--shadow--none) !important;
+    color: var(--wp--preset--color--white) !important;
+}
+
+.facette-all-list {
+    height: 150px;
+    overflow-y: scroll;
+}
+
+.facetteModal .selectAll {
+    font-size: var(--wp--preset--font-size--small) !important;
+    display: flex !important;
+    justify-content: right !important;
+}
+
+.facetteModal .selectAll input {
+    font-size: var(--wp--preset--font-size--small) !important;
+}
+
+.facetteModal .modal-dialog {
+    width: 800px;
+}
+
+.facetteModal .facette-input {
+    margin-bottom: 0 !important;
+}
+
+.pagination_footer .pager {
+    display: flex;
+    justify-content: end;
+    width: 100%;
+}
+
+#paginationInfo {
+    font-size: var(--wp--preset--font-size--l-normal);
+}
+
+#nada-resultats .pagination_header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: inherit !important;
+}
+
+#nada-resultats .pagination_header .pager {
+    padding: 0 !important;
+    margin: 0 !important;
+}

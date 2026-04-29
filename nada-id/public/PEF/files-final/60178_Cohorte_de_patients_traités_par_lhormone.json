@@ -1,0 +1,972 @@
+{
+  "stdyDscr": {
+    "citation": {
+      "titlStmt": {
+        "IDNo": [
+          {
+            "agency": "PEF",
+            "value": "60178"
+          },
+          {
+            "agency": "FReSH",
+            "value": "FRESH-PEF60178"
+          }
+        ],
+        "titl": [
+          {
+            "lang": "fr",
+            "value": "Cohorte de patients traités par l'hormone de croissance recombinante dans l'enfance"
+          },
+          {
+            "lang": "en",
+            "value": "Adult Health Childhood GH"
+          }
+        ],
+        "altTitl": [
+          {
+            "lang": "fr",
+            "value": "SAGHE : Santé Adulte GH Enfant"
+          },
+          {
+            "lang": "en",
+            "value": "SAGHE"
+          }
+        ]
+      },
+      "rspStmt": {
+        "AuthEnty": [
+          {
+            "name": "Jean-Claude;CAREL",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "ASSISTANCE PUBLIQUE HOPITAUX DE PARIS (AP-HP)"
+              },
+              {
+                "lang": "en",
+                "value": "ASSISTANCE PUBLIQUE HOPITAUX DE PARIS (AP-HP)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "0000-0002-0424-6767",
+                "role": "pi id",
+                "title": "ORCID"
+              },
+              {
+                "uri": "057023034",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/00pg5jh14",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "267500452",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ],
+            "isContact": true,
+            "email": "jean-claude.carel@aphp.fr",
+            "PILabo": "CENTRE DE REFERENCE MALADIES ENDOCRINIENNES RARES DE LA CROISSANCE MINISTERE DE LA SANTÉ. AP-HP"
+          }
+        ],
+        "othId": {
+          "type": "collaboration",
+          "affiliation": {
+            "lang": "fr",
+            "value": "- Implication dans un réseau de cohorte : Cohortes Maladies Rares CEMARA (Pr P Landais, Paris) - Inclusion dans un projet européen : en cours : programme FP7, contrat 2009-2011, investigateur principal Pr JC Carel, Paris"
+          }
+        }
+      },
+      "distStmt": {
+        "contact": [
+          {
+            "name": "Jean-Claude;CAREL",
+            "email": "jean-claude.carel@aphp.fr",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "ASSISTANCE PUBLIQUE HOPITAUX DE PARIS (AP-HP)"
+              },
+              {
+                "lang": "en",
+                "value": "ASSISTANCE PUBLIQUE HOPITAUX DE PARIS (AP-HP)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/00pg5jh14",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "267500452",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          }
+        ]
+      },
+      "prodStmt": {
+        "fundAg": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "EUROPEAN COMMISSION RESEARCH"
+              },
+              {
+                "lang": "en",
+                "value": "EUROPEAN COMMISSION RESEARCH"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "ROR",
+                "uri": "https://ror.org/00k4n6c32"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Public (Europe)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (Europe)"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "AGENCE NATIONALE DE SECURITE DU MEDICAMENT ET DES PRODUITS DE SANTE (ANSM)"
+              },
+              {
+                "lang": "en",
+                "value": "AGENCE NATIONALE DE SECURITE DU MEDICAMENT ET DES PRODUITS DE SANTE (ANSM)"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "ROR",
+                "uri": "https://ror.org/01g80gk13"
+              },
+              {
+                "title": "SIREN",
+                "uri": "180036113"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "INSTITUT NATIONAL DU CANCER (INCA)"
+              },
+              {
+                "lang": "en",
+                "value": "INSTITUT NATIONAL DU CANCER (INCA)"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "ROR",
+                "uri": "https://ror.org/03m8vkq32"
+              },
+              {
+                "title": "SIREN",
+                "uri": "187512777"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "MINISTERE DU TRAVAIL, DE LA SANTE, DES SOLIDARITES ET DES FAMILLES"
+              },
+              {
+                "lang": "en",
+                "value": "MINISTERE DU TRAVAIL, DE LA SANTE, DES SOLIDARITES ET DES FAMILLES"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "ROR",
+                "uri": "https://ror.org/01wp0c315"
+              },
+              {
+                "title": "SIREN",
+                "uri": "130016546"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ]
+          }
+        ],
+        "producer": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "ASSISTANCE PUBLIQUE HOPITAUX DE PARIS (AP-HP)"
+              },
+              {
+                "lang": "en",
+                "value": "ASSISTANCE PUBLIQUE HOPITAUX DE PARIS (AP-HP)"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "ROR",
+                "uri": "https://ror.org/00pg5jh14"
+              },
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "267500452"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "studyAuthorization": {
+      "authorizingAgency": {
+        "lang": "fr",
+        "value": "CNIL"
+      }
+    },
+    "method": {
+      "notes": [
+        {
+          "subject": "research type",
+          "lang": "fr",
+          "value": "Etude observationnelle"
+        },
+        {
+          "subject": "research type",
+          "lang": "en",
+          "value": "Observational Study"
+        },
+        {
+          "lang": "fr",
+          "subject": "observational study method",
+          "value": "Cohorte"
+        },
+        {
+          "lang": "en",
+          "subject": "observational study method",
+          "value": "Cohort study"
+        }
+      ],
+      "stdyClas": [
+        {
+          "lang": "fr",
+          "value": "Inconnu"
+        },
+        {
+          "lang": "en",
+          "value": "Unknown"
+        }
+      ],
+      "dataColl": {
+        "targetSampleSize": [
+          {
+            "lang": "fr",
+            "value": "[10000-20000[ individus"
+          },
+          {
+            "lang": "en",
+            "value": "[10000-20000[ individuals"
+          }
+        ],
+        "sampleFrame": {
+          "frameUnit": {
+            "unitType": [
+              {
+                "lang": "fr",
+                "value": "Via des structures (services ou établissements de santé, écoles, entreprises…)"
+              },
+              {
+                "lang": "en",
+                "value": "Through organizations (health services or institutions, schools, businesses, etc.)"
+              }
+            ]
+          }
+        },
+        "sources": [
+          {}
+        ],
+        "collMode": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "SelfAdministeredQuestionnaire",
+              "vocab": "CESSDA"
+            },
+            "value": "Questionnaire auto-administré"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "SelfAdministeredQuestionnaire",
+              "vocab": "CESSDA"
+            },
+            "value": "Self-administered questionnaire"
+          },
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Interview",
+              "vocab": "CESSDA"
+            },
+            "value": "Entretien avec le participant (dont clinique)"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Interview",
+              "vocab": "CESSDA"
+            },
+            "value": "Interview with the participant (including clinical)"
+          }
+        ],
+        "sampProc": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ],
+        "respRate": [
+          {
+            "lang": "fr",
+            "value": "10 489"
+          },
+          {
+            "lang": "en",
+            "value": "10 489"
+          }
+        ]
+      }
+    },
+    "stdyInfo": {
+      "abstract": [
+        {
+          "contentType": "purpose",
+          "lang": "fr",
+          "value": "Répondre aux questions non résolues concernant l'insuffisance somatotrope, le syndrome de Turner et patients traites par hormone de croissance. Objectifs secondaires : - Préciser la fréquence et la gravité des manifestations hormonales, métaboliques, osseuses, et cardiovasculaires de la maladie tout au long de la vie, ainsi que leurs déterminants. - Identifier des sous groupes de patients selon la sévérité et leurs particularités phénotypiques et/ou génétiques en lien avec les deux laboratoires français de génétique moléculaire, hospitaliers et Inserm des anomalies de développement de l’hypophyse. - Mieux connaître le devenir des patients en termes d’éducation, d’insertion sociale, professionnelle et d’impact psychologique. - Améliorer les stratégies de prise en charge appropriées pendant l’enfance, la période de transition et chez l’adulte. - Réévaluer l’efficacité à long terme du traitement par hormone de croissance, traitement de référence de l’insuffisance somatotrope. certaines questions restent en suspend, outre le coût élevé, l’efficacité sur la taille finale de même que sur la qualité de vie chez un nombre important de patients. - Surveiller la tolérance à long terme et en particulier le risque tumoral."
+        },
+        {
+          "contentType": "purpose",
+          "lang": "en",
+          "value": "To resolve outstanding issues concerning growth hormone deficiency, Turner's syndrome and patients treated with growth hormone. Secondary objectives: - To explain the frequency and severity of hormonal, metabolic, skeletal, and cardiovascular events during life as well as their determinants. - To identify patient subgroups according to the severity and their phenotypic and/or genetic characteristics in relation to both French molecular genetics laboratories, hospitals and INSERM for developmental pituitary gland abnormalities. - To better understand patient outcome in terms of education, social and professional insertion and psychological impact. - To improve appropriate treatment strategies during childhood and the transition into adulthood. - To reassess the long-term effectiveness of growth hormone treatment for growth hormone deficiency. Several questions remain outstanding, in addition to high cost, the effectiveness on final height as well as the quality of life for a significant number of patients. - To monitor long-term tolerance with particular focus on tumour risk"
+        }
+      ],
+      "subject": {
+        "topcClas": [
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/d1dd1bac-5313-4ab3-837f-4acd3ec521a7"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D004704"
+              }
+            ],
+            "value": "Endocrinologie"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/bf8aaaac-ddee-41cd-bb8a-c5a63de3fcbd"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D010372"
+              }
+            ],
+            "value": "Pédiatrie"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/d1dd1bac-5313-4ab3-837f-4acd3ec521a7"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D004704"
+              }
+            ],
+            "value": "Endocrinology"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/bf8aaaac-ddee-41cd-bb8a-c5a63de3fcbd"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D010372"
+              }
+            ],
+            "value": "Paediatrics"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants socio-démographiques et économiques : Emploi"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants liés au système de santé : Consommation des soins"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants socio-démographiques et économiques"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants liés au système de santé"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Socio-demographic and economic determinants: Employment"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Healthcare system determinants: Use of care"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Socio-demographic and economic determinants"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Healthcare system determinants"
+          }
+        ],
+        "keyword": [
+          {
+            "lang": "fr",
+            "value": "Insertion socio-professionnelle"
+          },
+          {
+            "lang": "fr",
+            "value": "insuffisance somatotrope"
+          },
+          {
+            "lang": "fr",
+            "value": "le syndrome de Turner"
+          },
+          {
+            "lang": "fr",
+            "value": "hormone de croissance"
+          },
+          {
+            "lang": "fr",
+            "value": "manifestations hormonales"
+          },
+          {
+            "lang": "fr",
+            "value": "osseuses"
+          },
+          {
+            "lang": "fr",
+            "value": "et cardiovasculaires"
+          },
+          {
+            "lang": "fr",
+            "value": "particularités phénotypiques et/ou génétiques"
+          },
+          {
+            "lang": "fr",
+            "value": "éducation"
+          },
+          {
+            "lang": "fr",
+            "value": "professionnelle"
+          },
+          {
+            "lang": "fr",
+            "value": "métaboliques"
+          },
+          {
+            "lang": "fr",
+            "value": "déterminants"
+          },
+          {
+            "lang": "fr",
+            "value": "insertion sociale"
+          },
+          {
+            "lang": "fr",
+            "value": "impact psychologique"
+          },
+          {
+            "lang": "fr",
+            "value": "prise en charge"
+          },
+          {
+            "lang": "fr",
+            "value": "efficacité"
+          },
+          {
+            "lang": "fr",
+            "value": "risque tumoral"
+          },
+          {
+            "lang": "en",
+            "value": "Socio-professional insertion"
+          }
+        ]
+      },
+      "qualityStatement": {
+        "standardsCompliance": {},
+        "otherQualityStatement": {
+          "lang": "fr",
+          "value": "Présence d'une requête de cohérence après la saisie des données informatiques.Gestion des données manquantes par retour au dossier source et/ou par retour vers le patient ou un tiers.Relance des médecins pour réaliser les visites de suivi.Relance des sujets pour réaliser les visites de suivi.Les patients sont informés de l'utilisation de leur données par écrit."
+        }
+      },
+      "sumDscr": {
+        "dataKind": [
+          {
+            "lang": "fr",
+            "value": "Données rapportées par le participant de l&#x27;étude"
+          },
+          {
+            "lang": "fr",
+            "value": "Données paracliniques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données paracliniques (hors biologiques) : Imagerie"
+          },
+          {
+            "lang": "en",
+            "value": "Participant-reported health data"
+          },
+          {
+            "lang": "en",
+            "value": "Paraclinical data (non-biological) : Imaging"
+          }
+        ],
+        "anlyUnit": [
+          {
+            "lang": "fr",
+            "value": "Individus"
+          },
+          {
+            "lang": "en",
+            "value": "Individuals"
+          }
+        ],
+        "nation": [
+          {
+            "lang": "fr",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          },
+          {
+            "lang": "en",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          }
+        ],
+        "universe": [
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Masculin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Féminin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Male"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Female"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D007231"
+            },
+            "value": "Nouveau-né (naissance à 28j)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D002648"
+            },
+            "value": "Enfance (6 à 12 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000293"
+            },
+            "value": "Adolescence (13 à 18 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D007231"
+            },
+            "value": "Infant, Newborn (birth to 28 days)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D002648"
+            },
+            "value": "Child (6 to 12 years)"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Patients"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "en",
+            "value": "Patients population"
+          },
+          {
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Traitement par l'hormone de croissance recombinante dans l'enfance de 1985 à 1997."
+          },
+          {
+            "clusion": "I",
+            "lang": "en",
+            "value": "Patients treated with recombinant growth hormone in childhood from 1985 to 1997."
+          },
+          {
+            "clusion": "E",
+            "lang": "fr",
+            "value": ""
+          },
+          {
+            "clusion": "E",
+            "lang": "en",
+            "value": ""
+          }
+        ],
+        "collDate": {
+          "event": "start",
+          "value": "1985-01-01"
+        }
+      }
+    },
+    "dataAccs": {
+      "setAvail": {
+        "avlStatus": [
+          {
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Accès réservé"
+          },
+          {
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Restricted access"
+          }
+        ],
+        "conditions": []
+      },
+      "useStmt": {
+        "restrctn": [
+          {
+            "lang": "fr",
+            "value": "Utilisation des données par des équipes académiques à déterminer"
+          },
+          {
+            "lang": "en",
+            "value": "To be decided if data may be used by academic teams."
+          }
+        ]
+      }
+    },
+    "othStdMat": {
+      "relMat": [
+        {
+          "lang": "fr",
+          "value": "Accès restreint sur projet spécifique"
+        },
+        {
+          "lang": "en",
+          "value": "Access on specific project only"
+        }
+      ]
+    },
+    "studyDevelopment": {
+      "developmentActivity": [
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/morbidité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/mortalité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Consommation de soins/services de santé"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Qualité de vie/santé perçue"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/morbidity"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/mortality"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health care consumption and services"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Quality of life/health perception"
+        }
+      ]
+    }
+  },
+  "docDscr": {
+    "citation": {
+      "rspStmt": {
+        "AuthEnty": "Jean-Claude CAREL"
+      },
+      "prodStmt": {
+        "producer": [
+          {
+            "affiliation": "ASSISTANCE PUBLIQUE HOPITAUX DE PARIS (AP-HP)",
+            "value": "Jean-Claude;CAREL"
+          }
+        ],
+        "prodPlac": "Portail Épidémiologie France"
+      }
+    }
+  },
+  "additional": {
+    "prodPlac": "Portail Épidémiologie France",
+    "relatedDocuments": {
+      "documentTitle": [
+        {
+          "lang": "fr",
+          "value": "Liste des publications dans HAL"
+        },
+        {
+          "lang": "en",
+          "value": "Liste des publications dans HAL"
+        }
+      ],
+      "documentLink": [
+        {
+          "lang": "fr",
+          "value": "http://tinyurl.com/HAL-SAGHE"
+        },
+        {
+          "lang": "en",
+          "value": "http://tinyurl.com/HAL-SAGHE"
+        }
+      ]
+    },
+    "creationDate": "08-03-2013",
+    "lastUpdatedManual": "07-08-2014",
+    "theme": {},
+    "governance": {},
+    "collaborations": {},
+    "mockSample": {},
+    "dataQuality": {},
+    "variableDictionnary": {},
+    "dataTypes": {
+      "isDataInBiobank": false
+    },
+    "collectionProcess": {
+      "collectionModeDetails": [
+        {
+          "lang": "fr",
+          "value": "Auto-questionnaire : saisie manuelle à partir d’un questionnaire papier avec double saisie"
+        },
+        {
+          "lang": "en",
+          "value": "Self-administered questionnaire: manual input from a paper questionnaire with double data entry"
+        }
+      ]
+    },
+    "geographicalCoverage": {
+      "geoDetail": [
+        {
+          "lang": "fr",
+          "value": "20 centres en France"
+        },
+        {
+          "lang": "en",
+          "value": "20 centres throughout France"
+        }
+      ]
+    },
+    "activeFollowUp": {
+      "isActiveFollowUp": true
+    },
+    "dataCollectionIntegration": {
+      "isDataIntegration": false
+    },
+    "isHealthTheme": true
+  },
+  "schematype": "survey"
+}

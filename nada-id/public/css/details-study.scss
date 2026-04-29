@@ -1,0 +1,304 @@
+.detail-container {
+  #stepperContent {
+    border: 0;
+  }
+
+  .tab-content {
+    display: grid;
+  }
+
+  .pointContact {
+    cursor: pointer;
+  }
+
+  .text-bold {
+    font-weight: bold;
+  }
+
+  .navStickyBar {
+    position: sticky;
+    top: 160px;
+    max-height: calc(100vh - 180px);
+    overflow-y: auto;
+
+    .nav-item {
+      padding: 5px 0;
+
+      a {
+        font-size: var(--wp--preset--font-size--normal);
+        line-height: 20px;
+        padding: 5px 0;
+        color: var(--wp--preset--color--light-blue);
+        font-weight: 600;
+        display: block;
+        margin-left: 25px;
+        white-space: normal;
+        word-break: break-word;
+
+        &.active {
+          font-weight: 600;
+        }
+      }
+    }
+  }
+
+  .submenu-study {
+    padding-top: 5px;
+    padding-bottom: 25px;
+  }
+}
+
+.main-holder,
+.site {
+  overflow: inherit !important;
+}
+
+.tags-item {
+  background: var(--wp--preset--color--oxygenated-blue);
+  padding: 5px;
+  border-radius: var(--wp--preset--border-radius--md);
+  margin-right: 3px;
+}
+
+.field-bloc {
+  color: var(--wp--preset--color--primary);
+  margin-bottom: 18px !important;
+  letter-spacing: 0.3px;
+
+  .field-bloc__title {
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: var(--wp--preset--font-size--small);
+  }
+
+  @media (max-width: 767px) {
+    .field-bloc__title {
+      font-size: var(--wp--preset--font-size--x-small);
+    }
+  }
+
+  .field-bloc__value {
+    max-width: 100%;
+    white-space: normal;
+    overflow-wrap: anywhere;
+    word-break: break-word;
+    hyphens: auto;
+  }
+}
+
+.field-content__h1 {
+  position: relative;
+  font-size: var(--wp--preset--font-size--large-id);
+  line-height: 30px;
+  font-weight: 600;
+  border-bottom: 1px solid var(--wp--preset--color--light-blue);
+  padding-bottom: 5px;
+  margin-bottom: 20px;
+  color: var(--wp--preset--color--light-blue);
+  word-break: break-word;
+}
+
+.field-content__h2 {
+  position: relative;
+  font-size: var(--wp--preset--font-size--xl-normal);
+  line-height: 30px;
+}
+
+.field-content__h3 {
+  font-size: var(--wp--preset--font-size--l-normal);
+  line-height: 28px;
+}
+
+.field-content__h4 {
+  font-size: var(--wp--preset--font-size--normal);
+  line-height: 24px;
+}
+
+.field-content__h5 {
+  font-size: var(--wp--preset--font-size--small);
+  line-height: 20px;
+}
+
+.field-table {
+  width: 100%;
+  color: var(--wp--preset--color--primary);
+}
+
+.field-table thead th {
+  background-color: var(--wp--preset--color--black-with-opacity);
+  color: var(--wp--preset--color--primary);
+  padding: 8px;
+  font-size: var(--wp--preset--font-size--normal);
+  border: 1px solid var(--wp--preset--color--oxygenated-blue);
+}
+
+.field-table td {
+  border: 1px solid var(--wp--preset--color--oxygenated-blue);
+  padding: 8px;
+}
+
+.field-table tbody tr:nth-child(odd) {
+  background-color: var(--wp--preset--color--white)
+}
+
+.field-table tbody tr:nth-child(even) {
+  background-color: var(--wp--preset--color--oxygenated-blue);
+}
+
+// card
+.field-cardcontent {
+  padding-bottom: 20px;
+}
+
+.field-card__header {
+  position: relative;
+  box-shadow: var(--wp--preset--shadow--sm);
+  padding: 20px 15px;
+  background: var(--wp--preset--color--tinted-white);
+  color: var(--wp--preset--color--primary);
+  cursor: pointer;
+  font-size: var(--wp--preset--font-size--normal);
+  font-weight: 600;
+}
+
+.field-card__header:before {
+  content: "";
+  position: absolute;
+  right: 10px;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-right: 8px solid transparent;
+  border-left: 8px solid transparent;
+  border-top: 12px solid var(--wp--preset--color--primary);
+  border-bottom: 0;
+}
+
+.field-card__header.open:before {
+  border-bottom: 12px solid var(--wp--preset--color--primary);
+  border-top: 0;
+}
+
+.field-card__body {
+  display: none;
+  padding: 20px;
+  border: 1px solid var(--wp--preset--color--oxygenated-blue);
+  box-shadow: var(--wp--preset--shadow--sm);
+}
+
+.child-checkbox {
+  display: none;
+  margin-left: 20px;
+  border-left: 1px solid var(--wp--preset--color--light-blue);
+}
+
+.return-btn {
+  border-radius: var(--wp--preset--border-radius--md) !important;
+  background: var(--wp--preset--color--primary) !important;
+}
+
+.return-btn:hover {
+  color: var(--wp--preset--color--white) !important;
+}
+
+.keyword-item {
+  background: var(--wp--preset--color--oxygenated-blue);
+  padding: 5px;
+  border-radius: var(--wp--preset--border-radius--md);
+  margin-right: 5px;
+  margin-bottom: 5px;
+  display: inline-block;
+}
+
+.checkbox-item {
+  display: block;
+  padding-left: 20px;
+  position: relative;
+}
+
+.checkbox-item:before {
+  content: "";
+  position: absolute;
+  left: 8px;
+  top: 10px;
+  width: 5px;
+  height: 5px;
+  border-radius: var(--wp--preset--border-radius--rond);
+  background: var(--wp--preset--color--primary);
+}
+
+@media (max-width: 767px) {
+  .field-content__h1 {
+    font-size: var(--wp--preset--font-size--xl-normal) !important;
+  }
+
+  .field-content__h2 {
+    font-size: var(--wp--preset--font-size--xl-normal) !important;
+  }
+
+  .field-content__h3 {
+    font-size: var(--wp--preset--font-size--normal) !important;
+  }
+
+  .field-bloc__title {
+    font-size: var(--wp--preset--font-size--x-small) !important;
+  }
+
+  .submenu-study h3.lang-text-tooltip,
+  .submenu-study h3.lang-text {
+    font-size: var(--wp--preset--font-size--xl-normal) !important;
+  }
+}
+
+@media (max-width: 480px) {
+  .field-content__h1 {
+    font-size: var(--wp--preset--font-size--xl-normal) !important;
+  }
+
+  .field-content__h2 {
+    font-size: var(--wp--preset--font-size--l-normal) !important;
+  }
+
+  .field-content__h3 {
+    font-size: var(--wp--preset--font-size--small) !important;
+  }
+
+  .submenu-study h3.lang-text-tooltip,
+  .submenu-study h3.lang-text {
+    font-size: var(--wp--preset--font-size--xl-normal) !important;
+  }
+}
+
+@media (max-width: 767px) {
+  #sidebarToggleContent {
+    display: none;
+  }
+
+  #sidebarToggleContent.opened {
+    display: block;
+  }
+}
+
+@media (min-width: 768px) {
+  #sidebarToggleContent {
+    display: block !important;
+  }
+}
+
+
+@media (max-width: 767px) {
+  .leftsidebar .navStickyBar {
+    max-height: none !important;
+    overflow: visible !important;
+  }
+}
+
+.h-100 {
+  height: 100% !important;
+}
+
+.fs-15 {
+  font-size: var(--wp--preset--font-size--normal) !important;
+}

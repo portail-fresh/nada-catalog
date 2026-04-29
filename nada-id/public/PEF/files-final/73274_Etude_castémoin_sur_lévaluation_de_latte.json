@@ -1,0 +1,780 @@
+{
+  "stdyDscr": {
+    "citation": {
+      "titlStmt": {
+        "IDNo": [
+          {
+            "agency": "PEF",
+            "value": "73274"
+          },
+          {
+            "agency": "FReSH",
+            "value": "FRESH-PEF73274"
+          }
+        ],
+        "titl": {
+          "lang": "fr",
+          "value": "Etude cas/témoin sur l'évaluation de l’atteinte de la cohérence centrale dans l’anorexie mentale restrictive : étude monocentrique cas/témoin"
+        },
+        "altTitl": {
+          "lang": "fr",
+          "value": "CoCA"
+        }
+      },
+      "rspStmt": {
+        "AuthEnty": [
+          {
+            "name": "Jennyfer;CHOLET",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "CENTRE HOSPITALIER UNIVERSITAIRE DE NANTES"
+              },
+              {
+                "lang": "en",
+                "value": "CENTRE HOSPITALIER UNIVERSITAIRE DE NANTES"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "191780308",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/05c1qsg97",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "264400136",
+                "role": "organisation id",
+                "title": "SIREN"
+              },
+              {
+                "uri": "200815512F",
+                "role": "labo id",
+                "title": "RNSR"
+              }
+            ],
+            "isContact": true,
+            "email": "jennyfer.cholet@ch-gdaumezon.fr",
+            "PILabo": "CHU de Nantes / Service d’Addictologie et de Psychiatrie de Liaison / UIC 18 (CHU de Nantes) \"Addictions Comportementales et Troubles de l'Humeur Complexes\" / EA 4275 SPHERE \"Biostatistique, Pharmacoépidémiologie et Mesures Subjectives en Santé\""
+          }
+        ],
+        "othId": {
+          "type": "collaboration",
+          "affiliation": {
+            "lang": "fr",
+            "value": "EA 4275 SPHERE \"Biostatistique, Pharmacoépidémiologie et Mesures Subjectives en Santé\"- université de Nantes"
+          }
+        }
+      },
+      "distStmt": {
+        "contact": [
+          {
+            "name": "Jennyfer;CHOLET",
+            "email": "jennyfer.cholet@ch-gdaumezon.fr",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "CENTRE HOSPITALIER UNIVERSITAIRE DE NANTES"
+              },
+              {
+                "lang": "en",
+                "value": "CENTRE HOSPITALIER UNIVERSITAIRE DE NANTES"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/05c1qsg97",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "264400136",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          }
+        ]
+      },
+      "prodStmt": {
+        "fundAg": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "FONDATION DE FRANCE"
+              },
+              {
+                "lang": "en",
+                "value": "FONDATION DE FRANCE"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "SIREN",
+                "uri": "784314908"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Privé à but non lucratif"
+              },
+              {
+                "lang": "en",
+                "value": "Private non-profit"
+              }
+            ]
+          }
+        ],
+        "producer": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "CENTRE HOSPITALIER UNIVERSITAIRE DE NANTES"
+              },
+              {
+                "lang": "en",
+                "value": "CENTRE HOSPITALIER UNIVERSITAIRE DE NANTES"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "ROR",
+                "uri": "https://ror.org/05c1qsg97"
+              },
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "264400136"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "studyAuthorization": [
+      {
+        "authorizingAgency": {
+          "lang": "fr",
+          "value": "CNIL"
+        }
+      },
+      {
+        "authorizingAgency": {
+          "lang": "fr",
+          "value": "ANSM"
+        }
+      },
+      {
+        "authorizingAgency": {
+          "lang": "fr",
+          "value": "CPP"
+        }
+      }
+    ],
+    "method": {
+      "notes": [
+        {
+          "subject": "research type",
+          "lang": "fr",
+          "value": "Etude observationnelle"
+        },
+        {
+          "subject": "research type",
+          "lang": "en",
+          "value": "Observational Study"
+        },
+        {
+          "lang": "fr",
+          "subject": "observational study method",
+          "value": "Etude cas-témoins"
+        },
+        {
+          "lang": "en",
+          "subject": "observational study method",
+          "value": "Case-control study"
+        }
+      ],
+      "stdyClas": [
+        {
+          "lang": "fr",
+          "value": "Étude complétée"
+        },
+        {
+          "lang": "en",
+          "value": "Completed study"
+        }
+      ],
+      "dataColl": {
+        "targetSampleSize": [
+          {
+            "lang": "fr",
+            "value": "< 500 individus"
+          },
+          {
+            "lang": "en",
+            "value": "< 500 individuals"
+          }
+        ],
+        "sampleFrame": {
+          "frameUnit": {
+            "unitType": [
+              {
+                "lang": "fr",
+                "value": "Via des structures (services ou établissements de santé, écoles, entreprises…)"
+              },
+              {
+                "lang": "en",
+                "value": "Through organizations (health services or institutions, schools, businesses, etc.)"
+              }
+            ]
+          }
+        },
+        "sources": [
+          {}
+        ],
+        "collMode": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "SelfAdministeredQuestionnaire",
+              "vocab": "CESSDA"
+            },
+            "value": "Questionnaire auto-administré"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "SelfAdministeredQuestionnaire",
+              "vocab": "CESSDA"
+            },
+            "value": "Self-administered questionnaire"
+          }
+        ],
+        "sampProc": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ],
+        "respRate": {
+          "lang": "fr",
+          "value": "120 : 60 cas (cases) - 60 témoins (controls)"
+        }
+      }
+    },
+    "stdyInfo": {
+      "abstract": {
+        "contentType": "purpose",
+        "lang": "fr",
+        "value": "Comparer l’atteinte de la cohérence centrale entre des patientes, suivies dans le service d'addictologie et de psychiatrie de liaison du CHU de Nantes (consultations et/ou hospitalisations) pour anorexie mentale restrictive (AMR) et des sujets contrôles."
+      },
+      "subject": {
+        "topcClas": [
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/3de50dee-da1c-4791-a386-56bca24a5fed"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D011570"
+              }
+            ],
+            "value": "Psychiatrie"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/42d645e0-f58d-40ed-9917-5b227ff41a92"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D000073316"
+              }
+            ],
+            "value": "Addictologie"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/3de50dee-da1c-4791-a386-56bca24a5fed"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D011570"
+              }
+            ],
+            "value": "Psychiatry"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/42d645e0-f58d-40ed-9917-5b227ff41a92"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D000073316"
+              }
+            ],
+            "value": "Addiction medicine"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "fr",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/263852475",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Anorexie mentale"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "en",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/263852475",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Anorexia Nervosa"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants comportementaux : Addictions"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants socio-démographiques et économiques"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants comportementaux"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants comportementaux : Alimentation"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Systèmes de soins et accès aux soins"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Behavioral determinants: Addiction"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Socio-demographic and economic determinants"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Behavioral determinants"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Behavioral determinants: Eating habits"
+          }
+        ]
+      },
+      "qualityStatement": {
+        "standardsCompliance": {},
+        "otherQualityStatement": {
+          "lang": "fr",
+          "value": "Cotation par deux évaluateurs en aveugle pour figure de Rey et test de Hayling. Saisie de l'autoévaluation et de l'hétéroévaluation sur e-CRF. Lors de la saisie sur l'eCRF des tests de cohérence sont effectués."
+        }
+      },
+      "sumDscr": {
+        "dataKind": [
+          {
+            "lang": "fr",
+            "value": "Données cliniques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données rapportées par le participant de l&#x27;étude"
+          },
+          {
+            "lang": "en",
+            "value": "Clinical data"
+          },
+          {
+            "lang": "en",
+            "value": "Participant-reported health data"
+          }
+        ],
+        "anlyUnit": [
+          {
+            "lang": "fr",
+            "value": "Individus"
+          },
+          {
+            "lang": "en",
+            "value": "Individuals"
+          }
+        ],
+        "nation": [
+          {
+            "lang": "fr",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          },
+          {
+            "lang": "en",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          }
+        ],
+        "geogCover": [
+          {
+            "lang": "fr",
+            "value": "Pays de la Loire"
+          },
+          {
+            "lang": "en",
+            "value": "Pays de la Loire"
+          }
+        ],
+        "universe": [
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Féminin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Female"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000293"
+            },
+            "value": "Adolescence (13 à 18 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Adulte (19 à 24 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adulte (25 à 44 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Adulte (45 à 64 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Young Adult (19 to 24 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adult (25 to 44 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Middle Aged (45 to 64 years)"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Patients"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "en",
+            "value": "Patients population"
+          },
+          {
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Cas : Femmes,  âgée de plus de 15 ans et 3 mois, suivie dans le service d’addictologie et de psychiatrie de liaison du CHU de Nantes (consultations et/ou hospitalisations) pour une anorexie mentale restrictive, maitrisant la langue française et ayant signé le consentement si elles sont majeures sinon que le représentant légal ait signé le consentement (pour les mineures).  Témoins : Femmes,  âgée de plus de 15 ans et 3 mois, maitrisant la langue française et ayant signé le consentement si elles sont majeures sinon que le représentant légal ait signé le consentement (pour les mineures). Appariement sur l'âge avec les cas. Ne seront pas incluses les femmes avec des troubles du comportement alimentaire actuels ou passés. "
+          },
+          {
+            "clusion": "I",
+            "lang": "en",
+            "value": "Case: Women, aged over 15 years and 3 months, followed in the addiction and liaison psychiatry department of Nantes University Hospital (consultations and/or hospitalisations) for restrictive anorexia nervosa, mastering French language and having signed the consent form if they are of legal age, otherwise the legal representative must sign the consent form (for minors).\n\nControl: Women, aged over 15 years and 3 months,  mastering French language and having signed the consent form if they are of legal age, otherwise the legal representative must sign the consent form (for minors). Matching on age with the cases. Women with current or past eating disorders will not be included."
+          },
+          {
+            "clusion": "E",
+            "lang": "fr",
+            "value": ""
+          },
+          {
+            "clusion": "E",
+            "lang": "en",
+            "value": ""
+          }
+        ],
+        "collDate": [
+          {
+            "event": "start",
+            "value": "2015-01-01"
+          },
+          {
+            "event": "end",
+            "value": "2017-01-01"
+          }
+        ]
+      }
+    },
+    "dataAccs": {
+      "setAvail": {
+        "avlStatus": [
+          {
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Accès réservé"
+          },
+          {
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Restricted access"
+          }
+        ],
+        "conditions": []
+      },
+      "useStmt": {
+        "restrctn": {
+          "lang": "fr",
+          "value": "Utilisation possible des données par des équipes académiques à déterminer. Utilisation non possible des données par des industriels."
+        }
+      }
+    },
+    "othStdMat": {
+      "relMat": [
+        {
+          "lang": "fr",
+          "value": "Accès restreint sur projet spécifique"
+        },
+        {
+          "lang": "en",
+          "value": "Access on specific project only"
+        }
+      ]
+    },
+    "studyDevelopment": {
+      "developmentActivity": [
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/mortalité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Consommation de soins/services de santé"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/mortality"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health care consumption and services"
+        }
+      ]
+    }
+  },
+  "docDscr": {
+    "citation": {
+      "rspStmt": {
+        "AuthEnty": "Jennyfer CHOLET"
+      },
+      "prodStmt": {
+        "producer": [
+          {
+            "affiliation": "CENTRE HOSPITALIER UNIVERSITAIRE DE NANTES",
+            "value": "Jennyfer;CHOLET"
+          }
+        ],
+        "prodPlac": "Portail Épidémiologie France"
+      }
+    }
+  },
+  "additional": {
+    "prodPlac": "Portail Épidémiologie France",
+    "relatedDocuments": {
+      "documentTitle": [
+        {
+          "lang": "fr"
+        },
+        {
+          "lang": "en"
+        }
+      ],
+      "documentLink": [
+        {
+          "lang": "fr",
+          "value": "http://www.sphere-nantes.fr/"
+        },
+        {
+          "lang": "en",
+          "value": "http://www.sphere-nantes.fr/"
+        }
+      ]
+    },
+    "creationDate": "18-11-2015",
+    "lastUpdatedManual": "26-09-2017",
+    "theme": {},
+    "governance": {
+      "committee": false
+    },
+    "collaborations": {},
+    "mockSample": {},
+    "dataQuality": {},
+    "variableDictionnary": {},
+    "dataTypes": {
+      "clinicalDataDetails": {
+        "lang": "fr",
+        "value": "Diagnostic de TCA actuel (critères DSM), Diagnostics de TCA passés (critères DSM), vérifications des critères d'inclusions et de non inclusions par le médecin référent de la prise en charge pour les cas. Mesures staturopondérales avec l'évaluateur lors de l'entretien en face à face pour les cas et les témoins"
+      },
+      "isDataInBiobank": false
+    },
+    "collectionProcess": {
+      "collectionModeDetails": {
+        "lang": "fr",
+        "value": "Recueil sur CRf papier : autoquestionnaires papiers complétés préalablement à l'hétéroévaluation en face à face, hétéroévaluation complétée sur CRF papier lors de l'évaluation en face à face, cotation des tests neuropsychologiques à postériori"
+      }
+    },
+    "geographicalCoverage": {
+      "geoDetail": {
+        "lang": "fr",
+        "value": "Patientes et témoins en provenance de Nantes et de la région pays de la loire principalement"
+      }
+    },
+    "activeFollowUp": {
+      "isActiveFollowUp": false
+    },
+    "dataCollectionIntegration": {
+      "isDataIntegration": false
+    },
+    "isHealthTheme": true
+  },
+  "schematype": "survey"
+}

@@ -1,0 +1,694 @@
+{
+  "stdyDscr": {
+    "citation": {
+      "titlStmt": {
+        "IDNo": [
+          {
+            "agency": "PEF",
+            "value": "197"
+          },
+          {
+            "agency": "FReSH",
+            "value": "FRESH-PEF197"
+          }
+        ],
+        "titl": [
+          {
+            "lang": "fr",
+            "value": "Etude transversale sur embryons : évaluation de la qualité embryonnaire en \"Intra Cytoplasmic Sperm Injection\" (ICSI) avec le système Fertimorph"
+          },
+          {
+            "lang": "en",
+            "value": "Embryo quality evaluation in Intra Cytoplasmic Sperm Injection (ICSI) cycles with Fertimorph system"
+          }
+        ],
+        "altTitl": [
+          {
+            "lang": "fr",
+            "value": "QUALIMORPH"
+          },
+          {
+            "lang": "en",
+            "value": "QUALIMORPH"
+          }
+        ]
+      },
+      "rspStmt": {
+        "AuthEnty": [
+          {
+            "name": "Philippe;NIEZ",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "ASTRAZENECA (FRANCE)"
+              },
+              {
+                "lang": "en",
+                "value": "ASTRAZENECA (FRANCE)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/016qv5070",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "558201075",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ],
+            "isContact": true,
+            "email": "philippe.niez@ferring.com",
+            "PILabo": ""
+          }
+        ],
+        "othId": []
+      },
+      "distStmt": {
+        "contact": [
+          {
+            "name": "Philippe;NIEZ",
+            "email": "philippe.niez@ferring.com",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "ASTRAZENECA (FRANCE)"
+              },
+              {
+                "lang": "en",
+                "value": "ASTRAZENECA (FRANCE)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/016qv5070",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "558201075",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          }
+        ]
+      },
+      "prodStmt": {
+        "fundAg": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "FERRING SAS"
+              },
+              {
+                "lang": "en",
+                "value": "FERRING SAS"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "SIREN",
+                "uri": "322624735"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Industrie"
+              },
+              {
+                "lang": "en",
+                "value": "Industry"
+              }
+            ]
+          }
+        ],
+        "producer": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "FERRING SAS"
+              },
+              {
+                "lang": "en",
+                "value": "FERRING SAS"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Industrie"
+              },
+              {
+                "lang": "en",
+                "value": "Industry"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "322624735"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "studyAuthorization": {
+      "authorizingAgency": {
+        "lang": "fr",
+        "value": "CNIL"
+      }
+    },
+    "method": {
+      "notes": [
+        {
+          "subject": "research type",
+          "lang": "fr",
+          "value": "Etude observationnelle"
+        },
+        {
+          "subject": "research type",
+          "lang": "en",
+          "value": "Observational Study"
+        }
+      ],
+      "stdyClas": [
+        {
+          "lang": "fr",
+          "value": "Étude complétée"
+        },
+        {
+          "lang": "en",
+          "value": "Completed study"
+        }
+      ],
+      "dataColl": {
+        "targetSampleSize": [
+          {
+            "lang": "fr",
+            "value": "< 500 individus"
+          },
+          {
+            "lang": "en",
+            "value": "< 500 individuals"
+          }
+        ],
+        "timeMeth": [
+          {
+            "lang": "fr",
+            "value": "Etude transversale non répétée"
+          },
+          {
+            "lang": "en",
+            "value": "One-time cross-sectional study"
+          }
+        ],
+        "sampleFrame": {
+          "frameUnit": {
+            "unitType": [
+              {
+                "lang": "fr",
+                "value": "Via des structures (services ou établissements de santé, écoles, entreprises…)"
+              },
+              {
+                "lang": "en",
+                "value": "Through organizations (health services or institutions, schools, businesses, etc.)"
+              }
+            ]
+          }
+        },
+        "sources": [
+          {}
+        ],
+        "collMode": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Transcription",
+              "vocab": "CESSDA"
+            },
+            "value": "Transcription et saisie d’informations dans un enregistrement structuré"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Transcription",
+              "vocab": "CESSDA"
+            },
+            "value": "Converting or copying information into a structured record"
+          },
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Interview",
+              "vocab": "CESSDA"
+            },
+            "value": "Entretien avec le participant (dont clinique)"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Interview",
+              "vocab": "CESSDA"
+            },
+            "value": "Interview with the participant (including clinical)"
+          }
+        ],
+        "sampProc": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ],
+        "respRate": [
+          {
+            "lang": "fr",
+            "value": "130"
+          },
+          {
+            "lang": "en",
+            "value": "130"
+          }
+        ]
+      }
+    },
+    "stdyInfo": {
+      "abstract": [
+        {
+          "contentType": "purpose",
+          "lang": "fr",
+          "value": "Evaluer la concordance entre la qualité embryonnaire appréciée par le biologiste selon sa technique habituelle et selon le système Fertimorph"
+        },
+        {
+          "contentType": "purpose",
+          "lang": "en",
+          "value": "Evaluate the concordance between the embryo quality appreciated by the biologist according to his normal technique and according to the Fertimorph system"
+        }
+      ],
+      "subject": {
+        "topcClas": [
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/7de64596-5b0d-4977-8f98-b982ff2ec17d"
+              },
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/284ca20c-beb4-4abe-99fa-ef4513358bad"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D006176"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D009774"
+              }
+            ],
+            "value": "Gynécologie et obstétrique"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/7de64596-5b0d-4977-8f98-b982ff2ec17d"
+              },
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/284ca20c-beb4-4abe-99fa-ef4513358bad"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D006176"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D009774"
+              }
+            ],
+            "value": "Gynaecology and obstetrics"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "fr",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/299316821",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Recours aux serices de santé pour procréation médicalement assistée"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "en",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/299316821",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Contact with health services for medically assisted reproduction"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants liés au système de santé : Consommation des soins"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants liés au système de santé"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Healthcare system determinants: Use of care"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Healthcare system determinants"
+          }
+        ],
+        "keyword": [
+          {
+            "lang": "fr",
+            "value": "Fécondation In Vitro (FIV)"
+          },
+          {
+            "lang": "fr",
+            "value": "Intra Cytoplasmic Sperm Injection ICSI"
+          },
+          {
+            "lang": "fr",
+            "value": "système FertiMORPH"
+          },
+          {
+            "lang": "fr",
+            "value": "qualité embryonnaire"
+          },
+          {
+            "lang": "en",
+            "value": "In Vitro Fertilization (IVF)"
+          },
+          {
+            "lang": "en",
+            "value": "FertiMORPH system"
+          },
+          {
+            "lang": "en",
+            "value": "embryo quality"
+          },
+          {
+            "lang": "en",
+            "value": "Intra Cytoplasmic Sperm Injection ICSI"
+          }
+        ]
+      },
+      "qualityStatement": {
+        "standardsCompliance": {}
+      },
+      "sumDscr": {
+        "dataKind": [
+          {
+            "lang": "fr",
+            "value": "Données cliniques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données biologiques"
+          },
+          {
+            "lang": "en",
+            "value": "Clinical data"
+          },
+          {
+            "lang": "en",
+            "value": "Biological data"
+          }
+        ],
+        "anlyUnit": [
+          {
+            "lang": "fr",
+            "value": "Individus"
+          },
+          {
+            "lang": "en",
+            "value": "Individuals"
+          }
+        ],
+        "nation": [
+          {
+            "lang": "fr",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          },
+          {
+            "lang": "en",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          }
+        ],
+        "universe": [
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Féminin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Female"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Adulte (19 à 24 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adulte (25 à 44 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Young Adult (19 to 24 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adult (25 to 44 years)"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Patients"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "en",
+            "value": "Patients population"
+          },
+          {
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Embryons issus de couples présentant les caractéristiques suivantes: -Critères liés à la femme: femme normorépondeuse, toutes étiologies d'infertilité confondues, âgée de moins de 36 ans, ayant bénéficié au maximun d'une aide médicale à la procréation (AMP) antérieure, ayant bénéficié d'une AMP par ICSI avec sperme éjaculé ou sperme congelé, ayant une bonne réserve ovarienne (évaluée par des dosages hormonaux et le cas échéant par un comptage des follicules antraux), présentant ou non une dysovulation, avec un utérus normal et sans hydrosalpinx.  -Critères liés au conjoint: infertilité masculine diagnostiquée, le cas échéant caryotype masculin normal,  -Critères liés à la tentative étudiée: recueil d'au moins 5 ovocytes matures en MII lors de la tentative, deux embryons transférés au maximum."
+          },
+          {
+            "clusion": "I",
+            "lang": "en",
+            "value": "Embryos coming from couples having the following characteristics: -Criteria linked to the woman: woman with normal response, all infertility etiologies, aged up to 36 years, maximum of one prior assisted reproduction technique (ART) cycle, current ART cycle with ICSI with ejaculated or frozen sperm, normal ovarian reserve (evaluated via hormone assays and where applicable by an antral follicle count),  with a normal uterus and without hydrosalpinx.  -Criteria linked to the spouse: diagnosed male infertility, where applicable normal male karyotype,  -Criteria linked to the studied attempt: at least 5 mature (MII) ovocytes retrieved, maximum of two embryos transferred."
+          },
+          {
+            "clusion": "E",
+            "lang": "fr",
+            "value": ""
+          },
+          {
+            "clusion": "E",
+            "lang": "en",
+            "value": ""
+          }
+        ],
+        "collDate": [
+          {
+            "event": "start",
+            "value": "2010-01-01"
+          },
+          {
+            "event": "end",
+            "value": "2010-12-31"
+          }
+        ]
+      }
+    },
+    "dataAccs": {
+      "setAvail": {
+        "avlStatus": [
+          {
+            "lang": "fr",
+            "value": "A définir"
+          },
+          {
+            "lang": "en",
+            "value": "To be defined"
+          }
+        ],
+        "conditions": []
+      },
+      "useStmt": {}
+    },
+    "othStdMat": {
+      "relMat": [
+        {
+          "lang": "fr",
+          "value": "Accès restreint sur projet spécifique"
+        },
+        {
+          "lang": "en",
+          "value": "Access on specific project only"
+        }
+      ]
+    },
+    "studyDevelopment": {
+      "developmentActivity": [
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Autres"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Others"
+        }
+      ]
+    }
+  },
+  "docDscr": {
+    "citation": {
+      "rspStmt": {
+        "AuthEnty": ""
+      },
+      "prodStmt": {
+        "producer": [
+          {
+            "affiliation": ""
+          }
+        ],
+        "prodPlac": "Portail Épidémiologie France"
+      }
+    }
+  },
+  "additional": {
+    "prodPlac": "Portail Épidémiologie France",
+    "creationDate": "19-12-2010",
+    "lastUpdatedManual": "01-01-2020",
+    "theme": {},
+    "governance": {},
+    "collaborations": {},
+    "mockSample": {},
+    "dataQuality": {},
+    "variableDictionnary": {},
+    "dataTypes": {
+      "biologicalDataDetails": [
+        {
+          "lang": "fr",
+          "value": "Nombre et qualité des ovocytes, paramètres de la fécondation, nombre et qualité des embryons"
+        },
+        {
+          "lang": "en",
+          "value": "Number and quality of the ovocytes, fertilization parameters, number and quality of the embryos"
+        }
+      ],
+      "isDataInBiobank": false
+    },
+    "collectionProcess": {},
+    "geographicalCoverage": {
+      "geoDetail": [
+        {
+          "lang": "fr",
+          "value": "Etude multicentrique - 7 centres en France: Besançon, Grenoble, Lille, Montpellier, Strasbourg, Toulouse, Brest"
+        },
+        {
+          "lang": "en",
+          "value": "Multi-center study - 7 centers in France: Besançon, Grenoble, Lille, Montpellier, Strasbourg, Toulouse, Brest"
+        }
+      ]
+    },
+    "activeFollowUp": {
+      "isActiveFollowUp": false
+    },
+    "dataCollectionIntegration": {
+      "isDataIntegration": false
+    },
+    "isHealthTheme": true
+  },
+  "schematype": "survey"
+}

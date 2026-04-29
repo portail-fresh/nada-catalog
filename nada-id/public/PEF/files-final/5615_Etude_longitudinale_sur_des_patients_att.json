@@ -1,0 +1,836 @@
+{
+  "stdyDscr": {
+    "citation": {
+      "titlStmt": {
+        "IDNo": [
+          {
+            "agency": "PEF",
+            "value": "5615"
+          },
+          {
+            "agency": "FReSH",
+            "value": "FRESH-PEF5615"
+          }
+        ],
+        "titl": [
+          {
+            "lang": "fr",
+            "value": "Etude longitudinale sur des patients atteints de la maladie thromboembolique veineuse (MTEV) suite à une maladie cancéreuse: prescription et utilisation des Héparines de Bas Poids Moléculaire (HBPM)"
+          },
+          {
+            "lang": "en",
+            "value": "Prescription and Utilisation of Low Molecular Weight Heparin (LMWH) in Usual Medical Practice for the Curative Treatment of Venous Thromboembolism (VTE) in Patients With Cancer."
+          }
+        ],
+        "altTitl": [
+          {
+            "lang": "fr",
+            "value": "TROPIQUE"
+          },
+          {
+            "lang": "en",
+            "value": "TROPIQUE"
+          }
+        ]
+      },
+      "rspStmt": {
+        "AuthEnty": [
+          {
+            "name": "Anne;LAMBLIN",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "LABORATOIRES LEO (LEO PHARMA)"
+              },
+              {
+                "lang": "en",
+                "value": "LABORATOIRES LEO (LEO PHARMA)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "0009-0001-8771-2478",
+                "role": "pi id",
+                "title": "ORCID"
+              },
+              {
+                "uri": "076298566",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/02wvemr05",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "572208122",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ],
+            "isContact": true,
+            "email": "anne.lamblin@leo-pharma.com",
+            "PILabo": "LEO Pharma / LEO Pharma France"
+          }
+        ],
+        "othId": []
+      },
+      "distStmt": {
+        "contact": [
+          {
+            "name": "Anne;LAMBLIN",
+            "email": "anne.lamblin@leo-pharma.com",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "LABORATOIRES LEO (LEO PHARMA)"
+              },
+              {
+                "lang": "en",
+                "value": "LABORATOIRES LEO (LEO PHARMA)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/02wvemr05",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "572208122",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          }
+        ]
+      },
+      "prodStmt": {
+        "fundAg": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "LABORATOIRES LEO (LEO PHARMA)"
+              },
+              {
+                "lang": "en",
+                "value": "LABORATOIRES LEO (LEO PHARMA)"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "ROR",
+                "uri": "https://ror.org/02wvemr05"
+              },
+              {
+                "title": "SIREN",
+                "uri": "572208122"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Industrie"
+              },
+              {
+                "lang": "en",
+                "value": "Industry"
+              }
+            ]
+          }
+        ],
+        "producer": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "LABORATOIRES LEO (LEO PHARMA)"
+              },
+              {
+                "lang": "en",
+                "value": "LABORATOIRES LEO (LEO PHARMA)"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Industrie"
+              },
+              {
+                "lang": "en",
+                "value": "Industry"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "ROR",
+                "uri": "https://ror.org/02wvemr05"
+              },
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "572208122"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "studyAuthorization": [
+      {
+        "authorizingAgency": {
+          "lang": "fr",
+          "value": "CNIL"
+        }
+      },
+      {
+        "authorizingAgency": {
+          "lang": "fr",
+          "value": "CESREES"
+        }
+      }
+    ],
+    "method": {
+      "notes": [
+        {
+          "subject": "research type",
+          "lang": "fr",
+          "value": "Etude observationnelle"
+        },
+        {
+          "subject": "research type",
+          "lang": "en",
+          "value": "Observational Study"
+        }
+      ],
+      "stdyClas": [
+        {
+          "lang": "fr",
+          "value": "Inconnu"
+        },
+        {
+          "lang": "en",
+          "value": "Unknown"
+        }
+      ],
+      "dataColl": {
+        "targetSampleSize": [
+          {
+            "lang": "fr",
+            "value": "< 500 individus"
+          },
+          {
+            "lang": "en",
+            "value": "< 500 individuals"
+          }
+        ],
+        "sampleFrame": {
+          "frameUnit": {
+            "unitType": [
+              {
+                "lang": "fr",
+                "value": "Via des structures (services ou établissements de santé, écoles, entreprises…)"
+              },
+              {
+                "lang": "en",
+                "value": "Through organizations (health services or institutions, schools, businesses, etc.)"
+              }
+            ]
+          }
+        },
+        "sources": [
+          {}
+        ],
+        "collMode": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Interview",
+              "vocab": "CESSDA"
+            },
+            "value": "Entretien avec le participant (dont clinique)"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Interview",
+              "vocab": "CESSDA"
+            },
+            "value": "Interview with the participant (including clinical)"
+          }
+        ],
+        "sampProc": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ],
+        "respRate": [
+          {
+            "lang": "fr",
+            "value": "155 (21/03/2013)"
+          },
+          {
+            "lang": "en",
+            "value": "155 (21/03/2013)"
+          }
+        ]
+      }
+    },
+    "stdyInfo": {
+      "abstract": [
+        {
+          "contentType": "purpose",
+          "lang": "fr",
+          "value": "Décrire les modalités de prescription et d’utilisation des HBPM en pratique courante en France, dans le traitement de la MTEV symptomatique chez les patients atteints d’une maladie cancéreuse. Evaluer la conformité de l’utilisation des HBPM avec les recommandations nationales (www.sor-cancer.com et www.thrombose-cancer.com) sur le traitement de la MTEV chez le patient atteint d’une maladie cancéreuse. Evaluer les récidives thromboemboliques, les hémorragies, les thrombocytopénies ainsi que les décès et documenter les raisons d’arrêt du traitement. Décrire les facteurs cliniques associés à la durée de la prescription des HBPM et ceux associés à la survenue d’une MTEV chez les patients atteints d’une maladie cancéreuse. Evaluer la perception du traitement anticoagulant par le patient atteint d’une maladie cancéreuse afin de mieux connaitre sa satisfaction vis-à-vis de son traitement par HBPM."
+        },
+        {
+          "contentType": "purpose",
+          "lang": "en",
+          "value": "To document the prescription and the use of LMWH in usual medical practice in France for the treatment of symptomatic VTE in patients with cancer. To assess the conformity of LMWH usage with national recommendations (www.sor-cancer.com et www.thrombose-cancer.com) for VTE treatment in patients with cancer. To evaluate thromboembolism recurrence, bleeding, thrombocytopenia and death as well as document the reasons for discontinuing treatment. To describe clinical factors associated with LMWH treatment duration and those associated with the occurrence of VTE in patients with cancer. To evaluate anticoagulant treatment perception in cancer patients in order to have a better knowledge of their LMWH treatment satisfaction."
+        }
+      ],
+      "subject": {
+        "topcClas": [
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/5784b7f1-c7ce-49d9-9f38-aebcda0ff41d"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D008495"
+              }
+            ],
+            "value": "Oncologie"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/5784b7f1-c7ce-49d9-9f38-aebcda0ff41d"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D008495"
+              }
+            ],
+            "value": "Oncology"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "fr",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/326705068",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Fonctions des systèmes cardiovasculaire, hématopoïétique, immunitaire et respiratoire"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "en",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/326705068",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Functions of the cardiovascular, haematological, immunological and respiratory systems"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "fr",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/1594217552",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Tumeurs malignes de localisations primitives mal définies ou non précisées"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "en",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/1594217552",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Malignant neoplasms of ill-defined or unspecified primary sites"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants liés au système de santé : Consommation des soins"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants liés au système de santé"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Healthcare system determinants: Use of care"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Healthcare system determinants"
+          }
+        ],
+        "keyword": [
+          {
+            "lang": "fr",
+            "value": "Venous thromboembolism"
+          },
+          {
+            "lang": "fr",
+            "value": "LMWH"
+          },
+          {
+            "lang": "fr",
+            "value": "Cancer"
+          },
+          {
+            "lang": "en",
+            "value": "Venous thromboembolism"
+          },
+          {
+            "lang": "en",
+            "value": "Cancer"
+          },
+          {
+            "lang": "en",
+            "value": "LMWH"
+          }
+        ]
+      },
+      "qualityStatement": {
+        "standardsCompliance": {}
+      },
+      "sumDscr": {
+        "dataKind": [
+          {
+            "lang": "fr",
+            "value": "Données cliniques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données rapportées par le participant de l&#x27;étude"
+          },
+          {
+            "lang": "en",
+            "value": "Clinical data"
+          },
+          {
+            "lang": "en",
+            "value": "Participant-reported health data"
+          }
+        ],
+        "anlyUnit": [
+          {
+            "lang": "fr",
+            "value": "Individus"
+          },
+          {
+            "lang": "en",
+            "value": "Individuals"
+          }
+        ],
+        "nation": [
+          {
+            "lang": "fr",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          },
+          {
+            "lang": "en",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          }
+        ],
+        "universe": [
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Masculin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Féminin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Male"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Female"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Adulte (19 à 24 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adulte (25 à 44 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Adulte (45 à 64 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Personne âgée (65 à 79 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000369"
+            },
+            "value": "Grand âge (80 ans et plus)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Young Adult (19 to 24 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adult (25 to 44 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Middle Aged (45 to 64 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Aged (65 to 79 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000369"
+            },
+            "value": "Aged, 80 and over (80 years and more)"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Patients"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "en",
+            "value": "Patients population"
+          },
+          {
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Homme ou femme âgé(e) de 18 ans ou plus. Patient ayant donné son consentement oral de participation après avoir reçu les informations orales et écrites concernant l’étude.  Patient atteint d’une tumeur solide ou liquide confirmée par un examen histologique ou cytologique, et recevant une thérapie anticancéreuse ou des soins palliatifs. Patient ayant un diagnostic récent de la maladie thromboembolique veineuse (MTEV) définie par : -une thrombose veineuse profonde (TVP) symptomatique proximale ou distale  -une embolie pulmonaire (EP) confirmée -une embolie viscérale -une thrombose sur cathéter veineux central de longue durée. Patient ayant initié le traitement curatif de la MTEV par HBPM depuis 7 jours au plus.  "
+          },
+          {
+            "clusion": "I",
+            "lang": "en",
+            "value": "Men or women aged 18 years or more. Patients who have given oral consent to participate after receiving oral and written information concerning the study. Patients with a solid or liquid tumour confirmed by a histological or cytological examination and receiving anti-cancerous therapy or palliative care. Patients diagnosed with venous thromboembolism (VTE) defined as: - symptomatic proximal or distal deep vein thrombosis (DVP) - confirmed pulmonary embolism (PE) - visceral embolism - thrombosis from a long-term central venous catheter. Patients who have begun curative VTE treatment with LMWH for 7 days or more."
+          },
+          {
+            "clusion": "E",
+            "lang": "fr",
+            "value": "Patient traité par HBPM depuis plus de 7 jours Patient présentant des contre-indications à l’utilisation des HBPM, conformément aux RCP respectifs"
+          },
+          {
+            "clusion": "E",
+            "lang": "en",
+            "value": "Patients treated with LMWH for more than 7 days. Patients presenting contraindications to LMWH use confirmed by respective multidisciplinary meetings."
+          }
+        ],
+        "collDate": [
+          {
+            "event": "start",
+            "value": "2012-01-01"
+          },
+          {
+            "event": "end",
+            "value": "2014-01-01"
+          }
+        ]
+      }
+    },
+    "dataAccs": {
+      "setAvail": {
+        "avlStatus": [
+          {
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Accès réservé"
+          },
+          {
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Restricted access"
+          }
+        ],
+        "conditions": [
+          {
+            "lang": "fr",
+            "value": "Toute demande doit être faite auprès de LEO Pharma"
+          },
+          {
+            "lang": "en",
+            "value": "All requests to be sent to LEO Pharma"
+          }
+        ]
+      },
+      "useStmt": {}
+    },
+    "othStdMat": {
+      "relMat": [
+        {
+          "lang": "fr",
+          "value": "Accès restreint sur projet spécifique"
+        },
+        {
+          "lang": "en",
+          "value": "Access on specific project only"
+        }
+      ]
+    },
+    "studyDevelopment": {
+      "developmentActivity": [
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/morbidité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/mortalité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Consommation de soins/services de santé"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/morbidity"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/mortality"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health care consumption and services"
+        }
+      ]
+    }
+  },
+  "docDscr": {
+    "citation": {
+      "rspStmt": {
+        "AuthEnty": "Nadine MACKENZIE"
+      },
+      "prodStmt": {
+        "producer": [
+          {
+            "affiliation": "LABORATOIRES LEO (LEO PHARMA)",
+            "value": "Nadine;MACKENZIE"
+          }
+        ],
+        "prodPlac": "Portail Épidémiologie France"
+      }
+    }
+  },
+  "additional": {
+    "prodPlac": "Portail Épidémiologie France",
+    "relatedDocuments": {
+      "documentTitle": [
+        {
+          "lang": "fr"
+        },
+        {
+          "lang": "en"
+        }
+      ],
+      "documentLink": [
+        {
+          "lang": "fr",
+          "value": "http://www.ncbi.nlm.nih.gov/pubmed/25099690"
+        },
+        {
+          "lang": "en",
+          "value": "http://www.ncbi.nlm.nih.gov/pubmed/25099690"
+        }
+      ]
+    },
+    "creationDate": "08-03-2013",
+    "lastUpdatedManual": "11-08-2014",
+    "theme": {},
+    "governance": {},
+    "collaborations": {},
+    "mockSample": {},
+    "dataQuality": {},
+    "variableDictionnary": {},
+    "dataTypes": {
+      "isDataInBiobank": false
+    },
+    "collectionProcess": {
+      "collectionModeDetails": [
+        {
+          "lang": "fr",
+          "value": "Un questionnaire de satisfaction vis-à-vis du traitement par HBPM sera rempli par le patient à l’inclusion et à la fin de son traitement."
+        },
+        {
+          "lang": "en",
+          "value": "A satisfaction questionnaire regarding LMWH treatment will be completed by the patient at baseline and at the end of their treatment."
+        }
+      ]
+    },
+    "geographicalCoverage": {
+      "geoDetail": [
+        {
+          "lang": "fr",
+          "value": "France"
+        },
+        {
+          "lang": "en",
+          "value": "France"
+        }
+      ]
+    },
+    "activeFollowUp": {
+      "isActiveFollowUp": true
+    },
+    "dataCollectionIntegration": {
+      "isDataIntegration": false
+    },
+    "isHealthTheme": true
+  },
+  "schematype": "survey"
+}

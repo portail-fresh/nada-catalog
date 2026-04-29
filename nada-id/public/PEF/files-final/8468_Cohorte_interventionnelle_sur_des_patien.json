@@ -1,0 +1,932 @@
+{
+  "stdyDscr": {
+    "citation": {
+      "titlStmt": {
+        "IDNo": [
+          {
+            "agency": "PEF",
+            "value": "8468"
+          },
+          {
+            "agency": "FReSH",
+            "value": "FRESH-PEF8468"
+          }
+        ],
+        "titl": [
+          {
+            "lang": "fr",
+            "value": "Cohorte interventionnelle sur des patients porteurs d’un cancer œso-gastrique nouvellement diagnostiqués et naïfs de tout traitement"
+          },
+          {
+            "lang": "en",
+            "value": "FREGAT"
+          }
+        ],
+        "altTitl": {
+          "lang": "fr",
+          "value": "FREGAT"
+        }
+      },
+      "rspStmt": {
+        "AuthEnty": [
+          {
+            "name": "Christophe;MARIETTE",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "CENTRE HOSPITALIER UNIVERSITAIRE DE LILLE (CHU)"
+              },
+              {
+                "lang": "en",
+                "value": "CENTRE HOSPITALIER UNIVERSITAIRE DE LILLE (CHU)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "07469684X",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/02ppyfa04",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "265906719",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ],
+            "isContact": false,
+            "email": "",
+            "PILabo": "CHRU"
+          }
+        ],
+        "othId": []
+      },
+      "distStmt": {},
+      "prodStmt": {
+        "fundAg": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "INSTITUT NATIONAL DU CANCER (INCA)"
+              },
+              {
+                "lang": "en",
+                "value": "INSTITUT NATIONAL DU CANCER (INCA)"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "ROR",
+                "uri": "https://ror.org/03m8vkq32"
+              },
+              {
+                "title": "SIREN",
+                "uri": "187512777"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ]
+          }
+        ],
+        "producer": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "CENTRE HOSPITALIER UNIVERSITAIRE DE LILLE (CHU)"
+              },
+              {
+                "lang": "en",
+                "value": "CENTRE HOSPITALIER UNIVERSITAIRE DE LILLE (CHU)"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "ROR",
+                "uri": "https://ror.org/02ppyfa04"
+              },
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "265906719"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "studyAuthorization": [
+      {
+        "authorizingAgency": {
+          "lang": "fr",
+          "value": "CNIL"
+        }
+      },
+      {
+        "authorizingAgency": {
+          "lang": "fr",
+          "value": "ANSM"
+        }
+      },
+      {
+        "authorizingAgency": {
+          "lang": "fr",
+          "value": "CPP"
+        }
+      },
+      {
+        "authorizingAgency": {
+          "lang": "fr",
+          "value": "CESREES"
+        }
+      }
+    ],
+    "method": {
+      "notes": [
+        {
+          "subject": "research type",
+          "lang": "fr",
+          "value": "Etude observationnelle"
+        },
+        {
+          "subject": "research type",
+          "lang": "en",
+          "value": "Observational Study"
+        },
+        {
+          "lang": "fr",
+          "subject": "observational study method",
+          "value": "Cohorte"
+        },
+        {
+          "lang": "en",
+          "subject": "observational study method",
+          "value": "Cohort study"
+        }
+      ],
+      "stdyClas": [
+        {
+          "lang": "fr",
+          "value": "Inconnu"
+        },
+        {
+          "lang": "en",
+          "value": "Unknown"
+        }
+      ],
+      "dataColl": {
+        "targetSampleSize": [
+          {
+            "lang": "fr",
+            "value": ">= 20000 individus"
+          },
+          {
+            "lang": "en",
+            "value": ">= 20000 individuals"
+          }
+        ],
+        "sampleFrame": {
+          "frameUnit": {
+            "unitType": [
+              {
+                "lang": "fr",
+                "value": "Via des structures (services ou établissements de santé, écoles, entreprises…)"
+              },
+              {
+                "lang": "en",
+                "value": "Through organizations (health services or institutions, schools, businesses, etc.)"
+              }
+            ]
+          }
+        },
+        "sources": [
+          {}
+        ],
+        "collMode": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Transcription",
+              "vocab": "CESSDA"
+            },
+            "value": "Transcription et saisie d’informations dans un enregistrement structuré"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Transcription",
+              "vocab": "CESSDA"
+            },
+            "value": "Converting or copying information into a structured record"
+          }
+        ],
+        "sampProc": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ],
+        "respRate": [
+          {
+            "lang": "fr",
+            "value": "135 patients au 20/01/2015"
+          },
+          {
+            "lang": "en",
+            "value": "135 patients au 20/01/2015"
+          }
+        ]
+      }
+    },
+    "stdyInfo": {
+      "abstract": [
+        {
+          "contentType": "purpose",
+          "lang": "fr",
+          "value": "Objectif Principal : Identifier les facteurs cliniques, biologiques et tumoraux liés à la résistance aux traitements anti-tumoraux chez les patients traités pour un cancer de l’œsophage ou de l’estomac de stade I à IV, via la constitution d’une base de données clinico-biologiques, prospective, multicentrique française. Objectifs Secondaires : - Evaluer l’impact des différentes stratégies thérapeutiques usuelles sur la récidive, sur la survie et sur la qualité de vie. - Identifier les facteurs prédictifs de résistance aux traitements de ces patients afin d’identifier les combinaisons thérapeutiques les plus efficientes et les moins toxiques. - Décrire les caractéristiques individuelles, sociales et comportementales des patients inclus dans l’étude. - Identifier les déterminants individuels et collectifs ayant une influence sur les délais d’accès aux soins et de mise en route des traitements. - Identifier de nouveaux facteurs pronostiques et prédictifs de rechute."
+        },
+        {
+          "contentType": "purpose",
+          "lang": "en",
+          "value": "Main Objective: To identify, through the creation of a clinico-biological, prospective, multicentric French database, the clinical, biological and tumour factors linked to anti-tumour therapy resistance in patients treated for stage I to IV oesophageal or stomach cancer. Secondary Objectives: - To assess the impact of different current therapeutic strategies for recurrence, survival and quality of life. - To identify predictive factors for patient treatment resistance in order to identify the most efficient and least toxic therapeutic combination. - To describe individual, social and behavioural characteristics of patients included in the study. - To identify individual and collective determinants that influence possible access to care and initiation of treatment. - To identify new prognostic and predictive relapse factors."
+        }
+      ],
+      "subject": {
+        "topcClas": [
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/5784b7f1-c7ce-49d9-9f38-aebcda0ff41d"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D008495"
+              }
+            ],
+            "value": "Oncologie"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/a3898340-a42d-4f5e-a822-1de204a9a867"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D005762"
+              }
+            ],
+            "value": "Gastroentérologie"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/5784b7f1-c7ce-49d9-9f38-aebcda0ff41d"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D008495"
+              }
+            ],
+            "value": "Oncology"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/a3898340-a42d-4f5e-a822-1de204a9a867"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D005762"
+              }
+            ],
+            "value": "Gastroenterology"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants comportementaux"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants comportementaux : Alimentation"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants liés au système de santé : Consommation des soins"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants liés au système de santé"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Behavioral determinants"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Behavioral determinants: Eating habits"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Healthcare system determinants: Use of care"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Healthcare system determinants"
+          }
+        ],
+        "keyword": [
+          {
+            "lang": "fr",
+            "value": "Tumeur de l'oesophage"
+          },
+          {
+            "lang": "fr",
+            "value": "tumeur de l'estomac"
+          },
+          {
+            "lang": "fr",
+            "value": "maladies de l'oesophage"
+          },
+          {
+            "lang": "fr",
+            "value": "maladies du système digestif"
+          },
+          {
+            "lang": "fr",
+            "value": "cancer oeso-gastrique"
+          },
+          {
+            "lang": "fr",
+            "value": "appareil digestif"
+          },
+          {
+            "lang": "fr",
+            "value": "base clinico-biologique"
+          },
+          {
+            "lang": "fr",
+            "value": "chirurgie"
+          },
+          {
+            "lang": "en",
+            "value": "Tumour of the oesophagus"
+          },
+          {
+            "lang": "en",
+            "value": "stomach tumour"
+          },
+          {
+            "lang": "en",
+            "value": "diseases of the oesophagus"
+          },
+          {
+            "lang": "en",
+            "value": "digestive system diseases"
+          },
+          {
+            "lang": "en",
+            "value": "gastroesophageal cancer"
+          },
+          {
+            "lang": "en",
+            "value": "digestive system"
+          },
+          {
+            "lang": "en",
+            "value": "clinical and biological records"
+          },
+          {
+            "lang": "en",
+            "value": "surgery"
+          }
+        ]
+      },
+      "qualityStatement": {
+        "standardsCompliance": {}
+      },
+      "sumDscr": {
+        "dataKind": [
+          {
+            "lang": "fr",
+            "value": "Données cliniques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données rapportées par le participant de l&#x27;étude"
+          },
+          {
+            "lang": "fr",
+            "value": "Données biologiques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données socio-démographiques"
+          },
+          {
+            "lang": "en",
+            "value": "Clinical data"
+          },
+          {
+            "lang": "en",
+            "value": "Participant-reported health data"
+          },
+          {
+            "lang": "en",
+            "value": "Biological data"
+          },
+          {
+            "lang": "en",
+            "value": "Socio-demographic data"
+          }
+        ],
+        "anlyUnit": [
+          {
+            "lang": "fr",
+            "value": "Individus"
+          },
+          {
+            "lang": "en",
+            "value": "Individuals"
+          }
+        ],
+        "nation": [
+          {
+            "lang": "fr",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          },
+          {
+            "lang": "en",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          }
+        ],
+        "universe": [
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Masculin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Féminin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Male"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Female"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Adulte (19 à 24 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adulte (25 à 44 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Adulte (45 à 64 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Personne âgée (65 à 79 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000369"
+            },
+            "value": "Grand âge (80 ans et plus)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Young Adult (19 to 24 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adult (25 to 44 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Middle Aged (45 to 64 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Aged (65 to 79 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000369"
+            },
+            "value": "Aged, 80 and over (80 years and more)"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Patients"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "en",
+            "value": "Patients population"
+          },
+          {
+            "clusion": "I",
+            "lang": "fr",
+            "value": " Homme ou femme supérieur(e) ou égal à 18 ans. - Présentant un cancer œsophagien, de la jonction œsogastrique ou gastrique nouvellement diagnostiqué par biopsie, quelque soit le sous-type de cancer, le stade tumoral ou le traitement envisagé. - Naïf de traitement pour le présent cancer, à défaut ayant reçu un traitement néoadjuvant. - Bénéficiant d’un régime de protection sociale. - Ayant signé le consentement libre et éclairé pour les prélèvements sanguins, les différents questionnaires et la collecte d’informations patient.  "
+          },
+          {
+            "clusion": "I",
+            "lang": "en",
+            "value": "Men or women ≥ 18 ans. - Presenting with oesophageal or gastro-oesophageal junction carcinoma recently diagnosed by biopsy, regardless of cancer subtype, tumour stage or proposed treatment. - Treatment-naive cancer. - Have given clear and written consent for blood samples, various questionnaires and the collection of patient information. N.B.: Patients participating in a clinical trial can be included in the FREGAT trial. There is no exclusion period."
+          },
+          {
+            "clusion": "E",
+            "lang": "fr",
+            "value": ""
+          },
+          {
+            "clusion": "E",
+            "lang": "en",
+            "value": ""
+          }
+        ],
+        "collDate": {
+          "event": "start",
+          "value": "2014-01-01"
+        }
+      }
+    },
+    "dataAccs": {
+      "setAvail": {
+        "avlStatus": [
+          {
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Accès réservé"
+          },
+          {
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Restricted access"
+          }
+        ],
+        "conditions": [
+          {
+            "lang": "fr",
+            "value": "Aucune publication ou présentation des résultats de cet essai ne pourra être effectuée sans l’accord du promoteur (CHRU de Lille) et de l’investigateur coordonnateur."
+          },
+          {
+            "lang": "en",
+            "value": "Publication or presentation of results from this trial is not permitted without prior agreement from the sponsor (CHRU de Lille) and coordinating researcher."
+          }
+        ]
+      },
+      "useStmt": {}
+    },
+    "othStdMat": {
+      "relMat": [
+        {
+          "lang": "fr",
+          "value": "Accès restreint sur projet spécifique"
+        },
+        {
+          "lang": "en",
+          "value": "Access on specific project only"
+        }
+      ]
+    },
+    "studyDevelopment": {
+      "developmentActivity": [
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/morbidité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/mortalité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Consommation de soins/services de santé"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Qualité de vie/santé perçue"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Autres"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/morbidity"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/mortality"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health care consumption and services"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Quality of life/health perception"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Others"
+        }
+      ]
+    }
+  },
+  "docDscr": {
+    "citation": {
+      "rspStmt": {
+        "AuthEnty": "Christophe MARIETTE"
+      },
+      "prodStmt": {
+        "producer": [
+          {
+            "affiliation": "CENTRE HOSPITALIER UNIVERSITAIRE DE LILLE (CHU)",
+            "value": "Christophe;MARIETTE"
+          }
+        ],
+        "prodPlac": "Portail Épidémiologie France"
+      }
+    }
+  },
+  "additional": {
+    "prodPlac": "Portail Épidémiologie France",
+    "relatedDocuments": [
+      {
+        "documentTitle": [
+          {
+            "lang": "fr"
+          },
+          {
+            "lang": "en"
+          }
+        ],
+        "documentLink": [
+          {
+            "lang": "fr",
+            "value": "http://www.ncbi.nlm.nih.gov/pubmed/25062398"
+          },
+          {
+            "lang": "en",
+            "value": "http://www.ncbi.nlm.nih.gov/pubmed/25062398"
+          }
+        ]
+      },
+      {
+        "documentTitle": [
+          {
+            "lang": "fr",
+            "value": "Lien des publications Pubmed"
+          },
+          {
+            "lang": "en",
+            "value": "Lien des publications Pubmed"
+          }
+        ],
+        "documentLink": [
+          {
+            "lang": "fr",
+            "value": "http://tinyurl.com/FREGAT"
+          },
+          {
+            "lang": "en",
+            "value": "http://tinyurl.com/FREGAT"
+          }
+        ]
+      }
+    ],
+    "creationDate": "24-03-2014",
+    "lastUpdatedManual": "31-07-2014",
+    "theme": {},
+    "governance": {},
+    "collaborations": {},
+    "mockSample": {},
+    "dataQuality": {},
+    "variableDictionnary": {},
+    "dataTypes": {
+      "clinicalDataDetails": {
+        "lang": "fr",
+        "value": "Recueil dans un e-crf de : - variables cliniques (poids, taille, co-morbidité, date du premier symptôme / description, date de première consultation, type de spécialiste consulté, fréquence des consultations (généraliste / spécialiste), médications concomitantes, paramètres nutritionnels, alcool et tabac, reflux, obésité, habitudes alimentaires…)- variables pathologiques (biopsies pré-thérapeutiques, biopsies post-thérapeutiques, banque de tumeurs, localisation, stade pTNM, données pathologiques, observation de marqueurs de résistance aux traitements, métastases, régression, progression, récurrence, histologie, effet du traitement néo-adjuvant…)- variables thérapeutiques : : stratégie thérapeutique, chimiothérapie, chirurgie, radiothérapie, évaluation de la réponse et de la tolérance."
+      },
+      "biologicalDataDetails": [
+        {
+          "lang": "fr",
+          "value": "- une collection d’échantillons tumoraux (biopsies pré-thérapeutiques, biopsies post-thérapeutiques, pièces opératoires) collectée en respectant les chartes qualité en vigueur. Ces échantillons seront conservés, dans le centre investigateur correspondant, idéalement en congélation, mais à défaut la conservation en paraffine sera acceptée.- une collection d’échantillons sanguins dont la mise en place est prévue dans 6 centres à fort potentiel de recrutement et possédant un Centre de Ressources Biologique (CRB) (soit environ 3000 patients) . Ces CRB labellisés assureront le contrôle qualité des échantillons comme usuellement."
+        },
+        {
+          "lang": "en",
+          "value": "- a collection of tumour samples (pre-treatment biopsies. post-treatment biopsies, surgical specimens) collected in accordance with current quality charters. These samples will be stored in the corresponding investigation centre. Samples will ideally be frozen. However, paraffin conservation will also be acceptable. - blood sample collection to be put in place in 6 centres with high recruitment potential that have a Biological Resource Centre (CRB) (approximately 3,000 patients). These approved CRBs will ensure sample quality control as per usual."
+        }
+      ],
+      "isDataInBiobank": true
+    },
+    "collectionProcess": {
+      "collectionModeDetails": [
+        {
+          "lang": "fr",
+          "value": "Le recueil des données cliniques, biologiques, épidémiologiques ainsi que les caractéristiques des traitements des patients seront recueillies dans le cahier d’observation électronique (e-CRF) de l’étude"
+        },
+        {
+          "lang": "en",
+          "value": "The collection of clinical, biological and epidemiological data as well as the characteristics of patient treatment will be stored in the electronic case report form (e-CRF) for the study"
+        }
+      ]
+    },
+    "geographicalCoverage": {
+      "geoDetail": [
+        {
+          "lang": "fr",
+          "value": "France métropolitaine (33 centres, 46 équipes)"
+        },
+        {
+          "lang": "en",
+          "value": "Metropolitan France (33 centres, 46 teams)"
+        }
+      ]
+    },
+    "activeFollowUp": {
+      "isActiveFollowUp": true
+    },
+    "dataCollectionIntegration": {
+      "isDataIntegration": false
+    },
+    "isHealthTheme": true
+  },
+  "schematype": "survey"
+}

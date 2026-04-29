@@ -1,0 +1,911 @@
+{
+  "stdyDscr": {
+    "citation": {
+      "titlStmt": {
+        "IDNo": [
+          {
+            "agency": "PEF",
+            "value": "2943"
+          },
+          {
+            "agency": "FReSH",
+            "value": "FRESH-PEF2943"
+          }
+        ],
+        "titl": [
+          {
+            "lang": "fr",
+            "value": "Utilisation d'Instanyl rapportée par les patients"
+          },
+          {
+            "lang": "en",
+            "value": "Patient reported Instanyl® Use Study"
+          }
+        ],
+        "altTitl": [
+          {
+            "lang": "fr",
+            "value": "PIUS"
+          },
+          {
+            "lang": "en",
+            "value": "PIUS"
+          }
+        ]
+      },
+      "rspStmt": {
+        "AuthEnty": [
+          {
+            "name": "Patrick;BLIN",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "UNIVERSITE DE BORDEAUX"
+              },
+              {
+                "lang": "en",
+                "value": "UNIVERSITE DE BORDEAUX"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "0000-0003-4005-7928",
+                "role": "pi id",
+                "title": "ORCID"
+              },
+              {
+                "uri": "182433455",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/057qpr032",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "130018351",
+                "role": "organisation id",
+                "title": "SIREN"
+              },
+              {
+                "uri": "200120110J",
+                "role": "labo id",
+                "title": "RNSR"
+              }
+            ],
+            "isContact": true,
+            "email": "patrick.blin@u-bordeaux.fr",
+            "PILabo": "Université Bordeaux / Service de Pharmacologie, CIC-P 0005-INSERM U657- Université Bordeaux Segalen"
+          },
+          {
+            "name": "Nicholas;MOORE",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "UNIVERSITE DE BORDEAUX"
+              },
+              {
+                "lang": "en",
+                "value": "UNIVERSITE DE BORDEAUX"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "0000-0003-1212-2817",
+                "role": "pi id",
+                "title": "ORCID"
+              },
+              {
+                "uri": "077852877",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/057qpr032",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "130018351",
+                "role": "organisation id",
+                "title": "SIREN"
+              },
+              {
+                "uri": "200120110J",
+                "role": "labo id",
+                "title": "RNSR"
+              }
+            ],
+            "isContact": true,
+            "email": "nicholas.moore@u-bordeaux.fr",
+            "PILabo": "Université Bordeaux / Service de Pharmacologie, CIC-P 0005-INSERM U657- Université Bordeaux Segalen"
+          }
+        ],
+        "othId": []
+      },
+      "distStmt": {
+        "contact": [
+          {
+            "name": "Patrick;BLIN",
+            "email": "patrick.blin@u-bordeaux.fr",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "UNIVERSITE DE BORDEAUX"
+              },
+              {
+                "lang": "en",
+                "value": "UNIVERSITE DE BORDEAUX"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/057qpr032",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "130018351",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          },
+          {
+            "name": "Nicholas;MOORE",
+            "email": "nicholas.moore@u-bordeaux.fr",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "UNIVERSITE DE BORDEAUX"
+              },
+              {
+                "lang": "en",
+                "value": "UNIVERSITE DE BORDEAUX"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/057qpr032",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "130018351",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          }
+        ]
+      },
+      "prodStmt": {
+        "fundAg": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "TAKEDA FRANCE SAS"
+              },
+              {
+                "lang": "en",
+                "value": "TAKEDA FRANCE SAS"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "SIREN",
+                "uri": "785750266"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Industrie"
+              },
+              {
+                "lang": "en",
+                "value": "Industry"
+              }
+            ]
+          }
+        ],
+        "producer": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "UNIVERSITE DE BORDEAUX"
+              },
+              {
+                "lang": "en",
+                "value": "UNIVERSITE DE BORDEAUX"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "ROR",
+                "uri": "https://ror.org/057qpr032"
+              },
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "130018351"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "studyAuthorization": [
+      {
+        "authorizingAgency": {
+          "lang": "fr",
+          "value": "CNIL"
+        }
+      },
+      {
+        "authorizingAgency": {
+          "lang": "fr",
+          "value": "CESREES"
+        }
+      }
+    ],
+    "method": {
+      "notes": [
+        {
+          "subject": "research type",
+          "lang": "fr",
+          "value": "Etude observationnelle"
+        },
+        {
+          "subject": "research type",
+          "lang": "en",
+          "value": "Observational Study"
+        }
+      ],
+      "stdyClas": [
+        {
+          "lang": "fr",
+          "value": "Étude complétée"
+        },
+        {
+          "lang": "en",
+          "value": "Completed study"
+        }
+      ],
+      "dataColl": {
+        "targetSampleSize": [
+          {
+            "lang": "fr",
+            "value": "[500-1000[ individus"
+          },
+          {
+            "lang": "en",
+            "value": "[500-1000[ individuals"
+          }
+        ],
+        "timeMeth": [
+          {
+            "lang": "fr",
+            "value": "Etude transversale non répétée"
+          },
+          {
+            "lang": "en",
+            "value": "One-time cross-sectional study"
+          }
+        ],
+        "sampleFrame": {
+          "frameUnit": {
+            "unitType": [
+              {
+                "lang": "fr",
+                "value": "Via les professionnels d&#x27;exercice libéral"
+              },
+              {
+                "lang": "en",
+                "value": "Through independent healthcare practitioners"
+              }
+            ]
+          }
+        },
+        "sources": [
+          {}
+        ],
+        "collMode": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Interview",
+              "vocab": "CESSDA"
+            },
+            "value": "Entretien avec le participant (dont clinique)"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Interview",
+              "vocab": "CESSDA"
+            },
+            "value": "Interview with the participant (including clinical)"
+          }
+        ],
+        "sampProc": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ],
+        "respRate": [
+          {
+            "lang": "fr",
+            "value": "600 patients inclus - 600 patients included"
+          },
+          {
+            "lang": "en",
+            "value": "600 patients inclus - 600 patients included"
+          }
+        ]
+      }
+    },
+    "stdyInfo": {
+      "abstract": [
+        {
+          "contentType": "purpose",
+          "lang": "fr",
+          "value": "L’objectif est d’évaluer le mésusage, le détournement d’utilisation et l’abus d’Instanyl® reportés par les patients en vie réelle. Les données sur les prescriptions hors indication permettront de compléter les données de l’étude réalisée dans les cinq pays du Nord de l’Europe (étude LINUS, record Linkage INstanyl Use Study)."
+        },
+        {
+          "contentType": "purpose",
+          "lang": "en",
+          "value": "The objective is to evaluate the misuse, diversion and abuse of Instanyl® reported by patients in real life. Data collected in the study on off-label prescriptions will complement the study data in five north-European countries (LINUS study, record Linkage Instanyl Use Study)."
+        }
+      ],
+      "subject": {
+        "topcClas": [
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/5784b7f1-c7ce-49d9-9f38-aebcda0ff41d"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D008495"
+              }
+            ],
+            "value": "Oncologie"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/5784b7f1-c7ce-49d9-9f38-aebcda0ff41d"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D008495"
+              }
+            ],
+            "value": "Oncology"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants comportementaux : Addictions"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants liés au système de santé : Consommation des soins"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants comportementaux"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants liés au système de santé"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Behavioral determinants: Addiction"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Healthcare system determinants: Use of care"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Behavioral determinants"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Healthcare system determinants"
+          }
+        ],
+        "keyword": [
+          {
+            "lang": "fr",
+            "value": "Instanyl®"
+          },
+          {
+            "lang": "fr",
+            "value": "fentanyl"
+          },
+          {
+            "lang": "fr",
+            "value": "opioïde"
+          },
+          {
+            "lang": "fr",
+            "value": "accès douloureux paroxystiques"
+          },
+          {
+            "lang": "fr",
+            "value": "détournement d'utilisation"
+          },
+          {
+            "lang": "fr",
+            "value": "abus"
+          },
+          {
+            "lang": "fr",
+            "value": "mésusage"
+          },
+          {
+            "lang": "fr",
+            "value": "plan de gestion de risques"
+          },
+          {
+            "lang": "fr",
+            "value": "cancer"
+          },
+          {
+            "lang": "fr",
+            "value": "pharmaco-épidémiologie"
+          },
+          {
+            "lang": "fr",
+            "value": "département de pharmacologie"
+          },
+          {
+            "lang": "fr",
+            "value": "Bordeaux"
+          },
+          {
+            "lang": "en",
+            "value": "opioid"
+          },
+          {
+            "lang": "en",
+            "value": "breakthrough pain"
+          },
+          {
+            "lang": "en",
+            "value": "misuse"
+          },
+          {
+            "lang": "en",
+            "value": "abuse"
+          },
+          {
+            "lang": "en",
+            "value": "risk management plan"
+          },
+          {
+            "lang": "en",
+            "value": "Instanyl®"
+          },
+          {
+            "lang": "en",
+            "value": "fentanyl"
+          },
+          {
+            "lang": "en",
+            "value": "cancer"
+          },
+          {
+            "lang": "en",
+            "value": "Pharmacoepidemiology"
+          },
+          {
+            "lang": "en",
+            "value": "Department of Pharmacology"
+          },
+          {
+            "lang": "en",
+            "value": "Bordeaux"
+          }
+        ]
+      },
+      "qualityStatement": {
+        "standardsCompliance": {}
+      },
+      "sumDscr": {
+        "dataKind": [
+          {
+            "lang": "fr",
+            "value": "Données rapportées par le participant de l&#x27;étude"
+          },
+          {
+            "lang": "en",
+            "value": "Participant-reported health data"
+          }
+        ],
+        "anlyUnit": [
+          {
+            "lang": "fr",
+            "value": "Individus"
+          },
+          {
+            "lang": "en",
+            "value": "Individuals"
+          }
+        ],
+        "nation": [
+          {
+            "lang": "fr",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          },
+          {
+            "lang": "en",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          }
+        ],
+        "universe": [
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Masculin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Féminin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Male"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Female"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Adulte (19 à 24 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adulte (25 à 44 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Adulte (45 à 64 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Personne âgée (65 à 79 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000369"
+            },
+            "value": "Grand âge (80 ans et plus)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Young Adult (19 to 24 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adult (25 to 44 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Middle Aged (45 to 64 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Aged (65 to 79 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000369"
+            },
+            "value": "Aged, 80 and over (80 years and more)"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Patients"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "en",
+            "value": "Patients population"
+          },
+          {
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Patient ayant reçu une délivrance d’Instanyl® dans une pharmacie non hospitalière"
+          },
+          {
+            "clusion": "I",
+            "lang": "en",
+            "value": "Patient who received a dispensation of Instanyl® from non-hospital pharmacies"
+          },
+          {
+            "clusion": "E",
+            "lang": "fr",
+            "value": ""
+          },
+          {
+            "clusion": "E",
+            "lang": "en",
+            "value": ""
+          }
+        ],
+        "collDate": [
+          {
+            "event": "start",
+            "value": "2011-01-01"
+          },
+          {
+            "event": "end",
+            "value": "2012-01-01"
+          }
+        ]
+      }
+    },
+    "dataAccs": {
+      "setAvail": {
+        "avlStatus": [
+          {
+            "lang": "fr",
+            "value": "A définir"
+          },
+          {
+            "lang": "en",
+            "value": "To be defined"
+          }
+        ],
+        "notes": [
+          {
+            "lang": "fr",
+            "value": "La propriété des données de l&#x27;étude a fait l&#x27;objet d&#x27;une convention entre l&#x27;Université Bordeaux Segalen et le laboratoire."
+          },
+          {
+            "lang": "en",
+            "value": "Ownership of study data is the subject of an agreement between the University of Bordeaux Segalen and the pharmaceutical company"
+          }
+        ],
+        "conditions": []
+      },
+      "useStmt": {}
+    },
+    "othStdMat": {
+      "relMat": [
+        {
+          "lang": "fr",
+          "value": "Accès restreint sur projet spécifique"
+        },
+        {
+          "lang": "en",
+          "value": "Access on specific project only"
+        }
+      ]
+    },
+    "studyDevelopment": {
+      "developmentActivity": [
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/morbidité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Consommation de soins/services de santé"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/morbidity"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health care consumption and services"
+        }
+      ]
+    }
+  },
+  "docDscr": {
+    "citation": {
+      "rspStmt": {
+        "AuthEnty": "Cécile DROZ-PERROTEAU"
+      },
+      "prodStmt": {
+        "producer": [
+          {
+            "affiliation": "UNIVERSITE DE BORDEAUX",
+            "value": "Cécile;DROZ-PERROTEAU"
+          }
+        ],
+        "prodPlac": "Portail Épidémiologie France"
+      }
+    }
+  },
+  "additional": {
+    "prodPlac": "Portail Épidémiologie France",
+    "creationDate": "17-06-2011",
+    "lastUpdatedManual": "26-10-2017",
+    "theme": {},
+    "governance": {},
+    "collaborations": {},
+    "mockSample": {},
+    "dataQuality": {},
+    "variableDictionnary": {},
+    "dataTypes": {
+      "isDataInBiobank": false
+    },
+    "collectionProcess": {
+      "collectionModeDetails": [
+        {
+          "lang": "fr",
+          "value": "Les patients acceptant de participer complètent un questionnaire strictement anonyme."
+        },
+        {
+          "lang": "en",
+          "value": "Patients agreeing to participate completed a strictly anonymous questionnaire."
+        }
+      ]
+    },
+    "geographicalCoverage": {
+      "geoDetail": [
+        {
+          "lang": "fr",
+          "value": "Pharmacies non hospitalières en France métropolitaine"
+        },
+        {
+          "lang": "en",
+          "value": "Non-hospital pharmacies in metropolitan France"
+        }
+      ]
+    },
+    "activeFollowUp": {
+      "isActiveFollowUp": false
+    },
+    "dataCollectionIntegration": {
+      "isDataIntegration": false
+    },
+    "isHealthTheme": true
+  },
+  "schematype": "survey"
+}

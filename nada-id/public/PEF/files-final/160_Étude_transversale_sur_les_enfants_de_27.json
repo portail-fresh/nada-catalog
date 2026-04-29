@@ -1,0 +1,755 @@
+{
+  "stdyDscr": {
+    "citation": {
+      "titlStmt": {
+        "IDNo": [
+          {
+            "agency": "PEF",
+            "value": "160"
+          },
+          {
+            "agency": "FReSH",
+            "value": "FRESH-PEF160"
+          }
+        ],
+        "titl": [
+          {
+            "lang": "fr",
+            "value": "Étude transversale sur les enfants de 27 mois et moins éligibles à la politique vaccinale : évolution de l'acceptabilité de la vaccination contre l'hépatite B avant le remboursement d'InfanrixHexa®"
+          },
+          {
+            "lang": "en",
+            "value": "Measurement of the changes in acceptability of hepatitis B immunization among general practitioners and open-care paediatricians"
+          }
+        ],
+        "altTitl": [
+          {
+            "lang": "fr",
+            "value": "PRALINE"
+          },
+          {
+            "lang": "en",
+            "value": "PRALINE"
+          }
+        ]
+      },
+      "rspStmt": {
+        "AuthEnty": [
+          {
+            "name": "Christel;LECLERC-ZWIRN",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "GLAXOSMITHKLINE (FRANCE)"
+              },
+              {
+                "lang": "en",
+                "value": "GLAXOSMITHKLINE (FRANCE)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/00z1h3j87",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "592052146",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ],
+            "isContact": true,
+            "email": "christel.c.leclerc-zwirn@gsk.com",
+            "PILabo": "Laboratoire GSK"
+          }
+        ],
+        "othId": []
+      },
+      "distStmt": {
+        "contact": [
+          {
+            "name": "Christel;LECLERC-ZWIRN",
+            "email": "christel.c.leclerc-zwirn@gsk.com",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "GLAXOSMITHKLINE (FRANCE)"
+              },
+              {
+                "lang": "en",
+                "value": "GLAXOSMITHKLINE (FRANCE)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/00z1h3j87",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "592052146",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          }
+        ]
+      },
+      "prodStmt": {
+        "fundAg": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "GLAXOSMITHKLINE (FRANCE)"
+              },
+              {
+                "lang": "en",
+                "value": "GLAXOSMITHKLINE (FRANCE)"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "ROR",
+                "uri": "https://ror.org/00z1h3j87"
+              },
+              {
+                "title": "SIREN",
+                "uri": "592052146"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Industrie"
+              },
+              {
+                "lang": "en",
+                "value": "Industry"
+              }
+            ]
+          }
+        ],
+        "producer": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "GLAXOSMITHKLINE (FRANCE)"
+              },
+              {
+                "lang": "en",
+                "value": "GLAXOSMITHKLINE (FRANCE)"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Industrie"
+              },
+              {
+                "lang": "en",
+                "value": "Industry"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "ROR",
+                "uri": "https://ror.org/00z1h3j87"
+              },
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "592052146"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "studyAuthorization": {
+      "authorizingAgency": {
+        "lang": "fr",
+        "value": "CNIL"
+      }
+    },
+    "method": {
+      "notes": [
+        {
+          "subject": "research type",
+          "lang": "fr",
+          "value": "Etude observationnelle"
+        },
+        {
+          "subject": "research type",
+          "lang": "en",
+          "value": "Observational Study"
+        }
+      ],
+      "stdyClas": [
+        {
+          "lang": "fr",
+          "value": "Étude complétée"
+        },
+        {
+          "lang": "en",
+          "value": "Completed study"
+        }
+      ],
+      "dataColl": {
+        "targetSampleSize": [
+          {
+            "lang": "fr",
+            "value": "[10000-20000[ individus"
+          },
+          {
+            "lang": "en",
+            "value": "[10000-20000[ individuals"
+          }
+        ],
+        "timeMeth": [
+          {
+            "lang": "fr",
+            "value": "Etude transversale non répétée"
+          },
+          {
+            "lang": "en",
+            "value": "One-time cross-sectional study"
+          }
+        ],
+        "sampleFrame": {
+          "frameUnit": {
+            "unitType": [
+              {
+                "lang": "fr",
+                "value": "Via les professionnels d&#x27;exercice libéral Base médico-administrative (de patients, Assurance Maladie/Mutuelle)"
+              },
+              {
+                "lang": "en",
+                "value": "Through independent healthcare practitioners Medical-administrative database (patients, health insurance/mutual insurance)"
+              }
+            ]
+          }
+        },
+        "sources": [
+          {}
+        ],
+        "collMode": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Interview",
+              "vocab": "CESSDA"
+            },
+            "value": "Entretien avec le participant (dont clinique)"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Interview",
+              "vocab": "CESSDA"
+            },
+            "value": "Interview with the participant (including clinical)"
+          },
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Transcription",
+              "vocab": "CESSDA"
+            },
+            "value": "Transcription et saisie d’informations dans un enregistrement structuré"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Transcription",
+              "vocab": "CESSDA"
+            },
+            "value": "Converting or copying information into a structured record"
+          }
+        ],
+        "sampProc": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ],
+        "respRate": [
+          {
+            "lang": "fr",
+            "value": "928 practitioners 13920 infants"
+          },
+          {
+            "lang": "en",
+            "value": "928 practitioners 13920 infants"
+          }
+        ]
+      }
+    },
+    "stdyInfo": {
+      "abstract": [
+        {
+          "contentType": "purpose",
+          "lang": "fr",
+          "value": "Mesurer, en médecine générale et pédiatrique, l’évolution de l’acceptabilité de la vaccination contre l’hépatite B des enfants de 27 mois et moins avant le remboursement d’InfanrixHexa®, puis au cours des trois années suivantes en France"
+        },
+        {
+          "contentType": "purpose",
+          "lang": "en",
+          "value": "Measure, in general and pediatric practices, the change in the acceptability of the vaccination against Hepatitis B for children aged 27 months and younger before the reimbursement of InfanrixHexa®, then during the three following years in France"
+        }
+      ],
+      "subject": {
+        "topcClas": [
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/7a3cf568-46ba-4840-be8f-f22fc030139f"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D000486"
+              }
+            ],
+            "value": "Immunologie médicale"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/fa2ceeab-3b2f-45e9-9243-e5a8005b98de"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D055552"
+              }
+            ],
+            "value": "Infectiologie"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/7a3cf568-46ba-4840-be8f-f22fc030139f"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D000486"
+              }
+            ],
+            "value": "Clinical immunology"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/fa2ceeab-3b2f-45e9-9243-e5a8005b98de"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D055552"
+              }
+            ],
+            "value": "Infectious disease medicine"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "fr",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/396699965",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Vaccins contre l'hépatite"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "en",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/396699965",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Hepatitis vaccines"
+          }
+        ],
+        "keyword": [
+          {
+            "lang": "fr",
+            "value": "vaccin"
+          },
+          {
+            "lang": "fr",
+            "value": "pratique vaccinale"
+          },
+          {
+            "lang": "en",
+            "value": "vaccine"
+          },
+          {
+            "lang": "en",
+            "value": "vaccination practice"
+          }
+        ]
+      },
+      "qualityStatement": {
+        "standardsCompliance": {}
+      },
+      "sumDscr": {
+        "dataKind": [
+          {
+            "lang": "fr",
+            "value": "Données cliniques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données rapportées par le participant de l&#x27;étude"
+          },
+          {
+            "lang": "en",
+            "value": "Clinical data"
+          },
+          {
+            "lang": "en",
+            "value": "Participant-reported health data"
+          }
+        ],
+        "anlyUnit": [
+          {
+            "lang": "fr",
+            "value": "Individus"
+          },
+          {
+            "lang": "en",
+            "value": "Individuals"
+          }
+        ],
+        "nation": [
+          {
+            "lang": "fr",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          },
+          {
+            "lang": "en",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          }
+        ],
+        "universe": [
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Masculin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Féminin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Male"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Female"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D007231"
+            },
+            "value": "Nouveau-né (naissance à 28j)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D007223"
+            },
+            "value": "Nourrisson (28j à 2 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adulte (25 à 44 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Adulte (45 à 64 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D007231"
+            },
+            "value": "Infant, Newborn (birth to 28 days)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D007223"
+            },
+            "value": "Infant (28 days to 2 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adult (25 to 44 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Middle Aged (45 to 64 years)"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Population générale"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "en",
+            "value": "General population"
+          },
+          {
+            "clusion": "I",
+            "lang": "fr",
+            "value": "•Enfants du registre d’éligibilité soumis à la politique vaccinale de l’investigateur. Ce critère sera évalué à partir des déclarations des médecins, via 2 questions : 1.« Suivez-vous l’enfant depuis sa naissance ? Si oui : date de la 1ère consultation de l’enfant. Si non : suiviez-vous l’enfant sur ses 6 premiers mois ? » 2.« Etes-vous le médecin en charge de la vaccination de cet enfant depuis sa naissance ? »"
+          },
+          {
+            "clusion": "I",
+            "lang": "en",
+            "value": "• Children from the eligibility registry subjected to the vaccinal policy by the investigator. This criterion will be evaluated using the declarations of the doctors, via 2 questions: 1. \"\"Have you followed the child since birth? If yes: date of the 1st consultation of the child. If no: did you follow the child the first 6 months? » 2. \"\"Are you the doctor in charge of vaccinating this child since birth? »"
+          },
+          {
+            "clusion": "E",
+            "lang": "fr",
+            "value": ""
+          },
+          {
+            "clusion": "E",
+            "lang": "en",
+            "value": ""
+          }
+        ],
+        "collDate": [
+          {
+            "event": "start",
+            "value": "2009-01-01"
+          },
+          {
+            "event": "end",
+            "value": "2012-01-01"
+          }
+        ]
+      }
+    },
+    "dataAccs": {
+      "setAvail": {
+        "avlStatus": [
+          {
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Accès réservé"
+          },
+          {
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Restricted access"
+          }
+        ],
+        "conditions": []
+      },
+      "useStmt": {}
+    },
+    "othStdMat": {
+      "relMat": [
+        {
+          "lang": "fr",
+          "value": "Accès restreint sur projet spécifique"
+        },
+        {
+          "lang": "en",
+          "value": "Access on specific project only"
+        }
+      ]
+    },
+    "studyDevelopment": {
+      "developmentActivity": [
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Autres"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Others"
+        }
+      ]
+    }
+  },
+  "docDscr": {
+    "citation": {
+      "rspStmt": {
+        "AuthEnty": "Christel LECLERC-ZWIRN"
+      },
+      "prodStmt": {
+        "producer": [
+          {
+            "affiliation": "GLAXOSMITHKLINE (FRANCE)",
+            "value": "Christel;LECLERC-ZWIRN"
+          }
+        ],
+        "prodPlac": "Portail Épidémiologie France"
+      }
+    }
+  },
+  "additional": {
+    "prodPlac": "Portail Épidémiologie France",
+    "creationDate": "14-12-2010",
+    "lastUpdatedManual": "07-09-2020",
+    "theme": {},
+    "governance": {},
+    "collaborations": {},
+    "mockSample": {},
+    "dataQuality": {},
+    "variableDictionnary": {},
+    "dataTypes": {
+      "isDataInBiobank": false
+    },
+    "collectionProcess": {
+      "collectionModeDetails": [
+        {
+          "lang": "fr",
+          "value": "Le médecin investigateur complétera les deux registres d’éligibilité. Si le carnet de vaccination n’est pas disponible le jour de la consultation, le médecin demandera au parent de l’enfant de fournir le carnet de vaccination dans les jours suivants et finira alors de compléter les données de vaccination dans le registre. Si le carnet de vaccination n’est pas disponible lors de la consultation, les données clés sur la vaccination de l’enfant seront complétées à l’aide du dossier patient du médecin en notifiant l’absence du carnet de vaccination.Le questionnaire d’acceptabilité (CRF papier) sera administré aux médecins participants par un attaché de recherche clinique, par téléphone, lors de l’implantation du centre.Les données seront recueillies dans le registre d’éligibilité pour l’ensemble des patients de 12 à 15 mois et de 24 à 27 mois consultant spontanément l’investigateur sur la durée de l’étude"
+        },
+        {
+          "lang": "en",
+          "value": "The investigating doctor will complete the two eligibility registries. If the vaccination booklet is not available on the day of consultation, the doctor will ask the child's parent to provide the vaccination booklet in the next few days and will then finish filling in the vaccination data in the registry. If the vaccination booklet is not available on the day of consultation, the key information on the vaccination of the child will be completed using the patient's dossier of the doctor, noting the absence of the vaccination booklet.The acceptability questionnaire (paper CRF) will be administered to participating doctors by a clinical research associate, by telephone, during the installation of the center.The data will be collected in the eligibility registry for all of the patients aged 12 to 15 months and 24 to 27 months spontaneously consulting the investigator over the duration of the study"
+        }
+      ]
+    },
+    "geographicalCoverage": {
+      "geoDetail": [
+        {
+          "lang": "fr",
+          "value": "France"
+        },
+        {
+          "lang": "en",
+          "value": "France"
+        }
+      ]
+    },
+    "activeFollowUp": {
+      "isActiveFollowUp": false
+    },
+    "dataCollectionIntegration": {
+      "isDataIntegration": false
+    },
+    "isHealthTheme": true
+  },
+  "schematype": "survey"
+}

@@ -1,0 +1,556 @@
+{
+  "stdyDscr": {
+    "citation": {
+      "titlStmt": {
+        "IDNo": [
+          {
+            "agency": "PEF",
+            "value": "73849"
+          },
+          {
+            "agency": "FReSH",
+            "value": "FRESH-PEF73849"
+          },
+          {
+            "agency": "NCT",
+            "value": "NCT04510454"
+          }
+        ],
+        "titl": [
+          {
+            "lang": "fr",
+            "value": "Évaluation d'une technologie ddPCR pour la détection du SARS-CoV-2 à partir de différents types d'échantillons chez des patients atteints de cancer avec suspicion de COVID-19 (symptomatique)"
+          },
+          {
+            "lang": "en",
+            "value": "Evaluation of a ddPCR technology for the SARS-CoV-2 detection based on different types of samples in cancer patients with suspicion of COVID-19 (symptomatic)"
+          }
+        ],
+        "altTitl": [
+          {
+            "lang": "fr",
+            "value": "ONCOVID-21"
+          },
+          {
+            "lang": "en",
+            "value": "ONCOVID-21"
+          }
+        ]
+      },
+      "rspStmt": {
+        "AuthEnty": [
+          {
+            "name": "Bénédicte;MASTROIANNI",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "CENTRE LEON BERARD"
+              },
+              {
+                "lang": "en",
+                "value": "CENTRE LEON BERARD"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "227188098",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/01cmnjq37",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "779924133",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ],
+            "isContact": false,
+            "email": "",
+            "PILabo": "CENTRE LEON BERARD / Medical Oncology Department"
+          }
+        ],
+        "othId": []
+      },
+      "distStmt": {},
+      "prodStmt": {
+        "producer": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "CENTRE LEON BERARD"
+              },
+              {
+                "lang": "en",
+                "value": "CENTRE LEON BERARD"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Privé à but non lucratif"
+              },
+              {
+                "lang": "en",
+                "value": "Private non-profit"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "ROR",
+                "uri": "https://ror.org/01cmnjq37"
+              },
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "779924133"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "studyAuthorization": {
+      "authorizingAgency": {
+        "lang": "fr",
+        "value": "CPP"
+      }
+    },
+    "method": {
+      "notes": [
+        {
+          "subject": "research type",
+          "lang": "fr",
+          "value": "Etude observationnelle"
+        },
+        {
+          "subject": "research type",
+          "lang": "en",
+          "value": "Observational Study"
+        }
+      ],
+      "stdyClas": [
+        {
+          "lang": "fr",
+          "value": "Inconnu"
+        },
+        {
+          "lang": "en",
+          "value": "Unknown"
+        }
+      ],
+      "dataColl": {
+        "targetSampleSize": [
+          {
+            "lang": "fr",
+            "value": "< 500 individus"
+          },
+          {
+            "lang": "en",
+            "value": "< 500 individuals"
+          }
+        ],
+        "sampleFrame": {
+          "frameUnit": {}
+        },
+        "sources": [
+          {}
+        ],
+        "collMode": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Transcription",
+              "vocab": "CESSDA"
+            },
+            "value": "Transcription et saisie d’informations dans un enregistrement structuré"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Transcription",
+              "vocab": "CESSDA"
+            },
+            "value": "Converting or copying information into a structured record"
+          },
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Interview",
+              "vocab": "CESSDA"
+            },
+            "value": "Entretien avec le participant (dont clinique)"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Interview",
+              "vocab": "CESSDA"
+            },
+            "value": "Interview with the participant (including clinical)"
+          }
+        ],
+        "sampProc": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ]
+      }
+    },
+    "stdyInfo": {
+      "abstract": [
+        {
+          "contentType": "purpose",
+          "lang": "fr",
+          "value": "Déterminer la capacité du ddPCR à détecter le SARS-CoV-2 dans des échantillons nasopharyngés de patients symptomatiques suspectés d'infection à la COVID-19, en utilisant un test sérologique IgG (EUROIMMUN Anti-SARS-CoV-2 ELISA IgG) comme référence absolue/étalon-or (test sérologique commercial validé par la FDA)."
+        },
+        {
+          "contentType": "purpose",
+          "lang": "en",
+          "value": "To determine the ddPCR ability to detect the SARS-CoV-2 in nasopharyngeal samples of symptomatic patients with suspected COVID-19 infection using an IgG serological assay (EUROIMMUN Anti-SARS-Cov2 ELISA IgG) as gold/reference standard (FDA validated commercial serologic test). The primary endpoint will be the sensibility of the ddPCR assay for SARS-CoV-2 detection based on nasopharyngeal samples."
+        }
+      ],
+      "subject": {
+        "topcClas": [
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/5784b7f1-c7ce-49d9-9f38-aebcda0ff41d"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D008495"
+              }
+            ],
+            "value": "Oncologie"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/fa2ceeab-3b2f-45e9-9243-e5a8005b98de"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D055552"
+              }
+            ],
+            "value": "Infectiologie"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/5784b7f1-c7ce-49d9-9f38-aebcda0ff41d"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D008495"
+              }
+            ],
+            "value": "Oncology"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/fa2ceeab-3b2f-45e9-9243-e5a8005b98de"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D055552"
+              }
+            ],
+            "value": "Infectious disease medicine"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "fr",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/1630407678",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Tumeurs"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "en",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/1630407678",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Neoplasms"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "fr",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/1730556128",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "COVID-19"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "en",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/1730556128",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "COVID-19"
+          }
+        ],
+        "keyword": [
+          {
+            "lang": "fr",
+            "value": "SARS-CoV-2"
+          },
+          {
+            "lang": "fr",
+            "value": "cancer"
+          },
+          {
+            "lang": "fr",
+            "value": "ddPCR"
+          },
+          {
+            "lang": "fr",
+            "value": "RT-qPCR"
+          },
+          {
+            "lang": "fr",
+            "value": "sérologie"
+          },
+          {
+            "lang": "en",
+            "value": "SARSCOV2"
+          },
+          {
+            "lang": "en",
+            "value": "CANCER"
+          },
+          {
+            "lang": "en",
+            "value": "ddPCR"
+          },
+          {
+            "lang": "en",
+            "value": "RT-qPCR"
+          },
+          {
+            "lang": "en",
+            "value": "SEROLOGICAL ASSAYS"
+          }
+        ]
+      },
+      "qualityStatement": {
+        "standardsCompliance": {}
+      },
+      "sumDscr": {
+        "dataKind": [
+          {
+            "lang": "fr",
+            "value": "Données cliniques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données biologiques"
+          },
+          {
+            "lang": "en",
+            "value": "Clinical data"
+          },
+          {
+            "lang": "en",
+            "value": "Biological data"
+          }
+        ],
+        "anlyUnit": [
+          {
+            "lang": "fr",
+            "value": "Individus"
+          },
+          {
+            "lang": "en",
+            "value": "Individuals"
+          }
+        ],
+        "nation": [
+          {
+            "lang": "fr",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          },
+          {
+            "lang": "en",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          }
+        ],
+        "universe": [
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Patients"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "en",
+            "value": "Patients population"
+          },
+          {
+            "clusion": "I",
+            "lang": "fr",
+            "value": "1. Âge ≥ 18 ans le jour de la signature du consentement éclairé. 2. Diagnostic confirmé de tout type de tumeur solide ou hématologique. 3. Traitement anticancéreux en cours au moment de l'inclusion ou au cours des 3 derniers mois précédant l'inclusion (dernière administration de traitement ou dernière procédure loco-régionale). 4. Suspicion d'infection par COVID-19. Les patients ne doivent pas avoir subi de test diagnostique et/ou d'imagerie thoracique avant l'inclusion. * Au moins un des symptômes cliniques suivants : fièvre (>38°C), toux sèche, fatigue, atteinte pulmonaire (infection respiratoire fébrile ou difficultés respiratoires), pharyngalgies, céphalées, myalgies, symptômes gastro-intestinaux incluant douleurs abdominales et diarrhée, anosmie et agueusie, signes radiologiques de pneumonie tels que décrits par Shi et al. 5. Couvert par une assurance médicale/de santé. 6. Formulaire de consentement éclairé signé et daté."
+          },
+          {
+            "clusion": "I",
+            "lang": "en",
+            "value": "1. Age ≥ 18 years on the day of signing informed consent. 2. Confirmed diagnosis of any type of solid or hematologic tumor. 3. Ongoing anticancer treatment at the time of inclusion or within the last 3 months prior to inclusion (last treatment administration or last loco regional procedure) 4. Suspicion of COVID-19 infection. Patients must not have underwent diagnostic test and/or chest imaging before inclusion. * At least one of the following clinical symptoms: fever (>38°C), dry cough, fatigue, pulmonary involvement (febrile respiratory infection or respiratory difficulties), pharyngalgia, headaches, myalgia, gastrointestinal symptoms including abdominal pain and diarrhea, anosmia and agueusia, radiological signs of pneumonia as described by Shi et al. 5. Covered by a medical/health insurance. 6. Signed and dated informed consent form."
+          },
+          {
+            "clusion": "E",
+            "lang": "fr",
+            "value": ""
+          },
+          {
+            "clusion": "E",
+            "lang": "en",
+            "value": ""
+          }
+        ],
+        "collDate": [
+          {
+            "event": "start",
+            "value": "2020-01-01"
+          },
+          {
+            "event": "end",
+            "value": "2021-01-01"
+          }
+        ]
+      }
+    },
+    "dataAccs": {
+      "setAvail": {
+        "avlStatus": [
+          {
+            "lang": "fr",
+            "value": "A définir"
+          },
+          {
+            "lang": "en",
+            "value": "To be defined"
+          }
+        ],
+        "conditions": []
+      },
+      "useStmt": {}
+    },
+    "othStdMat": {},
+    "studyDevelopment": {}
+  },
+  "docDscr": {
+    "citation": {
+      "rspStmt": {
+        "AuthEnty": "Ellen BLANC"
+      },
+      "prodStmt": {
+        "producer": [
+          {
+            "affiliation": "UNICANCER GROUP",
+            "value": "Ellen;BLANC"
+          }
+        ],
+        "prodPlac": "Portail Épidémiologie France"
+      }
+    }
+  },
+  "additional": {
+    "prodPlac": "Portail Épidémiologie France",
+    "creationDate": "15-12-2020",
+    "lastUpdatedManual": "07-07-2025",
+    "fundingAgent": {},
+    "theme": {},
+    "governance": {},
+    "collaborations": {},
+    "mockSample": {},
+    "dataQuality": {},
+    "variableDictionnary": {},
+    "dataTypes": {
+      "clinicalDataDetails": [
+        {
+          "lang": "fr",
+          "value": "antécédents médicaux, antécédents de cancer, examen clinique, traitements anticancéreux, symptômes, résultats de la ddPCR, de la RT-qPCR et de la sérologie"
+        },
+        {
+          "lang": "en",
+          "value": "MEDICAL HISTORY, CANCER HISTORY, CLINICAL EXAMINATION, ANTI-CANCER TREATMENTS, SYMPTOMS, RESULTS OF ddPCR, RT-qPCR AND SEROLOGY"
+        }
+      ],
+      "biologicalDataDetails": [
+        {
+          "lang": "fr",
+          "value": "Hématologie, biochimie sanguine"
+        },
+        {
+          "lang": "en",
+          "value": "HEMATOLOGY, BLOOD CHEMISTRY"
+        }
+      ]
+    },
+    "collectionProcess": {},
+    "geographicalCoverage": {},
+    "activeFollowUp": {},
+    "dataCollectionIntegration": {
+      "isDataIntegration": false
+    },
+    "isHealthTheme": true
+  },
+  "schematype": "survey"
+}

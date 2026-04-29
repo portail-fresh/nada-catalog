@@ -1,0 +1,1052 @@
+{
+  "stdyDscr": {
+    "citation": {
+      "titlStmt": {
+        "IDNo": [
+          {
+            "agency": "PEF",
+            "value": "8472"
+          },
+          {
+            "agency": "FReSH",
+            "value": "FRESH-PEF8472"
+          }
+        ],
+        "titl": [
+          {
+            "lang": "fr",
+            "value": "Enquête Nationale de Santé et de Bien-être en France"
+          },
+          {
+            "lang": "en",
+            "value": "National Health and Wellness Survey in France"
+          }
+        ],
+        "altTitl": [
+          {
+            "lang": "fr",
+            "value": "NHWS"
+          },
+          {
+            "lang": "en",
+            "value": "NHWS"
+          }
+        ]
+      },
+      "rspStmt": {
+        "AuthEnty": [
+          {
+            "name": "Geneviève;BONNELYE",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "KANTAR FRANCE HOLDINGS"
+              },
+              {
+                "lang": "en",
+                "value": "KANTAR FRANCE HOLDINGS"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/04ergcq69",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "853207918",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ],
+            "isContact": true,
+            "email": "genevieve.bonnelye@kantar.com",
+            "PILabo": "Kantar Health"
+          }
+        ],
+        "othId": []
+      },
+      "distStmt": {
+        "contact": [
+          {
+            "name": "Geneviève;BONNELYE",
+            "email": "genevieve.bonnelye@kantar.com",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "KANTAR FRANCE HOLDINGS"
+              },
+              {
+                "lang": "en",
+                "value": "KANTAR FRANCE HOLDINGS"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/04ergcq69",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "853207918",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          }
+        ]
+      },
+      "prodStmt": {
+        "fundAg": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "KANTAR FRANCE HOLDINGS"
+              },
+              {
+                "lang": "en",
+                "value": "KANTAR FRANCE HOLDINGS"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "ROR",
+                "uri": "https://ror.org/04ergcq69"
+              },
+              {
+                "title": "SIREN",
+                "uri": "853207918"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Industrie"
+              },
+              {
+                "lang": "en",
+                "value": "Industry"
+              }
+            ]
+          }
+        ],
+        "producer": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "KANTAR FRANCE HOLDINGS"
+              },
+              {
+                "lang": "en",
+                "value": "KANTAR FRANCE HOLDINGS"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Industrie"
+              },
+              {
+                "lang": "en",
+                "value": "Industry"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "ROR",
+                "uri": "https://ror.org/04ergcq69"
+              },
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "853207918"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "studyAuthorization": {
+      "authorizingAgency": {
+        "lang": "fr",
+        "value": "Autre"
+      }
+    },
+    "method": {
+      "notes": [
+        {
+          "subject": "research type",
+          "lang": "fr",
+          "value": "Etude observationnelle"
+        },
+        {
+          "subject": "research type",
+          "lang": "en",
+          "value": "Observational Study"
+        }
+      ],
+      "stdyClas": [
+        {
+          "lang": "fr",
+          "value": "Inconnu"
+        },
+        {
+          "lang": "en",
+          "value": "Unknown"
+        }
+      ],
+      "dataColl": {
+        "targetSampleSize": [
+          {
+            "lang": "fr",
+            "value": ">= 20000 individus"
+          },
+          {
+            "lang": "en",
+            "value": ">= 20000 individuals"
+          }
+        ],
+        "timeMeth": [
+          {
+            "lang": "fr",
+            "value": "Etude transversale répétée"
+          },
+          {
+            "lang": "en",
+            "value": "Repeated cross-sectional study"
+          }
+        ],
+        "sampleFrame": {
+          "frameUnit": {
+            "unitType": [
+              {
+                "lang": "fr",
+                "value": "Base de population à finalité statistique"
+              },
+              {
+                "lang": "en",
+                "value": "Population database for statistical purposes"
+              }
+            ]
+          }
+        },
+        "sources": [
+          {}
+        ],
+        "collMode": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Interview",
+              "vocab": "CESSDA"
+            },
+            "value": "Entretien avec le participant (dont clinique)"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Interview",
+              "vocab": "CESSDA"
+            },
+            "value": "Interview with the participant (including clinical)"
+          }
+        ],
+        "sampProc": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Nonprobability.Quota",
+              "vocab": "CESSDA"
+            },
+            "value": "Non probabiliste : quota"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Nonprobability.Quota",
+              "vocab": "CESSDA"
+            },
+            "value": "Non-probability: Quota"
+          }
+        ],
+        "respRate": [
+          {
+            "lang": "fr",
+            "value": "15 000 individus en France, 250 000 individus sur l'ensemble des pays"
+          },
+          {
+            "lang": "en",
+            "value": "15,000 individuals in France, 250,000 individuals across all countries"
+          }
+        ]
+      }
+    },
+    "stdyInfo": {
+      "abstract": [
+        {
+          "contentType": "purpose",
+          "lang": "fr",
+          "value": "Etat de santé et conséquences en termes humanistiques et économiques (données primaires / 200 pathologies repérées) Objectifs : publications scientifiques et alimentation des modèles économiques"
+        },
+        {
+          "contentType": "purpose",
+          "lang": "en",
+          "value": "Health and impact from a humanistic and economic standpoint (primary data/200 identified pathologies) Objectives: scientific publications and provision of economic models"
+        }
+      ],
+      "subject": {
+        "topcClas": [
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "value": "Pas de spécialité médicale spécifique"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "value": "No specific medical specialty"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants environnementaux : Autres"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants liés au système de santé : Consommation des soins"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants comportementaux"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants socio-démographiques et économiques : Emploi"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants environnementaux"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants liés au système de santé"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants socio-démographiques et économiques"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Environmental determinants: Other"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Healthcare system determinants: Use of care"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Behavioral determinants"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Socio-demographic and economic determinants: Employment"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Environmental determinants"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Healthcare system determinants"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Socio-demographic and economic determinants"
+          }
+        ],
+        "keyword": [
+          {
+            "lang": "fr",
+            "value": "Condition"
+          },
+          {
+            "lang": "fr",
+            "value": "impact de la maladie sur le travail"
+          },
+          {
+            "lang": "fr",
+            "value": "choix de traitement"
+          },
+          {
+            "lang": "fr",
+            "value": "souffrants non diagnostiqués"
+          },
+          {
+            "lang": "fr",
+            "value": "conformité au traitement"
+          },
+          {
+            "lang": "fr",
+            "value": "ressources"
+          },
+          {
+            "lang": "fr",
+            "value": "approche vis-à-vis des soins"
+          },
+          {
+            "lang": "fr",
+            "value": "diagnostic"
+          },
+          {
+            "lang": "fr",
+            "value": "symptômes"
+          },
+          {
+            "lang": "fr",
+            "value": "qualité de vie"
+          },
+          {
+            "lang": "fr",
+            "value": "satisfaction"
+          },
+          {
+            "lang": "fr",
+            "value": "attitudes"
+          },
+          {
+            "lang": "en",
+            "value": "impact of illness on work"
+          },
+          {
+            "lang": "en",
+            "value": "choice of treatment"
+          },
+          {
+            "lang": "en",
+            "value": "undiagnosed sufferers"
+          },
+          {
+            "lang": "en",
+            "value": "treatment adherence"
+          },
+          {
+            "lang": "en",
+            "value": "resources"
+          },
+          {
+            "lang": "en",
+            "value": "healthcare approach"
+          },
+          {
+            "lang": "en",
+            "value": "quality of life. satisfaction"
+          },
+          {
+            "lang": "en",
+            "value": "Condition"
+          },
+          {
+            "lang": "en",
+            "value": "diagnosis"
+          },
+          {
+            "lang": "en",
+            "value": "symptoms"
+          },
+          {
+            "lang": "en",
+            "value": "attitudes"
+          }
+        ]
+      },
+      "qualityStatement": {
+        "standardsCompliance": {},
+        "otherQualityStatement": [
+          {
+            "lang": "fr",
+            "value": "ISO 20252"
+          },
+          {
+            "lang": "en",
+            "value": "ISO 20252"
+          }
+        ]
+      },
+      "sumDscr": {
+        "dataKind": [
+          {
+            "lang": "fr",
+            "value": "Données rapportées par le participant de l&#x27;étude"
+          },
+          {
+            "lang": "en",
+            "value": "Participant-reported health data"
+          }
+        ],
+        "anlyUnit": [
+          {
+            "lang": "fr",
+            "value": "Individus"
+          },
+          {
+            "lang": "en",
+            "value": "Individuals"
+          }
+        ],
+        "nation": [
+          {
+            "lang": "fr",
+            "abbr": "bz",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "bz"
+            },
+            "value": "Belize"
+          },
+          {
+            "lang": "en",
+            "abbr": "bz",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "bz"
+            },
+            "value": "Belize"
+          },
+          {
+            "lang": "fr",
+            "abbr": "cn",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "cn"
+            },
+            "value": "Chine"
+          },
+          {
+            "lang": "en",
+            "abbr": "cn",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "cn"
+            },
+            "value": "China"
+          },
+          {
+            "lang": "fr",
+            "abbr": "de",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "de"
+            },
+            "value": "Allemagne"
+          },
+          {
+            "lang": "en",
+            "abbr": "de",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "de"
+            },
+            "value": "Germany"
+          },
+          {
+            "lang": "fr",
+            "abbr": "it",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "it"
+            },
+            "value": "Italie"
+          },
+          {
+            "lang": "en",
+            "abbr": "it",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "it"
+            },
+            "value": "Italy"
+          },
+          {
+            "lang": "fr",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          },
+          {
+            "lang": "en",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          },
+          {
+            "lang": "fr",
+            "abbr": "jp",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "jp"
+            },
+            "value": "Japon"
+          },
+          {
+            "lang": "en",
+            "abbr": "jp",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "jp"
+            },
+            "value": "Japan"
+          },
+          {
+            "lang": "fr",
+            "abbr": "kr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "kr"
+            },
+            "value": "Corée, république populaire démocratique de"
+          },
+          {
+            "lang": "en",
+            "abbr": "kr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "kr"
+            },
+            "value": "Korea, Republic of"
+          },
+          {
+            "lang": "fr",
+            "abbr": "tw",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "tw"
+            },
+            "value": "Taïwan, province de chine"
+          },
+          {
+            "lang": "en",
+            "abbr": "tw",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "tw"
+            },
+            "value": "Taiwan, Province of China"
+          },
+          {
+            "lang": "fr",
+            "abbr": "ru",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "ru"
+            },
+            "value": "Russie, fédération de"
+          },
+          {
+            "lang": "en",
+            "abbr": "ru",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "ru"
+            },
+            "value": "Russian Federation"
+          },
+          {
+            "lang": "fr",
+            "abbr": "es",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "es"
+            },
+            "value": "Espagne"
+          },
+          {
+            "lang": "en",
+            "abbr": "es",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "es"
+            },
+            "value": "Spain"
+          },
+          {
+            "lang": "fr",
+            "abbr": "gb",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "gb"
+            },
+            "value": "Royaume-Uni"
+          },
+          {
+            "lang": "en",
+            "abbr": "gb",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "gb"
+            },
+            "value": "United Kingdom"
+          },
+          {
+            "lang": "fr",
+            "abbr": "us",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "us"
+            },
+            "value": "Etats-Unis"
+          },
+          {
+            "lang": "en",
+            "abbr": "us",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "us"
+            },
+            "value": "United States"
+          }
+        ],
+        "universe": [
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Masculin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Féminin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Male"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Female"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Adulte (19 à 24 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adulte (25 à 44 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Adulte (45 à 64 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Personne âgée (65 à 79 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Young Adult (19 to 24 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adult (25 to 44 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Middle Aged (45 to 64 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Aged (65 to 79 years)"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Population générale"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "en",
+            "value": "General population"
+          },
+          {
+            "clusion": "I",
+            "lang": "fr",
+            "value": "En France : échantillonl national de 15 000 individus français âgés de 18 ans et plus représentatif en terme de sexe et âge"
+          },
+          {
+            "clusion": "I",
+            "lang": "en",
+            "value": "France: national sample of 15,000 French individuals aged 18 and over and representative in terms of gender, age, region, metropolitan area and socio-professional category."
+          },
+          {
+            "clusion": "E",
+            "lang": "fr",
+            "value": ""
+          },
+          {
+            "clusion": "E",
+            "lang": "en",
+            "value": ""
+          }
+        ],
+        "collDate": [
+          {
+            "event": "start",
+            "value": "2000-01-01"
+          },
+          {
+            "event": "end",
+            "value": "2020-01-01"
+          }
+        ]
+      }
+    },
+    "dataAccs": {
+      "setAvail": {
+        "avlStatus": [
+          {
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Accès réservé"
+          },
+          {
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Restricted access"
+          }
+        ],
+        "conditions": [
+          {
+            "lang": "fr",
+            "value": "Contacter le responsable scientifique"
+          },
+          {
+            "lang": "en",
+            "value": "Contact the principal investigator"
+          }
+        ]
+      },
+      "useStmt": {}
+    },
+    "othStdMat": {
+      "relMat": [
+        {
+          "lang": "fr",
+          "value": "Accès restreint sur projet spécifique"
+        },
+        {
+          "lang": "en",
+          "value": "Access on specific project only"
+        }
+      ]
+    },
+    "studyDevelopment": {
+      "developmentActivity": [
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/morbidité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Consommation de soins/services de santé"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Qualité de vie/santé perçue"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Autres"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/morbidity"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health care consumption and services"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Quality of life/health perception"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Others"
+        }
+      ]
+    }
+  },
+  "docDscr": {
+    "citation": {
+      "rspStmt": {
+        "AuthEnty": "Geneviève BONNELYE"
+      },
+      "prodStmt": {
+        "producer": [
+          {
+            "affiliation": "KANTAR FRANCE HOLDINGS",
+            "value": "Geneviève;BONNELYE"
+          }
+        ],
+        "prodPlac": "Portail Épidémiologie France"
+      }
+    }
+  },
+  "additional": {
+    "prodPlac": "Portail Épidémiologie France",
+    "creationDate": "24-03-2014",
+    "lastUpdatedManual": "06-01-2021",
+    "theme": {},
+    "governance": {},
+    "collaborations": {},
+    "mockSample": {},
+    "dataQuality": {},
+    "variableDictionnary": {},
+    "dataTypes": {
+      "isDataInBiobank": false
+    },
+    "collectionProcess": {
+      "collectionModeDetails": [
+        {
+          "lang": "fr",
+          "value": "on-line / recrutement par téléphone pour les populations de 65 ans et plus"
+        },
+        {
+          "lang": "en",
+          "value": "online/recruitment by telephone for populations aged 65 and over"
+        }
+      ]
+    },
+    "geographicalCoverage": {
+      "geoDetail": [
+        {
+          "lang": "fr",
+          "value": "Brésil, Chine, Allemagne, Italie, France, Japon, Corée du Sud, Taiwan, Russie, Espagne, Royaume-Uni, États-Unis"
+        },
+        {
+          "lang": "en",
+          "value": "Brazil, China, Germany, Italy, France, Japan, Russia, Spain, South Korea, Taiwan, United Kingdom and United States"
+        }
+      ]
+    },
+    "activeFollowUp": {
+      "isActiveFollowUp": false
+    },
+    "dataCollectionIntegration": {
+      "isDataIntegration": false
+    },
+    "isHealthTheme": false
+  },
+  "schematype": "survey"
+}

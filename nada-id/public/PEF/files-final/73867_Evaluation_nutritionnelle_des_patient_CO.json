@@ -1,0 +1,720 @@
+{
+  "stdyDscr": {
+    "citation": {
+      "titlStmt": {
+        "IDNo": [
+          {
+            "agency": "PEF",
+            "value": "73867"
+          },
+          {
+            "agency": "FReSH",
+            "value": "FRESH-PEF73867"
+          }
+        ],
+        "titl": [
+          {
+            "lang": "fr",
+            "value": "Evaluation nutritionnelle des patient COVID hospitalisés dans les unités COVID de l’hôpital St VINCENT."
+          },
+          {
+            "lang": "en",
+            "value": "Nutritional evaluation of COVID patients hospitalised in the COVID units at St VINCENT Hospital."
+          }
+        ],
+        "altTitl": [
+          {
+            "lang": "fr",
+            "value": "DénutCOVID"
+          },
+          {
+            "lang": "en",
+            "value": "DénutCOVID"
+          }
+        ]
+      },
+      "rspStmt": {
+        "AuthEnty": [
+          {
+            "name": "Amel;BOULAFA",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "GROUPEMENT DES HOPITAUX DE L'INSTITUT CATHOLIQUE DE LILLE"
+              },
+              {
+                "lang": "en",
+                "value": "GROUPEMENT DES HOPITAUX DE L'INSTITUT CATHOLIQUE DE LILLE"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/03wr2ty35",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "753108950",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ],
+            "isContact": false,
+            "email": "",
+            "PILabo": "GHICL Clinical Research and Innovation Department sponsor CRA"
+          }
+        ],
+        "othId": []
+      },
+      "distStmt": {
+        "contact": [
+          {
+            "name": "Arnaud;CORTET",
+            "email": "cortet.arnaud@ghicl.net",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "GROUPEMENT DES HOPITAUX DE L'INSTITUT CATHOLIQUE DE LILLE"
+              },
+              {
+                "lang": "en",
+                "value": "GROUPEMENT DES HOPITAUX DE L'INSTITUT CATHOLIQUE DE LILLE"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/03wr2ty35",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "753108950",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          }
+        ]
+      },
+      "prodStmt": {
+        "fundAg": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "GROUPEMENT DES HOPITAUX DE L'INSTITUT CATHOLIQUE DE LILLE"
+              },
+              {
+                "lang": "en",
+                "value": "GROUPEMENT DES HOPITAUX DE L'INSTITUT CATHOLIQUE DE LILLE"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "SIREN",
+                "uri": "753108950"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Privé à but non lucratif"
+              },
+              {
+                "lang": "en",
+                "value": "Private non-profit"
+              }
+            ]
+          }
+        ],
+        "producer": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "GROUPEMENT DES HOPITAUX DE L'INSTITUT CATHOLIQUE DE LILLE"
+              },
+              {
+                "lang": "en",
+                "value": "GROUPEMENT DES HOPITAUX DE L'INSTITUT CATHOLIQUE DE LILLE"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Privé à but non lucratif"
+              },
+              {
+                "lang": "en",
+                "value": "Private non-profit"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "ROR",
+                "uri": "https://ror.org/03wr2ty35"
+              },
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "753108950"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "studyAuthorization": {
+      "authorizingAgency": {
+        "lang": "fr",
+        "value": "CNIL"
+      }
+    },
+    "method": {
+      "notes": [
+        {
+          "subject": "research type",
+          "lang": "fr",
+          "value": "Etude observationnelle"
+        },
+        {
+          "subject": "research type",
+          "lang": "en",
+          "value": "Observational Study"
+        }
+      ],
+      "stdyClas": [
+        {
+          "lang": "fr",
+          "value": "Inconnu"
+        },
+        {
+          "lang": "en",
+          "value": "Unknown"
+        }
+      ],
+      "dataColl": {
+        "targetSampleSize": [
+          {
+            "lang": "fr",
+            "value": "< 500 individus"
+          },
+          {
+            "lang": "en",
+            "value": "< 500 individuals"
+          }
+        ],
+        "sampleFrame": {
+          "frameUnit": {
+            "unitType": [
+              {
+                "lang": "fr",
+                "value": "Via des structures (services ou établissements de santé, écoles, entreprises…)"
+              },
+              {
+                "lang": "en",
+                "value": "Through organizations (health services or institutions, schools, businesses, etc.)"
+              }
+            ]
+          }
+        },
+        "sources": [
+          {}
+        ],
+        "collMode": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Transcription",
+              "vocab": "CESSDA"
+            },
+            "value": "Transcription et saisie d’informations dans un enregistrement structuré"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Transcription",
+              "vocab": "CESSDA"
+            },
+            "value": "Converting or copying information into a structured record"
+          }
+        ],
+        "sampProc": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ],
+        "respRate": [
+          {
+            "lang": "fr",
+            "value": "Maximum possible sur une période d'un an"
+          },
+          {
+            "lang": "en",
+            "value": "Maximum possible over a one-year period"
+          }
+        ]
+      }
+    },
+    "stdyInfo": {
+      "abstract": [
+        {
+          "contentType": "purpose",
+          "lang": "fr",
+          "value": "Evaluer l’état nutritionnel initial des patients COVID hospitalisés dans les unités COVID conventionnelles (hors soins intensifs et réanimation)."
+        },
+        {
+          "contentType": "purpose",
+          "lang": "en",
+          "value": "Evaluate the initial nutritional status of COVID patients hospitalised in standard COVID units (not in intensive care units)."
+        }
+      ],
+      "subject": {
+        "topcClas": [
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/fa2ceeab-3b2f-45e9-9243-e5a8005b98de"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D055552"
+              }
+            ],
+            "value": "Infectiologie"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/fa2ceeab-3b2f-45e9-9243-e5a8005b98de"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D055552"
+              }
+            ],
+            "value": "Infectious disease medicine"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "fr",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/1435254666",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Certaines maladies infectieuses ou parasitaires"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "en",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/1435254666",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Certain infectious or parasitic diseases"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "fr",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/1730556128",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "COVID-19"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "en",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/1730556128",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "COVID-19"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants comportementaux : Alimentation"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants comportementaux"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Behavioral determinants: Eating habits"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Behavioral determinants"
+          }
+        ]
+      },
+      "qualityStatement": {
+        "standardsCompliance": {}
+      },
+      "sumDscr": {
+        "dataKind": [
+          {
+            "lang": "fr",
+            "value": "Données cliniques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données biologiques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données socio-démographiques"
+          },
+          {
+            "lang": "en",
+            "value": "Clinical data"
+          },
+          {
+            "lang": "en",
+            "value": "Biological data"
+          },
+          {
+            "lang": "en",
+            "value": "Socio-demographic data"
+          }
+        ],
+        "anlyUnit": [
+          {
+            "lang": "fr",
+            "value": "Individus"
+          },
+          {
+            "lang": "en",
+            "value": "Individuals"
+          }
+        ],
+        "nation": [
+          {
+            "lang": "fr",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          },
+          {
+            "lang": "en",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          }
+        ],
+        "geogCover": [
+          {
+            "lang": "fr",
+            "value": "Hauts-de-France"
+          },
+          {
+            "lang": "en",
+            "value": "Hauts-de-France"
+          }
+        ],
+        "universe": [
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Masculin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Féminin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Male"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Female"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Adulte (19 à 24 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adulte (25 à 44 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Adulte (45 à 64 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Personne âgée (65 à 79 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000369"
+            },
+            "value": "Grand âge (80 ans et plus)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Young Adult (19 to 24 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adult (25 to 44 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Middle Aged (45 to 64 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Aged (65 to 79 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000369"
+            },
+            "value": "Aged, 80 and over (80 years and more)"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Patients"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "en",
+            "value": "Patients population"
+          },
+          {
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Critères d’inclusion : o Patient admis en hospitalisation conventionnelle depuis moins de 72h, o Age > 18 ans, o Diagnostic de Covid-19 confirmé par une RT-PCR positive o Patient acceptant de participer à l’étude o Patient affilié à la sécurité sociale "
+          },
+          {
+            "clusion": "I",
+            "lang": "en",
+            "value": "Inclusion criteria: o Patient admitted to a standard hospital department within the past 72 hrs, o Age > 18 years, o Covid-19 diagnosis confirmed by positive RT-PCR o Patient agreeing to take part in the study o Patient registered with a social security scheme  "
+          },
+          {
+            "clusion": "E",
+            "lang": "fr",
+            "value": "o Hospitalisation en soins critiques (réanimation ou soins intensifs) préalable pendant plus de 72h car risque de biais d’analyse de l’état nutritionnel"
+          },
+          {
+            "clusion": "E",
+            "lang": "en",
+            "value": "o Prior hospitalisation in critical care (intensive care unit) for more than 72 hours due to the risk of biased nutritional status analysis."
+          }
+        ],
+        "collDate": {
+          "event": "start",
+          "value": "2020-01-01"
+        }
+      }
+    },
+    "dataAccs": {
+      "setAvail": {
+        "avlStatus": [
+          {
+            "lang": "fr",
+            "value": "A définir"
+          },
+          {
+            "lang": "en",
+            "value": "To be defined"
+          }
+        ],
+        "conditions": []
+      },
+      "useStmt": {}
+    },
+    "othStdMat": {},
+    "studyDevelopment": {}
+  },
+  "docDscr": {
+    "citation": {
+      "rspStmt": {
+        "AuthEnty": "Amélie LANSIAUX"
+      },
+      "prodStmt": {
+        "producer": [
+          {
+            "affiliation": "GROUPEMENT DES HOPITAUX DE L&#x27;INSTITUT CATHOLIQUE DE LILLE",
+            "value": "Amélie;LANSIAUX"
+          }
+        ],
+        "prodPlac": "Portail Épidémiologie France"
+      }
+    }
+  },
+  "additional": {
+    "prodPlac": "Portail Épidémiologie France",
+    "creationDate": "07-01-2021",
+    "lastUpdatedManual": "07-05-2021",
+    "theme": {},
+    "governance": {
+      "committee": false
+    },
+    "collaborations": {},
+    "mockSample": {},
+    "dataQuality": {},
+    "variableDictionnary": {},
+    "dataTypes": {
+      "clinicalDataDetails": {
+        "lang": "fr",
+        "value": "Etat nutritionnel (donnée biologiques et cliniques), Hand grip test, données démographiques, antécédents, données COVID-19."
+      },
+      "biologicalDataDetails": [
+        {
+          "lang": "fr",
+          "value": "PCR Covid-19, Albumine,,  Procalcitonine (PCT),  Leucocytes,  Plaquettes,  Lymphocytes,  D-dimère."
+        },
+        {
+          "lang": "en",
+          "value": "PCR Covid-19, Albumin, ? Procalcitonin (PCT), ? Leukocytes, ? Platelets, ? Lymphocytes, ? D-dimer."
+        }
+      ],
+      "isDataInBiobank": false
+    },
+    "collectionProcess": {
+      "collectionModeDetails": [
+        {
+          "lang": "fr",
+          "value": "eCRF"
+        },
+        {
+          "lang": "en",
+          "value": "eCRF"
+        }
+      ]
+    },
+    "geographicalCoverage": {},
+    "activeFollowUp": {
+      "isActiveFollowUp": false
+    },
+    "dataCollectionIntegration": {
+      "isDataIntegration": false
+    },
+    "isHealthTheme": true
+  },
+  "schematype": "survey"
+}

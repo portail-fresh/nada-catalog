@@ -1,0 +1,701 @@
+{
+  "stdyDscr": {
+    "citation": {
+      "titlStmt": {
+        "IDNo": [
+          {
+            "agency": "PEF",
+            "value": "74116"
+          },
+          {
+            "agency": "FReSH",
+            "value": "FRESH-PEF74116"
+          },
+          {
+            "agency": "NCT",
+            "value": "NCT02608112"
+          }
+        ],
+        "titl": [
+          {
+            "lang": "fr",
+            "value": "Tocilizumab sous-cutané en monothérapie ou en association avec des médicaments antirhumatismaux modificateurs de la maladie conventionnels de synthèse (csDMARD) chez des patients atteints de polyarthrite rhumatoïde active modérée à sévère, suivis par des rhumatologues en milieu hospitalier et en cabinet : Étude non interventionnelle visant à décrire, en conditions réelles, le taux de rétention du traitement biothérapeutique à 1 an"
+          },
+          {
+            "lang": "en",
+            "value": "Subcutaneous Tocilizumab in monotherapy or in combination with csDMARD in patients with moderate to severe active Rheumatoid Arthritis and followed by hospital and office-based rheumatologists: Non-interventional study to describe realworld drug retention rate of the biotherapy at 1 year"
+          }
+        ],
+        "altTitl": [
+          {
+            "lang": "fr",
+            "value": "TANDEM"
+          },
+          {
+            "lang": "en",
+            "value": "TANDEM"
+          }
+        ]
+      },
+      "rspStmt": {
+        "othId": []
+      },
+      "distStmt": {
+        "contact": [
+          {
+            "name": ";Medical data center",
+            "email": "data_sharing.france@roche.com",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "F. HOFFMANN-LA ROCHE AG"
+              },
+              {
+                "lang": "en",
+                "value": "F. HOFFMANN-LA ROCHE AG"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/01mqmer16",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "775752140",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          }
+        ]
+      },
+      "prodStmt": {
+        "fundAg": [
+          {
+            "name": [
+              {
+                "lang": "fr"
+              },
+              {
+                "lang": "en"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Autre"
+              },
+              {
+                "lang": "en",
+                "value": "Other"
+              }
+            ]
+          }
+        ],
+        "producer": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "F. HOFFMANN-LA ROCHE AG"
+              },
+              {
+                "lang": "en",
+                "value": "F. HOFFMANN-LA ROCHE AG"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Industrie"
+              },
+              {
+                "lang": "en",
+                "value": "Industry"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "775752140"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "studyAuthorization": {
+      "authorizingAgency": {
+        "lang": "fr",
+        "value": "Autre"
+      }
+    },
+    "method": {
+      "notes": [
+        {
+          "subject": "research type",
+          "lang": "fr",
+          "value": "Etude observationnelle"
+        },
+        {
+          "subject": "research type",
+          "lang": "en",
+          "value": "Observational Study"
+        },
+        {
+          "lang": "fr",
+          "subject": "observational study method",
+          "value": "Cohorte"
+        },
+        {
+          "lang": "en",
+          "subject": "observational study method",
+          "value": "Cohort study"
+        }
+      ],
+      "stdyClas": [
+        {
+          "lang": "fr",
+          "value": "Inconnu"
+        },
+        {
+          "lang": "en",
+          "value": "Unknown"
+        }
+      ],
+      "dataColl": {
+        "targetSampleSize": [
+          {
+            "lang": "fr",
+            "value": "< 500 individus"
+          },
+          {
+            "lang": "en",
+            "value": "< 500 individuals"
+          }
+        ],
+        "sampleFrame": {
+          "frameUnit": {
+            "unitType": [
+              {
+                "lang": "fr",
+                "value": "Via des structures (services ou établissements de santé, écoles, entreprises…)"
+              },
+              {
+                "lang": "en",
+                "value": "Through organizations (health services or institutions, schools, businesses, etc.)"
+              }
+            ]
+          }
+        },
+        "sources": [
+          {}
+        ],
+        "collMode": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Transcription",
+              "vocab": "CESSDA"
+            },
+            "value": "Transcription et saisie d’informations dans un enregistrement structuré"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Transcription",
+              "vocab": "CESSDA"
+            },
+            "value": "Converting or copying information into a structured record"
+          }
+        ],
+        "sampProc": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ],
+        "respRate": [
+          {
+            "lang": "fr",
+            "value": "286"
+          },
+          {
+            "lang": "en",
+            "value": "286"
+          }
+        ]
+      }
+    },
+    "stdyInfo": {
+      "abstract": [
+        {
+          "contentType": "purpose",
+          "lang": "fr",
+          "value": "Objectif principal : évaluer le taux de rétention du Tocilizumab sous-cutané à 12 mois dans des conditions réelles chez des patients atteints de polyarthrite rhumatoïde active modérée à sévère suivis par des rhumatologues en milieu hospitalier ou en cabinet. Objectifs secondaires : - Évaluer le taux de rétention médicamenteuse de Tocilizumab sous-cutané à 6 et 18 mois. - Comparer la rétention médicamenteuse de Tocilizumab sous-cutané en monothérapie et en association avec le Methotrexate ou un autre médicament antirhumatismal modificateur de la maladie conventionnel de synthèse (csDMARD). - Décrire le dosage des stéroïdes après l'introduction de Tocilizumab sous-cutané avec une stratification sur l'utilisation du Methotrexate ou d'autres csDMARDs à 6, 12 et 18 mois. - Évaluer l'observance du Tocilizumab sous-cutané en utilisant la version française du questionnaire d'observance en rhumatologie 5 (CQR5) et le journal du patient à 6, 12 et 18 mois. - Évaluer la version française du CQR5 en évaluant la corrélation avec les données recueillies dans le journal du patient. - Décrire les modalités d'utilisation du Tocilizumab sous-cutané. - Décrire la prise en charge de la polyarthrite rhumatoïde et le parcours de soins des patients entre les rhumatologues hospitaliers et les rhumatologues libéraux. - Décrire l'efficacité de Tocilizumab sous-cutané dans les conditions réelles d'utilisation. - Décrire les caractéristiques des patients traités par Tocilizumab sous-cutané et les caractéristiques des médecins impliqués. - Évaluer le profil de tolérance de Tocilizumab sous-cutané dans les conditions réelles d'utilisation. - Décrire la qualité de vie (QoL) des patients recevant Tocilizumab sous-cutané dans les conditions réelles d'utilisation."
+        },
+        {
+          "contentType": "purpose",
+          "lang": "en",
+          "value": "Primary objective : To assess the drug retention rate of TCZ sc at 12 months under real-world conditions in patients with moderate to severe active RA followed by hospital- and office-based rheumatologists Secondary objectives : - To assess the drug retention rate of TCZ sc at 6 and 18 months. - To compare the drug retention of TCZ sc in monotherapy and in combination with MTX or other csDMARD. - To describe steroid dosing after introduction of TCZ sc with a stratification on the use of MTX or other csDMARDs at 6, 12 and 18 months. - To assess adherence to TCZ sc using a French version of the Compliance Questionnaire for Rheumatology 5 (CQR5) and patient diary at 6, 12 and 18 months. - To evaluate the French version of the CQR5 by assessing the correlation with the data collected from the patient diary data. - To describe the modalities of use of TCZ sc. - To describe the management of RA and patients’ healthcare pathway between hospital- and office-based rheumatologists. - To describe the efficacy of TCZ sc under real-world conditions of use. - To describe the characteristics of patients treated with TCZ sc and the characteristics of the involved physicians. - To assess the tolerability profile of TCZ sc under real-world conditions of use. - To describe the quality of life (QoL) in patients receiving TCZ sc under real-world conditions of use."
+        }
+      ],
+      "subject": {
+        "topcClas": [
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/bfb0bafd-7894-45ba-84fc-ddab5fd6c537"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D012219"
+              }
+            ],
+            "value": "Rhumatologie"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/bfb0bafd-7894-45ba-84fc-ddab5fd6c537"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D012219"
+              }
+            ],
+            "value": "Rheumatology"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "fr",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/396939646",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Arthropathies inflammatoires"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "en",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/396939646",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Inflammatory arthropathies"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants liés au système de santé : Consommation des soins"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants liés au système de santé"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Healthcare system determinants: Use of care"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Healthcare system determinants"
+          }
+        ],
+        "keyword": [
+          {
+            "lang": "fr",
+            "value": "Tocilizumab"
+          },
+          {
+            "lang": "en",
+            "value": "Tocilizumab"
+          }
+        ]
+      },
+      "qualityStatement": {
+        "standardsCompliance": {
+          "standard": {
+            "standardName": [
+              {
+                "lang": "fr",
+                "value": "SDISC"
+              },
+              {
+                "lang": "en",
+                "value": "CDISC"
+              }
+            ]
+          }
+        },
+        "otherQualityStatement": [
+          {
+            "lang": "fr",
+            "value": "Bonnes pratiques cliniques/Bonnes Pratiques de Pharmacovigilance (GCP/GVP)"
+          },
+          {
+            "lang": "en",
+            "value": "GCP/GVP"
+          }
+        ]
+      },
+      "sumDscr": {
+        "dataKind": [
+          {
+            "lang": "fr",
+            "value": "Données cliniques"
+          },
+          {
+            "lang": "en",
+            "value": "Clinical data"
+          }
+        ],
+        "anlyUnit": [
+          {
+            "lang": "fr",
+            "value": "Individus"
+          },
+          {
+            "lang": "en",
+            "value": "Individuals"
+          }
+        ],
+        "nation": [
+          {
+            "lang": "fr",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          },
+          {
+            "lang": "en",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          }
+        ],
+        "universe": [
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Masculin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Féminin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Male"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Female"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Adulte (19 à 24 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adulte (25 à 44 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Adulte (45 à 64 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Personne âgée (65 à 79 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000369"
+            },
+            "value": "Grand âge (80 ans et plus)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Young Adult (19 to 24 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adult (25 to 44 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Middle Aged (45 to 64 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Aged (65 to 79 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000369"
+            },
+            "value": "Aged, 80 and over (80 years and more)"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Patients"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "en",
+            "value": "Patients population"
+          },
+          {
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Critères d'inclusion : - Patients âgés d'au moins 18 ans. - Patients atteints d'une polyarthrite rhumatoïde modérée à sévère n'ayant jamais été traités par Tocilizumab (administré par voie intraveineuse ou en sous-cutané) et pour lesquels les rhumatologues ont décidé d'instaurer un traitement par Tocilizumab  sous-cutané en monothérapie ou en association avec un autre csDMARD. - Les patients qui ont été informés verbalement et par écrit de cette étude, qui ne s'opposent pas à ce que leurs données soient traitées électroniquement ou soumises à un contrôle de qualité et qui ont signé le formulaire de consentement."
+          },
+          {
+            "clusion": "I",
+            "lang": "en",
+            "value": "Inclusion criteria :  - Patients at least 18 years-old. - Patients with moderate to severe RA not previously treated with TCZ (iv or sc), for whom the rheumatologists have decided to initiate TCZ sc treatment as monotherapy or in combination with another csDMARD. - Patients who have been informed verbally and in writing about this study, who do not object to their data being electronically processed or subjected to data quality control and who have signed the consent form."
+          },
+          {
+            "clusion": "E",
+            "lang": "fr",
+            "value": ""
+          },
+          {
+            "clusion": "E",
+            "lang": "en",
+            "value": ""
+          }
+        ],
+        "collDate": [
+          {
+            "event": "start",
+            "value": "2015-01-01"
+          },
+          {
+            "event": "end",
+            "value": "2018-01-01"
+          }
+        ]
+      }
+    },
+    "dataAccs": {
+      "setAvail": {
+        "avlStatus": [
+          {
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Accès réservé"
+          },
+          {
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Restricted access"
+          }
+        ],
+        "conditions": []
+      },
+      "useStmt": {}
+    },
+    "othStdMat": {
+      "relMat": [
+        {
+          "lang": "fr",
+          "value": "Accès restreint sur projet spécifique"
+        },
+        {
+          "lang": "en",
+          "value": "Access on specific project only"
+        }
+      ]
+    },
+    "studyDevelopment": {}
+  },
+  "docDscr": {
+    "citation": {
+      "rspStmt": {
+        "AuthEnty": "Camille BACHOT"
+      },
+      "prodStmt": {
+        "producer": [
+          {
+            "affiliation": "F. HOFFMANN-LA ROCHE AG",
+            "value": "Camille;BACHOT"
+          }
+        ],
+        "prodPlac": "Portail Épidémiologie France"
+      }
+    }
+  },
+  "additional": {
+    "prodPlac": "Portail Épidémiologie France",
+    "creationDate": "17-01-2022",
+    "lastUpdatedManual": "07-07-2025",
+    "theme": {},
+    "governance": {
+      "committee": true
+    },
+    "collaborations": {},
+    "mockSample": {},
+    "dataQuality": {},
+    "variableDictionnary": {},
+    "dataTypes": {
+      "clinicalDataDetails": [
+        {
+          "lang": "fr",
+          "value": "Eligibilité / Formulaire de consentement ; Critères d'inclusion / Critères d'exclusion ; Statut ; Démographie ; Antécédents de polyarthrite rhumatoïde et antécédents médicaux ; Traitements antérieurs ; Activité de la polyarthrite rhumatoïde : vitesse de sédimentation des érythrocytes (ESR) / protéine C-réactive (CRP) ; Traitement par RoActemra® sc ; Hospitalisation pour polyarthrite rhumatoïde ; Arrêt précoce ; Traitement concomitant ; Effets indésirables ; CQR-5/CQ5D/HAQDI."
+        },
+        {
+          "lang": "en",
+          "value": "Eligibility /Consent form ; Inclusion criteria / Exclusion criteria ; Status ; Demography ; History of Rheumatoid Arthritis and Medical history ; Prior treatments ; Activity of RA : ESR / CRP ; Treatment with RoActemra® sc ; Hospitalization for RA ; Early termination ; Concomitant Treatment ; Adverse Events ; CQR-5/CQ5D/HAQDI."
+        }
+      ],
+      "isDataInBiobank": false
+    },
+    "collectionProcess": {
+      "collectionModeDetails": [
+        {
+          "lang": "fr",
+          "value": "eCRF"
+        },
+        {
+          "lang": "en",
+          "value": "eCRF"
+        }
+      ]
+    },
+    "geographicalCoverage": {},
+    "activeFollowUp": {
+      "isActiveFollowUp": true
+    },
+    "dataCollectionIntegration": {
+      "isDataIntegration": false
+    },
+    "isHealthTheme": true
+  },
+  "schematype": "survey"
+}

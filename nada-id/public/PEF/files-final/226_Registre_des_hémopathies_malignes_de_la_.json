@@ -1,0 +1,1044 @@
+{
+  "stdyDscr": {
+    "citation": {
+      "titlStmt": {
+        "IDNo": [
+          {
+            "agency": "PEF",
+            "value": "226"
+          },
+          {
+            "agency": "FReSH",
+            "value": "FRESH-PEF226"
+          }
+        ],
+        "titl": [
+          {
+            "lang": "fr",
+            "value": "Registre des hémopathies malignes de la Gironde (Registre qualifié 2013 - 2016)"
+          },
+          {
+            "lang": "en",
+            "value": "Gironde register of hematologic malignancies"
+          }
+        ]
+      },
+      "rspStmt": {
+        "AuthEnty": [
+          {
+            "name": "Alain;MONNEREAU",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "INSTITUT BERGONIE"
+              },
+              {
+                "lang": "en",
+                "value": "INSTITUT BERGONIE"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "0000-0002-5056-1397",
+                "role": "pi id",
+                "title": "ORCID"
+              },
+              {
+                "uri": "13067706X",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/02yw1f353",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "781831714",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ],
+            "isContact": true,
+            "email": "monnereau@bergonie.org",
+            "PILabo": "Institut Bergonié, Centre Régional de Lutte Contre le Cancer de Bordeaux et du"
+          }
+        ],
+        "othId": []
+      },
+      "distStmt": {
+        "contact": [
+          {
+            "name": "Alain;MONNEREAU",
+            "email": "monnereau@bergonie.org",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "INSTITUT BERGONIE"
+              },
+              {
+                "lang": "en",
+                "value": "INSTITUT BERGONIE"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/02yw1f353",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "781831714",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          }
+        ]
+      },
+      "prodStmt": {
+        "fundAg": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "INSTITUT BERGONIE"
+              },
+              {
+                "lang": "en",
+                "value": "INSTITUT BERGONIE"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "ROR",
+                "uri": "https://ror.org/02yw1f353"
+              },
+              {
+                "title": "SIREN",
+                "uri": "781831714"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Privé à but non lucratif"
+              },
+              {
+                "lang": "en",
+                "value": "Private non-profit"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "INSTITUT NATIONAL DU CANCER (INCA)"
+              },
+              {
+                "lang": "en",
+                "value": "INSTITUT NATIONAL DU CANCER (INCA)"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "ROR",
+                "uri": "https://ror.org/03m8vkq32"
+              },
+              {
+                "title": "SIREN",
+                "uri": "187512777"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "SANTE PUBLIQUE FRANCE"
+              },
+              {
+                "lang": "en",
+                "value": "SANTE PUBLIQUE FRANCE"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "ROR",
+                "uri": "https://ror.org/00dfw9p58"
+              },
+              {
+                "title": "SIREN",
+                "uri": "130022338"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ]
+          }
+        ],
+        "producer": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "INSTITUT BERGONIE"
+              },
+              {
+                "lang": "en",
+                "value": "INSTITUT BERGONIE"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Privé à but non lucratif"
+              },
+              {
+                "lang": "en",
+                "value": "Private non-profit"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "ROR",
+                "uri": "https://ror.org/02yw1f353"
+              },
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "781831714"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "studyAuthorization": {
+      "authorizingAgency": {
+        "lang": "fr",
+        "value": "CNIL"
+      }
+    },
+    "method": {
+      "notes": [
+        {
+          "subject": "research type",
+          "lang": "fr",
+          "value": "Etude observationnelle"
+        },
+        {
+          "subject": "research type",
+          "lang": "en",
+          "value": "Observational Study"
+        },
+        {
+          "lang": "fr",
+          "subject": "observational study method",
+          "value": "Registre de morbidité"
+        },
+        {
+          "lang": "en",
+          "subject": "observational study method",
+          "value": "Morbidity registry"
+        }
+      ],
+      "stdyClas": [
+        {
+          "lang": "fr",
+          "value": "Inconnu"
+        },
+        {
+          "lang": "en",
+          "value": "Unknown"
+        }
+      ],
+      "dataColl": {
+        "targetSampleSize": [
+          {
+            "lang": "fr",
+            "value": "[1000-10000[ individus"
+          },
+          {
+            "lang": "en",
+            "value": "[1000-10000[ individuals"
+          }
+        ],
+        "sampleFrame": {
+          "frameUnit": {
+            "unitType": [
+              {
+                "lang": "fr",
+                "value": "Via des structures (services ou établissements de santé, écoles, entreprises…)"
+              },
+              {
+                "lang": "en",
+                "value": "Through organizations (health services or institutions, schools, businesses, etc.)"
+              }
+            ]
+          }
+        },
+        "sources": [
+          {}
+        ],
+        "collMode": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ],
+        "sampProc": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ],
+        "respRate": [
+          {
+            "lang": "fr",
+            "value": "2002-2008 : 5000"
+          },
+          {
+            "lang": "en",
+            "value": "2002-2008 : 5000"
+          }
+        ]
+      }
+    },
+    "stdyInfo": {
+      "abstract": [
+        {
+          "contentType": "purpose",
+          "lang": "fr",
+          "value": "Un des objectifs essentiels du registre est d’améliorer le dispositif de surveillance sanitaire des hémopathies malignes localement et en France : - par l’analyse des données d’incidence des différents types d’hémopathies malignes : description de la fréquence et de la distribution de chaque entité selon le temps, l’espace et les caractéristiques de la population, - par la production de taux de référence fiables pour aider l’investigation des clusters, - par la veille sur les effets secondaires des thérapeutiques (ex : leucémies secondaires), - par la participation active à l’amélioration du système de surveillance (expertise dans l’enregistrement des hémopathies malignes ; programme d’amélioration de l’enregistrement des cas en France). L’épidémiologie clinique ou évaluative en population générale est également un des objectifs principaux du registre : - évaluer les pratiques, les trajectoires et les filières de soins, leur évolution au cours du temps, l’impact des référentiels de pratique sur la qualité des soins et la survie, - estimer la survie relative et la prévalence des hémopathies malignes à des fins de comparaison avec d’autres régions ou pays et pour estimer les besoins en ressources pour le diagnostic et les soins (chimiothérapie, greffe, radiothérapie), en particulier pour la population âgée (forte proportion des cas), - évaluer la diffusion et l’impact de la recherche clinique en mesurant l’applicabilité des essais thérapeutiques et l’impact des progrès thérapeutiques sur la quantité / qualité de vie des patients, Le registre a d’emblée été conçu comme un outil permettant de participer voire d’initier un programme de recherche épidémiologique sur les hémopathies malignes dans plusieurs domaines. L’épidémiologie descriptive, études écologiques ou cas/témoins, études sur l’accès aux soins et des études pronostiques en population, recherche pluridisciplinaires avec les Sciences Humaines et Sociales)."
+        },
+        {
+          "contentType": "purpose",
+          "lang": "en",
+          "value": "One of the key objectives of the registry is to improve the health surveillance system for hematological malignancies locally in France: - by analyzing incidence data of different types of hematological malignancies: description of the frequency and distribution of each entity according to time, space and the characteristics of the population, - by producing reliable reference rates for helping the investigation of clusters, - by monitoring the side effects of therapies (e.g.: secondary leukemia), - by actively taking part in improving the surveillance system (expertise in the recording of hematological malignancies; program for improving the recording of cases in France). Clinical or evaluative epidemiology in the general population is also one of the registry's main objectives: - evaluate practices, care pathways and streams, how these change over time and the impact of practice standards on care quality and survival, - estimate the relative survival and prevalence of hematological malignancies for the purposes of comparing with other regions or countries and to estimate the resource needs of diagnosis and treatment (chemotherapy, transplant, radiotherapy) - particularly for the elderly (high proportion of cases), - evaluate the dissemination and impact of clinical research by assessing the applicability of therapeutic trials and impact of therapeutic progress on the quantity/quality of life of patients, The registry was designed from the outset as a tool for participating in - and even initiating - an epidemiological research program on hematological malignancies in several fields. Descriptive epidemiology, ecological studies or case-control studies, studies on access to health care and prognostic studies in the population, multidisciplinary research with Human and Social Sciences)."
+        }
+      ],
+      "subject": {
+        "topcClas": [
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/9239f328-78c9-40a5-a0b9-8e66fd9b6245"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D006402"
+              }
+            ],
+            "value": "Hématologie"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/5784b7f1-c7ce-49d9-9f38-aebcda0ff41d"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D008495"
+              }
+            ],
+            "value": "Oncologie"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/9239f328-78c9-40a5-a0b9-8e66fd9b6245"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D006402"
+              }
+            ],
+            "value": "Hematology"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/5784b7f1-c7ce-49d9-9f38-aebcda0ff41d"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D008495"
+              }
+            ],
+            "value": "Oncology"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "fr",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/1510618119",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Tumeurs hématopoïétiques malignes, sans autre précision"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "en",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/1510618119",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Malignant haematopoietic neoplasms without further specification"
+          }
+        ],
+        "keyword": [
+          {
+            "lang": "fr",
+            "value": "dispositif"
+          },
+          {
+            "lang": "fr",
+            "value": "surveillance sanitaire"
+          },
+          {
+            "lang": "en",
+            "value": "Surveillance system"
+          },
+          {
+            "lang": "en",
+            "value": "hematological malignancies"
+          },
+          {
+            "lang": "en",
+            "value": "incidence data"
+          },
+          {
+            "lang": "en",
+            "value": "frequency"
+          },
+          {
+            "lang": "en",
+            "value": "clusters"
+          },
+          {
+            "lang": "en",
+            "value": "distribution"
+          },
+          {
+            "lang": "en",
+            "value": "side effects"
+          }
+        ]
+      },
+      "qualityStatement": {
+        "standardsCompliance": {
+          "standard": {
+            "standardName": [
+              {
+                "lang": "fr",
+                "value": "Classification Internationale des Maladies appliquée à l’oncologie (3ème version)"
+              },
+              {
+                "lang": "en",
+                "value": "International Classification of Diseases applied to oncology (3rd version)"
+              }
+            ]
+          }
+        }
+      },
+      "sumDscr": {
+        "dataKind": [
+          {
+            "lang": "fr",
+            "value": "Données cliniques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données paracliniques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données biologiques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données socio-démographiques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données paracliniques (hors biologiques) : Imagerie"
+          },
+          {
+            "lang": "fr",
+            "value": "Données paracliniques (hors biologiques) : Autre"
+          },
+          {
+            "lang": "en",
+            "value": "Clinical data"
+          },
+          {
+            "lang": "en",
+            "value": "Biological data"
+          },
+          {
+            "lang": "en",
+            "value": "Socio-demographic data"
+          },
+          {
+            "lang": "en",
+            "value": "Paraclinical data (non-biological) : Imaging"
+          },
+          {
+            "lang": "en",
+            "value": "Paraclinical data (non-biological) : Other"
+          }
+        ],
+        "anlyUnit": [
+          {
+            "lang": "fr",
+            "value": "Individus"
+          },
+          {
+            "lang": "en",
+            "value": "Individuals"
+          }
+        ],
+        "nation": [
+          {
+            "lang": "fr",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          },
+          {
+            "lang": "en",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          }
+        ],
+        "geogCover": [
+          {
+            "lang": "fr",
+            "value": "Nouvelle-Aquitaine"
+          },
+          {
+            "lang": "en",
+            "value": "Nouvelle-Aquitaine"
+          }
+        ],
+        "universe": [
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Masculin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Féminin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Male"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Female"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D007231"
+            },
+            "value": "Nouveau-né (naissance à 28j)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D007223"
+            },
+            "value": "Nourrisson (28j à 2 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D002675"
+            },
+            "value": "Petite enfance (2 à 5 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D002648"
+            },
+            "value": "Enfance (6 à 12 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000293"
+            },
+            "value": "Adolescence (13 à 18 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Adulte (19 à 24 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adulte (25 à 44 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Adulte (45 à 64 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Personne âgée (65 à 79 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000369"
+            },
+            "value": "Grand âge (80 ans et plus)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D007231"
+            },
+            "value": "Infant, Newborn (birth to 28 days)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D007223"
+            },
+            "value": "Infant (28 days to 2 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D002675"
+            },
+            "value": "Child, Preschool (2 to 5 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D002648"
+            },
+            "value": "Child (6 to 12 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Young Adult (19 to 24 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adult (25 to 44 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Middle Aged (45 to 64 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Aged (65 to 79 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000369"
+            },
+            "value": "Aged, 80 and over (80 years and more)"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Patients"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "en",
+            "value": "Patients population"
+          },
+          {
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Le registre inclut, depuis le 1er janvier 2002, tout cas incident d’hémopathie maligne (leucémie, lymphome, myélome, syndrome myélodysplasique, syndrome myéloprolifératif) porté chez un sujet résidant régulièrement en Gironde au moment de son diagnostic."
+          },
+          {
+            "clusion": "I",
+            "lang": "en",
+            "value": "Since January 1st 2002, the registry has included all incident cases of hematological malignancies (leukemia, lymphoma, myeloma, myelodysplastic syndrome, myeloproliferative syndrome) in subjects living on a regular basis in the Gironde at the time of diagnosis."
+          },
+          {
+            "clusion": "E",
+            "lang": "fr",
+            "value": ""
+          },
+          {
+            "clusion": "E",
+            "lang": "en",
+            "value": ""
+          }
+        ],
+        "collDate": [
+          {
+            "event": "start",
+            "value": "2002-01-01"
+          },
+          {
+            "event": "end",
+            "value": "2008-01-01"
+          }
+        ]
+      }
+    },
+    "dataAccs": {
+      "setAvail": {
+        "avlStatus": [
+          {
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Accès réservé"
+          },
+          {
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Restricted access"
+          }
+        ],
+        "notes": [
+          {
+            "lang": "fr",
+            "value": "Transmission à la base nationale Francim puis à l&#x27;Institut de Veille Sanitaire."
+          },
+          {
+            "lang": "en",
+            "value": "Transmission to the Francim national base and then to the French Institute for Public Health Surveillance (InVS)."
+          }
+        ],
+        "conditions": []
+      },
+      "useStmt": {}
+    },
+    "othStdMat": {
+      "relMat": [
+        {
+          "lang": "fr",
+          "value": "Accès libre"
+        },
+        {
+          "lang": "en",
+          "value": "Free access"
+        }
+      ]
+    },
+    "studyDevelopment": {
+      "developmentActivity": [
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/morbidité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Consommation de soins/services de santé"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Autres"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/morbidity"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health care consumption and services"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Others"
+        }
+      ]
+    }
+  },
+  "docDscr": {
+    "citation": {
+      "rspStmt": {
+        "AuthEnty": "Alain MONNEREAU"
+      },
+      "prodStmt": {
+        "producer": [
+          {
+            "affiliation": "INSTITUT BERGONIE",
+            "value": "Alain;MONNEREAU"
+          }
+        ],
+        "prodPlac": "Portail Épidémiologie France"
+      }
+    }
+  },
+  "additional": {
+    "prodPlac": "Portail Épidémiologie France",
+    "relatedDocuments": {
+      "documentTitle": [
+        {
+          "lang": "fr"
+        },
+        {
+          "lang": "en"
+        }
+      ],
+      "documentLink": [
+        {
+          "lang": "fr",
+          "value": "http://www.ncbi.nlm.nih.gov/pubmed/18781390"
+        },
+        {
+          "lang": "en",
+          "value": "http://www.ncbi.nlm.nih.gov/pubmed/18781390"
+        }
+      ]
+    },
+    "creationDate": "03-01-2011",
+    "lastUpdatedManual": "23-01-2015",
+    "theme": {},
+    "governance": {},
+    "collaborations": {},
+    "mockSample": {},
+    "dataQuality": {},
+    "variableDictionnary": {},
+    "dataTypes": {
+      "biologicalDataDetails": [
+        {
+          "lang": "fr",
+          "value": "Bilan biologique initial (Hémogramme, Myélogramme, Biopsie ostéomédullaire Immunophénotypage, Anomalies cytogénétiques, Examens biologiques à visée pronostique)."
+        },
+        {
+          "lang": "en",
+          "value": "Initial biological examination (Full blood count, Myelogram, Osteomedullary biopsy, Immunophenotyping, Cytogenetic anomalies, Biological examinations for prognostic purposes)."
+        }
+      ],
+      "isDataInBiobank": false
+    },
+    "collectionProcess": {
+      "collectionModeDetails": [
+        {
+          "lang": "fr",
+          "value": "Recueil actif ou passif (fichier informatique)"
+        },
+        {
+          "lang": "en",
+          "value": "Active or passive collection (electronic file)"
+        }
+      ]
+    },
+    "geographicalCoverage": {
+      "geoDetail": [
+        {
+          "lang": "fr",
+          "value": "Gironde"
+        },
+        {
+          "lang": "en",
+          "value": "Gironde"
+        }
+      ]
+    },
+    "activeFollowUp": {
+      "isActiveFollowUp": true
+    },
+    "dataCollectionIntegration": {
+      "isDataIntegration": false
+    },
+    "isHealthTheme": true
+  },
+  "schematype": "survey"
+}

@@ -1,0 +1,831 @@
+{
+  "stdyDscr": {
+    "citation": {
+      "titlStmt": {
+        "IDNo": [
+          {
+            "agency": "PEF",
+            "value": "73128"
+          },
+          {
+            "agency": "FReSH",
+            "value": "FRESH-PEF73128"
+          }
+        ],
+        "titl": [
+          {
+            "lang": "fr",
+            "value": "Etude transversale sur des élèves de 3ème dans la région du Languedoc-Roussillon"
+          },
+          {
+            "lang": "en",
+            "value": "Cross-sectional study of year-10 students in the Languedoc-Roussillon region"
+          }
+        ]
+      },
+      "rspStmt": {
+        "AuthEnty": [
+          {
+            "name": "Valérie;DESMARTIN-BELARBI",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "CREAI-ORS OCCITANIE (CREAI-ORS LR)"
+              },
+              {
+                "lang": "en",
+                "value": "CREAI-ORS OCCITANIE (CREAI-ORS LR)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "775589229",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ],
+            "isContact": true,
+            "email": "valerie.desmartin@ors-lr.org",
+            "PILabo": "CREAI-ORS"
+          }
+        ],
+        "othId": []
+      },
+      "distStmt": {
+        "contact": [
+          {
+            "name": "Valérie;DESMARTIN-BELARBI",
+            "email": "valerie.desmartin@ors-lr.org",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "CREAI-ORS OCCITANIE (CREAI-ORS LR)"
+              },
+              {
+                "lang": "en",
+                "value": "CREAI-ORS OCCITANIE (CREAI-ORS LR)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "775589229",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          }
+        ]
+      },
+      "prodStmt": {
+        "fundAg": [
+          {
+            "name": [
+              {
+                "lang": "fr"
+              },
+              {
+                "lang": "en"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ]
+          }
+        ],
+        "producer": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "CREAI-ORS OCCITANIE (CREAI-ORS LR)"
+              },
+              {
+                "lang": "en",
+                "value": "CREAI-ORS OCCITANIE (CREAI-ORS LR)"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Privé à but non lucratif"
+              },
+              {
+                "lang": "en",
+                "value": "Private non-profit"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "775589229"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "studyAuthorization": {
+      "authorizingAgency": {
+        "lang": "fr",
+        "value": "CNIL"
+      }
+    },
+    "method": {
+      "notes": [
+        {
+          "subject": "research type",
+          "lang": "fr",
+          "value": "Etude observationnelle"
+        },
+        {
+          "subject": "research type",
+          "lang": "en",
+          "value": "Observational Study"
+        }
+      ],
+      "stdyClas": [
+        {
+          "lang": "fr",
+          "value": "Étude complétée"
+        },
+        {
+          "lang": "en",
+          "value": "Completed study"
+        }
+      ],
+      "dataColl": {
+        "targetSampleSize": [
+          {
+            "lang": "fr",
+            "value": "[1000-10000[ individus"
+          },
+          {
+            "lang": "en",
+            "value": "[1000-10000[ individuals"
+          }
+        ],
+        "timeMeth": [
+          {
+            "lang": "fr",
+            "value": "Etude transversale non répétée"
+          },
+          {
+            "lang": "en",
+            "value": "One-time cross-sectional study"
+          }
+        ],
+        "sampleFrame": {
+          "frameUnit": {}
+        },
+        "sources": [
+          {}
+        ],
+        "collMode": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "SelfAdministeredQuestionnaire",
+              "vocab": "CESSDA"
+            },
+            "value": "Questionnaire auto-administré"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "SelfAdministeredQuestionnaire",
+              "vocab": "CESSDA"
+            },
+            "value": "Self-administered questionnaire"
+          }
+        ],
+        "sampProc": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ],
+        "respRate": [
+          {
+            "lang": "fr",
+            "value": "1520"
+          },
+          {
+            "lang": "en",
+            "value": "1520"
+          }
+        ]
+      }
+    },
+    "stdyInfo": {
+      "abstract": [
+        {
+          "contentType": "purpose",
+          "lang": "fr",
+          "value": "Les objectifs sont : -mettre en place en milieu scolaire un recueil d'informations reproductible auprès d'échantillons représentatifs de la population scolarisée pouvant apporter une meilleure connaissance de l'état de santé des élèves, identifier des comportements à risque des adolescents, -optimiser la pratique des professionnels de santé de l'Education nationale et favoriser l'homogénéisation des pratiques."
+        },
+        {
+          "contentType": "purpose",
+          "lang": "en",
+          "value": "The objectives are: - to establish a collection of reproducible information in a school environment from representative samples of the enrolled population that will be able to provide better knowledge of the health condition of students, to identify risky behaviours of adolescents - to optimise the practice of health care professionals of the national education system and to promote the homogenisation of practices."
+        }
+      ],
+      "subject": {
+        "topcClas": [
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/4b9f8efb-68dd-45a1-b04c-d23d457d6898"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D058006"
+              }
+            ],
+            "value": "Médecine générale"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/4b9f8efb-68dd-45a1-b04c-d23d457d6898"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D058006"
+              }
+            ],
+            "value": "General medicine"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Systèmes de soins et accès aux soins"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants comportementaux"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants comportementaux : Alimentation"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants socio-démographiques et économiques : Emploi"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants socio-démographiques et économiques"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Behavioral determinants"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Behavioral determinants: Eating habits"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Socio-demographic and economic determinants: Employment"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Socio-demographic and economic determinants"
+          }
+        ],
+        "keyword": [
+          {
+            "lang": "fr",
+            "value": "ADOLESCENT"
+          },
+          {
+            "lang": "fr",
+            "value": "COLLEGE"
+          },
+          {
+            "lang": "fr",
+            "value": "COMPORTEMENT PREJUDICIABLE SANTE"
+          },
+          {
+            "lang": "fr",
+            "value": "COMPORTEMENT SANTE"
+          },
+          {
+            "lang": "fr",
+            "value": "CONDITION VIE"
+          },
+          {
+            "lang": "fr",
+            "value": "DONNEE STATISTIQUE"
+          },
+          {
+            "lang": "fr",
+            "value": "ELEVE"
+          },
+          {
+            "lang": "fr",
+            "value": "ENQUETE EPIDEMIOLOGIQUE"
+          },
+          {
+            "lang": "fr",
+            "value": "ESTIME SOI"
+          },
+          {
+            "lang": "fr",
+            "value": "ETAT SANTE"
+          },
+          {
+            "lang": "fr",
+            "value": "HANDICAP"
+          },
+          {
+            "lang": "fr",
+            "value": "LANGUEDOC ROUSSILLON"
+          },
+          {
+            "lang": "fr",
+            "value": "PATHOLOGIE"
+          },
+          {
+            "lang": "fr",
+            "value": "PRISE DE RISQUE"
+          },
+          {
+            "lang": "fr",
+            "value": "SERVICE SANTE SCOLAIRE"
+          },
+          {
+            "lang": "fr",
+            "value": "TROUBLE ANXIEUX"
+          },
+          {
+            "lang": "fr",
+            "value": "TROUBLE LANGAGE"
+          },
+          {
+            "lang": "fr",
+            "value": "TROUBLE SOMMEIL"
+          },
+          {
+            "lang": "fr",
+            "value": "VIOLENCE SCOLAIRE"
+          },
+          {
+            "lang": "en",
+            "value": "behaviour harmful to health"
+          },
+          {
+            "lang": "en",
+            "value": "health behaviour"
+          },
+          {
+            "lang": "en",
+            "value": "statistical data"
+          },
+          {
+            "lang": "en",
+            "value": "epidemiological survey"
+          },
+          {
+            "lang": "en",
+            "value": "self esteem"
+          },
+          {
+            "lang": "en",
+            "value": "state of health"
+          },
+          {
+            "lang": "en",
+            "value": "languedoc roussillon"
+          },
+          {
+            "lang": "en",
+            "value": "pathology"
+          },
+          {
+            "lang": "en",
+            "value": "risk taking"
+          },
+          {
+            "lang": "en",
+            "value": "school health service"
+          },
+          {
+            "lang": "en",
+            "value": "anxiety disorder"
+          },
+          {
+            "lang": "en",
+            "value": "language disorder"
+          },
+          {
+            "lang": "en",
+            "value": "sleep disorder"
+          },
+          {
+            "lang": "en",
+            "value": "school violence"
+          },
+          {
+            "lang": "en",
+            "value": "adolescent"
+          },
+          {
+            "lang": "en",
+            "value": "high school"
+          },
+          {
+            "lang": "en",
+            "value": "living conditions"
+          },
+          {
+            "lang": "en",
+            "value": "student"
+          },
+          {
+            "lang": "en",
+            "value": "handicap"
+          }
+        ]
+      },
+      "qualityStatement": {
+        "standardsCompliance": {}
+      },
+      "sumDscr": {
+        "dataKind": [
+          {
+            "lang": "fr",
+            "value": "Données cliniques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données rapportées par le participant de l&#x27;étude"
+          },
+          {
+            "lang": "en",
+            "value": "Clinical data"
+          },
+          {
+            "lang": "en",
+            "value": "Participant-reported health data"
+          }
+        ],
+        "anlyUnit": [
+          {
+            "lang": "fr",
+            "value": "Individus"
+          },
+          {
+            "lang": "en",
+            "value": "Individuals"
+          }
+        ],
+        "nation": [
+          {
+            "lang": "fr",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          },
+          {
+            "lang": "en",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          }
+        ],
+        "geogCover": [
+          {
+            "lang": "fr",
+            "value": "Occitanie"
+          },
+          {
+            "lang": "en",
+            "value": "Occitanie"
+          }
+        ],
+        "universe": [
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Masculin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Féminin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Male"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Female"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D002648"
+            },
+            "value": "Enfance (6 à 12 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000293"
+            },
+            "value": "Adolescence (13 à 18 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D002648"
+            },
+            "value": "Child (6 to 12 years)"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Population générale"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "en",
+            "value": "General population"
+          },
+          {
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Élèves dans un des collèges de l'académie de Montpellier"
+          },
+          {
+            "clusion": "I",
+            "lang": "en",
+            "value": "Students in one of the high schools of the Montpellier school district."
+          },
+          {
+            "clusion": "E",
+            "lang": "fr",
+            "value": ""
+          },
+          {
+            "clusion": "E",
+            "lang": "en",
+            "value": ""
+          }
+        ],
+        "collDate": [
+          {
+            "event": "start",
+            "value": "2008-01-01"
+          },
+          {
+            "event": "end",
+            "value": "2009-01-01"
+          }
+        ]
+      }
+    },
+    "dataAccs": {
+      "setAvail": {
+        "avlStatus": [
+          {
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Accès réservé"
+          },
+          {
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Restricted access"
+          }
+        ],
+        "conditions": [
+          {
+            "lang": "fr",
+            "value": "Contacter le responsable scientifique"
+          },
+          {
+            "lang": "en",
+            "value": "Contact the principal investigator"
+          }
+        ]
+      },
+      "useStmt": {}
+    },
+    "othStdMat": {
+      "relMat": [
+        {
+          "lang": "fr",
+          "value": "Accès restreint sur projet spécifique"
+        },
+        {
+          "lang": "en",
+          "value": "Access on specific project only"
+        }
+      ]
+    },
+    "studyDevelopment": {
+      "developmentActivity": [
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/mortalité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Qualité de vie/santé perçue"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/mortality"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Quality of life/health perception"
+        }
+      ]
+    }
+  },
+  "docDscr": {
+    "citation": {
+      "rspStmt": {
+        "AuthEnty": "Valérie DESMARTIN-BELARBI"
+      },
+      "prodStmt": {
+        "producer": [
+          {
+            "affiliation": "CREAI-ORS OCCITANIE (CREAI-ORS LR)",
+            "value": "Valérie;DESMARTIN-BELARBI"
+          }
+        ],
+        "prodPlac": "Portail Épidémiologie France"
+      }
+    }
+  },
+  "additional": {
+    "prodPlac": "Portail Épidémiologie France",
+    "relatedDocuments": {
+      "documentTitle": [
+        {
+          "lang": "fr"
+        },
+        {
+          "lang": "en"
+        }
+      ],
+      "documentLink": [
+        {
+          "lang": "fr",
+          "value": "http://www.creaiorslr.fr/Documentation/Etudes-et-publications/2010-Rapport-Ores-3eme"
+        },
+        {
+          "lang": "en",
+          "value": "http://www.creaiorslr.fr/Documentation/Etudes-et-publications/2010-Rapport-Ores-3eme"
+        }
+      ]
+    },
+    "creationDate": "01-07-2015",
+    "lastUpdatedManual": "01-01-2019",
+    "theme": {},
+    "governance": {
+      "committee": true
+    },
+    "collaborations": {},
+    "mockSample": {},
+    "dataQuality": {},
+    "variableDictionnary": {},
+    "dataTypes": {
+      "clinicalDataDetails": [
+        {
+          "lang": "fr",
+          "value": "La biométrie, l’activité physique et la sédentarité, La dentition, Vision, Language, Audition, La santé respiratoire, Vaccinations, Le handicap et les maladies chroniques"
+        },
+        {
+          "lang": "en",
+          "value": "Biometrics, physical activity and sedentary activity, Dentition, Vision, Language, Hearing, Respiratory health, Vaccinations, Handicaps and chronic diseases"
+        }
+      ],
+      "isDataInBiobank": false
+    },
+    "collectionProcess": {
+      "collectionModeDetails": [
+        {
+          "lang": "fr",
+          "value": "Auto-questionnaire et examen de santé"
+        },
+        {
+          "lang": "en",
+          "value": "Self-questionnaire and health examination"
+        }
+      ]
+    },
+    "geographicalCoverage": {
+      "geoDetail": [
+        {
+          "lang": "fr",
+          "value": "Languedoc-Roussillon"
+        },
+        {
+          "lang": "en",
+          "value": "Languedoc-Roussillon"
+        }
+      ]
+    },
+    "activeFollowUp": {
+      "isActiveFollowUp": false
+    },
+    "dataCollectionIntegration": {
+      "isDataIntegration": false
+    },
+    "isHealthTheme": true
+  },
+  "schematype": "survey"
+}

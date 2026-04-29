@@ -1,0 +1,957 @@
+{
+  "stdyDscr": {
+    "citation": {
+      "titlStmt": {
+        "IDNo": [
+          {
+            "agency": "PEF",
+            "value": "1202"
+          },
+          {
+            "agency": "FReSH",
+            "value": "FRESH-PEF1202"
+          }
+        ],
+        "titl": [
+          {
+            "lang": "fr",
+            "value": "Enquête Fécondité – Contraception – Dysfonctions sexuelles"
+          },
+          {
+            "lang": "en",
+            "value": "Fertility – Contraception – Sexual dysfunction survey"
+          }
+        ],
+        "altTitl": [
+          {
+            "lang": "fr",
+            "value": "Fécond"
+          },
+          {
+            "lang": "en",
+            "value": "Fécond"
+          }
+        ]
+      },
+      "rspStmt": {
+        "AuthEnty": [
+          {
+            "name": "Nathalie;BAJOS",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE (INSERM)"
+              },
+              {
+                "lang": "en",
+                "value": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE (INSERM)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "031836208",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/02vjkv261",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "180036048",
+                "role": "organisation id",
+                "title": "SIREN"
+              },
+              {
+                "uri": "201019083D",
+                "role": "labo id",
+                "title": "RNSR"
+              }
+            ],
+            "isContact": true,
+            "email": "nathalie.bajos@inserm.fr",
+            "PILabo": "INSERM / Inserm CESP U1018"
+          },
+          {
+            "name": "Caroline;MOREAU",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE (INSERM)"
+              },
+              {
+                "lang": "en",
+                "value": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE (INSERM)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "0000-0002-8637-6249",
+                "role": "pi id",
+                "title": "ORCID"
+              },
+              {
+                "uri": "07633225X",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/02vjkv261",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "180036048",
+                "role": "organisation id",
+                "title": "SIREN"
+              },
+              {
+                "uri": "201019083D",
+                "role": "labo id",
+                "title": "RNSR"
+              }
+            ],
+            "isContact": true,
+            "email": "caroline.moreau@inserm.fr",
+            "PILabo": "Inserm / CESP U1018"
+          }
+        ],
+        "othId": []
+      },
+      "distStmt": {
+        "contact": [
+          {
+            "name": "Nathalie;BAJOS",
+            "email": "nathalie.bajos@inserm.fr",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE (INSERM)"
+              },
+              {
+                "lang": "en",
+                "value": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE (INSERM)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/02vjkv261",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "180036048",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          },
+          {
+            "name": "Caroline;MOREAU",
+            "email": "caroline.moreau@inserm.fr",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE (INSERM)"
+              },
+              {
+                "lang": "en",
+                "value": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE (INSERM)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/02vjkv261",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "180036048",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          }
+        ]
+      },
+      "prodStmt": {
+        "fundAg": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE (INSERM)"
+              },
+              {
+                "lang": "en",
+                "value": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE (INSERM)"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "ROR",
+                "uri": "https://ror.org/02vjkv261"
+              },
+              {
+                "title": "SIREN",
+                "uri": "180036048"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "INSTITUT NATIONAL D'ETUDES DEMOGRAPHIQUES (INED)"
+              },
+              {
+                "lang": "en",
+                "value": "INSTITUT NATIONAL D'ETUDES DEMOGRAPHIQUES (INED)"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "ROR",
+                "uri": "https://ror.org/02cnsac56"
+              },
+              {
+                "title": "SIREN",
+                "uri": "180037020"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ]
+          }
+        ],
+        "producer": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE (INSERM)"
+              },
+              {
+                "lang": "en",
+                "value": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE (INSERM)"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "ROR",
+                "uri": "https://ror.org/02vjkv261"
+              },
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "180036048"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "lang": "fr"
+              },
+              {
+                "lang": "en"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ],
+            "extLink": []
+          }
+        ]
+      }
+    },
+    "studyAuthorization": [
+      {
+        "authorizingAgency": {
+          "lang": "fr",
+          "value": "CNIL"
+        }
+      },
+      {
+        "authorizingAgency": {
+          "lang": "fr",
+          "value": "CESREES"
+        }
+      }
+    ],
+    "method": {
+      "notes": [
+        {
+          "subject": "research type",
+          "lang": "fr",
+          "value": "Etude observationnelle"
+        },
+        {
+          "subject": "research type",
+          "lang": "en",
+          "value": "Observational Study"
+        }
+      ],
+      "stdyClas": [
+        {
+          "lang": "fr",
+          "value": "Étude complétée"
+        },
+        {
+          "lang": "en",
+          "value": "Completed study"
+        }
+      ],
+      "dataColl": {
+        "targetSampleSize": [
+          {
+            "lang": "fr",
+            "value": "[1000-10000[ individus"
+          },
+          {
+            "lang": "en",
+            "value": "[1000-10000[ individuals"
+          }
+        ],
+        "timeMeth": [
+          {
+            "lang": "fr",
+            "value": "Etude transversale non répétée"
+          },
+          {
+            "lang": "en",
+            "value": "One-time cross-sectional study"
+          }
+        ],
+        "sampleFrame": {
+          "frameUnit": {
+            "unitType": [
+              {
+                "lang": "fr",
+                "value": "Base de population à finalité statistique"
+              },
+              {
+                "lang": "en",
+                "value": "Population database for statistical purposes"
+              }
+            ]
+          }
+        },
+        "sources": [
+          {}
+        ],
+        "collMode": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Transcription",
+              "vocab": "CESSDA"
+            },
+            "value": "Transcription et saisie d’informations dans un enregistrement structuré"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Transcription",
+              "vocab": "CESSDA"
+            },
+            "value": "Converting or copying information into a structured record"
+          },
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Interview",
+              "vocab": "CESSDA"
+            },
+            "value": "Entretien avec le participant (dont clinique)"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Interview",
+              "vocab": "CESSDA"
+            },
+            "value": "Interview with the participant (including clinical)"
+          }
+        ],
+        "sampProc": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ],
+        "respRate": [
+          {
+            "lang": "fr",
+            "value": "8645, 1000 (médecins)"
+          },
+          {
+            "lang": "en",
+            "value": "8645, 1000 (doctors)"
+          }
+        ]
+      }
+    },
+    "stdyInfo": {
+      "abstract": [
+        {
+          "contentType": "purpose",
+          "lang": "fr",
+          "value": "Ces dernières décennies ont été marquées par un changement majeur de paradigme dans le champ de la santé reproductive. D’une analyse centrée sur la santé de la femme en tant que mère, on est passé à une perspective s’intéressant aux individus impliqués dans le processus de reproduction, puis à une approche globale de la sexualité et des risques qui lui sont associés (Bonnet et Guillaume 2004). Le concept de santé sexuelle et reproductive tel qu’il est défini par l’OMS ne se limite pas à l’absence de dysfonctions, de maladies ou de problèmes de santé (infertilité, avortement, infection sexuellement transmissible (IST) etc.) mais se réfère à un processus continu de bien-être physique, psychologique, et socio-culturel associé à la sexualité (OMS 2004). Bien que leur prise en charge soit de plus en plus médicalisée, les questions de santé sexuelle et reproductive s’envisagent aujourd’hui dans une perspective globale et multidisciplinaire (Hart and Wellings 2002). C’est dans ce contexte de médicalisation croissante (Conrad 1992, Giami 2002) que ce projet vise à éclairer les enjeux actuels de la santé sexuelle et reproductive en France. S’inscrivant dans la perspective de l’OMS, nous proposons d’étudier, pour la première fois en France, la santé sexuelle et reproductive comme un processus résultant des déterminants sociaux et médicaux qui structurent les représentations et les pratiques des femmes mais aussi celles des hommes, ainsi que les facteurs sociaux, médicaux, institutionnels qui organisent les pratiques des professionnels de santé. De façon plus précise, la recherche vise à analyser : - la socialisation à la contraception et le passage du préservatif à un autre mode de contraception en début de vie reproductive ; - les normes et représentations en matière de maternité/paternité et technologies de la reproduction au regard des pratiques de santé dans ce domaine (aide médicale à la procréation, stérilisation contraceptive) ; - les pratiques contraceptives et les conditions du choix des méthodes aux différentes étapes du cycle de vie (en particulier en période de péri-ménopause) ; - les échecs de contraception (et la mesure de l’efficacité pratique des principales méthodes utilisées) au regard des effets secondaires des méthodes employées et de leur contexte de survenue (relationnel, préventif et procréatif) ainsi que le recours à la contraception d’urgence en cas de rapport mal ou non protégé ; - les difficultés à concevoir et leur prise en charge: perception des problèmes de fertilité, temps écoulé, parcours de soins (médical et non médical) et impact sur la santé ; - le suivi médical en matière de santé sexuelle et reproductive, en étudiant la question de l’accès aux soins, la nature et la fréquence du suivi gynécologique pour les femmes et les pratiques de dépistage des cancers gynécologiques. Le recours aux soins pour certaines conditions particulières telles que les symptômes de la péri ménopause, les dysfonctions sexuelles et les troubles urinaires sera également étudié."
+        },
+        {
+          "contentType": "purpose",
+          "lang": "en",
+          "value": "The last few decades have been marked by a major paradigm shift in the realm of reproductive health. From an analysis focused on the health of women as mothers, there has been movement toward a perspective focused on the individuals involved in the reproductive process, then to a global approach to sexuality and the associated risks (Bonnet and Guillaume 2004). The concept of sexual and reproductive health as defined by WHO is not limited to the absence of dysfunctions, diseases or health problems (infertility, abortion, sexually transmitted infections (STI), etc.), but refers to a continuous process of physical, psychological and sociocultural well-being associated with sexuality (WHO 2004). Although their treatment is increasingly medical, sexual and reproductive health issues are today viewed within a global and multidisciplinary perspective (Hart and Wellings 2002). It is within this context of growing medicalisation (Conrad 1992, Giami 2002) that this project intends to shed light on current sexual and reproductive health issues in France. In line with the WHO perspective, we propose to study, for the first time in France, sexual and reproductive health as a process resulting from social and medical determinants that structure the representations and practices of women and men, as well as the social, medical and institutional factors that shape the practices of health care professionals. More specifically, the research is intended to analyse: - socialisation to contraception and the transition from the condom to another contraceptive method at the beginning of reproductive life; - the norms and representations related to motherhood/fatherhood and reproductive technologies regarding health practices in this area (medical aid to procreation, contraceptive sterilisation); - contraceptive practices and the conditions of choice of methods at different stages of the life cycle (in particular during the perimenopausal period); - contraceptive failures (and the degree of practical efficacy of the principal methods used) with regard to the side effects of the methods used and the context in which they occur (relationships, preventive and procreative) as well as recourse to emergency contraception in case of badly protected or unprotected sex; - difficulties in conceiving and their treatment: perception of fertility problems, time elapsed, course of treatment (medical and non-medical) and impact on health; - medical monitoring in the realm of sexual and reproductive health, studying the question of access to care, the nature and frequency of gynaecological monitoring for women and gynaecological cancer screening practices. Recourse to treatment for certain specific conditions such as perimenopausal symptoms, sexual dysfunctions and urinary disorders will also be studied"
+        }
+      ],
+      "subject": {
+        "topcClas": [
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/7de64596-5b0d-4977-8f98-b982ff2ec17d"
+              },
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/284ca20c-beb4-4abe-99fa-ef4513358bad"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D006176"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D009774"
+              }
+            ],
+            "value": "Gynécologie et obstétrique"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/fa2ceeab-3b2f-45e9-9243-e5a8005b98de"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D055552"
+              }
+            ],
+            "value": "Infectiologie"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/7de64596-5b0d-4977-8f98-b982ff2ec17d"
+              },
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/284ca20c-beb4-4abe-99fa-ef4513358bad"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D006176"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D009774"
+              }
+            ],
+            "value": "Gynaecology and obstetrics"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/fa2ceeab-3b2f-45e9-9243-e5a8005b98de"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D055552"
+              }
+            ],
+            "value": "Infectious disease medicine"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants socio-démographiques et économiques"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants comportementaux"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Systèmes de soins et accès aux soins"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Socio-demographic and economic determinants"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Behavioral determinants"
+          }
+        ],
+        "keyword": [
+          {
+            "lang": "fr",
+            "value": "IVG"
+          },
+          {
+            "lang": "fr",
+            "value": "IST"
+          },
+          {
+            "lang": "fr",
+            "value": "sexualité"
+          },
+          {
+            "lang": "fr",
+            "value": "Santé sexuelle et reproductive"
+          },
+          {
+            "lang": "fr",
+            "value": "contraception"
+          },
+          {
+            "lang": "en",
+            "value": "Chronic diseases Sexual and reproductive health Vaccinations"
+          },
+          {
+            "lang": "en",
+            "value": "elective abortion"
+          },
+          {
+            "lang": "en",
+            "value": "STIs"
+          },
+          {
+            "lang": "en",
+            "value": "sexuality"
+          }
+        ]
+      },
+      "qualityStatement": {
+        "standardsCompliance": {}
+      },
+      "sumDscr": {
+        "dataKind": [
+          {
+            "lang": "fr",
+            "value": "Données rapportées par le participant de l&#x27;étude"
+          },
+          {
+            "lang": "en",
+            "value": "Participant-reported health data"
+          }
+        ],
+        "anlyUnit": [
+          {
+            "lang": "fr",
+            "value": "Individus"
+          },
+          {
+            "lang": "en",
+            "value": "Individuals"
+          }
+        ],
+        "nation": [
+          {
+            "lang": "fr",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          },
+          {
+            "lang": "en",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          }
+        ],
+        "universe": [
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Masculin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Féminin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Male"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Female"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000293"
+            },
+            "value": "Adolescence (13 à 18 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Adulte (19 à 24 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adulte (25 à 44 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Adulte (45 à 64 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Young Adult (19 to 24 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adult (25 to 44 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Middle Aged (45 to 64 years)"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Population générale"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "en",
+            "value": "General population"
+          },
+          {
+            "clusion": "I",
+            "lang": "fr",
+            "value": "sujets âgés de 15 à 49 ans parlant le français et vivant en France Métropolitaine"
+          },
+          {
+            "clusion": "I",
+            "lang": "en",
+            "value": "subjects from 15 to 49 years of age who speak French and live in Metropolitan France"
+          },
+          {
+            "clusion": "E",
+            "lang": "fr",
+            "value": ""
+          },
+          {
+            "clusion": "E",
+            "lang": "en",
+            "value": ""
+          }
+        ],
+        "collDate": [
+          {
+            "event": "start",
+            "value": "2009-01-01"
+          },
+          {
+            "event": "end",
+            "value": "2011-01-01"
+          }
+        ]
+      }
+    },
+    "dataAccs": {
+      "setAvail": {
+        "avlStatus": [
+          {
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_f1cf"
+              }
+            ],
+            "value": "Sous embargo"
+          },
+          {
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_f1cf"
+              }
+            ],
+            "value": "Embargoed access"
+          }
+        ],
+        "conditions": [
+          {
+            "lang": "fr",
+            "value": "Les membres de l’équipe de recherche du projet FECOND auront accès au fichier de données anonymisées (aucune mention du lieu de résidence des personnes interrogées, seules données indirectement nominatives) durant toute la période de traitement des données. La base de données sera mise à disposition des chercheurs qui en feront la demande à l’équipe de recherche après un délai de 2 ans : les chercheurs voulant faire une exploitation du fichier devront envoyer un protocole d’étude aux responsables scientifiques de l’enquête FECOND. Une fois le protocole validé, un membre de l’équipe scientifique de l’enquête sera désigné comme référent. Les chercheurs devront alors signer une convention dans laquelle ils s’engagent à : - ne pas céder les fichiers informatiques à aucun autre chercheur ou équipe de recherche et à ne pas les utiliser pour des formations d’étudiants. - ne publier que des résultats correspondants au projet soumis à l’équipe FECOND. Toute autre analyse devra faire l’objet d’un nouveau projet et d’une validation par l’ensemble de l’équipe FECOND."
+          },
+          {
+            "lang": "en",
+            "value": "The members of the FECOND research project team will have access to the anonymised database (no mention of the place of residence of the individuals questioned, only indirect personal data) throughout the data handling period. The database will be made available to researchers upon request to the research team after a period of 2 years: researchers who wish to use the database should send a study protocol to the scientific supervisors of the FECOND survey. Once the protocol is validated, a member of the survey&#x27;s scientific team will be designated as a point of contact. The researchers will then have to sign an agreement in which they agree: - not to provide the digital files to any other researcher or research team and not to use them to train students; - to only publish results corresponding to the project submitted to the FECOND team."
+          }
+        ]
+      },
+      "useStmt": {
+        "citReq": [
+          {
+            "lang": "fr",
+            "value": "Faire apparaître le groupe FECOND dans les auteurs (avec en renvoi, les membres de l’équipe) pour rendre compte du travail fourni par l’équipe dans l’élaboration des données. adresser à l’équipe, pour avis, une version finale de l’article avant sa soumission dans une revue. faire obligatoirement apparaître les organismes ayant financé l’enquête dans chacun des papiers soumis."
+          },
+          {
+            "lang": "en",
+            "value": "Include the FECOND group within the authors (with reference to the team members) in order to account for the work provided by the team in the preparation of the data. Send the team a final version of the article, for feedback, before it is submitted to a journal. to note the organisations that financed the survey in every paper submitted"
+          }
+        ]
+      }
+    },
+    "othStdMat": {
+      "relMat": [
+        {
+          "lang": "fr",
+          "value": "Accès restreint sur projet spécifique"
+        },
+        {
+          "lang": "en",
+          "value": "Access on specific project only"
+        }
+      ]
+    },
+    "studyDevelopment": {
+      "developmentActivity": [
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/morbidité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Qualité de vie/santé perçue"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/morbidity"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Quality of life/health perception"
+        }
+      ]
+    }
+  },
+  "docDscr": {
+    "citation": {
+      "rspStmt": {
+        "AuthEnty": "Nathalie BAJOS"
+      },
+      "prodStmt": {
+        "producer": [
+          {
+            "affiliation": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE (INSERM)",
+            "value": "Nathalie;BAJOS"
+          }
+        ],
+        "prodPlac": "Portail Épidémiologie France"
+      }
+    }
+  },
+  "additional": {
+    "prodPlac": "Portail Épidémiologie France",
+    "relatedDocuments": {
+      "documentTitle": [
+        {
+          "lang": "fr"
+        },
+        {
+          "lang": "en"
+        }
+      ],
+      "documentLink": [
+        {
+          "lang": "fr",
+          "value": "http://epidemiologie-france.aviesan.fr/pubmed"
+        },
+        {
+          "lang": "en",
+          "value": "http://epidemiologie-france.aviesan.fr/pubmed"
+        }
+      ]
+    },
+    "creationDate": "16-02-2011",
+    "lastUpdatedManual": "07-10-2022",
+    "theme": {},
+    "governance": {
+      "committee": true
+    },
+    "collaborations": {},
+    "mockSample": {},
+    "dataQuality": {},
+    "variableDictionnary": {},
+    "dataTypes": {
+      "isDataInBiobank": false
+    },
+    "collectionProcess": {},
+    "geographicalCoverage": {
+      "geoDetail": [
+        {
+          "lang": "fr",
+          "value": "France métropolitaine"
+        },
+        {
+          "lang": "en",
+          "value": "metropolitan France"
+        }
+      ]
+    },
+    "activeFollowUp": {
+      "isActiveFollowUp": false
+    },
+    "dataCollectionIntegration": {
+      "isDataIntegration": false
+    },
+    "isHealthTheme": true
+  },
+  "schematype": "survey"
+}

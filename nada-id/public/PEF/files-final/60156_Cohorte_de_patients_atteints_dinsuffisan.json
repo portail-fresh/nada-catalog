@@ -1,0 +1,996 @@
+{
+  "stdyDscr": {
+    "citation": {
+      "titlStmt": {
+        "IDNo": [
+          {
+            "agency": "PEF",
+            "value": "60156"
+          },
+          {
+            "agency": "FReSH",
+            "value": "FRESH-PEF60156"
+          }
+        ],
+        "titl": [
+          {
+            "lang": "fr",
+            "value": "Cohorte de patients atteints d'insuffisances aortiques et d'anévrismes de la racine: conservation aortique valvulaire"
+          },
+          {
+            "lang": "en",
+            "value": "Conservative Aortic Valve Surgery for Aortic Insufficiency and Aneurysms of the Aortic Root"
+          }
+        ],
+        "altTitl": [
+          {
+            "lang": "fr",
+            "value": "CAVIAAR"
+          },
+          {
+            "lang": "en",
+            "value": "CAVIAAR"
+          }
+        ]
+      },
+      "rspStmt": {
+        "AuthEnty": [
+          {
+            "name": "Isabelle;DI CENTA",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "ASSISTANCE PUBLIQUE HOPITAUX DE PARIS (AP-HP)"
+              },
+              {
+                "lang": "en",
+                "value": "ASSISTANCE PUBLIQUE HOPITAUX DE PARIS (AP-HP)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "055382649",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/00pg5jh14",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "267500452",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ],
+            "isContact": true,
+            "email": "isabelle.di-centa@wanadoo.fr",
+            "PILabo": "ASSISTANCE PUBLIQUE HOPITAUX DE PARIS / UNITÉ DE RECHERCHE CLINIQUE PARIS NORD GROUPE HOSPITALIER BICHAT CLAUDE BERNARD"
+          },
+          {
+            "name": "Cécile;JOURDAIN",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "ASSISTANCE PUBLIQUE HOPITAUX DE PARIS (AP-HP)"
+              },
+              {
+                "lang": "en",
+                "value": "ASSISTANCE PUBLIQUE HOPITAUX DE PARIS (AP-HP)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/00pg5jh14",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "267500452",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ],
+            "isContact": false,
+            "email": "",
+            "PILabo": "ASSISTANCE PUBLIQUE HOPITAUX DE PARIS / DÉLÉGATION REGIONALE À LA RECHERCHE CLINIQUE DÉLÉGATION REGIONALE À LA RECHERCHE CLINIQUE"
+          },
+          {
+            "name": "Emmanuel;LANSAC",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "INSTITUT MEDICO-CHIRURGICAL MONTSOURIS"
+              },
+              {
+                "lang": "en",
+                "value": "INSTITUT MEDICO-CHIRURGICAL MONTSOURIS"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "059432950",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/00bea5h57",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "992985036",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ],
+            "isContact": true,
+            "email": "emmanuel.lansac@imm.fr",
+            "PILabo": "Institut Mutualiste Montsouris / Département de Pathologie cardiaque"
+          }
+        ],
+        "othId": {
+          "type": "collaboration",
+          "affiliation": {
+            "lang": "fr",
+            "value": "Inclusion dans un projet européen : Création en cours d'un registre européen (CAVIAAR Registry) des conservations valvulaires aortiques selon le protocole standardisé du PHRC CAVIAAR pour un suivi prospectif de tous les patients implantés avec un anneau aortique expansible"
+          }
+        }
+      },
+      "distStmt": {
+        "contact": [
+          {
+            "name": "Isabelle;DI CENTA",
+            "email": "isabelle.di-centa@wanadoo.fr",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "ASSISTANCE PUBLIQUE HOPITAUX DE PARIS (AP-HP)"
+              },
+              {
+                "lang": "en",
+                "value": "ASSISTANCE PUBLIQUE HOPITAUX DE PARIS (AP-HP)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/00pg5jh14",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "267500452",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          },
+          {
+            "name": "Emmanuel;LANSAC",
+            "email": "emmanuel.lansac@imm.fr",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "INSTITUT MEDICO-CHIRURGICAL MONTSOURIS"
+              },
+              {
+                "lang": "en",
+                "value": "INSTITUT MEDICO-CHIRURGICAL MONTSOURIS"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/00bea5h57",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "992985036",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          }
+        ]
+      },
+      "prodStmt": {
+        "fundAg": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "ASSISTANCE PUBLIQUE HOPITAUX DE PARIS (AP-HP)"
+              },
+              {
+                "lang": "en",
+                "value": "ASSISTANCE PUBLIQUE HOPITAUX DE PARIS (AP-HP)"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "ROR",
+                "uri": "https://ror.org/00pg5jh14"
+              },
+              {
+                "title": "SIREN",
+                "uri": "267500452"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ]
+          }
+        ],
+        "producer": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "ASSISTANCE PUBLIQUE HOPITAUX DE PARIS (AP-HP)"
+              },
+              {
+                "lang": "en",
+                "value": "ASSISTANCE PUBLIQUE HOPITAUX DE PARIS (AP-HP)"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "ROR",
+                "uri": "https://ror.org/00pg5jh14"
+              },
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "267500452"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "studyAuthorization": [
+      {
+        "authorizingAgency": {
+          "lang": "fr",
+          "value": "CNIL"
+        }
+      },
+      {
+        "authorizingAgency": {
+          "lang": "fr",
+          "value": "CPP"
+        }
+      }
+    ],
+    "method": {
+      "notes": [
+        {
+          "subject": "research type",
+          "lang": "fr",
+          "value": "Etude observationnelle"
+        },
+        {
+          "subject": "research type",
+          "lang": "en",
+          "value": "Observational Study"
+        },
+        {
+          "lang": "fr",
+          "subject": "observational study method",
+          "value": "Cohorte"
+        },
+        {
+          "lang": "en",
+          "subject": "observational study method",
+          "value": "Cohort study"
+        }
+      ],
+      "stdyClas": [
+        {
+          "lang": "fr",
+          "value": "Inconnu"
+        },
+        {
+          "lang": "en",
+          "value": "Unknown"
+        }
+      ],
+      "dataColl": {
+        "targetSampleSize": [
+          {
+            "lang": "fr",
+            "value": "< 500 individus"
+          },
+          {
+            "lang": "en",
+            "value": "< 500 individuals"
+          }
+        ],
+        "sampleFrame": {
+          "frameUnit": {
+            "unitType": [
+              {
+                "lang": "fr",
+                "value": "Via des structures (services ou établissements de santé, écoles, entreprises…)"
+              },
+              {
+                "lang": "en",
+                "value": "Through organizations (health services or institutions, schools, businesses, etc.)"
+              }
+            ]
+          }
+        },
+        "sources": [
+          {}
+        ],
+        "collMode": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "SelfAdministeredQuestionnaire",
+              "vocab": "CESSDA"
+            },
+            "value": "Questionnaire auto-administré"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "SelfAdministeredQuestionnaire",
+              "vocab": "CESSDA"
+            },
+            "value": "Self-administered questionnaire"
+          },
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Interview",
+              "vocab": "CESSDA"
+            },
+            "value": "Entretien avec le participant (dont clinique)"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Interview",
+              "vocab": "CESSDA"
+            },
+            "value": "Interview with the participant (including clinical)"
+          }
+        ],
+        "sampProc": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ],
+        "respRate": [
+          {
+            "lang": "fr",
+            "value": "77:- 46 conservations valvulaires- 19 remplacements prothétiques mécaniques- 12 exclusions"
+          },
+          {
+            "lang": "en",
+            "value": "77:- 46 conservations valvulaires- 19 remplacements prothétiques mécaniques- 12 exclusions"
+          }
+        ]
+      }
+    },
+    "stdyInfo": {
+      "abstract": [
+        {
+          "contentType": "purpose",
+          "lang": "fr",
+          "value": "Objectif général : montrer dans une étude de cohorte ouverte prospective, et multicentrique que la chirurgie conservatrice de la valve aortique dans les insuffisances aortiques dystrophiques et/ou les anévrismes de la racine aortique augmente de 45% le taux de survie sans événement de morbi-mortalité à 3 ans, 5 ans, 10 ans, 15 ans et 20 ans par rapport au remplacement prothétique mécanique (traitement chirurgical de référence). la morbi-mortalité étant définie comme la survenue d’au moins un des évènements du critère de jugement composite : décès, réintervention chirurgicale et/ou réhospitalisation pour complications infectieuses, hémorragiques, thromboemboliques ou insuffisance cardiaque Objectifs secondaires : - Évaluer et comparer dans chacun des deux groupes de patients : le taux de complications post-opératoires immédiates le taux de survie sans événement de morbi-mortalité pour chacun des éléments individuels du critère composite à 3 ans, 5 ans, 10 ans, 15 ans et 20 ans l’évolution de la qualité de vie au cours du suivi à l’aide d’un questionnaire standardisé, validé en chirurgie cardiaque, le questionnaire SF12 modifié - Évaluer l’impact d’un programme d’enseignement d’une nouvelle technique chirurgicale standardisée sur la morbi-mortalité de la courbe d’apprentissage de chaque chirurgien investigateur et sur les résultats à long terme (programme associant enseignement théorique et vidéo-assisté, entraînement à la technique chirurgicale sur cœurs anatomiques, compagnonnage chirurgical sur les premiers patients) - Définir les critères échographiques prédictifs : de la faisabilité d’une réparation valvulaire de bons résultats post-opératoires immédiats et à long terme du diagnostic précoce des éléments du critère de jugement composite : évaluer la sensibilité et la spécificité des paramètres échographiques notamment pour le risque de réopération et de complications valvulaires - Évaluer l’impact d’une surveillance clinique et d’imagerie des patients opérés d’une dystrophie de la racine aortique afin de proposer un protocole de prise en charge post-opératoire répondant aux objectifs coût-bénéfice"
+        },
+        {
+          "contentType": "purpose",
+          "lang": "en",
+          "value": "General objective: to demonstrate in a prospective open and multricentric cohort study that aortic valve sparing for patients with aortic root aneurysms and/or dystrophic aortic insufficiency is associated with a 45% increase of 3 year, 5 year, 10 year, 15 year and 20 year-survival rate without increased mortality or morbidity events when compared to mechanical valve replacement (surgical treatment reference). Morbidity and mortality is defined as the occurrence of at least one of the composite endpoint events: death, re-operation and/or re-hospitalisation for infection, bleeding event, thromboembolic event or heart failure Secondary objectives: - To evaluate and compare between both patient groups: the rate of immediate post-operation complications associated with a 3 year, 5 year, 10 year, 15 year and 20 year-survival rate without mortality or morbidity events when evaluated on composite criteria, the changes in quality of life during follow-up using a standardised questionnaire, validated by cardiac surgery, modified SF12 Questionnaire - to evaluate the impact of a teaching programme for a new standardised surgical technique on morbidity and mortality from each investigating surgeon's learning curve and on long-term outcomes (programme combining theoretical and video-assisted surgical procedure training on heart anatomy, first patient surgical mentoring) - To set predictive sonographic criteria: the feasibility of valve repair with promising immediate and long-term postoperative results from early diagnosis of criteria composite outcome: To evaluate the sensitivity and specificity of ultrasound parameters, notably on the risk of reoperation and valvular complications - To assess the impact of clinical monitoring and imaging on operated patients with aortic root dystrophy in order to propose a post-operative care protocol that meets cost-benefit objectives"
+        }
+      ],
+      "subject": {
+        "topcClas": [
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/4455c187-2f2f-4cd1-a4dd-449f59d73b39"
+              },
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/c42fc6ec-b216-4a24-9e9d-f5e781c175a0"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D002309"
+              }
+            ],
+            "value": "Cardiologie et médecine vasculaire"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/4455c187-2f2f-4cd1-a4dd-449f59d73b39"
+              },
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/c42fc6ec-b216-4a24-9e9d-f5e781c175a0"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D002309"
+              }
+            ],
+            "value": "Cardiology and vascular medicine"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants biologiques : Prédispositions génétiques"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants biologiques"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Biological determinants: Genetic predisposition"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Biological determinants"
+          }
+        ],
+        "keyword": [
+          {
+            "lang": "fr",
+            "value": "mortalité opératoire"
+          },
+          {
+            "lang": "fr",
+            "value": "accidents thromboemboliques ou hémorragiques"
+          },
+          {
+            "lang": "fr",
+            "value": "réopération"
+          },
+          {
+            "lang": "fr",
+            "value": "valve"
+          },
+          {
+            "lang": "fr",
+            "value": "montage"
+          },
+          {
+            "lang": "fr",
+            "value": "aorte ascendante"
+          },
+          {
+            "lang": "fr",
+            "value": "endocardite valvulaire"
+          },
+          {
+            "lang": "fr",
+            "value": "événements de santé"
+          },
+          {
+            "lang": "fr",
+            "value": "décès"
+          },
+          {
+            "lang": "en",
+            "value": "operative mortality"
+          },
+          {
+            "lang": "en",
+            "value": "thromboembolic or haemorrhagic stroke"
+          },
+          {
+            "lang": "en",
+            "value": "re-operation"
+          },
+          {
+            "lang": "en",
+            "value": "placement"
+          },
+          {
+            "lang": "en",
+            "value": "ascending aorta"
+          },
+          {
+            "lang": "en",
+            "value": "valve endocarditis"
+          },
+          {
+            "lang": "en",
+            "value": "Health episodes"
+          },
+          {
+            "lang": "en",
+            "value": "valve"
+          },
+          {
+            "lang": "en",
+            "value": "death"
+          }
+        ]
+      },
+      "qualityStatement": {
+        "standardsCompliance": {},
+        "otherQualityStatement": {
+          "lang": "fr",
+          "value": "Présence d'une requête de cohérence au moment de la saisie des données informatiques et après la saisie des données informatiques Gestion des données manquantes par retour au dossier source ou retour vers le patient ou retour vers un tiers Relance des médecins pour réaliser les visites de suivi Relance des sujets pour réaliser les visites de suivi Autre(s) procédure(s) qualité : monitoring au fur et à mesure des inclusions, relecture des compte rendu de monitoring par une coordinatrice d'étude clinique + comonitoring ARC / Coordinatrice si besoin Les patients sont informés de l'utilisation de leur données"
+        }
+      },
+      "sumDscr": {
+        "dataKind": [
+          {
+            "lang": "fr",
+            "value": "Données cliniques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données rapportées par le participant de l&#x27;étude"
+          },
+          {
+            "lang": "fr",
+            "value": "Données paracliniques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données biologiques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données paracliniques (hors biologiques) : Imagerie"
+          },
+          {
+            "lang": "en",
+            "value": "Clinical data"
+          },
+          {
+            "lang": "en",
+            "value": "Participant-reported health data"
+          },
+          {
+            "lang": "en",
+            "value": "Biological data"
+          },
+          {
+            "lang": "en",
+            "value": "Paraclinical data (non-biological) : Imaging"
+          }
+        ],
+        "anlyUnit": [
+          {
+            "lang": "fr",
+            "value": "Individus"
+          },
+          {
+            "lang": "en",
+            "value": "Individuals"
+          }
+        ],
+        "nation": [
+          {
+            "lang": "fr",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          },
+          {
+            "lang": "en",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          }
+        ],
+        "universe": [
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Masculin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Féminin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Male"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Female"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Adulte (19 à 24 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adulte (25 à 44 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Adulte (45 à 64 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Personne âgée (65 à 79 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000369"
+            },
+            "value": "Grand âge (80 ans et plus)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Young Adult (19 to 24 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adult (25 to 44 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Middle Aged (45 to 64 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Aged (65 to 79 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000369"
+            },
+            "value": "Aged, 80 and over (80 years and more)"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Patients"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "en",
+            "value": "Patients population"
+          },
+          {
+            "clusion": "I",
+            "lang": "fr",
+            "value": " âge supérieur à 18 ans ; - anévrisme de la racine aortique sans insuffisance aortique ou avec une insuffisance aortique dystrophique quel qu’en soit le grade, (y compris les maladies de marfan et les  bicuspidies) et ayant une indication opératoire conforme aux recommandations de  l’american heart association et de l’european society of cardiology ou insuffisance aortique dystrophique (valves bicuspides ou tricuspides) sans anévrisme de  la racine aortique ayant une indication opératoire conforme aux recommandations de  l’american heart association  et de l’european society of cardiology ; - intervention chirurgicale programmée réparation valvulaire avec annuloplastie selon le protocole de l’étude caviaar ou remplacement valvulaire mécanique ; - signature de la lettre d’information et du consentement éclairé ; - affiliation à un régime de sécurité sociale ou bénéficiant de la cmu (bénéficiaire ou ayant droit)."
+          },
+          {
+            "clusion": "I",
+            "lang": "en",
+            "value": "over 18 years of age;  - aortic root aneurysms without aortic insufficiency or with dystrophic aortic insufficiency regardless of stage (including Marfan and bicuspid diseases), with indications for surgery conformed to American Heart Association or European Society of Cardiology guidelines or dystrophic aortic insufficiency (bicuspid or tricuspid valves) with no aortic root aneurysm with indications for surgery conformed to American Heart Association or European Society of Cardiology; - scheduled valve repair surgery with annuloplasty according to mechanical valve replacement CAVIAAR study protocol; - Signed information letter and informed consent; - covered by social security insurance or access to CMU (beneficiary or assignee)."
+          },
+          {
+            "clusion": "E",
+            "lang": "fr",
+            "value": ""
+          },
+          {
+            "clusion": "E",
+            "lang": "en",
+            "value": ""
+          }
+        ],
+        "collDate": {
+          "event": "start",
+          "value": "2007-01-01"
+        }
+      }
+    },
+    "dataAccs": {
+      "setAvail": {
+        "avlStatus": [
+          {
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Accès réservé"
+          },
+          {
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Restricted access"
+          }
+        ],
+        "conditions": []
+      },
+      "useStmt": {
+        "restrctn": [
+          {
+            "lang": "fr",
+            "value": "Utilisation possible des données par des équipes académiques : à déterminer Utilisation possible des données par des industriels : à déterminer"
+          },
+          {
+            "lang": "en",
+            "value": "To be decided if data may be used by academic teams To be decided if data may be used by industrial teams"
+          }
+        ]
+      }
+    },
+    "othStdMat": {
+      "relMat": [
+        {
+          "lang": "fr",
+          "value": "Accès restreint sur projet spécifique"
+        },
+        {
+          "lang": "en",
+          "value": "Access on specific project only"
+        }
+      ]
+    },
+    "studyDevelopment": {
+      "developmentActivity": [
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/morbidité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/mortalité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Qualité de vie/santé perçue"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/morbidity"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/mortality"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Quality of life/health perception"
+        }
+      ]
+    }
+  },
+  "docDscr": {
+    "citation": {
+      "rspStmt": {
+        "AuthEnty": "Emmanuel LANSAC"
+      },
+      "prodStmt": {
+        "producer": [
+          {
+            "affiliation": "INSTITUT MEDICO-CHIRURGICAL MONTSOURIS",
+            "value": "Emmanuel;LANSAC"
+          }
+        ],
+        "prodPlac": "Portail Épidémiologie France"
+      }
+    }
+  },
+  "additional": {
+    "prodPlac": "Portail Épidémiologie France",
+    "relatedDocuments": {
+      "documentTitle": [
+        {
+          "lang": "fr"
+        },
+        {
+          "lang": "en"
+        }
+      ],
+      "documentLink": [
+        {
+          "lang": "fr",
+          "value": "http://caviaar.com/de/Home/Presentations/Presentations-2014.html"
+        },
+        {
+          "lang": "en",
+          "value": "http://caviaar.com/de/Home/Presentations/Presentations-2014.html"
+        }
+      ]
+    },
+    "creationDate": "08-03-2013",
+    "lastUpdatedManual": "08-08-2014",
+    "theme": {},
+    "governance": {},
+    "collaborations": {},
+    "mockSample": {},
+    "dataQuality": {},
+    "variableDictionnary": {},
+    "dataTypes": {
+      "clinicalDataDetails": {
+        "lang": "fr",
+        "value": "Examen clinique à l’inclusion et au cours du suivi à 6 mois puis tous les ans.Informations recueillies lors de l'examen clinique : sexe, poids, taille, pression artérielle, dyspnée, souffle systolique et diastolique, fréquence cardiaque, signes d’insuffisances cardiaque, facteurs de risque cardiovasculaires, antécédents familiaux et personnels cardiaques et extracardiaques, terrain (marfan, autres maladies congénitales)Traitements, électrocardiogramme, échocardiographie (banque d’images)Recherche de complications rapportées selon les recommandations de la society of thoracic surgeons et de l’american association for thoracic surgery : - hémorragiques ;- thrombo-emboliques (cérébrales, artérielles périphériques, veineuses, autres) ;- infectieuses, (infections superficielles du site opératoire, autres infections) ;- troubles du rythme (Acfa, flutter auriculaire, fibrillation ventriculaire) ou de la conduction (bloc auriculo-ventriculaire, autres) ;- infarctus du myocarde ;- dysfonction valvulaire non opérée (endocardite aortique, endocardite autre valve, désinsertion de prothèse, fracture du matériel, thrombose de valve, dysfonction autre valve) ;- réopération (pace maker définitif, reprise chirurgicale sous cec pour récidive d’insuffisance aortique ou dysfonction valvulaire autre (endocardite autre valve, désinsertion de prothèse, fracture du matériel, thrombose de valve, dysfonction autre valve) ;- complications aortiques (dissection aortique ou coronaire, faux anévrisme anastomotique, autre anévrisme artériel) ;- arrêt cardiaque ;- complications métaboliques ;- complications neuro-psychiatriques."
+      },
+      "biologicalDataDetails": [
+        {
+          "lang": "fr",
+          "value": "Type de prélèvements réalisés à l’inclusion et en péri-opératoire : numération formule sanguine, hémostase, créatinine plasmatique, INR, TCA et troponinesAu cours du suivi : INR si patient sous AVK"
+        },
+        {
+          "lang": "en",
+          "value": "Type of peri-operative and enroliment samples taken: full blood count, haemostasis, blood creatinine, INR, APTT and troponins During follow-up: INR if patient is under AVK"
+        }
+      ],
+      "isDataInBiobank": false
+    },
+    "collectionProcess": {
+      "collectionModeDetails": [
+        {
+          "lang": "fr",
+          "value": "Autoquestionnaire : Saisie à partir d’un questionnaire papier (Saisie manuelle) avec double saisie Entretiens : Saisie à partir d’un questionnaire papier (Saisie manuelle) avec double saisie Examens cliniques : Etape manuscrite (Saisie manuelle) avec double saisie Examens biologiques : Etape manuscrite (Saisie manuelle) avec double saisie"
+        },
+        {
+          "lang": "en",
+          "value": "Self-administered questionnaire: Input from paper questionnaire (Manual input) with double data entry Interview: Input from paper questionnaire (Manual input) with double data entry Clinical Examinations: handwritten (Manual input) with double data entry Biological Analysis: handwritten (Manual input) with double data entry"
+        }
+      ]
+    },
+    "geographicalCoverage": {
+      "geoDetail": [
+        {
+          "lang": "fr",
+          "value": "France"
+        },
+        {
+          "lang": "en",
+          "value": "France"
+        }
+      ]
+    },
+    "activeFollowUp": {
+      "isActiveFollowUp": true
+    },
+    "dataCollectionIntegration": {
+      "isDataIntegration": false
+    },
+    "isHealthTheme": true
+  },
+  "schematype": "survey"
+}

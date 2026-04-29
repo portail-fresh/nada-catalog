@@ -1,0 +1,801 @@
+{
+  "stdyDscr": {
+    "citation": {
+      "titlStmt": {
+        "IDNo": [
+          {
+            "agency": "PEF",
+            "value": "73044"
+          },
+          {
+            "agency": "FReSH",
+            "value": "FRESH-PEF73044"
+          }
+        ],
+        "titl": [
+          {
+            "lang": "fr",
+            "value": "Enquête auprès des personnes sans domicile (1994-1995)"
+          },
+          {
+            "lang": "en",
+            "value": "Survey on homeless people in Paris (1994-1995)"
+          }
+        ]
+      },
+      "rspStmt": {
+        "AuthEnty": [
+          {
+            "name": "Amandine;MORISSET",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "INSTITUT NATIONAL D'ETUDES DEMOGRAPHIQUES (INED)"
+              },
+              {
+                "lang": "en",
+                "value": "INSTITUT NATIONAL D'ETUDES DEMOGRAPHIQUES (INED)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/02cnsac56",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "180037020",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ],
+            "isContact": true,
+            "email": "amandine.morisset@ined.fr",
+            "PILabo": "INED / SES"
+          }
+        ],
+        "othId": []
+      },
+      "distStmt": {
+        "contact": [
+          {
+            "name": "Amandine;MORISSET",
+            "email": "amandine.morisset@ined.fr",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "INSTITUT NATIONAL D'ETUDES DEMOGRAPHIQUES (INED)"
+              },
+              {
+                "lang": "en",
+                "value": "INSTITUT NATIONAL D'ETUDES DEMOGRAPHIQUES (INED)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/02cnsac56",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "180037020",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          }
+        ]
+      },
+      "prodStmt": {
+        "fundAg": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "INSTITUT NATIONAL D'ETUDES DEMOGRAPHIQUES (INED)"
+              },
+              {
+                "lang": "en",
+                "value": "INSTITUT NATIONAL D'ETUDES DEMOGRAPHIQUES (INED)"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "ROR",
+                "uri": "https://ror.org/02cnsac56"
+              },
+              {
+                "title": "SIREN",
+                "uri": "180037020"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ]
+          }
+        ],
+        "producer": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "INSTITUT NATIONAL D'ETUDES DEMOGRAPHIQUES (INED)"
+              },
+              {
+                "lang": "en",
+                "value": "INSTITUT NATIONAL D'ETUDES DEMOGRAPHIQUES (INED)"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "ROR",
+                "uri": "https://ror.org/02cnsac56"
+              },
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "180037020"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "studyAuthorization": {
+      "authorizingAgency": {
+        "lang": "fr",
+        "value": "CNIL"
+      }
+    },
+    "method": {
+      "notes": [
+        {
+          "subject": "research type",
+          "lang": "fr",
+          "value": "Etude observationnelle"
+        },
+        {
+          "subject": "research type",
+          "lang": "en",
+          "value": "Observational Study"
+        }
+      ],
+      "stdyClas": [
+        {
+          "lang": "fr",
+          "value": "Étude complétée"
+        },
+        {
+          "lang": "en",
+          "value": "Completed study"
+        }
+      ],
+      "dataColl": {
+        "targetSampleSize": [
+          {
+            "lang": "fr",
+            "value": "[500-1000[ individus"
+          },
+          {
+            "lang": "en",
+            "value": "[500-1000[ individuals"
+          }
+        ],
+        "timeMeth": [
+          {
+            "lang": "fr",
+            "value": "Etude transversale non répétée"
+          },
+          {
+            "lang": "en",
+            "value": "One-time cross-sectional study"
+          }
+        ],
+        "sampleFrame": {
+          "frameUnit": {
+            "unitType": [
+              {
+                "lang": "fr",
+                "value": "Via des structures (services ou établissements de santé, écoles, entreprises…)"
+              },
+              {
+                "lang": "en",
+                "value": "Through organizations (health services or institutions, schools, businesses, etc.)"
+              }
+            ]
+          }
+        },
+        "sources": [
+          {}
+        ],
+        "collMode": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "SelfAdministeredQuestionnaire",
+              "vocab": "CESSDA"
+            },
+            "value": "Questionnaire auto-administré"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "SelfAdministeredQuestionnaire",
+              "vocab": "CESSDA"
+            },
+            "value": "Self-administered questionnaire"
+          }
+        ],
+        "sampProc": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ],
+        "respRate": [
+          {
+            "lang": "fr",
+            "value": "591"
+          },
+          {
+            "lang": "en",
+            "value": "591"
+          }
+        ]
+      }
+    },
+    "stdyInfo": {
+      "abstract": [
+        {
+          "contentType": "purpose",
+          "lang": "fr",
+          "value": "Etudier les conditions de réalisation et d'extension à une plus grande échelle d'enquêtes de ce type, et élaborer des recommandations en vue d'aboutir à une meilleure prise en compte des personnes sans domicile dans le recensement général et la population, ainsi que dans les enquêtes qui se déroulent ordinairement auprès des seuls ménages logés. Il en était également attendu une première exploration des processus conduisant à la situation de sans domicile."
+        },
+        {
+          "contentType": "purpose",
+          "lang": "en",
+          "value": "To study the conditions under which surveys of this type are conducted and extended on a larger scale, and to prepare recommendations for the purpose of achieving a better inclusion of homeless people in the general census of the population, as well as in surveys that are regularly carried out only among those with housing. A first examination of the processes leading to homelessness was also expected."
+        }
+      ],
+      "subject": {
+        "topcClas": [
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/4b9f8efb-68dd-45a1-b04c-d23d457d6898"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D058006"
+              }
+            ],
+            "value": "Médecine générale"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/4b9f8efb-68dd-45a1-b04c-d23d457d6898"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D058006"
+              }
+            ],
+            "value": "General medicine"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants socio-démographiques et économiques"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants comportementaux"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Systèmes de soins et accès aux soins"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Socio-demographic and economic determinants"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Behavioral determinants"
+          }
+        ],
+        "keyword": [
+          {
+            "lang": "fr",
+            "value": "Exclusion"
+          },
+          {
+            "lang": "fr",
+            "value": "Paris"
+          },
+          {
+            "lang": "fr",
+            "value": "Sans domicile"
+          },
+          {
+            "lang": "fr",
+            "value": "Urbain"
+          },
+          {
+            "lang": "fr",
+            "value": "Santé"
+          },
+          {
+            "lang": "en",
+            "value": "Homeless"
+          },
+          {
+            "lang": "en",
+            "value": "Urban"
+          },
+          {
+            "lang": "en",
+            "value": "Exclusion"
+          },
+          {
+            "lang": "en",
+            "value": "Paris"
+          },
+          {
+            "lang": "en",
+            "value": "Health"
+          }
+        ]
+      },
+      "qualityStatement": {
+        "standardsCompliance": {}
+      },
+      "sumDscr": {
+        "dataKind": [
+          {
+            "lang": "fr",
+            "value": "Données rapportées par le participant de l&#x27;étude"
+          },
+          {
+            "lang": "en",
+            "value": "Participant-reported health data"
+          }
+        ],
+        "anlyUnit": [
+          {
+            "lang": "fr",
+            "value": "Individus"
+          },
+          {
+            "lang": "en",
+            "value": "Individuals"
+          }
+        ],
+        "nation": [
+          {
+            "lang": "fr",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          },
+          {
+            "lang": "en",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          }
+        ],
+        "geogCover": [
+          {
+            "lang": "fr",
+            "value": "Ile-de-France"
+          },
+          {
+            "lang": "en",
+            "value": "Ile-de-France"
+          }
+        ],
+        "universe": [
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Masculin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Féminin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Male"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Female"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Adulte (19 à 24 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adulte (25 à 44 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Adulte (45 à 64 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Personne âgée (65 à 79 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000369"
+            },
+            "value": "Grand âge (80 ans et plus)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Young Adult (19 to 24 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adult (25 to 44 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Middle Aged (45 to 64 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Aged (65 to 79 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000369"
+            },
+            "value": "Aged, 80 and over (80 years and more)"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Population générale"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "en",
+            "value": "General population"
+          },
+          {
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Personnes de 18 ans et plus, sans domicile ou ayant un logement mais faisant toutes appel à des centres de distribution de nourriture et repas chauds et/ou dormant la nuit dans des centres d'hébergement (urgence et longue durée)."
+          },
+          {
+            "clusion": "I",
+            "lang": "en",
+            "value": "Persons 18 years of age or older, without a home or having housing but going to food and hot meal distribution centres and/or spending the night in shelters (emergency and long-term)."
+          },
+          {
+            "clusion": "E",
+            "lang": "fr",
+            "value": ""
+          },
+          {
+            "clusion": "E",
+            "lang": "en",
+            "value": ""
+          }
+        ],
+        "collDate": [
+          {
+            "event": "start",
+            "value": "1995-01-01"
+          },
+          {
+            "event": "end",
+            "value": "1995-12-31"
+          }
+        ]
+      }
+    },
+    "dataAccs": {
+      "setAvail": {
+        "avlStatus": [
+          {
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Accès réservé"
+          },
+          {
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Restricted access"
+          }
+        ],
+        "conditions": [
+          {
+            "lang": "fr",
+            "value": "Tous les fichiers diffusés dans le cadre de Quetelet-Progedo-Diffusion sont d’accès gratuit pour une utilisation dans une finalité de recherche."
+          },
+          {
+            "lang": "en",
+            "value": "All files shared within the Réseau Quetelet can be freely accessed for use for research purposes."
+          }
+        ],
+        "accsPlac": [
+          {
+            "lang": "fr",
+            "value": "Pour commander le fichier de l&#x27;enquête, rendez-vous sur le portail du Réseau Quetelet : https://data.progedo.fr/"
+          },
+          {
+            "lang": "en",
+            "value": "To order the survey file, go to the Réseau Quetelet portal: https://data.progedo.fr/"
+          }
+        ]
+      },
+      "useStmt": {}
+    },
+    "othStdMat": {
+      "relMat": [
+        {
+          "lang": "fr",
+          "value": "Accès libre"
+        },
+        {
+          "lang": "en",
+          "value": "Free access"
+        }
+      ]
+    },
+    "studyDevelopment": {
+      "developmentActivity": [
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/mortalité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Consommation de soins/services de santé"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/mortality"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health care consumption and services"
+        }
+      ]
+    }
+  },
+  "docDscr": {
+    "citation": {
+      "rspStmt": {
+        "AuthEnty": "Amandine MORISSET"
+      },
+      "prodStmt": {
+        "producer": [
+          {
+            "affiliation": "INSTITUT NATIONAL D&#x27;ETUDES DEMOGRAPHIQUES (INED)",
+            "value": "Amandine;MORISSET"
+          }
+        ],
+        "prodPlac": "Portail Épidémiologie France"
+      }
+    }
+  },
+  "additional": {
+    "prodPlac": "Portail Épidémiologie France",
+    "relatedDocuments": {
+      "documentTitle": [
+        {
+          "lang": "fr",
+          "value": "Becoming homeless: neither fate nor chance"
+        },
+        {
+          "lang": "en",
+          "value": "Becoming homeless: neither fate nor chance"
+        }
+      ],
+      "documentLink": [
+        {
+          "lang": "fr",
+          "value": "http://www.ined.fr/fichier/s_rubrique/18675/pop.et.soc.francais.313.fr.pdf"
+        },
+        {
+          "lang": "en",
+          "value": "http://www.ined.fr/fichier/s_rubrique/18675/pop.et.soc.francais.313.fr.pdf"
+        }
+      ]
+    },
+    "creationDate": "17-04-2015",
+    "lastUpdatedManual": "20-10-2017",
+    "theme": {},
+    "governance": {
+      "committee": false
+    },
+    "collaborations": {},
+    "mockSample": {},
+    "dataQuality": {},
+    "variableDictionnary": {},
+    "dataTypes": {
+      "isDataInBiobank": false
+    },
+    "collectionProcess": {
+      "collectionModeDetails": [
+        {
+          "lang": "fr",
+          "value": "L'enquête se déroulait de jour, auprès des utilisateurs des services du type hébergement, distribution de nourriture et de repas chauds, y compris itinérants. Environ 6 personnes par site étaient tirées et se voyaient proposer l'enquête. Il était toujours précisé que l'enquête était facultative, totalement anonyme et confidentielle."
+        },
+        {
+          "lang": "en",
+          "value": "The survey was carried out during the day with users of shelter, food and hot meal distribution services, including itinerant individuals. Approximately 6 people per site were selected to be surveyed. It was always stated that the survey was optional, totally anonymous and confidential."
+        }
+      ]
+    },
+    "geographicalCoverage": {
+      "geoDetail": [
+        {
+          "lang": "fr",
+          "value": "Région Ile-de-France : centres de Paris intra-muros et centres de banlieue (centre d'accueil et de soins hospitaliers de Nanterre et centre Corentin Celton d'Issy-les-Moulineaux)."
+        },
+        {
+          "lang": "en",
+          "value": "Île-de-France region: centres within Paris city limits and suburban centres (Nanterre shelter and hospital care centre and Corentin Celton centre in Issy-les-Moulineaux)."
+        }
+      ]
+    },
+    "activeFollowUp": {
+      "isActiveFollowUp": false
+    },
+    "dataCollectionIntegration": {
+      "isDataIntegration": false
+    },
+    "isHealthTheme": true
+  },
+  "schematype": "survey"
+}

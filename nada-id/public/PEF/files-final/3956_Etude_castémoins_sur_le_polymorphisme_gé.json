@@ -1,0 +1,925 @@
+{
+  "stdyDscr": {
+    "citation": {
+      "titlStmt": {
+        "IDNo": [
+          {
+            "agency": "PEF",
+            "value": "3956"
+          },
+          {
+            "agency": "FReSH",
+            "value": "FRESH-PEF3956"
+          }
+        ],
+        "titl": [
+          {
+            "lang": "fr",
+            "value": "Etude cas-témoins sur le polymorphisme génétique chez des sujets diabétiques de type 2 et atteints de néphropathie diabétique"
+          },
+          {
+            "lang": "en",
+            "value": "Genetic Polymorphism in Subjects with Type 2 Diabetes and Diabetic Nephropathy: Study “DIAB’2-NEPHRO-GENE” (DIABète de type 2, NEPHROpathie et GENEtique)"
+          }
+        ],
+        "altTitl": [
+          {
+            "lang": "fr",
+            "value": "D2NG: DIABète de type 2, NEPHROpathie et GENEtique"
+          },
+          {
+            "lang": "en",
+            "value": "D2NG"
+          }
+        ]
+      },
+      "rspStmt": {
+        "AuthEnty": [
+          {
+            "name": "Michèle;GROSDENIER",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "CENTRE HOSPITALIER UNIVERSITAIRE DE POITIERS"
+              },
+              {
+                "lang": "en",
+                "value": "CENTRE HOSPITALIER UNIVERSITAIRE DE POITIERS"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/029s6hd13",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "200055358",
+                "role": "organisation id",
+                "title": "SIREN"
+              },
+              {
+                "uri": "201019083D",
+                "role": "labo id",
+                "title": "RNSR"
+              }
+            ],
+            "isContact": true,
+            "email": "michele.grosdenier.bruneau@chu-poitiers.fr",
+            "PILabo": "CHU Poitiers / Biobank"
+          }
+        ],
+        "othId": []
+      },
+      "distStmt": {
+        "contact": [
+          {
+            "name": "Samy;HADJADJ",
+            "email": "samy.hadjadj@gmail.com",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "CENTRE HOSPITALIER UNIVERSITAIRE DE POITIERS"
+              },
+              {
+                "lang": "en",
+                "value": "CENTRE HOSPITALIER UNIVERSITAIRE DE POITIERS"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/029s6hd13",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "200055358",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          },
+          {
+            "name": "Michèle;GROSDENIER",
+            "email": "michele.grosdenier.bruneau@chu-poitiers.fr",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "CENTRE HOSPITALIER UNIVERSITAIRE DE POITIERS"
+              },
+              {
+                "lang": "en",
+                "value": "CENTRE HOSPITALIER UNIVERSITAIRE DE POITIERS"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/029s6hd13",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "200055358",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          }
+        ]
+      },
+      "prodStmt": {
+        "fundAg": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "AGENCE FRANCAISE DE DEVELOPPEMENT (AFD)"
+              },
+              {
+                "lang": "en",
+                "value": "AGENCE FRANCAISE DE DEVELOPPEMENT (AFD)"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "SIREN",
+                "uri": "775665599"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "GROUPT ETUDE MALADIES METABOLIQUES SYST. (GEMMS)"
+              },
+              {
+                "lang": "en",
+                "value": "GROUPT ETUDE MALADIES METABOLIQUES SYST. (GEMMS)"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "SIREN",
+                "uri": "441699105"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Privé à but non lucratif"
+              },
+              {
+                "lang": "en",
+                "value": "Private non-profit"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "MINISTERE DU TRAVAIL, DE LA SANTE, DES SOLIDARITES ET DES FAMILLES"
+              },
+              {
+                "lang": "en",
+                "value": "MINISTERE DU TRAVAIL, DE LA SANTE, DES SOLIDARITES ET DES FAMILLES"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "ROR",
+                "uri": "https://ror.org/01wp0c315"
+              },
+              {
+                "title": "SIREN",
+                "uri": "130016546"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "SOCIETE FRANCOPHONE DU DIABETE"
+              },
+              {
+                "lang": "en",
+                "value": "SOCIETE FRANCOPHONE DU DIABETE"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "SIREN",
+                "uri": "404995110"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Privé à but non lucratif"
+              },
+              {
+                "lang": "en",
+                "value": "Private non-profit"
+              }
+            ]
+          }
+        ],
+        "producer": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "CENTRE HOSPITALIER UNIVERSITAIRE DE POITIERS"
+              },
+              {
+                "lang": "en",
+                "value": "CENTRE HOSPITALIER UNIVERSITAIRE DE POITIERS"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "ROR",
+                "uri": "https://ror.org/029s6hd13"
+              },
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "200055358"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "studyAuthorization": {
+      "authorizingAgency": {
+        "lang": "fr",
+        "value": "Autre"
+      }
+    },
+    "method": {
+      "notes": [
+        {
+          "subject": "research type",
+          "lang": "fr",
+          "value": "Etude observationnelle"
+        },
+        {
+          "subject": "research type",
+          "lang": "en",
+          "value": "Observational Study"
+        },
+        {
+          "lang": "fr",
+          "subject": "observational study method",
+          "value": "Etude cas-témoins"
+        },
+        {
+          "lang": "en",
+          "subject": "observational study method",
+          "value": "Case-control study"
+        }
+      ],
+      "stdyClas": [
+        {
+          "lang": "fr",
+          "value": "Étude complétée"
+        },
+        {
+          "lang": "en",
+          "value": "Completed study"
+        }
+      ],
+      "dataColl": {
+        "targetSampleSize": [
+          {
+            "lang": "fr",
+            "value": "[1000-10000[ individus"
+          },
+          {
+            "lang": "en",
+            "value": "[1000-10000[ individuals"
+          }
+        ],
+        "sampleFrame": {
+          "frameUnit": {
+            "unitType": [
+              {
+                "lang": "fr",
+                "value": "Via des structures (services ou établissements de santé, écoles, entreprises…)"
+              },
+              {
+                "lang": "en",
+                "value": "Through organizations (health services or institutions, schools, businesses, etc.)"
+              }
+            ]
+          }
+        },
+        "sources": [
+          {}
+        ],
+        "collMode": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Transcription",
+              "vocab": "CESSDA"
+            },
+            "value": "Transcription et saisie d’informations dans un enregistrement structuré"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Transcription",
+              "vocab": "CESSDA"
+            },
+            "value": "Converting or copying information into a structured record"
+          }
+        ],
+        "sampProc": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ],
+        "respRate": [
+          {
+            "lang": "fr",
+            "value": "- 1100 cas/cases- 660 témoins/controls"
+          },
+          {
+            "lang": "en",
+            "value": "- 1100 cas/cases- 660 témoins/controls"
+          }
+        ]
+      }
+    },
+    "stdyInfo": {
+      "abstract": [
+        {
+          "contentType": "purpose",
+          "lang": "fr",
+          "value": "PRINCIPAL : étudier les déterminants génétiques associés aux complications rénales du diabète de type 2 par une triple approche intégrée : * Etude d’association * Etude transpopulationnelle * Etude de liaison SECONDAIRES : 1- étudier des phénotypes spécifiques de la néphropathie diabétique (critères anatomo-pathologiques) 2- compléter l’analyse cas témoin par une étude de suivi longitudinal (projet SURDIAGENE)"
+        },
+        {
+          "contentType": "purpose",
+          "lang": "en",
+          "value": "MAIN: to study the genetic determinants associated with renal complications from Type 2 diabetes using a triple-integrated approach: *Association Study *Cross-population Study *Liaison Study SECONDARY: 1 - to investigate diabetic nephropathy specific phenotypes (anatomopathological criteria) 2 - to complete case-control analysis with a longitudinal follow-up study (SURDIAGENE project)"
+        }
+      ],
+      "subject": {
+        "topcClas": [
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/d1dd1bac-5313-4ab3-837f-4acd3ec521a7"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D004704"
+              }
+            ],
+            "value": "Endocrinologie"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/3961e9d2-ab3b-451b-b246-20fc0ec3b0c4"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D009398"
+              }
+            ],
+            "value": "Néphrologie"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/d1dd1bac-5313-4ab3-837f-4acd3ec521a7"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D004704"
+              }
+            ],
+            "value": "Endocrinology"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/3961e9d2-ab3b-451b-b246-20fc0ec3b0c4"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D009398"
+              }
+            ],
+            "value": "Nephrology"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "fr",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/119724091",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Diabète sucré de type 2"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "en",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/119724091",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Type 2 diabetes mellitus"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants biologiques : Prédispositions génétiques"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants liés au système de santé : Consommation des soins"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants comportementaux : Alimentation"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants biologiques"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants liés au système de santé"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants comportementaux"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Biological determinants: Genetic predisposition"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Healthcare system determinants: Use of care"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Behavioral determinants: Eating habits"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Biological determinants"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Healthcare system determinants"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Behavioral determinants"
+          }
+        ],
+        "keyword": [
+          {
+            "lang": "fr",
+            "value": "déterminants génétiques"
+          },
+          {
+            "lang": "fr",
+            "value": "complications rénales"
+          },
+          {
+            "lang": "fr",
+            "value": "étude transpopulationnelle"
+          },
+          {
+            "lang": "fr",
+            "value": "étude de liaison"
+          },
+          {
+            "lang": "fr",
+            "value": "phénotypes spécifiques"
+          },
+          {
+            "lang": "fr",
+            "value": "critères anatomo-pathologiques"
+          },
+          {
+            "lang": "fr",
+            "value": "association"
+          }
+        ]
+      },
+      "qualityStatement": {
+        "standardsCompliance": {}
+      },
+      "sumDscr": {
+        "dataKind": [
+          {
+            "lang": "fr",
+            "value": "Données cliniques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données biologiques"
+          },
+          {
+            "lang": "en",
+            "value": "Clinical data"
+          },
+          {
+            "lang": "en",
+            "value": "Biological data"
+          }
+        ],
+        "anlyUnit": [
+          {
+            "lang": "fr",
+            "value": "Individus"
+          },
+          {
+            "lang": "en",
+            "value": "Individuals"
+          }
+        ],
+        "nation": [
+          {
+            "lang": "fr",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          },
+          {
+            "lang": "en",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          }
+        ],
+        "universe": [
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Masculin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Féminin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Male"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Female"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Adulte (19 à 24 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adulte (25 à 44 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Adulte (45 à 64 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Young Adult (19 to 24 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adult (25 to 44 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Middle Aged (45 to 64 years)"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Patients"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "en",
+            "value": "Patients population"
+          },
+          {
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Les sujets pouvant être inclus dans l'étude sont des sujets majeurs, ayant donné leur consentement éclairé, signé après information, affiliés à un régime de Sécurité Sociale ou bénéficiaire d'un tel régime. Nous souhaitons inclure dans l'étude DIAB2-NEPHRO-GENE différents sujets présentant tous un diabète de type 2 qui peuvent être classés en trois groupes:  1- Sujets témoins (indemnes de néphropathie diabétique) :  - sujets présentant une rétinopathie diabétique quelqu'en soit le stade. - diabète de type 2 connu depuis plus de 5 ans. - excrétion urinaire d'albumine (EUA) normale (définie comme une concentration d'albumine urinaire strictement inférieure à 20 mg/l ou 30 mg/24h), 2 fois sur 3 prélèvements consécutifs, au cours des 5 dernières années. - EUA normale en l'absence de traitement par inhibiteur de l'enzyme de conversion ou par antagoniste des récepteurs de l'angiotensine II. - créatininémie strictement inférieure à 150 M.  2- Sujets cas (atteints de néphropathie diabétique) :  - sujet présentant une glomérulopathie diabétique, même en l'absence de rétinopathie, affirmée par la biopsie rénale. - ou sujet présentant les caractéristiques suivantes :  - rétinopathie diabétique quelqu'en soit le stade.  - diabète de type 2 connu depuis plus de 5 ans  - anomalie de l'excrétion urinaire d'albumine (EUA) (définie comme une concentration d'albumine urinaire supérieure ou égale à 20mg/l ou 30 mg/24h), 2 fois sur 3 prélèvements consécutifs, au cours des 5 dernières années   - avec ou sans altération de la fonction rénale (définie par une créatininémie supérieure à 150 µmol/l, ou recours à une épuration extra-rénale ou à une transplantation rénale).  - absence de maladie rénale autre que la néphropathie diabétique  3- diabète de type 2 connu depuis moins de 5 ans (diabète récent) quelque soit l’excrétion urinaire d’albumine et la créatinémie"
+          },
+          {
+            "clusion": "I",
+            "lang": "en",
+            "value": "Individuals included in the study are adult subjects who have given their signed informed consent and covered by a social security scheme or registered with a likewise scheme. We wish to include different subjects with type 2 diabetes in the DIAB2-NEPHRO-GENE study that can be divided into three groups: 1 - Case-control subjects (with no diabetic nephropathy) - subjects with diabetic retinopathy, regardless of stage - known type 2 diabetes for more than 5 years - normal urinary albumin excretion (UAE) (defined as urinary albumin concentration strictly below 20 mg/l or 30 mg/24h), twice occurring out of 3 consecutive samples over the last 5 years. - Normal UAE in the absence of conversion enzyme inhibitor or angiotensin II antagonist receptors - creatinine strictly less than 150M.2 - Case subjects (with diabetic nephropathy): - subjects with diabetic glomerulopathy confirmed by renal biopsy, even with absence of retinopathy - or subjects with the following characteristics: - diabetic retinopathy regardless of stage. - known type 2 diabetes for more than 5 years - abnormal urinary albumin excretion (UAE)(defined as urinary albumin concentration higher or equal to 20 mg/l or 30 mg/24h), twice occurring out of 3 consecutive samples over the last 5 years - with or without change to renal function (defined by creatinine higher than 150 µmol/l, or need for extra-renal purification or renal transplantation). - absence of kidney disease other than diabetic nephropathy 3 - known type 2 diabetes for at least 5 years (recent diabetes) regardless of urinary albumin excretion or creatinine"
+          },
+          {
+            "clusion": "E",
+            "lang": "fr",
+            "value": ""
+          },
+          {
+            "clusion": "E",
+            "lang": "en",
+            "value": ""
+          }
+        ],
+        "collDate": [
+          {
+            "event": "start",
+            "value": "2001-01-01"
+          },
+          {
+            "event": "end",
+            "value": "2012-01-01"
+          }
+        ]
+      }
+    },
+    "dataAccs": {
+      "setAvail": {
+        "avlStatus": [
+          {
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Accès réservé"
+          },
+          {
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Restricted access"
+          }
+        ],
+        "conditions": [
+          {
+            "lang": "fr",
+            "value": "Demande à faire auprès du responsable scientifique"
+          },
+          {
+            "lang": "en",
+            "value": "Send request to the scientist in charge"
+          }
+        ]
+      },
+      "useStmt": {}
+    },
+    "othStdMat": {
+      "relMat": [
+        {
+          "lang": "fr",
+          "value": "Accès restreint sur projet spécifique"
+        },
+        {
+          "lang": "en",
+          "value": "Access on specific project only"
+        }
+      ]
+    },
+    "studyDevelopment": {
+      "developmentActivity": [
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/morbidité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/morbidity"
+        }
+      ]
+    }
+  },
+  "docDscr": {
+    "citation": {
+      "rspStmt": {
+        "AuthEnty": "Pierre-Jean SAULNIER"
+      },
+      "prodStmt": {
+        "producer": [
+          {
+            "affiliation": "CENTRE HOSPITALIER UNIVERSITAIRE DE POITIERS",
+            "value": "Pierre-Jean;SAULNIER"
+          }
+        ],
+        "prodPlac": "Portail Épidémiologie France"
+      }
+    }
+  },
+  "additional": {
+    "prodPlac": "Portail Épidémiologie France",
+    "creationDate": "02-07-2012",
+    "lastUpdatedManual": "07-08-2019",
+    "theme": {},
+    "governance": {},
+    "collaborations": {},
+    "mockSample": {},
+    "dataQuality": {},
+    "variableDictionnary": {},
+    "dataTypes": {
+      "biologicalDataDetails": [
+        {
+          "lang": "fr",
+          "value": "fonction rénale et équilibre glycémique"
+        },
+        {
+          "lang": "en",
+          "value": "Renal function and glycaemic control"
+        }
+      ],
+      "isDataInBiobank": true
+    },
+    "collectionProcess": {
+      "collectionModeDetails": [
+        {
+          "lang": "fr",
+          "value": "Fiche d’observation, remplie par les médecins investigateurs, adressée avec le consentement et les échantillons biologiques par courrier express."
+        },
+        {
+          "lang": "en",
+          "value": "Observation file, completed by the investigating physician, sent with consent and biological samples by express post."
+        }
+      ]
+    },
+    "geographicalCoverage": {
+      "geoDetail": [
+        {
+          "lang": "fr",
+          "value": "France"
+        },
+        {
+          "lang": "en",
+          "value": "France"
+        }
+      ]
+    },
+    "activeFollowUp": {
+      "isActiveFollowUp": false
+    },
+    "dataCollectionIntegration": {
+      "isDataIntegration": false
+    },
+    "isHealthTheme": true
+  },
+  "schematype": "survey"
+}

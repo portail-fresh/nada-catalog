@@ -1,0 +1,884 @@
+{
+  "stdyDscr": {
+    "citation": {
+      "titlStmt": {
+        "IDNo": [
+          {
+            "agency": "PEF",
+            "value": "8413"
+          },
+          {
+            "agency": "FReSH",
+            "value": "FRESH-PEF8413"
+          }
+        ],
+        "titl": [
+          {
+            "lang": "fr",
+            "value": "Etude sur l’état de santé, l’accès aux soins et l’accès aux droits des personnes en situation de prostitution rencontrées dans des structures sociales et médicales"
+          },
+          {
+            "lang": "en",
+            "value": "Study on Health Status, Access to Healthcare and Rights of Prostitutes Encountered by Social and Medical Facilities"
+          }
+        ],
+        "altTitl": [
+          {
+            "lang": "fr",
+            "value": "ProSanté"
+          },
+          {
+            "lang": "en",
+            "value": "ProSanté"
+          }
+        ]
+      },
+      "rspStmt": {
+        "AuthEnty": [
+          {
+            "name": "Elsa;HAJMAN",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "FEDERATION DES ACTEURS DE LA SOLIDARITE"
+              },
+              {
+                "lang": "en",
+                "value": "FEDERATION DES ACTEURS DE LA SOLIDARITE"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "308401090",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ],
+            "isContact": false,
+            "email": "",
+            "PILabo": "Fédération nationale des associations d’accueil et de réinsertion"
+          },
+          {
+            "name": "Florence;LOT",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "SANTE PUBLIQUE FRANCE"
+              },
+              {
+                "lang": "en",
+                "value": "SANTE PUBLIQUE FRANCE"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "08780087X",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/00dfw9p58",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "130022338",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ],
+            "isContact": true,
+            "email": "florence.lot@santepubliquefrance.fr",
+            "PILabo": "Institut de veille"
+          }
+        ],
+        "othId": []
+      },
+      "distStmt": {
+        "contact": [
+          {
+            "name": "Florence;LOT",
+            "email": "florence.lot@santepubliquefrance.fr",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "SANTE PUBLIQUE FRANCE"
+              },
+              {
+                "lang": "en",
+                "value": "SANTE PUBLIQUE FRANCE"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/00dfw9p58",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "130022338",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          }
+        ]
+      },
+      "prodStmt": {
+        "fundAg": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "MINISTERE DU TRAVAIL, DE LA SANTE, DES SOLIDARITES ET DES FAMILLES"
+              },
+              {
+                "lang": "en",
+                "value": "MINISTERE DU TRAVAIL, DE LA SANTE, DES SOLIDARITES ET DES FAMILLES"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "ROR",
+                "uri": "https://ror.org/01wp0c315"
+              },
+              {
+                "title": "SIREN",
+                "uri": "130016546"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "SANTE PUBLIQUE FRANCE"
+              },
+              {
+                "lang": "en",
+                "value": "SANTE PUBLIQUE FRANCE"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "ROR",
+                "uri": "https://ror.org/00dfw9p58"
+              },
+              {
+                "title": "SIREN",
+                "uri": "130022338"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ]
+          }
+        ],
+        "producer": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "FEDERATION DES ACTEURS DE LA SOLIDARITE"
+              },
+              {
+                "lang": "en",
+                "value": "FEDERATION DES ACTEURS DE LA SOLIDARITE"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Privé à but non lucratif"
+              },
+              {
+                "lang": "en",
+                "value": "Private non-profit"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "308401090"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "SANTE PUBLIQUE FRANCE"
+              },
+              {
+                "lang": "en",
+                "value": "SANTE PUBLIQUE FRANCE"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "ROR",
+                "uri": "https://ror.org/00dfw9p58"
+              },
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "130022338"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "studyAuthorization": [
+      {
+        "authorizingAgency": {
+          "lang": "fr",
+          "value": "CNIL"
+        }
+      },
+      {
+        "authorizingAgency": {
+          "lang": "fr",
+          "value": "CPP"
+        }
+      }
+    ],
+    "method": {
+      "notes": [
+        {
+          "subject": "research type",
+          "lang": "fr",
+          "value": "Etude observationnelle"
+        },
+        {
+          "subject": "research type",
+          "lang": "en",
+          "value": "Observational Study"
+        }
+      ],
+      "stdyClas": [
+        {
+          "lang": "fr",
+          "value": "Étude complétée"
+        },
+        {
+          "lang": "en",
+          "value": "Completed study"
+        }
+      ],
+      "dataColl": {
+        "targetSampleSize": [
+          {
+            "lang": "fr",
+            "value": "< 500 individus"
+          },
+          {
+            "lang": "en",
+            "value": "< 500 individuals"
+          }
+        ],
+        "timeMeth": [
+          {
+            "lang": "fr",
+            "value": "Etude transversale non répétée"
+          },
+          {
+            "lang": "en",
+            "value": "One-time cross-sectional study"
+          }
+        ],
+        "sampleFrame": {
+          "frameUnit": {
+            "unitType": [
+              {
+                "lang": "fr",
+                "value": "Via des structures (services ou établissements de santé, écoles, entreprises…)"
+              },
+              {
+                "lang": "en",
+                "value": "Through organizations (health services or institutions, schools, businesses, etc.)"
+              }
+            ]
+          }
+        },
+        "sources": [
+          {}
+        ],
+        "collMode": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Interview",
+              "vocab": "CESSDA"
+            },
+            "value": "Entretien avec le participant (dont clinique)"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Interview",
+              "vocab": "CESSDA"
+            },
+            "value": "Interview with the participant (including clinical)"
+          }
+        ],
+        "sampProc": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ],
+        "respRate": [
+          {
+            "lang": "fr",
+            "value": "Volet santé perçue : 250 ; volet santé objectivée : 78"
+          },
+          {
+            "lang": "en",
+            "value": "Perceived health component: 250; objective health component: 78."
+          }
+        ]
+      }
+    },
+    "stdyInfo": {
+      "abstract": [
+        {
+          "contentType": "purpose",
+          "lang": "fr",
+          "value": "Objectifs primaires - Améliorer la connaissance sur l’état de santé, l’accès aux soins et aux droits des personnes en situation de prostitution. - Identifier les freins qui s’opposent à l’accès réel aux droits et aux soins. Faire bénéficier les personnes en situation de prostitution d’une prise en charge médicale dans un cadre anonyme et gratuit : consultation médicale, dépistage des IST (dont le VIH et l’hépatite B), dépistage de l’hépatite C, traitement des IST aiguës, proposition de vaccinations (contre l’hépatite B notamment). - Objectiver l’état de santé des personnes en situation de prostitution, en le confrontant aux données de santé perçue. - Connaître la prévalence des IST (VIH, VHB, syphilis, chlamydiose, gonococcie, trichomonose) et de l’hépatite C dans l’échantillon de l’étude. Objectifs secondaires - Améliorer la prise en compte des problématiques de santé dans les structures sociales et former des intervenants sociaux à ces problématiques dans l’accompagnement des personnes en situation de prostitution. - Sensibiliser le personnel médical aux spécificités de ce public. - Développer les réseaux locaux entre acteurs du social et du médicosocial ou médical et favoriser l’émergence de partenariats."
+        },
+        {
+          "contentType": "purpose",
+          "lang": "en",
+          "value": "Main objectives: - To improve knowledge on health status, access to healthcare and rights for prostitutes. - To identify constraints that impede actual access to rights and healthcare. - To provide medical treatment to prostitutes within a free and anonymous setting: medical consultation, STI screening (including HIV and hepatitis B), screening for hepatitis C, treatment for acute STIs, provision of vaccinations (particularly against hepatitis B). - To reveal the health status of prostitutes against perceived health data. - To know the prevalence of STIs (HIV, HBV, syphilis, chlamydia, gonorrhoea, trichomoniasis) and hepatitis C within the study sample. Secondary objectives: - To improve the integration of health issues in social facilities and to train social workers regarding these issues when working with prostitutes. - To increase medical staff's awareness of specific traits regarding this population. - To develop local networks between key social and social medicine or medical players and to promote partnerships."
+        }
+      ],
+      "subject": {
+        "topcClas": [
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/fa2ceeab-3b2f-45e9-9243-e5a8005b98de"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D055552"
+              }
+            ],
+            "value": "Infectiologie"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/fa2ceeab-3b2f-45e9-9243-e5a8005b98de"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D055552"
+              }
+            ],
+            "value": "Infectious disease medicine"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants comportementaux"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants socio-démographiques et économiques"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants comportementaux : Addictions"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Behavioral determinants"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Socio-demographic and economic determinants"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Behavioral determinants: Addiction"
+          }
+        ],
+        "keyword": [
+          {
+            "lang": "fr",
+            "value": "situation"
+          },
+          {
+            "lang": "fr",
+            "value": "prostitution"
+          },
+          {
+            "lang": "fr",
+            "value": "structures sociales et médicales"
+          },
+          {
+            "lang": "fr",
+            "value": "droits"
+          },
+          {
+            "lang": "en",
+            "value": "social and medical facilities"
+          },
+          {
+            "lang": "en",
+            "value": "situation"
+          },
+          {
+            "lang": "en",
+            "value": "prostitution"
+          },
+          {
+            "lang": "en",
+            "value": "rights"
+          }
+        ]
+      },
+      "qualityStatement": {
+        "standardsCompliance": {}
+      },
+      "sumDscr": {
+        "dataKind": [
+          {
+            "lang": "fr",
+            "value": "Données cliniques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données rapportées par le participant de l&#x27;étude"
+          },
+          {
+            "lang": "fr",
+            "value": "Données biologiques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données socio-démographiques"
+          },
+          {
+            "lang": "en",
+            "value": "Clinical data"
+          },
+          {
+            "lang": "en",
+            "value": "Participant-reported health data"
+          },
+          {
+            "lang": "en",
+            "value": "Biological data"
+          },
+          {
+            "lang": "en",
+            "value": "Socio-demographic data"
+          }
+        ],
+        "anlyUnit": [
+          {
+            "lang": "fr",
+            "value": "Individus"
+          },
+          {
+            "lang": "en",
+            "value": "Individuals"
+          }
+        ],
+        "nation": [
+          {
+            "lang": "fr",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          },
+          {
+            "lang": "en",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          }
+        ],
+        "universe": [
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Masculin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Féminin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Male"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Female"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Adulte (19 à 24 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adulte (25 à 44 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Adulte (45 à 64 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Young Adult (19 to 24 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adult (25 to 44 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Middle Aged (45 to 64 years)"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Population générale"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "en",
+            "value": "General population"
+          },
+          {
+            "clusion": "I",
+            "lang": "fr",
+            "value": "les hommes, femmes ou transgenres, âgés de 18 ans ou plus, se déclarant en situation de prostitution, rencontrés par les intervenants des structures d’accueil/accompagnement et orientés ensuite vers une consultation médicale."
+          },
+          {
+            "clusion": "I",
+            "lang": "en",
+            "value": "Male, female or transgender; aged 18 and over; declared as prostitutes; interviewed by refuge/support facilities and referred for medical consultation."
+          },
+          {
+            "clusion": "E",
+            "lang": "fr",
+            "value": ""
+          },
+          {
+            "clusion": "E",
+            "lang": "en",
+            "value": ""
+          }
+        ],
+        "collDate": [
+          {
+            "event": "start",
+            "value": "2010-01-01"
+          },
+          {
+            "event": "end",
+            "value": "2011-01-01"
+          }
+        ]
+      }
+    },
+    "dataAccs": {
+      "setAvail": {
+        "avlStatus": [
+          {
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Accès réservé"
+          },
+          {
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Restricted access"
+          }
+        ],
+        "conditions": [
+          {
+            "lang": "fr",
+            "value": "Contacter le responsable scientifique / formulaire de demande de données à l’InVS"
+          },
+          {
+            "lang": "en",
+            "value": "Contact the scientist in charge/Send data request form to InVS."
+          }
+        ]
+      },
+      "useStmt": {}
+    },
+    "othStdMat": {},
+    "studyDevelopment": {
+      "developmentActivity": [
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/morbidité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Consommation de soins/services de santé"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Qualité de vie/santé perçue"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Autres"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/morbidity"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health care consumption and services"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Quality of life/health perception"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Others"
+        }
+      ]
+    }
+  },
+  "docDscr": {
+    "citation": {
+      "rspStmt": {
+        "AuthEnty": "Anne DOUSSIN"
+      },
+      "prodStmt": {
+        "producer": [
+          {
+            "affiliation": "SANTE PUBLIQUE FRANCE",
+            "value": "Anne;DOUSSIN"
+          }
+        ],
+        "prodPlac": "Portail Épidémiologie France"
+      }
+    }
+  },
+  "additional": {
+    "prodPlac": "Portail Épidémiologie France",
+    "relatedDocuments": {
+      "documentTitle": [
+        {
+          "lang": "fr"
+        },
+        {
+          "lang": "en"
+        }
+      ],
+      "documentLink": [
+        {
+          "lang": "fr",
+          "value": "http://epidemiologie-france.aviesan.fr/ http://www.invs.sante.fr/Dossiers-thematiques/Populations-et-sante/Etude-sur-l-etat-de-sante-l-acces-aux-soins-et-l-acces-aux-droits-des-personnes-en-situation-de-prostitution-rencontrees-dans-des-structures-sociales-et-medicales"
+        },
+        {
+          "lang": "en",
+          "value": "http://epidemiologie-france.aviesan.fr/ http://www.invs.sante.fr/Dossiers-thematiques/Populations-et-sante/Etude-sur-l-etat-de-sante-l-acces-aux-soins-et-l-acces-aux-droits-des-personnes-en-situation-de-prostitution-rencontrees-dans-des-structures-sociales-et-medicales"
+        }
+      ]
+    },
+    "creationDate": "14-03-2014",
+    "lastUpdatedManual": "12-05-2015",
+    "theme": {},
+    "governance": {},
+    "collaborations": {},
+    "mockSample": {},
+    "dataQuality": {},
+    "variableDictionnary": {},
+    "dataTypes": {
+      "biologicalDataDetails": [
+        {
+          "lang": "fr",
+          "value": "--"
+        },
+        {
+          "lang": "en",
+          "value": "--"
+        }
+      ],
+      "isDataInBiobank": false
+    },
+    "collectionProcess": {
+      "collectionModeDetails": [
+        {
+          "lang": "fr",
+          "value": "L’étude comportait donc 2 volets, un volet Santé-social coordonné par la FNARS et un volet médical coordonné par l’InVS. Questionnaire : Le volet Santé-social de l’étude s’est déroulé dans des structures sociales principalement spécialisées dans l’accueil et l’accompagnement des personnes en situation de prostitution, sollicitées par la FNARS. Après accord de la personne, les données étaient recueillies par entretiens en face à face, menés au sein ou à l’extérieur de ces structures, sur la base de 2 questionnaires anonymes (long ou court) disponibles en 4 langues. Volet médical : l’objectif de la consultation était (i) de faire le point sur leurs antécédents (médicaux, d’infections sexuellement transmissibles-IST-, gynéco-obstétricaux, de vaccinations, de dépistages), l’utilisation d’une contraception/préservatifs, et la consommation de produits psychoactifs, (ii) de réaliser un examen clinique complet (avec notamment recueil du poids, de la taille et de la tension artérielle) et des prélèvements de la sphère génito-urinaire à la recherche d’une IST, (iii) et de proposer certains dépistages (VIH, hépatite B et C, syphilis). Toutes ces informations étaient recueillies sur la base d’un questionnaire anonyme, qui était ensuite complété avec les résultats biologiques. Le questionnaire précisait également la prise en charge immédiate (traitement d’une IST aiguë, vaccination contre l’hépatite B…) et la nécessité éventuelle d’une orientation médicale. Les personnes ne souhaitant pas participer au volet médical de l’étude devaient être interrogées sur les raisons de ce refus. Si le refus était lié à la présence d’une infection virale chronique (VIH, hépatites…) déjà suivie, l’intervenant proposait à la personne d’aller consulter avec ses examens biologiques récents ou de faire compléter le questionnaire médical par son médecin habituel."
+        },
+        {
+          "lang": "en",
+          "value": "The study included 2 components: a Social-Health component coordinated by FNARS, and a medical component coordinated by the InVS. Questionnaire: The social-health component took place in facilities that mainly specialised in receiving and providing support to prostitutes, and was requested by FNARS. Data was collected in person, following the individual's consent, inside or outside of these facilities, and based on 2 anonymous questionnaires (long or short) available in 4 languages. Medical component: the aim of the consultation was to (i) review subjects' history (medical, sexually-transmitted infections-STI-gynaecological and obstetrics, vaccinations and screenings), the use of contraception/condoms, consumption of psychoactive substances; (ii) to conduct a complete clinical examination (including the collection of weight, height and blood pressure data) and genito-urinary samples for STI research; and (iii) to provide certain screenings (HIV, hepatitis B and C, syphilis). All information was collected by anonymous questionnaire, which was supplemented by biological results. The questionnaire also clarified immediate care (treatment for an acute STI, vaccination against hepatitis B, etc.) and possible need for medical referral. Individuals not wishing to participate in the medical component should be interviewed on the reasons for refusal. If refusal was linked to the presence of an already monitored chronic viral condition (HIV, hepatitis, etc.), the interviewer recommended the individual to consult recent biological tests or to have their regular physician complete the medical questionnaire."
+        }
+      ]
+    },
+    "geographicalCoverage": {
+      "geoDetail": [
+        {
+          "lang": "fr",
+          "value": "Dans 11 départements"
+        },
+        {
+          "lang": "en",
+          "value": "Across 11 départements."
+        }
+      ]
+    },
+    "activeFollowUp": {
+      "isActiveFollowUp": false
+    },
+    "dataCollectionIntegration": {
+      "isDataIntegration": false
+    },
+    "isHealthTheme": true
+  },
+  "schematype": "survey"
+}

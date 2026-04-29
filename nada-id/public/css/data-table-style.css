@@ -1,0 +1,108 @@
+
+/* tableau */
+.wp-list-table {
+    border: 1px solid var(--wp--preset--color--tinted-white);
+    border-radius: var(--wp--preset--border-radius--sm);
+    overflow: hidden;
+    color: var(--wp--preset--color--primary) !important;
+}
+
+.wp-list-table thead th {
+    background: var(--wp--preset--color--tinted-white);
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: var(--wp--preset--font-size--x-small);
+    letter-spacing: 0.5px;
+}
+
+.wp-list-table tbody tr:hover {
+    background: var(--wp--preset--color--tinted-white);
+}
+
+.wp-list-table td,
+.wp-list-table th {
+    padding: 12px 15px;
+}
+
+
+/*  Barre de recherche et filtres  */
+
+.dt-search-input {
+    flex: 1;
+    height: 40px;
+    padding: 8px 12px;
+    border: 1px solid var(--wp--preset--color--primary) !important;
+    border-right: none;
+    border-radius: var(--wp--preset--border-radius--sm) 0 0 4px !important;
+    background-color: var(--wp--preset--color--white);
+    color: var(--wp--preset--color--primary);
+    font-size: var(--wp--preset--font-size--small);
+    outline: none;
+}
+
+.dt-per-page-select {
+    padding: 6px 12px;
+    border: 1px solid var(--wp--preset--color--tinted-white);
+    border-radius: var(--wp--preset--border-radius--sm);
+    font-size: var(--wp--preset--font-size--small);
+}
+
+/*  Pagination  */
+.tablenav-pages {
+    display: flex;
+    align-items: flex-end;
+    flex-direction: column;
+    margin-bottom: 20px;
+}
+
+.tablenav-pages .displaying-num {
+    font-size: var(--wp--preset--font-size--small);
+    color: var(--wp--preset--color--oxygenated-blue);
+    padding: 0 10px;
+    margin-bottom: 10px;
+}
+
+.tablenav-pages .pagination-links {
+    display: flex !important;
+    flex-wrap: wrap;
+    gap: 5px !important;
+    align-items: center;
+}
+
+.pagination-links a.button,
+.pagination-links span.button {
+    display: block;
+    padding: 6px 12px;
+    text-decoration: none;
+    border: 1px solid var(--wp--preset--color--oxygenated-blue);
+    color: var(--wp--preset--color--primary);
+    border-radius: var(--wp--preset--border-radius--sm);
+    transition: background-color 0.15s ease-in-out;
+    background-color: var(--wp--preset--color--white);
+    margin: 0 !important;
+}
+
+.pagination-links span.button:not(.disabled) {
+    background-color: var(--wp--preset--color--light-blue) !important;
+    color: var(--wp--preset--color--white) !important;
+    border-color: var(--wp--preset--color--light-blue) !important;
+}
+
+.pagination-links span.button.disabled {
+    color: var(--wp--preset--color--primary) !important;
+    cursor: default;
+    background-color: var(--wp--preset--color--tinted-white) !important;
+    border-color: var(--wp--preset--color--tinted-white);
+    opacity: 0.5;
+}
+
+.pagination-links a.button:hover {
+    background-color: var(--wp--preset--color--white);
+    color: var(--wp--preset--color--primary);
+    border-color: var(--wp--preset--color--primary);
+}
+
+.pagination-links span:not(.button) {
+    padding: 5px;
+    color: var(--wp--preset--color--oxygenated-blue);
+}

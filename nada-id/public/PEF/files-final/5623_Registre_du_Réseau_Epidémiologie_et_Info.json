@@ -1,0 +1,1047 @@
+{
+  "stdyDscr": {
+    "citation": {
+      "titlStmt": {
+        "IDNo": [
+          {
+            "agency": "PEF",
+            "value": "5623"
+          },
+          {
+            "agency": "FReSH",
+            "value": "FRESH-PEF5623"
+          }
+        ],
+        "titl": [
+          {
+            "lang": "fr",
+            "value": "Registre du Réseau Epidémiologie et Information en Néphrologie"
+          },
+          {
+            "lang": "en",
+            "value": "Epidemiology Network and Nephrology Information Registry (qualified registry 2012-2015)"
+          }
+        ],
+        "altTitl": [
+          {
+            "lang": "fr",
+            "value": "REIN"
+          },
+          {
+            "lang": "en",
+            "value": "REIN"
+          }
+        ]
+      },
+      "rspStmt": {
+        "AuthEnty": [
+          {
+            "name": "Christian;JACQUELINET",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "AGENCE DE LA BIOMEDECINE"
+              },
+              {
+                "lang": "en",
+                "value": "AGENCE DE LA BIOMEDECINE"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "0000-0002-5904-7570",
+                "role": "pi id",
+                "title": "ORCID"
+              },
+              {
+                "uri": "074539973",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/03tajza86",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "180092587",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ],
+            "isContact": true,
+            "email": "christian.jacquelinet@biomedecine.fr",
+            "PILabo": "Agence de la biomedecine / Direction Médicale et Scientifique"
+          }
+        ],
+        "othId": {
+          "type": "collaboration",
+          "affiliation": {
+            "lang": "fr",
+            "value": "Registre européen ERA-EDTA, INI-CRCT, CKDREIN, CKDOPPS"
+          }
+        }
+      },
+      "distStmt": {
+        "contact": [
+          {
+            "name": "Cécile;COUCHOUD",
+            "email": "cecile.couchoud@biomedecine.fr",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "AGENCE DE LA BIOMEDECINE"
+              },
+              {
+                "lang": "en",
+                "value": "AGENCE DE LA BIOMEDECINE"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/03tajza86",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "180092587",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          },
+          {
+            "name": "Christian;JACQUELINET",
+            "email": "christian.jacquelinet@biomedecine.fr",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "AGENCE DE LA BIOMEDECINE"
+              },
+              {
+                "lang": "en",
+                "value": "AGENCE DE LA BIOMEDECINE"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/03tajza86",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "180092587",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          }
+        ]
+      },
+      "prodStmt": {
+        "fundAg": [
+          {
+            "name": [
+              {
+                "lang": "fr"
+              },
+              {
+                "lang": "en"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Autre"
+              },
+              {
+                "lang": "en",
+                "value": "Other"
+              }
+            ]
+          }
+        ],
+        "producer": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "AGENCE DE LA BIOMEDECINE"
+              },
+              {
+                "lang": "en",
+                "value": "AGENCE DE LA BIOMEDECINE"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "ROR",
+                "uri": "https://ror.org/03tajza86"
+              },
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "180092587"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "studyAuthorization": {
+      "authorizingAgency": {
+        "lang": "fr",
+        "value": "CNIL"
+      }
+    },
+    "method": {
+      "notes": [
+        {
+          "subject": "research type",
+          "lang": "fr",
+          "value": "Etude observationnelle"
+        },
+        {
+          "subject": "research type",
+          "lang": "en",
+          "value": "Observational Study"
+        },
+        {
+          "lang": "fr",
+          "subject": "observational study method",
+          "value": "Registre de morbidité"
+        },
+        {
+          "lang": "en",
+          "subject": "observational study method",
+          "value": "Morbidity registry"
+        }
+      ],
+      "stdyClas": [
+        {
+          "lang": "fr",
+          "value": "Inconnu"
+        },
+        {
+          "lang": "en",
+          "value": "Unknown"
+        }
+      ],
+      "dataColl": {
+        "targetSampleSize": [
+          {
+            "lang": "fr",
+            "value": ">= 20000 individus"
+          },
+          {
+            "lang": "en",
+            "value": ">= 20000 individuals"
+          }
+        ],
+        "sampleFrame": {
+          "frameUnit": {}
+        },
+        "sources": [
+          {}
+        ],
+        "collMode": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Recording",
+              "vocab": "CESSDA"
+            },
+            "value": "Enregistrement (audio, vidéo, électrophysiologique, imagerie)"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Recording",
+              "vocab": "CESSDA"
+            },
+            "value": "Recording (audio, video, electrophysiological, imaging)"
+          }
+        ],
+        "sampProc": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ],
+        "respRate": [
+          {
+            "lang": "fr",
+            "value": "Au 31/12/2012 : 90685- 10048 nouveaux cas- 73491 patients traités- 7146 décès"
+          },
+          {
+            "lang": "en",
+            "value": "Au 31/12/2012 : 90685- 10048 nouveaux cas- 73491 patients traités- 7146 décès"
+          }
+        ]
+      }
+    },
+    "stdyInfo": {
+      "abstract": [
+        {
+          "contentType": "purpose",
+          "lang": "fr",
+          "value": "Mettre en place un système d’information pérenne, regroupant autour des données, de leur interprétation et de leur utilisation potentielle pour la décision en santé publique ou la pratique clinique l'ensemble des partenaires concernés (organisation en réseau) et disposant de l’expertise épidémiologique, bio-statistique et informatique nécessaire pour : - Dénombrer l’ensemble des patients dialysés ou transplantés pour insuffisance rénale chronique en France métropolitaine et dans les DOM-TOM, - Evaluer l’incidence (objectif 80 de la loi de Santé Publique), la prévalence, les taux de mortalité et l’évolution au cours du temps de l’insuffisance rénale chronique traitée selon la région, les caractéristiques sociodémographiques des malades, la maladie rénale initiale, les co-morbidités et les handicaps associés, - Décrire précisément les modalités de prise en charge en dialyse (méthode, modalité, dose) et les tendances évolutives des besoins de la population et des pratiques médicales, - Mesurer les parts relatives prises par les différentes modalités de dialyse et par la greffe et décrire les trajectoires des patients à travers ces modalités de prise en charge, - Evaluer la qualité et l’efficacité des soins en termes de précocité de la prise en charge, de dose de dialyse, de contrôle de l’anémie et de l’équilibre nutritionnel, au regard notamment des recommandations de bonnes pratiques cliniques, - Evaluer la qualité de vie des patients (objectif 81 de la loi de Santé Publique); - Evaluer les conséquences médico-économiques des pratiques de soins."
+        },
+        {
+          "contentType": "purpose",
+          "lang": "en",
+          "value": "To establish a sustainable information system by unifying data, its interpretation and potential use for public health decision-making or clinical practice for all partners involved (network organisation) and to organise epidemiological knowledge, biostatistics and data necessary to: - Estimate the number of dialysis or transplant patients for chronic renal disease in France and overseas territories, - Assess the impact (Objective 80 of Public Health Law), prevalence, mortality rates and trends in chronic renal disease at regional level, patient sociodemographic characteristics, baseline renal disease, comorbidities and associated disabilities - Specifically describe dialysis treatment modalities (method, modality, dose) and changing tendencies towards population requirements and medical practices - Evaluate relative aspects of different dialysis and transplantation modalities and to describe patient trajectories through these treatment modalities - Assess quality and efficacy of care in terms of early detection, dialysis dose, control of anaemia and nutritional balance, particularly with regard to good clinical practice - Evaluate patients' quality of life (Objective 81 of Public Health Law); - Evaluate the medical and economic outcomes of health care practices."
+        }
+      ],
+      "subject": {
+        "topcClas": [
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/3961e9d2-ab3b-451b-b246-20fc0ec3b0c4"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D009398"
+              }
+            ],
+            "value": "Néphrologie"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/3961e9d2-ab3b-451b-b246-20fc0ec3b0c4"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D009398"
+              }
+            ],
+            "value": "Nephrology"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "fr",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/761526554",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Insuffisance rénale"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "en",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/761526554",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Kidney failure"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants socio-démographiques et économiques"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants biologiques : Prédispositions génétiques"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants environnementaux : Autres"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants comportementaux"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Systèmes de soins et accès aux soins"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants biologiques"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants environnementaux"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Socio-demographic and economic determinants"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Biological determinants: Genetic predisposition"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Environmental determinants: Other"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Behavioral determinants"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Biological determinants"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Environmental determinants"
+          }
+        ],
+        "keyword": [
+          {
+            "lang": "fr",
+            "value": "données"
+          },
+          {
+            "lang": "fr",
+            "value": "interprétation"
+          },
+          {
+            "lang": "fr",
+            "value": "décision"
+          },
+          {
+            "lang": "fr",
+            "value": "expertise épidémiologique"
+          },
+          {
+            "lang": "fr",
+            "value": "bio-statistique"
+          },
+          {
+            "lang": "fr",
+            "value": "patients dialysés ou transplantés"
+          },
+          {
+            "lang": "fr",
+            "value": "taux de mortalité et l’évolution"
+          },
+          {
+            "lang": "fr",
+            "value": "handicaps associés"
+          },
+          {
+            "lang": "fr",
+            "value": "incidence"
+          },
+          {
+            "lang": "fr",
+            "value": "prévalence"
+          },
+          {
+            "lang": "fr",
+            "value": "caractéristiques sociodémographiques"
+          },
+          {
+            "lang": "fr",
+            "value": "co-morbidités"
+          },
+          {
+            "lang": "fr",
+            "value": "prise en charge"
+          },
+          {
+            "lang": "en",
+            "value": "Data"
+          },
+          {
+            "lang": "en",
+            "value": "interpretation"
+          },
+          {
+            "lang": "en",
+            "value": "decision"
+          },
+          {
+            "lang": "en",
+            "value": "epidemiological expertise"
+          },
+          {
+            "lang": "en",
+            "value": "biostatistics"
+          },
+          {
+            "lang": "en",
+            "value": "transplanted or dialysis patients"
+          },
+          {
+            "lang": "en",
+            "value": "rate of mortality and progression"
+          },
+          {
+            "lang": "en",
+            "value": "comorbidities"
+          },
+          {
+            "lang": "en",
+            "value": "associated disabilities"
+          },
+          {
+            "lang": "en",
+            "value": "incidence"
+          },
+          {
+            "lang": "en",
+            "value": "prevalence"
+          },
+          {
+            "lang": "en",
+            "value": "sociodemographic characteristics"
+          },
+          {
+            "lang": "en",
+            "value": "support"
+          }
+        ]
+      },
+      "qualityStatement": {
+        "standardsCompliance": {}
+      },
+      "sumDscr": {
+        "dataKind": [
+          {
+            "lang": "fr",
+            "value": "Données cliniques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données biologiques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données socio-démographiques"
+          },
+          {
+            "lang": "en",
+            "value": "Clinical data"
+          },
+          {
+            "lang": "en",
+            "value": "Biological data"
+          },
+          {
+            "lang": "en",
+            "value": "Socio-demographic data"
+          }
+        ],
+        "anlyUnit": [
+          {
+            "lang": "fr",
+            "value": "Individus"
+          },
+          {
+            "lang": "en",
+            "value": "Individuals"
+          }
+        ],
+        "nation": [
+          {
+            "lang": "fr",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          },
+          {
+            "lang": "en",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          }
+        ],
+        "universe": [
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Masculin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Féminin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Male"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Female"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D007231"
+            },
+            "value": "Nouveau-né (naissance à 28j)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D007223"
+            },
+            "value": "Nourrisson (28j à 2 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D002675"
+            },
+            "value": "Petite enfance (2 à 5 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D002648"
+            },
+            "value": "Enfance (6 à 12 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000293"
+            },
+            "value": "Adolescence (13 à 18 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Adulte (19 à 24 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adulte (25 à 44 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Adulte (45 à 64 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Personne âgée (65 à 79 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000369"
+            },
+            "value": "Grand âge (80 ans et plus)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D007231"
+            },
+            "value": "Infant, Newborn (birth to 28 days)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D007223"
+            },
+            "value": "Infant (28 days to 2 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D002675"
+            },
+            "value": "Child, Preschool (2 to 5 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D002648"
+            },
+            "value": "Child (6 to 12 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Young Adult (19 to 24 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adult (25 to 44 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Middle Aged (45 to 64 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Aged (65 to 79 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000369"
+            },
+            "value": "Aged, 80 and over (80 years and more)"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Patients"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "en",
+            "value": "Patients population"
+          },
+          {
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Mise en route d'un traitement (dialyse ou greffe) pour Insuffisance Rénale Chronique Terminale (IRCT)"
+          },
+          {
+            "clusion": "I",
+            "lang": "en",
+            "value": "Initiation of treatment (dialysis or transplant) for End-Stage Renal Disease (ESRD)."
+          },
+          {
+            "clusion": "E",
+            "lang": "fr",
+            "value": ""
+          },
+          {
+            "clusion": "E",
+            "lang": "en",
+            "value": ""
+          }
+        ],
+        "collDate": {
+          "event": "start",
+          "value": "2003-01-01"
+        }
+      }
+    },
+    "dataAccs": {
+      "setAvail": {
+        "avlStatus": [
+          {
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Accès réservé"
+          },
+          {
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Restricted access"
+          }
+        ],
+        "conditions": [
+          {
+            "lang": "fr",
+            "value": "Contacter le responsable scientifique"
+          },
+          {
+            "lang": "en"
+          }
+        ]
+      },
+      "useStmt": {}
+    },
+    "othStdMat": {
+      "relMat": [
+        {
+          "lang": "fr",
+          "value": "Accès restreint sur projet spécifique"
+        },
+        {
+          "lang": "en",
+          "value": "Access on specific project only"
+        }
+      ]
+    },
+    "studyDevelopment": {
+      "developmentActivity": [
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/morbidité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/mortalité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/morbidity"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/mortality"
+        }
+      ]
+    }
+  },
+  "docDscr": {
+    "citation": {
+      "rspStmt": {
+        "AuthEnty": "Christian JACQUELINET"
+      },
+      "prodStmt": {
+        "producer": [
+          {
+            "affiliation": "AGENCE DE LA BIOMEDECINE",
+            "value": "Christian;JACQUELINET"
+          }
+        ],
+        "prodPlac": "Portail Épidémiologie France"
+      }
+    }
+  },
+  "additional": {
+    "prodPlac": "Portail Épidémiologie France",
+    "relatedDocuments": {
+      "documentTitle": [
+        {
+          "lang": "fr"
+        },
+        {
+          "lang": "en"
+        }
+      ],
+      "documentLink": [
+        {
+          "lang": "fr",
+          "value": "http://www.soc-nephrologie.org/PDF/enephro/registres/rapport_2012/rapport_2012.pdf"
+        },
+        {
+          "lang": "en",
+          "value": "http://www.soc-nephrologie.org/PDF/enephro/registres/rapport_2012/rapport_2012.pdf"
+        }
+      ]
+    },
+    "creationDate": "08-03-2013",
+    "lastUpdatedManual": "06-09-2017",
+    "theme": {},
+    "governance": {
+      "committee": true
+    },
+    "collaborations": {},
+    "mockSample": {},
+    "dataQuality": {},
+    "variableDictionnary": {},
+    "dataTypes": {
+      "clinicalDataDetails": {
+        "lang": "fr",
+        "value": "--"
+      },
+      "biologicalDataDetails": [
+        {
+          "lang": "fr",
+          "value": "Activité 17%CréatinimémieHémoglobinémieAlbuminémieDébit de filtration glomérulaireCréatinimémie 19%CNR – Dossier de qualification 2008 14/65HémoglobinémieAlbuminémieErythropoiétine"
+        },
+        {
+          "lang": "en",
+          "value": "Activity 17% Serum Creatinine, Serum Haemoglobin, Serum Albumin, Glomerular filtration rate, Serum Creatinine 19% CNR - Qualification record 2008 14/65 Serum Haemoglobin, Serum Albumin, Serum Erythropoietin"
+        }
+      ],
+      "isDataInBiobank": false
+    },
+    "collectionProcess": {
+      "collectionModeDetails": [
+        {
+          "lang": "fr",
+          "value": "L’identification d’une structure d’appui épidémiologique et le recrutement d’attachés de recherche clinique sont les conditions imposées par REIN à toute région intégrant le réseau.Le travail des attachés de recherche clinique comporte trois parties :- un contrôle continu de l’exhaustivité de l’enregistrement des nouveaux patients, des évènements et dessuivis annuels, qui doit être assuré tout au long de l’année. Parfois, l’attaché de recherche clinique peutparticiper, de façon transitoire, à la saisie des données dans le système d’information à partir de fichesremplies par les médecins.- un contrôle annuel de la qualité des informations, réalisé chaque premier trimestre, sur l’ensemble despatients mais pour un nombre limité de données dites essentielles recueillies l’année précédente, avant envoi à la coordination nationale.- des contrôles ad hoc portant sur des échantillons de patients pour les autres données."
+        },
+        {
+          "lang": "en",
+          "value": "An epidemiological research support structure and recruitment of clinical research associates are the conditions imposed by REIN for all regions in the network. Clinical research associate responsibilities have three parts: - continuous completeness checks for new patient registration, events and annual follow-ups, which must take place throughout the year. Clinical research associates may temporarily participate in inputting recorded data completed by physicians into the information system from time to time. - Annual information quality control for all patients is carried out every first quarter before being sent for validation at national level. However, this is only for a limited number of items deemed essential that were collected during the previous year. - Ad hoc checks on patient samples for other data."
+        }
+      ]
+    },
+    "geographicalCoverage": {
+      "geoDetail": [
+        {
+          "lang": "fr",
+          "value": "France Métropolitaine, DOM et POM"
+        },
+        {
+          "lang": "en",
+          "value": "Metropolitan France, overseas countries and territories"
+        }
+      ]
+    },
+    "activeFollowUp": {
+      "isActiveFollowUp": true
+    },
+    "dataCollectionIntegration": {
+      "isDataIntegration": false
+    },
+    "isHealthTheme": true
+  },
+  "schematype": "survey"
+}

@@ -1,0 +1,761 @@
+{
+  "stdyDscr": {
+    "citation": {
+      "titlStmt": {
+        "IDNo": [
+          {
+            "agency": "PEF",
+            "value": "5033"
+          },
+          {
+            "agency": "FReSH",
+            "value": "FRESH-PEF5033"
+          }
+        ],
+        "titl": [
+          {
+            "lang": "fr",
+            "value": "Etude longitudinale sur des enfants ayant un cathéter veineux central"
+          },
+          {
+            "lang": "en",
+            "value": "Longitudinal study of children with a central venous catheter"
+          }
+        ],
+        "altTitl": [
+          {
+            "lang": "fr",
+            "value": "PAPRIKA (Programme d’amélioration des pratiques Rhône-Alpines contre l’infection sur cathéter)"
+          },
+          {
+            "lang": "en",
+            "value": "PAPRIKA (Rhône-Alpines catheter anti-infection practices improvement programme)"
+          }
+        ]
+      },
+      "rspStmt": {
+        "AuthEnty": [
+          {
+            "name": "Karine;BELLEMIN",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "HOSPICES CIVILS DE LYON (HCL)"
+              },
+              {
+                "lang": "en",
+                "value": "HOSPICES CIVILS DE LYON (HCL)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "262447061",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/01502ca60",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "266900273",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ],
+            "isContact": true,
+            "email": "ka.bellemin@gmail.com",
+            "PILabo": "HOSPICES CIVILS DE LYON (HCL) / Groupement Hospitalier Est, Hôpital Femme-Mère-Enfant"
+          }
+        ],
+        "othId": []
+      },
+      "distStmt": {
+        "contact": [
+          {
+            "name": "Karine;BELLEMIN",
+            "email": "ka.bellemin@gmail.com",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "HOSPICES CIVILS DE LYON (HCL)"
+              },
+              {
+                "lang": "en",
+                "value": "HOSPICES CIVILS DE LYON (HCL)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/01502ca60",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "266900273",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          }
+        ]
+      },
+      "prodStmt": {
+        "fundAg": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "HOSPICES CIVILS DE LYON (HCL)"
+              },
+              {
+                "lang": "en",
+                "value": "HOSPICES CIVILS DE LYON (HCL)"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "ROR",
+                "uri": "https://ror.org/01502ca60"
+              },
+              {
+                "title": "SIREN",
+                "uri": "266900273"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ]
+          }
+        ],
+        "producer": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "HOSPICES CIVILS DE LYON (HCL)"
+              },
+              {
+                "lang": "en",
+                "value": "HOSPICES CIVILS DE LYON (HCL)"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "ROR",
+                "uri": "https://ror.org/01502ca60"
+              },
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "266900273"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "studyAuthorization": {
+      "authorizingAgency": {
+        "lang": "fr",
+        "value": "CNIL"
+      }
+    },
+    "method": {
+      "notes": [
+        {
+          "subject": "research type",
+          "lang": "fr",
+          "value": "Etude observationnelle"
+        },
+        {
+          "subject": "research type",
+          "lang": "en",
+          "value": "Observational Study"
+        }
+      ],
+      "stdyClas": [
+        {
+          "lang": "fr",
+          "value": "Inconnu"
+        },
+        {
+          "lang": "en",
+          "value": "Unknown"
+        }
+      ],
+      "dataColl": {
+        "targetSampleSize": [
+          {
+            "lang": "fr",
+            "value": "[1000-10000[ individus"
+          },
+          {
+            "lang": "en",
+            "value": "[1000-10000[ individuals"
+          }
+        ],
+        "sampleFrame": {
+          "frameUnit": {
+            "unitType": [
+              {
+                "lang": "fr",
+                "value": "Via des structures (services ou établissements de santé, écoles, entreprises…)"
+              },
+              {
+                "lang": "en",
+                "value": "Through organizations (health services or institutions, schools, businesses, etc.)"
+              }
+            ]
+          }
+        },
+        "sources": [
+          {}
+        ],
+        "collMode": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Transcription",
+              "vocab": "CESSDA"
+            },
+            "value": "Transcription et saisie d’informations dans un enregistrement structuré"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Transcription",
+              "vocab": "CESSDA"
+            },
+            "value": "Converting or copying information into a structured record"
+          }
+        ],
+        "sampProc": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ],
+        "respRate": [
+          {
+            "lang": "fr",
+            "value": "En cours"
+          },
+          {
+            "lang": "en",
+            "value": "In progress"
+          }
+        ]
+      }
+    },
+    "stdyInfo": {
+      "abstract": [
+        {
+          "contentType": "purpose",
+          "lang": "fr",
+          "value": "1) Estimer l’incidence des infections liées aux cathéters veineux centraux (CVC) pour l’ensemble des établissements de la région Rhône-Alpes et chacun des établissements 2) Identifier des facteurs de risque d'infection 3) Décrire les infections liées aux CVC."
+        },
+        {
+          "contentType": "purpose",
+          "lang": "en",
+          "value": "1) To estimate the incidence of infections associated with central venous catheters (CVC) for all of the institutions in the Rhône-Alpes region and each of the institutions 2) To identify the risk factors for infection 3) To describe CVC-associated infections"
+        }
+      ],
+      "subject": {
+        "topcClas": [
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/fa2ceeab-3b2f-45e9-9243-e5a8005b98de"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D055552"
+              }
+            ],
+            "value": "Infectiologie"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/bf8aaaac-ddee-41cd-bb8a-c5a63de3fcbd"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D010372"
+              }
+            ],
+            "value": "Pédiatrie"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/fa2ceeab-3b2f-45e9-9243-e5a8005b98de"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D055552"
+              }
+            ],
+            "value": "Infectious disease medicine"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/bf8aaaac-ddee-41cd-bb8a-c5a63de3fcbd"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D010372"
+              }
+            ],
+            "value": "Paediatrics"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants liés au système de santé : Consommation des soins"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants liés au système de santé"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Healthcare system determinants: Use of care"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Healthcare system determinants"
+          }
+        ],
+        "keyword": [
+          {
+            "lang": "fr",
+            "value": "cathéters"
+          },
+          {
+            "lang": "fr",
+            "value": "infection"
+          },
+          {
+            "lang": "fr",
+            "value": "réanimation néonatale"
+          },
+          {
+            "lang": "fr",
+            "value": "épidémiologie"
+          },
+          {
+            "lang": "fr",
+            "value": "surveillance"
+          },
+          {
+            "lang": "en",
+            "value": "catheters"
+          },
+          {
+            "lang": "en",
+            "value": "infection"
+          },
+          {
+            "lang": "en",
+            "value": "neonatal intensive care"
+          },
+          {
+            "lang": "en",
+            "value": "epidemiology"
+          },
+          {
+            "lang": "en",
+            "value": "monitoring"
+          }
+        ]
+      },
+      "qualityStatement": {
+        "standardsCompliance": {}
+      },
+      "sumDscr": {
+        "dataKind": [
+          {
+            "lang": "fr",
+            "value": "Données cliniques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données biologiques"
+          },
+          {
+            "lang": "en",
+            "value": "Clinical data"
+          },
+          {
+            "lang": "en",
+            "value": "Biological data"
+          }
+        ],
+        "anlyUnit": [
+          {
+            "lang": "fr",
+            "value": "Individus"
+          },
+          {
+            "lang": "en",
+            "value": "Individuals"
+          }
+        ],
+        "nation": [
+          {
+            "lang": "fr",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          },
+          {
+            "lang": "en",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          }
+        ],
+        "geogCover": [
+          {
+            "lang": "fr",
+            "value": "Auvergne Rhône-Alpes"
+          },
+          {
+            "lang": "en",
+            "value": "Auvergne Rhône-Alpes"
+          }
+        ],
+        "universe": [
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Masculin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Féminin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Male"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Female"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D007231"
+            },
+            "value": "Nouveau-né (naissance à 28j)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D007223"
+            },
+            "value": "Nourrisson (28j à 2 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D007231"
+            },
+            "value": "Infant, Newborn (birth to 28 days)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D007223"
+            },
+            "value": "Infant (28 days to 2 years)"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Patients"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "en",
+            "value": "Patients population"
+          },
+          {
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Tout enfant hospitalisé dans l’un des services participant et ayant, soit un cathéter veineux central (CVC) posé dans le service au cours de son séjour, soit déjà un CVC à son entrée dans le service."
+          },
+          {
+            "clusion": "I",
+            "lang": "en",
+            "value": "Every child hospitalised in one of the participating departments who have a central venous catheter (CVC) put in place in the department over the course of their stay or who already had a CVC on their admission into the department"
+          },
+          {
+            "clusion": "E",
+            "lang": "fr",
+            "value": ""
+          },
+          {
+            "clusion": "E",
+            "lang": "en",
+            "value": ""
+          }
+        ],
+        "collDate": {
+          "event": "start",
+          "value": "2007-01-01"
+        }
+      }
+    },
+    "dataAccs": {
+      "setAvail": {
+        "avlStatus": [
+          {
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Accès réservé"
+          },
+          {
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Restricted access"
+          }
+        ],
+        "conditions": []
+      },
+      "useStmt": {}
+    },
+    "othStdMat": {
+      "relMat": [
+        {
+          "lang": "fr",
+          "value": "Accès restreint sur projet spécifique"
+        },
+        {
+          "lang": "en",
+          "value": "Access on specific project only"
+        }
+      ]
+    },
+    "studyDevelopment": {
+      "developmentActivity": [
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/morbidité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/mortalité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Consommation de soins/services de santé"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/morbidity"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/mortality"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health care consumption and services"
+        }
+      ]
+    }
+  },
+  "docDscr": {
+    "citation": {
+      "rspStmt": {
+        "AuthEnty": ""
+      },
+      "prodStmt": {
+        "producer": [
+          {
+            "affiliation": ""
+          }
+        ],
+        "prodPlac": "Portail Épidémiologie France"
+      }
+    }
+  },
+  "additional": {
+    "prodPlac": "Portail Épidémiologie France",
+    "creationDate": "07-12-2012",
+    "lastUpdatedManual": "11-09-2017",
+    "theme": {},
+    "governance": {
+      "committee": true
+    },
+    "collaborations": {},
+    "mockSample": {},
+    "dataQuality": {},
+    "variableDictionnary": {},
+    "dataTypes": {
+      "clinicalDataDetails": [
+        {
+          "lang": "fr",
+          "value": "Données socio-démographiques, morbidité, mortalité"
+        },
+        {
+          "lang": "en",
+          "value": "Sociodemographic data, morbidity, mortality"
+        }
+      ],
+      "biologicalDataDetails": [
+        {
+          "lang": "fr",
+          "value": "Bactériologie (hémoculture, voie veineuse centrale)"
+        },
+        {
+          "lang": "en",
+          "value": "Bacteriology (blood culture, central venous catheter)"
+        }
+      ],
+      "isDataInBiobank": false
+    },
+    "collectionProcess": {
+      "collectionModeDetails": [
+        {
+          "lang": "fr",
+          "value": "Chaque centre est responsable de l'organisation du recueil des données le concernant. Les données sont saisies sur logiciel Epi-Info par les assistants de recherche clinique (ARC). Les données sont regroupées en trois catégories : données concernant les nouveau-nés (âge gestationnel, poids à la naissance...), données concernant les cathéters veineux centraux (dates de pose et retrait, localisation, utilisation pour nutrition parentérale...) et données concernant les infections (date, germes, résistance...). Un médecin hospitalier référent dans chaque centre vérifie que toutes les données ont été renseignées et complète les fichiers au besoin avec les assistants de recherche clinique (ARC). Suite à la saisie, un contrôle de qualité des données est effectué dans chaque centre et suivi de corrections au besoin. Une extraction des données pour l'analyse globale est réalisée chaque année. Des extractions par centre sont aussi réalisées pour un suivi mensuel simplifié."
+        },
+        {
+          "lang": "en",
+          "value": "Each centre is responsible for organising the collection of its own data. The data are entered into the Epi-Info software program by the clinical research assistants (CRAs). The data are grouped into three categories: data regarding newborns (gestational age, birth weight, etc.), data regarding central venous catheters (dates of placement and removal, location, use for parenteral nutrition, etc.) and data regarding infections (date, microbes, resistance, etc.). One hospital physician who is the point of contact at each centre verifies that all of the data have been entered and the files have been completed as needed with the clinical research assistants (CRAs). Following data entry, data quality control is performed at each centre and follow-up corrections are made as needed. Data extraction for overall analysis is performed every year. Extractions by centre are also performed for simplified monthly monitoring."
+        }
+      ]
+    },
+    "geographicalCoverage": {
+      "geoDetail": [
+        {
+          "lang": "fr",
+          "value": "Depuis 2007 dans 2 réanimations néonatales des Hospices Civils de Lyon et élargie à la région Rhône-Alpes depuis 2011. Au total 11 centres participent actuellement à la cohorte."
+        },
+        {
+          "lang": "en",
+          "value": "Since 2007 in 2 neonatal intensive care units of Hospices Civils de Lyon and expanded to the Rhône-Alpes region since 2011. 11 centres total currently participating in the cohort."
+        }
+      ]
+    },
+    "activeFollowUp": {
+      "isActiveFollowUp": true
+    },
+    "dataCollectionIntegration": {
+      "isDataIntegration": false
+    },
+    "isHealthTheme": true
+  },
+  "schematype": "survey"
+}

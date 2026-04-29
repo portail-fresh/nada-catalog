@@ -1,0 +1,690 @@
+{
+  "stdyDscr": {
+    "citation": {
+      "titlStmt": {
+        "IDNo": [
+          {
+            "agency": "PEF",
+            "value": "74138"
+          },
+          {
+            "agency": "FReSH",
+            "value": "FRESH-PEF74138"
+          }
+        ],
+        "titl": [
+          {
+            "lang": "fr",
+            "value": "Etude rétrospective française décrivant l'épidémiologie et la prise en charge thérapeutique des patientes traitées par Herceptin® en néoadjuvant pour un cancer du sein précoce HER2-positif"
+          },
+          {
+            "lang": "en",
+            "value": "A French retrospective study describing the epidemiology and the therapeutic management of patients treated by Herceptin® based neoadjuvant treatment for HER2-positive early breast cancer."
+          }
+        ],
+        "altTitl": [
+          {
+            "lang": "fr",
+            "value": "KADOR"
+          },
+          {
+            "lang": "en",
+            "value": "KADOR"
+          }
+        ]
+      },
+      "rspStmt": {
+        "othId": []
+      },
+      "distStmt": {
+        "contact": [
+          {
+            "name": ";Medical data center",
+            "email": "data_sharing.france@roche.com",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "F. HOFFMANN-LA ROCHE AG"
+              },
+              {
+                "lang": "en",
+                "value": "F. HOFFMANN-LA ROCHE AG"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/01mqmer16",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "775752140",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          }
+        ]
+      },
+      "prodStmt": {
+        "fundAg": [
+          {
+            "name": [
+              {
+                "lang": "fr"
+              },
+              {
+                "lang": "en"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Autre"
+              },
+              {
+                "lang": "en",
+                "value": "Other"
+              }
+            ]
+          }
+        ],
+        "producer": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "F. HOFFMANN-LA ROCHE AG"
+              },
+              {
+                "lang": "en",
+                "value": "F. HOFFMANN-LA ROCHE AG"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Industrie"
+              },
+              {
+                "lang": "en",
+                "value": "Industry"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "775752140"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "studyAuthorization": {
+      "authorizingAgency": {
+        "lang": "fr",
+        "value": "Autre"
+      }
+    },
+    "method": {
+      "notes": [
+        {
+          "subject": "research type",
+          "lang": "fr",
+          "value": "Etude observationnelle"
+        },
+        {
+          "subject": "research type",
+          "lang": "en",
+          "value": "Observational Study"
+        },
+        {
+          "lang": "fr",
+          "subject": "observational study method",
+          "value": "Cohorte"
+        },
+        {
+          "lang": "en",
+          "subject": "observational study method",
+          "value": "Cohort study"
+        }
+      ],
+      "stdyClas": [
+        {
+          "lang": "fr",
+          "value": "Inconnu"
+        },
+        {
+          "lang": "en",
+          "value": "Unknown"
+        }
+      ],
+      "dataColl": {
+        "targetSampleSize": [
+          {
+            "lang": "fr",
+            "value": "< 500 individus"
+          },
+          {
+            "lang": "en",
+            "value": "< 500 individuals"
+          }
+        ],
+        "sampleFrame": {
+          "frameUnit": {
+            "unitType": [
+              {
+                "lang": "fr",
+                "value": "Via des structures (services ou établissements de santé, écoles, entreprises…)"
+              },
+              {
+                "lang": "en",
+                "value": "Through organizations (health services or institutions, schools, businesses, etc.)"
+              }
+            ]
+          }
+        },
+        "sources": [
+          {}
+        ],
+        "collMode": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Transcription",
+              "vocab": "CESSDA"
+            },
+            "value": "Transcription et saisie d’informations dans un enregistrement structuré"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Transcription",
+              "vocab": "CESSDA"
+            },
+            "value": "Converting or copying information into a structured record"
+          }
+        ],
+        "sampProc": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ],
+        "respRate": [
+          {
+            "lang": "fr",
+            "value": "301"
+          },
+          {
+            "lang": "en",
+            "value": "301"
+          }
+        ]
+      }
+    },
+    "stdyInfo": {
+      "abstract": [
+        {
+          "contentType": "purpose",
+          "lang": "fr",
+          "value": "Objectif principal : Décrire la prise en charge thérapeutique des patientes adultes atteintes d'un cancer du sein précoce HER2-positif ayant reçu un traitement adjuvant après une thérapie néoadjuvante à base d'Herceptin® et une chirurgie mammaire. Objectifs secondaires : Les 2 principaux objectifs secondaires sont : 1. Décrire les caractéristiques cliniques des patientes incluses dans la cohorte, globalement et par statut de réponse pathologique ; 2. Mesurer la survie sans maladie invasive (IDFS) et la survie globale (OS), en fonction du statut de réponse pathologique. Autres objectifs : 3. Caractériser les résultats de l'échec du traitement adjuvant, y compris le décès, la progression de la maladie et les rechutes ; 4. Décrire l'utilisation des ressources de soins de santé par les patientes ciblées ; 5. Estimer le nombre de patientes atteintes d'un cancer du sein précoce HER2-positif ayant subi une chirurgie mammaire après un traitement néoadjuvant à base d'Herceptin® en France sur une période d'un an (grâce à la constitution d'un registre de ces patientes), ainsi que le nombre de patientes atteintes d'un cancer du sein précoce HER2-positif n'ayant pas obtenu une réponse pathologique complète (pCR)."
+        },
+        {
+          "contentType": "purpose",
+          "lang": "en",
+          "value": "Primary objective: To describe therapeutic management of HER2-positive early breast cancer adults’ patients who have received an adjuvant treatment following Herceptin® based neoadjuvant therapy and breast surgery. Secondary objectives: The 2 key secondary objectives are: 1. To describe the clinical characteristics of the patients included in the cohort, overall and per pathological response status; 2. To measure the invasive disease-free survival (IDFS) and overall survival (OS), according to pathologic response status. Other objectives: 3. To characterize adjuvant treatment failure outcomes including death, disease progression, and relapses; 4. To describe health care resources utilization by the targeted patients; 5. To estimate the number of HER2-positive early breast cancer patients who underwent breast surgery following Herceptin® based neoadjuvant treatment in France over a year (through the constitution of a registry of these patients) and number of HER2 positive early breast cancer patients with non pCR."
+        }
+      ],
+      "subject": {
+        "topcClas": [
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/5784b7f1-c7ce-49d9-9f38-aebcda0ff41d"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D008495"
+              }
+            ],
+            "value": "Oncologie"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/5784b7f1-c7ce-49d9-9f38-aebcda0ff41d"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D008495"
+              }
+            ],
+            "value": "Oncology"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "fr",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/1264360394",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Carcinome in situ du sein"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "en",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/1264360394",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Carcinoma in situ of breast"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants liés au système de santé : Consommation des soins"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants liés au système de santé"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Healthcare system determinants: Use of care"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Healthcare system determinants"
+          }
+        ],
+        "keyword": [
+          {
+            "lang": "fr",
+            "value": "Herceptin"
+          },
+          {
+            "lang": "en",
+            "value": "Herceptin"
+          }
+        ]
+      },
+      "qualityStatement": {
+        "standardsCompliance": {
+          "standard": {
+            "standardName": [
+              {
+                "lang": "fr",
+                "value": "CDISC"
+              },
+              {
+                "lang": "en",
+                "value": "CDISC"
+              }
+            ]
+          }
+        },
+        "otherQualityStatement": [
+          {
+            "lang": "fr",
+            "value": "Bonnes pratiques cliniques/Bonnes Pratiques de Pharmacovigilance (GCP/GVP)"
+          },
+          {
+            "lang": "en",
+            "value": "GCP/GVP"
+          }
+        ]
+      },
+      "sumDscr": {
+        "dataKind": [
+          {
+            "lang": "fr",
+            "value": "Données cliniques"
+          },
+          {
+            "lang": "en",
+            "value": "Clinical data"
+          }
+        ],
+        "anlyUnit": [
+          {
+            "lang": "fr",
+            "value": "Individus"
+          },
+          {
+            "lang": "en",
+            "value": "Individuals"
+          }
+        ],
+        "nation": [
+          {
+            "lang": "fr",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          },
+          {
+            "lang": "en",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          }
+        ],
+        "universe": [
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Féminin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Female"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Adulte (19 à 24 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adulte (25 à 44 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Adulte (45 à 64 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Personne âgée (65 à 79 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000369"
+            },
+            "value": "Grand âge (80 ans et plus)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Young Adult (19 to 24 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adult (25 to 44 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Middle Aged (45 to 64 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Aged (65 to 79 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000369"
+            },
+            "value": "Aged, 80 and over (80 years and more)"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Patients"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "en",
+            "value": "Patients population"
+          },
+          {
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Critères d'inclusion : - Diagnostic confirmé de cancer du sein précoce HER2-positif ; - Traitement néoadjuvant à base d'Herceptin® initié en 2014 (période d'inclusion) suivi d'une chirurgie mammaire ; - Une visite chez l'un des oncologues participant à l'étude au cours de la période d'inclusion d'un an.  "
+          },
+          {
+            "clusion": "I",
+            "lang": "en",
+            "value": "Inclusion criteria:   - A confirmed diagnosis of HER2-positive early breast cancer;  - Initiated Herceptin® based neoadjuvant treatment during 2014 (inclusion period)  followed by a breast surgery;  - A visit to any of the oncologist participating in the study during the 1-year inclusion period.  "
+          },
+          {
+            "clusion": "E",
+            "lang": "fr",
+            "value": "Les patientes atteintes d'un cancer du sein bilatéral, ou participant à un essai clinique de traitement néoadjuvant ou adjuvant, ou déjà incluses dans le registre d'un autre site participant à l'étude, ou ayant exprimé un désaccord sur l'utilisation de leurs données médicales seront exclues du registre du site."
+          },
+          {
+            "clusion": "E",
+            "lang": "en",
+            "value": "Patients with bilateral breast cancer, or participating in a clinical trial for neoadjuvant or adjuvant treatment, or already included in the registry of another participating site of the study, or who expressed disagreement on the use of their medical data will be  excluded from the site’s registry."
+          }
+        ],
+        "collDate": [
+          {
+            "event": "start",
+            "value": "2014-01-01"
+          },
+          {
+            "event": "end",
+            "value": "2018-01-01"
+          }
+        ]
+      }
+    },
+    "dataAccs": {
+      "setAvail": {
+        "avlStatus": [
+          {
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Accès réservé"
+          },
+          {
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Restricted access"
+          }
+        ],
+        "conditions": []
+      },
+      "useStmt": {}
+    },
+    "othStdMat": {
+      "relMat": [
+        {
+          "lang": "fr",
+          "value": "Accès restreint sur projet spécifique"
+        },
+        {
+          "lang": "en",
+          "value": "Access on specific project only"
+        }
+      ]
+    },
+    "studyDevelopment": {
+      "developmentActivity": [
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Consommation de soins/services de santé"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health care consumption and services"
+        }
+      ]
+    }
+  },
+  "docDscr": {
+    "citation": {
+      "rspStmt": {
+        "AuthEnty": "Camille BACHOT"
+      },
+      "prodStmt": {
+        "producer": [
+          {
+            "affiliation": "F. HOFFMANN-LA ROCHE AG",
+            "value": "Camille;BACHOT"
+          }
+        ],
+        "prodPlac": "Portail Épidémiologie France"
+      }
+    }
+  },
+  "additional": {
+    "prodPlac": "Portail Épidémiologie France",
+    "creationDate": "23-06-2022",
+    "lastUpdatedManual": "07-07-2025",
+    "theme": {},
+    "governance": {
+      "committee": true
+    },
+    "collaborations": {},
+    "mockSample": {},
+    "dataQuality": {},
+    "variableDictionnary": {},
+    "dataTypes": {
+      "clinicalDataDetails": [
+        {
+          "lang": "fr",
+          "value": "Stratégie de traitement néoadjuvant et traitements non médicamenteux (chirurgie et radiothérapie) - Stratégie de traitement adjuvant et modification - Variables des critères d'inclusion, caractéristiques démographiques, anthropométriques, cliniques et cancéreuses - Poids, comorbidités d'intérêt au moment de l'initiation du traitement adjuvant - Date de la dernière visite du patient au cours de la période de suivi, progression de la maladie et raison de la fin prématurée de l'observation ou du suivi - utilisation des ressources de soins de santé - date de début et de fin de l'inclusion du patient dans le registre - date d'inclusion du premier patient inclus et du dernier patient inclus dans le registre - nombre de consultations dans le site au cours de l'année d'inclusion - traitement adjuvant par trastuzumab (oui/non) - type de chirurgie et statut de la réponse anatomopathologique."
+        },
+        {
+          "lang": "en",
+          "value": "Neoadjuvant treatment strategy and non-drugs treatments (surgery and radiotherapy) - Adjuvant treatment strategy and modification - Inclusion criteria variables, demographic, anthropometric, clinical and cancer characteristics - Weight, comorbidities of interest at the time of adjuvant treatment initiation - Date of last visit of the patient during the follow-up period, disease progression and reason for earlier end of observation or follow-up - Health care resources utilizations - Start and end date of patient inclusion in the registry - Date of inclusion of the first patient included and the last patient included in the registry - Number of consultations at the site during the inclusion year - Adjuvant treatment with trastuzumab (yes/No) - Type of surgery and pathologic response status."
+        }
+      ],
+      "isDataInBiobank": false
+    },
+    "collectionProcess": {
+      "collectionModeDetails": [
+        {
+          "lang": "fr",
+          "value": "eCRF"
+        },
+        {
+          "lang": "en",
+          "value": "eCRF"
+        }
+      ]
+    },
+    "geographicalCoverage": {},
+    "activeFollowUp": {
+      "isActiveFollowUp": true
+    },
+    "dataCollectionIntegration": {
+      "isDataIntegration": false
+    },
+    "isHealthTheme": true
+  },
+  "schematype": "survey"
+}

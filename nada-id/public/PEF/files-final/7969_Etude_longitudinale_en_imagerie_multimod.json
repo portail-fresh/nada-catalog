@@ -1,0 +1,990 @@
+{
+  "stdyDscr": {
+    "citation": {
+      "titlStmt": {
+        "IDNo": [
+          {
+            "agency": "PEF",
+            "value": "7969"
+          },
+          {
+            "agency": "FReSH",
+            "value": "FRESH-PEF7969"
+          }
+        ],
+        "titl": [
+          {
+            "lang": "fr",
+            "value": "Etude longitudinale en imagerie multimodale de la maladie d'Alzheimer à un stade précoce: biomarqueurs de détection et de progression et mécanismes physiopathologiques"
+          },
+          {
+            "lang": "en",
+            "value": "Longitudinal Study on Multimodal Imaging for Early-Stage Alzheimer's Disease: Biomarkers for Detection and Progression and Physiopathological Mechanisms"
+          }
+        ],
+        "altTitl": [
+          {
+            "lang": "fr",
+            "value": "IMAP+"
+          },
+          {
+            "lang": "en",
+            "value": "IMAP+"
+          }
+        ]
+      },
+      "rspStmt": {
+        "AuthEnty": [
+          {
+            "name": "Gaël;CHETELAT",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "GIP CYCERON"
+              },
+              {
+                "lang": "en",
+                "value": "GIP CYCERON"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "0000-0002-4889-7932",
+                "role": "pi id",
+                "title": "ORCID"
+              },
+              {
+                "uri": "068674961",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "180089187",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ],
+            "isContact": true,
+            "email": "chetelat@cyceron.fr",
+            "PILabo": ""
+          }
+        ],
+        "othId": {
+          "type": "collaboration",
+          "affiliation": {
+            "lang": "fr",
+            "value": "National collaborations • IMAP – IMAP+ projects: L Barré (Centre Cyceron, Caen ; TEP tracers), D Vivien & Carine Ali (Centre Cyceron, Caen ; tPA dosage); D Guilloteau (Tours; molecular neuroimaging); F Pasquier (Lille, recruiting center), D Hannequin (Rouen, genetic mutation) • Connectivity project (funded by Fondation Plan Alzheimer): Marc Dhenain (MIRCen UMR9199, Paris) • Meditageing European H2020 project: A Lutz (Inserm, Lyon, France) & P Krolak Salmon (Hospices Civils de Lyon, France) European collaborations • Meditageing European H2020 project: F Colette & E Salmon (University of Liege, Belgium), N Marchant (University College London, UK), F Jessen (University of Cologne, Germany), O Klimecki, P Vuilleumier and P Sanders (The University of Geneva, Switzerland), Jose-Luis Molinuevo (Hospital Clínic/IDIBAPS, Spain). • DTI and hippocampal subfields in Alzheimer’s disease. Andreas Fellgiebel (Department of Psychiatry and Psychotherapy, Johannes Gutenberg-University of Mainz, Germany)  has led to 1 publication • Collaborative research project on connectivity: E Salmon (Belgium) & I Yakushev (Germany) & A Fellgiebel  has led to 4 publications • EMIF-AD: a large shared database for biomarkers in AD International collaborations • William Jagust, Jagust Lab (UC Berkeley Helen Wills Neuroscience Institute, UC Berkeley School of Public Health, the Lawrence Berkeley National Laboratory, USA): twinned lab and collaborative project on Lifestyle. My team has built a collaboration over a number of years with the Jagust Lab in Berkeley. This has started by sharing of personnel, and has progressively grown into a series of regular intercontinental “virtual laboratory meetings”. Approximately once every 2 months, the two labs have a joint lab meeting using Skype to videoconference, with presentations from scientists at each lab. Over time this has supported the development of similar interests and the desire to pursue a research program jointly. Based on previous work by both groups, we have decided that we can productively collaborate in the investigation of lifestyle effects on the brain, and therefore we applied to the France Berkeley Fund, which we were granted for, for a joint project on lifestyle. • Amyloid and tau imaging: Victor Villemagne & Christopher Rowe (Department of Nuclear medicine and Centre for PET/ University of Melbourne/ Austin health, Victoria, Australia)  has led to 15 publications • Collaborative international project on Alzheimer disease patients with an amyloid-negative PET scan leaded by G Chételat: Gil Rabinovici (UCLA San Francisco, US), Victor Villemagne (Melbourne, Australia) and Philip Scheltens (Amsterdam)  has led to 1 publication in Brain (Chételat et al., in press). • The Amyloid PET Study Group (e.g. Ossenkoppele et al.; JAMA Neurol, 2015) National and international networks • SCD (Subjective Cognitive Decline) international initiative  has led to 2 publications in Alzheimers Dement and J Alzheimers Dis. • HS3 (Hippocampal subfield international collaborative project)  has led to 1 publication in Neuroimage. • EANM (European Association of Nuclear Medicine)  has led to 1 publication in Eur J Nucl Med Mol Imaging. • Neuroimaging Professional Interest Area (NIPIA) of the Alzheimer’s Association’s International Society to Advance Alzheimer Research and Treatment (ISTAART)  has led to 1 publication in Neurology. • The Amyloid PET Study Group  has led to 2 publications in JAMA. • CATI Consortium (Centre d'Acquisition et de Traitement d'Images pour la maladie d'Alzheimer)  has led to 1 publication in Neuroinformatics. • “Reserve, Resilience and Protective Factors” Professional Interest Area of the Alzheimer’s Association’s International Society to Advance Alzheimer Research and Treatment (ISTAART)"
+          }
+        }
+      },
+      "distStmt": {
+        "contact": [
+          {
+            "name": "Gaël;CHETELAT",
+            "email": "chetelat@cyceron.fr",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "GIP CYCERON"
+              },
+              {
+                "lang": "en",
+                "value": "GIP CYCERON"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "180089187",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          }
+        ]
+      },
+      "prodStmt": {
+        "fundAg": [
+          {
+            "name": [
+              {
+                "lang": "fr"
+              },
+              {
+                "lang": "en"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ]
+          }
+        ],
+        "producer": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "CENTRE HOSPITALIER UNIVERSITAIRE DE CAEN NORMANDIE (CHU)"
+              },
+              {
+                "lang": "en",
+                "value": "CENTRE HOSPITALIER UNIVERSITAIRE DE CAEN NORMANDIE (CHU)"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "ROR",
+                "uri": "https://ror.org/027arzy69"
+              },
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "261400931"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "studyAuthorization": [
+      {
+        "authorizingAgency": {
+          "lang": "fr",
+          "value": "CNIL"
+        }
+      },
+      {
+        "authorizingAgency": {
+          "lang": "fr",
+          "value": "CPP"
+        }
+      }
+    ],
+    "method": {
+      "notes": [
+        {
+          "subject": "research type",
+          "lang": "fr",
+          "value": "Etude observationnelle"
+        },
+        {
+          "subject": "research type",
+          "lang": "en",
+          "value": "Observational Study"
+        }
+      ],
+      "stdyClas": [
+        {
+          "lang": "fr",
+          "value": "Inconnu"
+        },
+        {
+          "lang": "en",
+          "value": "Unknown"
+        }
+      ],
+      "dataColl": {
+        "targetSampleSize": [
+          {
+            "lang": "fr",
+            "value": "< 500 individus"
+          },
+          {
+            "lang": "en",
+            "value": "< 500 individuals"
+          }
+        ],
+        "sampleFrame": {
+          "frameUnit": {
+            "unitType": [
+              {
+                "lang": "fr",
+                "value": "Via des structures (services ou établissements de santé, écoles, entreprises…) Base de population à finalité statistique"
+              },
+              {
+                "lang": "en",
+                "value": "Through organizations (health services or institutions, schools, businesses, etc.) Population database for statistical purposes"
+              }
+            ]
+          }
+        },
+        "sources": [
+          {}
+        ],
+        "collMode": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Recording",
+              "vocab": "CESSDA"
+            },
+            "value": "Enregistrement (audio, vidéo, électrophysiologique, imagerie)"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Recording",
+              "vocab": "CESSDA"
+            },
+            "value": "Recording (audio, video, electrophysiological, imaging)"
+          }
+        ],
+        "sampProc": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ],
+        "respRate": [
+          {
+            "lang": "fr",
+            "value": "280"
+          },
+          {
+            "lang": "en",
+            "value": "280"
+          }
+        ]
+      }
+    },
+    "stdyInfo": {
+      "abstract": [
+        {
+          "contentType": "purpose",
+          "lang": "fr",
+          "value": "Objectif général: Étudier et comparer l'efficacité de différents marqueurs in vivo pour prédire le déclin cognitif chez des populations à risque de développer la maladie d'Alzheimer au moyen de mesures de neuroimagerie, de neuropsychologie et de biologie. Objectifs secondaires : Étudier i) Les profils d'altération des sujets NORMA et des patients SCI, MCI, MA et SAND par rapport aux sujets sains du même âge; ii) Les profils d'altération des porteurs de l'allèle E4 de l'apolipoprotéine E (ApoE4) par rapport aux non porteurs; iii) Les modifications cérébrales et cognitives au cours du vieillissement normal ; iv) L'évolution et la dynamique de ces différents biomarqueurs au cours du suivi. Étudier les liens entre les différents profils d'altération (comparaisons et corrélations intra-modalité), ainsi que les différences inter-groupes des profils d'évolution"
+        },
+        {
+          "contentType": "purpose",
+          "lang": "en",
+          "value": "General objective: To study and compare the effectiveness of different in vivo markers to predict cognitive decline in patients at risk of developing Alzheimer's disease through neuroimaging, neuropsychology and biology measures. Secondary objectives: To study: i) Deterioration in NORMA subjects, as well as SCI, MCI, AD and SAND patients compared with healthy subjects of the same age; ii) Deterioration in E4 allele and apolipoprotein E (ApoE) carriers compared to non-carriers; iii) Cerebral and cognitive changes during normal ageing; iv) Progress and dynamics of different biomarkers during follow-up. To study the links between different deterioration profiles (intra-modality comparison and correlation), as well as differences in inter-group progression profiles."
+        }
+      ],
+      "subject": {
+        "topcClas": [
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/c4793dfe-e80e-49dd-9fcc-a1a742de1b25"
+              },
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/00a5c4f4-b7ee-41a4-bcdf-3a02e6be1660"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D009462"
+              }
+            ],
+            "value": "Neurologie"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/3de50dee-da1c-4791-a386-56bca24a5fed"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D011570"
+              }
+            ],
+            "value": "Psychiatrie"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/c4793dfe-e80e-49dd-9fcc-a1a742de1b25"
+              },
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/00a5c4f4-b7ee-41a4-bcdf-3a02e6be1660"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D009462"
+              }
+            ],
+            "value": "Neurology"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/3de50dee-da1c-4791-a386-56bca24a5fed"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D011570"
+              }
+            ],
+            "value": "Psychiatry"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "fr",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/1611724421",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Maladie d'Alzheimer"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "en",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/1611724421",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Alzheimer disease"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants biologiques : Prédispositions génétiques"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants comportementaux"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants biologiques"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Biological determinants: Genetic predisposition"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Behavioral determinants"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Biological determinants"
+          }
+        ],
+        "keyword": [
+          {
+            "lang": "fr",
+            "value": "Génétique"
+          },
+          {
+            "lang": "fr",
+            "value": "maladie d'Alzheimer"
+          },
+          {
+            "lang": "fr",
+            "value": "diagnostic précoce"
+          },
+          {
+            "lang": "fr",
+            "value": "vieillissement normal"
+          },
+          {
+            "lang": "fr",
+            "value": "activation cérébrale"
+          },
+          {
+            "lang": "fr",
+            "value": "TEP"
+          },
+          {
+            "lang": "fr",
+            "value": "IRM"
+          },
+          {
+            "lang": "fr",
+            "value": "IRMf"
+          },
+          {
+            "lang": "fr",
+            "value": "neuro-anatomie"
+          },
+          {
+            "lang": "fr",
+            "value": "biomarqueurs"
+          },
+          {
+            "lang": "fr",
+            "value": "imagerie moléculaire"
+          },
+          {
+            "lang": "fr",
+            "value": "AV45"
+          },
+          {
+            "lang": "fr",
+            "value": "TEP-FDG"
+          },
+          {
+            "lang": "fr",
+            "value": "actimétrie"
+          },
+          {
+            "lang": "fr",
+            "value": "polysomnographie"
+          },
+          {
+            "lang": "fr",
+            "value": "style de vie"
+          },
+          {
+            "lang": "fr",
+            "value": "sommeil"
+          },
+          {
+            "lang": "fr",
+            "value": "qualité de vie"
+          },
+          {
+            "lang": "fr",
+            "value": "neuropsychologie"
+          },
+          {
+            "lang": "en",
+            "value": "Genetics"
+          },
+          {
+            "lang": "en",
+            "value": "early diagnosis"
+          },
+          {
+            "lang": "en",
+            "value": "normal ageing"
+          },
+          {
+            "lang": "en",
+            "value": "neuroimaging"
+          },
+          {
+            "lang": "en",
+            "value": "PET"
+          },
+          {
+            "lang": "en",
+            "value": "MRI"
+          },
+          {
+            "lang": "en",
+            "value": "fMRI"
+          },
+          {
+            "lang": "en",
+            "value": "neuroanatomy"
+          },
+          {
+            "lang": "en",
+            "value": "molecular imaging"
+          },
+          {
+            "lang": "en",
+            "value": "FDG-PET"
+          },
+          {
+            "lang": "en",
+            "value": "Alzheimer's disease"
+          },
+          {
+            "lang": "en",
+            "value": "biomarkers"
+          },
+          {
+            "lang": "en",
+            "value": "AV45"
+          }
+        ]
+      },
+      "qualityStatement": {
+        "standardsCompliance": {
+          "standard": {
+            "standardName": [
+              {
+                "lang": "fr",
+                "value": "NINCDS-ADRDA et DSM IV"
+              },
+              {
+                "lang": "en",
+                "value": "NINCDS-ADRDA and DSM IV"
+              }
+            ]
+          }
+        },
+        "otherQualityStatement": [
+          {
+            "lang": "fr",
+            "value": "Une commission de diagnostique est organisée mensuellement afin de faire un point, au cas par cas, sur les résultats neuropsychologiques des sujets/patients, ainsi que leur catégorie d'inclusion. La qualité des données est évaluée lors de réunion multimodalités. Lors de cette réunion mensuelle, les résultats du contrôle qualité de l'ensemble des données (neuroimagerie, neuropsychologie et sommeil) sont rapportés.Un Attaché de Recherche Clinique mandaté par le CHU, assure le monitoring de cet essai, afin de garantir le recueil de données exactes, complètes et fiables, ainsi qu'une aide logistique aux centre investigateurs."
+          },
+          {
+            "lang": "en",
+            "value": "A diagnostic commission is organised on a monthly basis to report subject/patient neuropsychological results, as well as their enrolment category, on a case-by-case basis. A multimodal meeting is organised on a monthly basis to report quality control results for imaging data. This trial is monitored by a person appointed by the CHU to ensure that exact, complete and reliable data is collected and to provide logistical support to research centres."
+          }
+        ]
+      },
+      "sumDscr": {
+        "dataKind": [
+          {
+            "lang": "fr",
+            "value": "Données cliniques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données rapportées par le participant de l&#x27;étude"
+          },
+          {
+            "lang": "fr",
+            "value": "Données paracliniques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données biologiques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données socio-démographiques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données paracliniques (hors biologiques) : Imagerie"
+          },
+          {
+            "lang": "en",
+            "value": "Clinical data"
+          },
+          {
+            "lang": "en",
+            "value": "Participant-reported health data"
+          },
+          {
+            "lang": "en",
+            "value": "Biological data"
+          },
+          {
+            "lang": "en",
+            "value": "Socio-demographic data"
+          },
+          {
+            "lang": "en",
+            "value": "Paraclinical data (non-biological) : Imaging"
+          }
+        ],
+        "anlyUnit": [
+          {
+            "lang": "fr",
+            "value": "Individus"
+          },
+          {
+            "lang": "en",
+            "value": "Individuals"
+          }
+        ],
+        "nation": [
+          {
+            "lang": "fr",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          },
+          {
+            "lang": "en",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          }
+        ],
+        "universe": [
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Masculin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Féminin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Male"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Female"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Adulte (19 à 24 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adulte (25 à 44 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Adulte (45 à 64 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Personne âgée (65 à 79 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000369"
+            },
+            "value": "Grand âge (80 ans et plus)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Young Adult (19 to 24 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adult (25 to 44 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Middle Aged (45 to 64 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Aged (65 to 79 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000369"
+            },
+            "value": "Aged, 80 and over (80 years and more)"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Patients"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "en",
+            "value": "Patients population"
+          },
+          {
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Niveau d’étude supérieur ou égal à 7 ans, langue maternelle français, signature du consentement éclairé, examens médical, neurologique, neuroradiologique et batterie neuropsychologique diagnostique.  Sujets contrôles : performances normales selon l'âge et le niveau d'éducation à tous les tests de la batterie diagnostique. Intermédiaire (40-59 ans) : sans plainte mnésique. Âgés (+60ans) : vie à domicile, autonome, sans plainte mnésique.  NORMA (+18ans) apparentés à un malade identifié, porteurs d’un des gènes mutés associés à la forme familiale à début précoce de la MA, avec performances normales selon l’âge et le niveau d’éducation à tous les tests de la batterie diagnostique.   Patients des centres de consultation mémoire:  SCI (+50ans) avec plainte mnésique, performances dans les normes pour l’âge et le niveau d’éducation à tous les tests de la batterie diagnostique.  MCI répondant aux critères actuels de MCI amnésique avec plainte mnésique, déficits objectifs de la mémoire épisodique, performances dans les autres fonctions cognitives que la mémoire pouvant être déficitaires, indépendants dans la vie quotidienne, absence de syndrome démentiel selon les critères du DSM-IV et absence de MA probable selon les critères du NINCDS-ADRDA.  Patients Alzheimer répondant aux critères standards du NINCDS-ADRDA de MA probable avec fonctionnement cognitif global anormal et déficits dans au moins 2 domaines cognitifs mis en évidence par la batterie diagnostique, dans un stade léger à modéré de MA et signature du consentement éclairé du protocole par son accompagnant.  SAND : services de neurologie des CHU - trouble massif de la mémoire épisodique, pouvant être associé à un déficit objectif des fonctions exécutives et des performances dans les normes pour l’âge et le niveau d’éducation à tous les tests de la batterie diagnostique mesurant les fonctions instrumentales."
+          },
+          {
+            "clusion": "I",
+            "lang": "en",
+            "value": "Education level equal to 7 years or higher, native language is French, signed informed consent, medical, neurological and neuroimaging tests, as well as neuropsychological diagnostic test battery.  Control subjects: normal performance according to age and education level in all diagnostic battery tests. Middle-aged (40-59 years old): no memory complaints. Elderly (aged 60+): living at home, independent, no memory complaints.  NORMA (aged 18+) with identified disease, carriers of  mutated gene associated with familial early-onset AD, normal performance according to age and education level in all diagnostic battery tests.  Patients from memory assessment centres:  SCI (aged 50+), no memory complaints, normal performance according to age and education level in all diagnostic battery tests.  MCI meeting current amnestic MCI criteria with memory complaints, objective episodic memory deficits, performances in other cognitive functions where memory loss could occur, standard performance for age and education level in assessments of overall cognitive ability, independent in everyday life, no dementia according to DSM-IV criteria and no probable AD according to NINCDS-ADRDA criteria.  Alzheimer's patients meeting NINCDS-ADRDA criteria for probable AD with abnormal overall cognitive function and deficits in at least 2 cognitive areas identified by diagnostic battery tests; mild- to moderate-stage AD; accompanying party's signed informed consent.   SAND: CHU neurology departments - major episodic memory disorder that may be related to an objective deficit in executive function and standard performance for age and education level in all diagnostic battery tests measuring instrumental function."
+          },
+          {
+            "clusion": "E",
+            "lang": "fr",
+            "value": ""
+          },
+          {
+            "clusion": "E",
+            "lang": "en",
+            "value": ""
+          }
+        ],
+        "collDate": [
+          {
+            "event": "start",
+            "value": "2012-01-01"
+          },
+          {
+            "event": "end",
+            "value": "2019-01-01"
+          }
+        ]
+      }
+    },
+    "dataAccs": {
+      "setAvail": {
+        "avlStatus": [
+          {
+            "lang": "fr",
+            "value": "A définir"
+          },
+          {
+            "lang": "en",
+            "value": "To be defined"
+          }
+        ],
+        "conditions": []
+      },
+      "useStmt": {}
+    },
+    "othStdMat": {
+      "relMat": [
+        {
+          "lang": "fr",
+          "value": "Accès restreint sur projet spécifique"
+        },
+        {
+          "lang": "en",
+          "value": "Access on specific project only"
+        }
+      ]
+    },
+    "studyDevelopment": {
+      "developmentActivity": [
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/morbidité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Qualité de vie/santé perçue"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/morbidity"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Quality of life/health perception"
+        }
+      ]
+    }
+  },
+  "docDscr": {
+    "citation": {
+      "rspStmt": {
+        "AuthEnty": "Gaël CHETELAT"
+      },
+      "prodStmt": {
+        "producer": [
+          {
+            "affiliation": "GIP CYCERON",
+            "value": "Gaël;CHETELAT"
+          }
+        ],
+        "prodPlac": "Portail Épidémiologie France"
+      }
+    }
+  },
+  "additional": {
+    "prodPlac": "Portail Épidémiologie France",
+    "relatedDocuments": {
+      "documentTitle": [
+        {
+          "lang": "fr"
+        },
+        {
+          "lang": "en"
+        }
+      ],
+      "documentLink": [
+        {
+          "lang": "fr",
+          "value": "https://www.ncbi.nlm.nih.gov/pubmed/28764930"
+        },
+        {
+          "lang": "en",
+          "value": "https://www.ncbi.nlm.nih.gov/pubmed/28764930"
+        }
+      ]
+    },
+    "creationDate": "06-02-2014",
+    "lastUpdatedManual": "23-09-2020",
+    "theme": {},
+    "governance": {},
+    "collaborations": {},
+    "mockSample": {},
+    "dataQuality": {},
+    "variableDictionnary": {},
+    "dataTypes": {
+      "clinicalDataDetails": [
+        {
+          "lang": "fr",
+          "value": "Les données cliniques recueillies par l'intermédiaire du dossier clinique ne concernent que les patients SCI, MCI, MA et SAND"
+        },
+        {
+          "lang": "en",
+          "value": "Clinical data collected through clinical records only include SCI, MCI, AD and SAND patients."
+        }
+      ],
+      "biologicalDataDetails": [
+        {
+          "lang": "fr",
+          "value": "Éléments biologiques (sanguins et du LCR):i) dosage sanguin des marqueurs de la fibrinolyse (tPA, ADAMTS-4);ii) dosages sanguins l'AB40 et AB42 et dans le LCR de l'AB40, AB42, de la protéine tau et de sa forme phosphorylée,iii) génotypage du gène de l'ApoE;iv) séquençage du gène potentiellement muté pour les sujets NORMA"
+        },
+        {
+          "lang": "en",
+          "value": "Biological components (blood and CSF): i) blood test for fibrinolysis markers (tPA, ADAMTS-4); ii) AB40 and AB42 blood tests and AB40, AB42 CSF, tau protein and its phosphorylated form, iii) ApoE genotyping; iv) potential mutated gene sequencing in NORMA subjects"
+        }
+      ],
+      "isDataInBiobank": true
+    },
+    "collectionProcess": {
+      "collectionModeDetails": [
+        {
+          "lang": "fr",
+          "value": "Venue des sujets/patients pour 6 examens d'environ 2h + une prise de sang+enregistrement d'actimétrie sur 1 semaine+ 1 nuit de polysomnographie en ambulatoire+une ponction lombaire (facultative). L'ensemble de ces examens est réalisé sur un délai d'environ 1 mois. Les sujets/patients sont pris en charge par une personne référente qui les suit et les accompagne tout au long du protocole."
+        },
+        {
+          "lang": "en",
+          "value": "Subjects/patients attend 6 examinations lasting approx. 2 hours + one blood sample. All examinations are conducted over a period of approx. 1 month. Subjects/patients are treated by a contact person that monitors and supports them throughout the protocol. Collected data are reviewed in a multimodal meeting. Imaging data quality control results are also reported during this meeting. Collected data are reviewed during a diagnostic commission so that subject/patient results, as well as their enrolment category, can be reported on a case-by-case basis."
+        }
+      ]
+    },
+    "geographicalCoverage": {
+      "geoDetail": [
+        {
+          "lang": "fr",
+          "value": "Les 3/4 des patients viennent de la région. Région Nord (centre investigateur de Lille) et région Nord Ouest (centre investigateur de Caen)"
+        },
+        {
+          "lang": "en",
+          "value": "3/4 of patients are from the region."
+        }
+      ]
+    },
+    "activeFollowUp": {
+      "isActiveFollowUp": true
+    },
+    "dataCollectionIntegration": {
+      "isDataIntegration": false
+    },
+    "isHealthTheme": true
+  },
+  "schematype": "survey"
+}

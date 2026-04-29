@@ -1,0 +1,932 @@
+{
+  "stdyDscr": {
+    "citation": {
+      "titlStmt": {
+        "IDNo": [
+          {
+            "agency": "PEF",
+            "value": "230"
+          },
+          {
+            "agency": "FReSH",
+            "value": "FRESH-PEF230"
+          }
+        ],
+        "titl": [
+          {
+            "lang": "fr",
+            "value": "Centre d’Etude des Malformations Congénitales en Auvergne"
+          },
+          {
+            "lang": "en",
+            "value": "Registry of Congenital Malformations in Auvergne (Certified Registry 2012-2015)"
+          }
+        ],
+        "altTitl": [
+          {
+            "lang": "fr",
+            "value": "CEMC-Auvergne"
+          },
+          {
+            "lang": "en",
+            "value": "CEMC-Auvergne"
+          }
+        ]
+      },
+      "rspStmt": {
+        "AuthEnty": [
+          {
+            "name": "Isabelle;PERTHUS",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "CENTR ETUDE MALFORM CONGEN REGION AUVERG (CEMC AUVERGNE)"
+              },
+              {
+                "lang": "en",
+                "value": "CENTR ETUDE MALFORM CONGEN REGION AUVERG (CEMC AUVERGNE)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "0000-0002-3845-6180",
+                "role": "pi id",
+                "title": "ORCID"
+              },
+              {
+                "uri": "095143483",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "419442231",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ],
+            "isContact": true,
+            "email": "iperthus@chu-clermontferrand.fr",
+            "PILabo": "CEMC-Auvergne"
+          }
+        ],
+        "othId": [
+          {
+            "type": "collaboration",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "collaboration avec les 5 autres registres nationaux de malformations congénitales (Antilles, Bretagne, Paris, REMERA, Réunion), liens avec SP France, l'ANSM, le RSPA (réseau de santé périnatale d'Auvergne)"
+              }
+            ]
+          }
+        ]
+      },
+      "distStmt": {
+        "contact": [
+          {
+            "name": "Isabelle;PERTHUS",
+            "email": "iperthus@chu-clermontferrand.fr",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "CENTR ETUDE MALFORM CONGEN REGION AUVERG (CEMC AUVERGNE)"
+              },
+              {
+                "lang": "en",
+                "value": "CENTR ETUDE MALFORM CONGEN REGION AUVERG (CEMC AUVERGNE)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "419442231",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          }
+        ]
+      },
+      "prodStmt": {
+        "fundAg": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE (INSERM)"
+              },
+              {
+                "lang": "en",
+                "value": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE (INSERM)"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "ROR",
+                "uri": "https://ror.org/02vjkv261"
+              },
+              {
+                "title": "SIREN",
+                "uri": "180036048"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "SANTE PUBLIQUE FRANCE"
+              },
+              {
+                "lang": "en",
+                "value": "SANTE PUBLIQUE FRANCE"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "ROR",
+                "uri": "https://ror.org/00dfw9p58"
+              },
+              {
+                "title": "SIREN",
+                "uri": "130022338"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "lang": "fr"
+              },
+              {
+                "lang": "en"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Privé à but non lucratif"
+              },
+              {
+                "lang": "en",
+                "value": "Private non-profit"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "AGENCE REGIONALE DE SANTE"
+              },
+              {
+                "lang": "en",
+                "value": "AGENCE REGIONALE DE SANTE"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "lang": "fr"
+              },
+              {
+                "lang": "en"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ]
+          }
+        ],
+        "producer": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "CENTRE HOSPITALIER UNIVERSITAIRE DE CLERMONT-FERRAND"
+              },
+              {
+                "lang": "en",
+                "value": "CENTRE HOSPITALIER UNIVERSITAIRE DE CLERMONT-FERRAND"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "ROR",
+                "uri": "https://ror.org/02tcf7a68"
+              },
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "266307461"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "studyAuthorization": {
+      "authorizingAgency": {
+        "lang": "fr",
+        "value": "CNIL"
+      }
+    },
+    "method": {
+      "notes": [
+        {
+          "subject": "research type",
+          "lang": "fr",
+          "value": "Etude observationnelle"
+        },
+        {
+          "subject": "research type",
+          "lang": "en",
+          "value": "Observational Study"
+        },
+        {
+          "lang": "fr",
+          "subject": "observational study method",
+          "value": "Registre de morbidité"
+        },
+        {
+          "lang": "en",
+          "subject": "observational study method",
+          "value": "Morbidity registry"
+        }
+      ],
+      "stdyClas": [
+        {
+          "lang": "fr",
+          "value": "Inconnu"
+        },
+        {
+          "lang": "en",
+          "value": "Unknown"
+        }
+      ],
+      "dataColl": {
+        "targetSampleSize": [
+          {
+            "lang": "fr",
+            "value": "[10000-20000[ individus"
+          },
+          {
+            "lang": "en",
+            "value": "[10000-20000[ individuals"
+          }
+        ],
+        "sampleFrame": {
+          "frameUnit": {}
+        },
+        "sources": [
+          {}
+        ],
+        "collMode": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ],
+        "sampProc": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ],
+        "respRate": [
+          {
+            "lang": "fr",
+            "value": "13 000 patients (1983-2017)"
+          },
+          {
+            "lang": "en",
+            "value": "10 145 patients (1983-2011)"
+          }
+        ]
+      }
+    },
+    "stdyInfo": {
+      "abstract": [
+        {
+          "contentType": "purpose",
+          "lang": "fr",
+          "value": "L’objectif premier du registre est d’assurer la surveillance épidémiologique des malformations congénitales en Auvergne, avec un rôle d’alerte face à d’éventuels agents tératogènes environnementaux. Avec le développement des mesures de prévention, notamment dans le domaine du diagnostic prénatal, cette mission de surveillance-alerte a progressivement été complétée par un rôle primordial d’évaluation en population de l’impact des politiques de santé publique dans le domaine de la périnatalité. Le registre participe également à l’amélioration des connaissances dans le champ des malformations en collaborant à des études avec les services cliniques spécialisés (notamment services de génétique et de médecine foetale) et en s’impliquant au sein du Centre Pluridisciplinaire de Diagnostic Prénatal de Clermont- Ferrand (les données du registre contribuent à la réflexion des obstétriciens sur la signification et la conduite à tenir devant telles ou telles malformations observées en diagnostic prénatal). Les données du registre contribuent enfin à l’information des acteurs de la Santé et des pouvoirs publics en ce qui concerne les malformations congénitales et anomalies chromosomiques."
+        },
+        {
+          "contentType": "purpose",
+          "lang": "en",
+          "value": "The registry's primary objective is to conduct epidemiological surveillance of congenital malformations in Auvergne, with a role of sounding the alert when any environmental teratogenic agents become evident. With the development of prevention measures - particularly in the field of prenatal diagnosis - this surveillance-alert mission has gradually been extended to include an essential role in evaluating the impact of public health policies with regards to perinatal care on the population. The registry also helps to improve knowledge in the field of malformations by collaborating on studies with specialist clinical departments (particularly genetic and foetal medicine departments) and by being involved in the Multidisciplinary Center for Prenatal Diagnosis in Clermont- Ferrand (the registry's data provides food for thought from obstetricians on the meaning and action to take when certain malformations are observed during prenatal diagnosis). Lastly, the registry's data informs healthcare stakeholders and the public authorities about congenital malformations and chromosomal abnormalities."
+        }
+      ],
+      "subject": {
+        "topcClas": [
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/bf8aaaac-ddee-41cd-bb8a-c5a63de3fcbd"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D010372"
+              }
+            ],
+            "value": "Pédiatrie"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/bf8aaaac-ddee-41cd-bb8a-c5a63de3fcbd"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D010372"
+              }
+            ],
+            "value": "Paediatrics"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "fr",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/223744320",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Anomalies du développement"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "en",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/223744320",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Developmental anomalies"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants comportementaux : Addictions"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants biologiques : Prédispositions génétiques"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants liés au système de santé : Consommation des soins"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants comportementaux"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants socio-démographiques et économiques : Emploi"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants biologiques"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants liés au système de santé"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants socio-démographiques et économiques"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Behavioral determinants: Addiction"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Biological determinants: Genetic predisposition"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Healthcare system determinants: Use of care"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Behavioral determinants"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Socio-demographic and economic determinants: Employment"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Biological determinants"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Healthcare system determinants"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Socio-demographic and economic determinants"
+          }
+        ],
+        "keyword": [
+          {
+            "lang": "fr",
+            "value": "diagnostic prénatal (type"
+          },
+          {
+            "lang": "fr",
+            "value": "sensibilité)"
+          },
+          {
+            "lang": "fr",
+            "value": "expositions médicamenteuses"
+          },
+          {
+            "lang": "en",
+            "value": "prenatal diagnosis"
+          }
+        ]
+      },
+      "qualityStatement": {
+        "standardsCompliance": {
+          "standard": {
+            "standardName": [
+              {
+                "lang": "fr",
+                "value": "CIM 10, ATC"
+              },
+              {
+                "lang": "en",
+                "value": "ICD 10, ATC."
+              }
+            ]
+          }
+        }
+      },
+      "sumDscr": {
+        "dataKind": [
+          {
+            "lang": "fr",
+            "value": "Données cliniques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données paracliniques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données biologiques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données socio-démographiques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données paracliniques (hors biologiques) : Imagerie"
+          },
+          {
+            "lang": "en",
+            "value": "Clinical data"
+          },
+          {
+            "lang": "en",
+            "value": "Biological data"
+          },
+          {
+            "lang": "en",
+            "value": "Socio-demographic data"
+          },
+          {
+            "lang": "en",
+            "value": "Paraclinical data (non-biological) : Imaging"
+          }
+        ],
+        "anlyUnit": [
+          {
+            "lang": "fr",
+            "value": "Individus"
+          },
+          {
+            "lang": "en",
+            "value": "Individuals"
+          }
+        ],
+        "nation": [
+          {
+            "lang": "fr",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          },
+          {
+            "lang": "en",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          }
+        ],
+        "geogCover": [
+          {
+            "lang": "fr",
+            "value": "Auvergne Rhône-Alpes"
+          },
+          {
+            "lang": "en",
+            "value": "Auvergne Rhône-Alpes"
+          }
+        ],
+        "universe": [
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Masculin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Féminin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Male"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Female"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D007231"
+            },
+            "value": "Nouveau-né (naissance à 28j)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D007223"
+            },
+            "value": "Nourrisson (28j à 2 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D007231"
+            },
+            "value": "Infant, Newborn (birth to 28 days)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D007223"
+            },
+            "value": "Infant (28 days to 2 years)"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Personnes en situation de handicap"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "en",
+            "value": "People with disabilities"
+          },
+          {
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Tous les enfants malformés sont recensés, qu’ils soient nés vivants ou mort-nés après une grossesse de 22 semaines d’aménorrhée (SA) au moins ou que la grossesse ait été interrompue pour malformation foetale quel qu’en soit le terme. Pour les enfants nés vivants, le diagnostic de malformation doit avoir été effectué avant la fin de la première année de vie, les enfants pouvant être enregistrés jusqu’à 12 mois après leur naissance. Tous les types de malformations sont pris en compte, qu’il s’agisse de malformations isolées ou de syndromes polymalformatifs identifiés ou non identifiés, à caryotype normal ou anormal. "
+          },
+          {
+            "clusion": "I",
+            "lang": "en",
+            "value": "All malformed children are listed, whether stillborn or a live birth after a pregnancy of at least 22 weeks of amenorrhoea, or in the event of therapeutic abortion due to foetal malformation, regardless of term. For children who are born alive, the malformation diagnosis must have been made before the end of their first year of life (infants may be recorded up to 12 months after their birth). All types of malformation are included, whether these concern isolated or polymalformative syndromes, whether or not identified, with normal or abnormal karyotype. "
+          },
+          {
+            "clusion": "E",
+            "lang": "fr",
+            "value": "Seules sont exclues les erreurs innées du métabolisme et les malformations mineures ou déformations (les ressauts de hanches sans luxation vraie, les déformations du pied, les petits angiomes ou naevi de surface inférieure à 4 cm2, les hernies inguinales, les hernies ombilicales ne nécessitant pas de chirurgie, les persistances de canal artériel isolés chez les enfants prématurés d’un poids inférieur à 2 500 g, les sténoses hypertrophiques du pylore, les artères ombilicales uniques, les ectopies testiculaires uni-ou bilatérales)."
+          },
+          {
+            "clusion": "E",
+            "lang": "en",
+            "value": "are inborn metabolic errors and minor malformations or deformations (snapping hips without real dislocation, deformed feet, small superficial naevi or angiomas less than 4cm2, inguinal hernia, umbilical hernia not requiring surgery, isolated persistent ductus arteriosus in premature infants weighing less than 2.5kg, hypertrophic pyloric stenosis, single umbilical artery, uni- or bilateral ectopic testis)."
+          }
+        ],
+        "collDate": {
+          "event": "start",
+          "value": "1983-01-01"
+        }
+      }
+    },
+    "dataAccs": {
+      "setAvail": {
+        "avlStatus": [
+          {
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Accès réservé"
+          },
+          {
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Restricted access"
+          }
+        ],
+        "conditions": [
+          {
+            "lang": "fr",
+            "value": "Sur demande auprès du responsable scientifique"
+          },
+          {
+            "lang": "en",
+            "value": "By request to the scientist in charge."
+          }
+        ]
+      },
+      "useStmt": {}
+    },
+    "othStdMat": {
+      "relMat": [
+        {
+          "lang": "fr",
+          "value": "Accès restreint sur projet spécifique"
+        },
+        {
+          "lang": "en",
+          "value": "Access on specific project only"
+        }
+      ]
+    },
+    "studyDevelopment": {
+      "developmentActivity": [
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/morbidité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/mortalité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/morbidity"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/mortality"
+        }
+      ]
+    }
+  },
+  "docDscr": {
+    "citation": {
+      "rspStmt": {
+        "AuthEnty": "Isabelle PERTHUS"
+      },
+      "prodStmt": {
+        "producer": [
+          {
+            "affiliation": "CENTR ETUDE MALFORM CONGEN REGION AUVERG (CEMC AUVERGNE)",
+            "value": "Isabelle;PERTHUS"
+          }
+        ],
+        "prodPlac": "Portail Épidémiologie France"
+      }
+    }
+  },
+  "additional": {
+    "prodPlac": "Portail Épidémiologie France",
+    "relatedDocuments": {
+      "documentTitle": [
+        {
+          "lang": "fr",
+          "value": "Liste des publications dans Pubmed"
+        },
+        {
+          "lang": "en",
+          "value": "Liste des publications dans Pubmed"
+        }
+      ],
+      "documentLink": [
+        {
+          "lang": "fr",
+          "value": "http://tinyurl.com/PUBMED-CEMC"
+        },
+        {
+          "lang": "en",
+          "value": "http://tinyurl.com/PUBMED-CEMC"
+        }
+      ]
+    },
+    "creationDate": "03-01-2011",
+    "lastUpdatedManual": "05-09-2017",
+    "theme": {
+      "RareDiseases": true
+    },
+    "governance": {},
+    "collaborations": {},
+    "mockSample": {},
+    "dataQuality": {},
+    "variableDictionnary": {},
+    "dataTypes": {
+      "biologicalDataDetails": [
+        {
+          "lang": "fr",
+          "value": "examens cytogénétiques, marqueurs sériques maternels"
+        },
+        {
+          "lang": "en",
+          "value": "cytogenetic examinations, maternal serum markers."
+        }
+      ],
+      "isDataInBiobank": false
+    },
+    "collectionProcess": {
+      "collectionModeDetails": [
+        {
+          "lang": "fr",
+          "value": "essentiellement actif +/- passif"
+        },
+        {
+          "lang": "en",
+          "value": "primarily active +/- passive."
+        }
+      ]
+    },
+    "geographicalCoverage": {
+      "geoDetail": [
+        {
+          "lang": "fr",
+          "value": "Auvergne"
+        },
+        {
+          "lang": "en",
+          "value": "Auvergne"
+        }
+      ]
+    },
+    "activeFollowUp": {
+      "isActiveFollowUp": true
+    },
+    "dataCollectionIntegration": {
+      "isDataIntegration": false
+    },
+    "isHealthTheme": true
+  },
+  "schematype": "survey"
+}

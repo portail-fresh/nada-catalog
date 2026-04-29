@@ -1,0 +1,1223 @@
+{
+  "stdyDscr": {
+    "citation": {
+      "titlStmt": {
+        "IDNo": [
+          {
+            "agency": "PEF",
+            "value": "73139"
+          },
+          {
+            "agency": "FReSH",
+            "value": "FRESH-PEF73139"
+          }
+        ],
+        "titl": [
+          {
+            "lang": "fr",
+            "value": "Cohorte de sujets de plus de 65 ans consultants dans les centres d'examens de santé pour l'assurance santé Francaise"
+          },
+          {
+            "lang": "en",
+            "value": "Cohort of Subjects Over 65 Years Old Consulting at Health Examination Centres for French Health Insurance"
+          }
+        ],
+        "altTitl": [
+          {
+            "lang": "fr",
+            "value": "EVATEM"
+          },
+          {
+            "lang": "en",
+            "value": "EVATEM"
+          }
+        ]
+      },
+      "rspStmt": {
+        "AuthEnty": [
+          {
+            "name": "Bruno;FANTINO",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "AGENCE REGIONALE DE SANTE GRAND EST (ARS)"
+              },
+              {
+                "lang": "en",
+                "value": "AGENCE REGIONALE DE SANTE GRAND EST (ARS)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "034649107",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "130007834",
+                "role": "organisation id",
+                "title": "SIREN"
+              },
+              {
+                "uri": "201822878U",
+                "role": "labo id",
+                "title": "RNSR"
+              }
+            ],
+            "isContact": true,
+            "email": "bruno.fantino@wanadoo.fr",
+            "PILabo": "Lorraine Regional Health Agency / Performance and Risk Management Department"
+          },
+          {
+            "name": "Christiane;VANNIER-NITENBERG",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "CAISSE PRIMAIRE D ASSURANCE MALADIE DU RHONE (CPAM DU RHONE)"
+              },
+              {
+                "lang": "en",
+                "value": "CAISSE PRIMAIRE D ASSURANCE MALADIE DU RHONE (CPAM DU RHONE)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "177576006",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "517465928",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ],
+            "isContact": true,
+            "email": "christiane.nitenberg@cpam-rhone.cnamts.fr",
+            "PILabo": "CPAM Health Examination Centre, Rhône"
+          },
+          {
+            "name": "Bienvenu;BONGUE",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "CENTRE ETUDE ANIMATION FORMATION (CETAF)"
+              },
+              {
+                "lang": "en",
+                "value": "CENTRE ETUDE ANIMATION FORMATION (CETAF)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "0000-0001-9857-6400",
+                "role": "pi id",
+                "title": "ORCID"
+              },
+              {
+                "uri": "255270895",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "379475205",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ],
+            "isContact": true,
+            "email": "bienvenu.bongue@cetaf.cnamts.fr",
+            "PILabo": "Support and Training Centre for Health Examination Centres (CETAF)"
+          },
+          {
+            "name": "Catherine;SASS",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "CENTRE ETUDE ANIMATION FORMATION (CETAF)"
+              },
+              {
+                "lang": "en",
+                "value": "CENTRE ETUDE ANIMATION FORMATION (CETAF)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "034159584",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "379475205",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ],
+            "isContact": true,
+            "email": "catherine.sass@cetaf.cnamts.fr",
+            "PILabo": "Support and Training Centre for Health Examination Centres (CETAF)"
+          },
+          {
+            "name": "Olivier;BEAUCHET",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "CENTRE HOSPITALIER UNIVERSITAIRE D'ANGERS"
+              },
+              {
+                "lang": "en",
+                "value": "CENTRE HOSPITALIER UNIVERSITAIRE D'ANGERS"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "117481513",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/0250ngj72",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "264900036",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ],
+            "isContact": true,
+            "email": "OlBeauchet@chu-angers.fr",
+            "PILabo": "Angers University Hospital / Clinical Gerontology and Internal Medicine Department"
+          },
+          {
+            "name": "Virginie;DAUPHINOT",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "HOSPICES CIVILS DE LYON (HCL)"
+              },
+              {
+                "lang": "en",
+                "value": "HOSPICES CIVILS DE LYON (HCL)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "112467466",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/01502ca60",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "266900273",
+                "role": "organisation id",
+                "title": "SIREN"
+              },
+              {
+                "uri": "201822878U",
+                "role": "labo id",
+                "title": "RNSR"
+              }
+            ],
+            "isContact": true,
+            "email": "d_virginie@hotmail.com",
+            "PILabo": "Charpennes Hospital, Lyon Public Hospices / Memory Resource and Research Centre (CMRR), Lyon"
+          },
+          {
+            "name": "Isabelle;ROUCH",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "HOSPICES CIVILS DE LYON (HCL)"
+              },
+              {
+                "lang": "en",
+                "value": "HOSPICES CIVILS DE LYON (HCL)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "0000-0001-8561-2484",
+                "role": "pi id",
+                "title": "ORCID"
+              },
+              {
+                "uri": "058586296",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/01502ca60",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "266900273",
+                "role": "organisation id",
+                "title": "SIREN"
+              },
+              {
+                "uri": "201822878U",
+                "role": "labo id",
+                "title": "RNSR"
+              }
+            ],
+            "isContact": true,
+            "email": "isabelle.rouch@chu-lyon.fr",
+            "PILabo": "Charpennes Hospital, Lyon Public Hospices / Memory Resource and Research Centre (CMRR), Lyon"
+          },
+          {
+            "name": "Pierre;KROLAK-SALMON",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "HOSPICES CIVILS DE LYON (HCL)"
+              },
+              {
+                "lang": "en",
+                "value": "HOSPICES CIVILS DE LYON (HCL)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "0000-0001-7815-7022",
+                "role": "pi id",
+                "title": "ORCID"
+              },
+              {
+                "uri": "085511757",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/01502ca60",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "266900273",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ],
+            "isContact": true,
+            "email": "pierre.krolak-salmon@chu-lyon.fr",
+            "PILabo": "Lyon University Hospital"
+          }
+        ],
+        "othId": []
+      },
+      "distStmt": {
+        "contact": [
+          {
+            "name": "Bruno;FANTINO",
+            "email": "bruno.fantino@wanadoo.fr",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "AGENCE REGIONALE DE SANTE GRAND EST (ARS)"
+              },
+              {
+                "lang": "en",
+                "value": "AGENCE REGIONALE DE SANTE GRAND EST (ARS)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "130007834",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          },
+          {
+            "name": "Christiane;VANNIER-NITENBERG",
+            "email": "christiane.nitenberg@cpam-rhone.cnamts.fr",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "CAISSE PRIMAIRE D ASSURANCE MALADIE DU RHONE (CPAM DU RHONE)"
+              },
+              {
+                "lang": "en",
+                "value": "CAISSE PRIMAIRE D ASSURANCE MALADIE DU RHONE (CPAM DU RHONE)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "517465928",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          },
+          {
+            "name": "Bienvenu;BONGUE",
+            "email": "bienvenu.bongue@cetaf.cnamts.fr",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "CENTRE ETUDE ANIMATION FORMATION (CETAF)"
+              },
+              {
+                "lang": "en",
+                "value": "CENTRE ETUDE ANIMATION FORMATION (CETAF)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "379475205",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          },
+          {
+            "name": "Catherine;SASS",
+            "email": "catherine.sass@cetaf.cnamts.fr",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "CENTRE ETUDE ANIMATION FORMATION (CETAF)"
+              },
+              {
+                "lang": "en",
+                "value": "CENTRE ETUDE ANIMATION FORMATION (CETAF)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "379475205",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          },
+          {
+            "name": "Olivier;BEAUCHET",
+            "email": "OlBeauchet@chu-angers.fr",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "CENTRE HOSPITALIER UNIVERSITAIRE D'ANGERS"
+              },
+              {
+                "lang": "en",
+                "value": "CENTRE HOSPITALIER UNIVERSITAIRE D'ANGERS"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/0250ngj72",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "264900036",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          },
+          {
+            "name": "Virginie;DAUPHINOT",
+            "email": "d_virginie@hotmail.com",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "HOSPICES CIVILS DE LYON (HCL)"
+              },
+              {
+                "lang": "en",
+                "value": "HOSPICES CIVILS DE LYON (HCL)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/01502ca60",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "266900273",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          },
+          {
+            "name": "Isabelle;ROUCH",
+            "email": "isabelle.rouch@chu-lyon.fr",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "HOSPICES CIVILS DE LYON (HCL)"
+              },
+              {
+                "lang": "en",
+                "value": "HOSPICES CIVILS DE LYON (HCL)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/01502ca60",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "266900273",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          },
+          {
+            "name": "Pierre;KROLAK-SALMON",
+            "email": "pierre.krolak-salmon@chu-lyon.fr",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "HOSPICES CIVILS DE LYON (HCL)"
+              },
+              {
+                "lang": "en",
+                "value": "HOSPICES CIVILS DE LYON (HCL)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/01502ca60",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "266900273",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          }
+        ]
+      },
+      "prodStmt": {
+        "fundAg": [
+          {
+            "name": [
+              {
+                "lang": "fr"
+              },
+              {
+                "lang": "en"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ]
+          }
+        ],
+        "producer": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "CAISSE PRIMAIRE D ASSURANCE MALADIE DU RHONE (CPAM DU RHONE)"
+              },
+              {
+                "lang": "en",
+                "value": "CAISSE PRIMAIRE D ASSURANCE MALADIE DU RHONE (CPAM DU RHONE)"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "517465928"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "studyAuthorization": {
+      "authorizingAgency": {
+        "lang": "fr",
+        "value": "CNIL"
+      }
+    },
+    "method": {
+      "notes": [
+        {
+          "subject": "research type",
+          "lang": "fr",
+          "value": "Etude observationnelle"
+        },
+        {
+          "subject": "research type",
+          "lang": "en",
+          "value": "Observational Study"
+        },
+        {
+          "lang": "fr",
+          "subject": "observational study method",
+          "value": "Cohorte"
+        },
+        {
+          "lang": "en",
+          "subject": "observational study method",
+          "value": "Cohort study"
+        }
+      ],
+      "stdyClas": [
+        {
+          "lang": "fr",
+          "value": "Inconnu"
+        },
+        {
+          "lang": "en",
+          "value": "Unknown"
+        }
+      ],
+      "dataColl": {
+        "targetSampleSize": [
+          {
+            "lang": "fr",
+            "value": "[500-1000[ individus"
+          },
+          {
+            "lang": "en",
+            "value": "[500-1000[ individuals"
+          }
+        ],
+        "sampleFrame": {
+          "frameUnit": {
+            "unitType": [
+              {
+                "lang": "fr",
+                "value": "Via des structures (services ou établissements de santé, écoles, entreprises…) Base médico-administrative (de patients, Assurance Maladie/Mutuelle)"
+              },
+              {
+                "lang": "en",
+                "value": "Through organizations (health services or institutions, schools, businesses, etc.) Medical-administrative database (patients, health insurance/mutual insurance)"
+              }
+            ]
+          }
+        },
+        "sources": [
+          {}
+        ],
+        "collMode": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Transcription",
+              "vocab": "CESSDA"
+            },
+            "value": "Transcription et saisie d’informations dans un enregistrement structuré"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Transcription",
+              "vocab": "CESSDA"
+            },
+            "value": "Converting or copying information into a structured record"
+          },
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Interview",
+              "vocab": "CESSDA"
+            },
+            "value": "Entretien avec le participant (dont clinique)"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Interview",
+              "vocab": "CESSDA"
+            },
+            "value": "Interview with the participant (including clinical)"
+          }
+        ],
+        "sampProc": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ],
+        "respRate": [
+          {
+            "lang": "fr",
+            "value": "620"
+          },
+          {
+            "lang": "en",
+            "value": "620"
+          }
+        ]
+      }
+    },
+    "stdyInfo": {
+      "abstract": [
+        {
+          "contentType": "purpose",
+          "lang": "fr",
+          "value": "L'objectif principal de l'étude est d'évaluer les valeurs prédictives (PV) de trois tests cognitifs pour le diagnostic des troubles de la mémoire, de l'équilibre et des troubles liés aux personnes âgées vivant. L'objectif secondaire est d'évaluer la relation entre les chutes et les troubles cognitifs."
+        },
+        {
+          "contentType": "purpose",
+          "lang": "en",
+          "value": "The main aim of the study is to assess the predictive values (PV) of three tests for diagnosing mild cognitive impairments, balance and disorders in elderly individuals who are alive. The secondary aim is the assess the relationship between falls and cognitive impairment."
+        }
+      ],
+      "subject": {
+        "topcClas": [
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/c4793dfe-e80e-49dd-9fcc-a1a742de1b25"
+              },
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/00a5c4f4-b7ee-41a4-bcdf-3a02e6be1660"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D009462"
+              }
+            ],
+            "value": "Neurologie"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/c4793dfe-e80e-49dd-9fcc-a1a742de1b25"
+              },
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/00a5c4f4-b7ee-41a4-bcdf-3a02e6be1660"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D009462"
+              }
+            ],
+            "value": "Neurology"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "fr",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/1817247302",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Trouble de l'équilibre"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "en",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/1817247302",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Disorder of equilibrium"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "fr",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/67207871",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Amnésie"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "en",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/67207871",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Amnesia"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants socio-démographiques et économiques"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants biologiques : Prédispositions génétiques"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Systèmes de soins et accès aux soins"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants biologiques"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Socio-demographic and economic determinants"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Biological determinants: Genetic predisposition"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Biological determinants"
+          }
+        ],
+        "keyword": [
+          {
+            "lang": "fr",
+            "value": "perte de la mémoire"
+          },
+          {
+            "lang": "fr",
+            "value": "la déficience cognitive légère"
+          },
+          {
+            "lang": "fr",
+            "value": "équilibre"
+          },
+          {
+            "lang": "fr",
+            "value": "diagnostic précoce"
+          },
+          {
+            "lang": "fr",
+            "value": "Alzheimer"
+          },
+          {
+            "lang": "en",
+            "value": "memory loss"
+          },
+          {
+            "lang": "en",
+            "value": "slight cognitive deficiency"
+          },
+          {
+            "lang": "en",
+            "value": "balance"
+          },
+          {
+            "lang": "en",
+            "value": "Alzheimer’s"
+          },
+          {
+            "lang": "en",
+            "value": "early diagnosis"
+          }
+        ]
+      },
+      "qualityStatement": {
+        "standardsCompliance": {}
+      },
+      "sumDscr": {
+        "dataKind": [
+          {
+            "lang": "fr",
+            "value": "Données cliniques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données rapportées par le participant de l&#x27;étude"
+          },
+          {
+            "lang": "fr",
+            "value": "Données paracliniques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données paracliniques (hors biologiques) : Exploration fonctionnelle"
+          },
+          {
+            "lang": "en",
+            "value": "Clinical data"
+          },
+          {
+            "lang": "en",
+            "value": "Participant-reported health data"
+          },
+          {
+            "lang": "en",
+            "value": "Paraclinical data (non-biological) : Function testing"
+          }
+        ],
+        "anlyUnit": [
+          {
+            "lang": "fr",
+            "value": "Individus"
+          },
+          {
+            "lang": "en",
+            "value": "Individuals"
+          }
+        ],
+        "nation": [
+          {
+            "lang": "fr",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          },
+          {
+            "lang": "en",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          }
+        ],
+        "geogCover": [
+          {
+            "lang": "fr",
+            "value": "Auvergne Rhône-Alpes"
+          },
+          {
+            "lang": "en",
+            "value": "Auvergne Rhône-Alpes"
+          },
+          {
+            "lang": "fr",
+            "value": "Pays de la Loire"
+          },
+          {
+            "lang": "en",
+            "value": "Pays de la Loire"
+          }
+        ],
+        "universe": [
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Masculin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Féminin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Male"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Female"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Personne âgée (65 à 79 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000369"
+            },
+            "value": "Grand âge (80 ans et plus)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Aged (65 to 79 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000369"
+            },
+            "value": "Aged, 80 and over (80 years and more)"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Patients"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "en",
+            "value": "Patients population"
+          },
+          {
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Sujets consultants un des 3 centres d'examens de santé (Lyon, Angers et Saint-Étienne) pour un examen de santé périodique gratuit 65 ans ou plus, vivant à la maison ou dans un établissement non-médical Volontaires pour participer à un examen de santé périodique et présentant un problème de trouble de la mémoire (identifié soit par le patient lui-même ou par un membre de leur famille)."
+          },
+          {
+            "clusion": "I",
+            "lang": "en",
+            "value": "Subjects consulting at one of 3 health examination centres (Lyon, Angers and Saint-Etienne) for a free, periodic medical examination. 65 years old or over; living at home or in a non-medical institution.  Volunteers participating in a periodic medical examination and presenting with a memory complaint (identified either by the patient or by a member of his/her family)."
+          },
+          {
+            "clusion": "E",
+            "lang": "fr",
+            "value": ""
+          },
+          {
+            "clusion": "E",
+            "lang": "en",
+            "value": ""
+          }
+        ],
+        "collDate": [
+          {
+            "event": "start",
+            "value": "2009-01-01"
+          },
+          {
+            "event": "end",
+            "value": "2011-01-01"
+          }
+        ]
+      }
+    },
+    "dataAccs": {
+      "setAvail": {
+        "avlStatus": [
+          {
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Accès réservé"
+          },
+          {
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Restricted access"
+          }
+        ],
+        "conditions": [
+          {
+            "lang": "fr",
+            "value": "Contacter le responsable scientifique"
+          },
+          {
+            "lang": "en",
+            "value": "Contact the principal investigator"
+          }
+        ]
+      },
+      "useStmt": {}
+    },
+    "othStdMat": {
+      "relMat": [
+        {
+          "lang": "fr",
+          "value": "Accès restreint sur projet spécifique"
+        },
+        {
+          "lang": "en",
+          "value": "Access on specific project only"
+        }
+      ]
+    },
+    "studyDevelopment": {
+      "developmentActivity": [
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/morbidité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/morbidity"
+        }
+      ]
+    }
+  },
+  "docDscr": {
+    "citation": {
+      "rspStmt": {
+        "AuthEnty": "Christiane VANNIER-NITENBERG"
+      },
+      "prodStmt": {
+        "producer": [
+          {
+            "affiliation": "CAISSE PRIMAIRE D ASSURANCE MALADIE DU RHONE (CPAM DU RHONE)",
+            "value": "Christiane;VANNIER-NITENBERG"
+          }
+        ],
+        "prodPlac": "Portail Épidémiologie France"
+      }
+    }
+  },
+  "additional": {
+    "prodPlac": "Portail Épidémiologie France",
+    "relatedDocuments": {
+      "documentTitle": [
+        {
+          "lang": "fr"
+        },
+        {
+          "lang": "en"
+        }
+      ],
+      "documentLink": [
+        {
+          "lang": "fr",
+          "value": "http://tinyurl.com/PUBMED-EVATEM"
+        },
+        {
+          "lang": "en",
+          "value": "http://tinyurl.com/PUBMED-EVATEM"
+        }
+      ]
+    },
+    "creationDate": "07-07-2015",
+    "lastUpdatedManual": "29-06-2016",
+    "theme": {},
+    "governance": {},
+    "collaborations": {},
+    "mockSample": {},
+    "dataQuality": {},
+    "variableDictionnary": {},
+    "dataTypes": {
+      "clinicalDataDetails": [
+        {
+          "lang": "fr",
+          "value": "Poids, la taille, le nombre de différents groupes thérapeutiques , dose psychotrope (établie en demandant au patient ou la lecture de leur dernière ordonnance), l'autonomie (évaluée en testant quatre activités de la vie quotidienne), et de l'humeur (mini-GDS). Evaluation neurospychologique, tests cognitifs"
+        },
+        {
+          "lang": "en",
+          "value": "Weight; height; number of various therapeutic groups; psychotropic dose (established by asking the patient or by consulting their last prescription); independence (assessed by testing 4 activities of daily living) and mood (mini GDS). Neuropsychological assessment; cognitive tests."
+        }
+      ],
+      "isDataInBiobank": false
+    },
+    "collectionProcess": {},
+    "geographicalCoverage": {
+      "geoDetail": [
+        {
+          "lang": "fr",
+          "value": "Lyon, Angers, Saint-Étienne"
+        },
+        {
+          "lang": "en",
+          "value": "Lyon, Angers, Saint-Étienne"
+        }
+      ]
+    },
+    "activeFollowUp": {
+      "isActiveFollowUp": true
+    },
+    "dataCollectionIntegration": {
+      "isDataIntegration": false
+    },
+    "isHealthTheme": true
+  },
+  "schematype": "survey"
+}

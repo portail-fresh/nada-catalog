@@ -1,0 +1,965 @@
+{
+  "stdyDscr": {
+    "citation": {
+      "titlStmt": {
+        "IDNo": [
+          {
+            "agency": "PEF",
+            "value": "4240"
+          },
+          {
+            "agency": "FReSH",
+            "value": "FRESH-PEF4240"
+          }
+        ],
+        "titl": [
+          {
+            "lang": "fr",
+            "value": "Étude transversale sur la motivation sociale et les émotions sociales dans l'autisme de haut niveau"
+          },
+          {
+            "lang": "en",
+            "value": "Cross-sectional study of social motivation and social emotions in high-level autism"
+          }
+        ]
+      },
+      "rspStmt": {
+        "AuthEnty": [
+          {
+            "name": "Julie;GREZES",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "ECOLE NORMALE SUPERIEURE (ENS)"
+              },
+              {
+                "lang": "en",
+                "value": "ECOLE NORMALE SUPERIEURE (ENS)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "0000-0002-5066-9154",
+                "role": "pi id",
+                "title": "ORCID"
+              },
+              {
+                "uri": "144233347",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/05a0dhs15",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "197534597",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ],
+            "isContact": true,
+            "email": "julie.grèzes@ens.fr",
+            "PILabo": "ENS / INSERM U742"
+          },
+          {
+            "name": "Sylvie;BERTHOZ",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "INSTITUT MEDICO-CHIRURGICAL MONTSOURIS"
+              },
+              {
+                "lang": "en",
+                "value": "INSTITUT MEDICO-CHIRURGICAL MONTSOURIS"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "0000-0002-6862-2362",
+                "role": "pi id",
+                "title": "ORCID"
+              },
+              {
+                "uri": "15367976X",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/00bea5h57",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "992985036",
+                "role": "organisation id",
+                "title": "SIREN"
+              },
+              {
+                "uri": "201019083D",
+                "role": "labo id",
+                "title": "RNSR"
+              }
+            ],
+            "isContact": true,
+            "email": "sylvie.berthoz@imm.fr",
+            "PILabo": "Institut Mutualiste Montsouris / Département de psychiatrie pour adolescents et jeunes adultes"
+          },
+          {
+            "name": "Bruno;FALISSARD",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE (INSERM)"
+              },
+              {
+                "lang": "en",
+                "value": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE (INSERM)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "0000-0002-2418-4954",
+                "role": "pi id",
+                "title": "ORCID"
+              },
+              {
+                "uri": "034648739",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/02vjkv261",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "180036048",
+                "role": "organisation id",
+                "title": "SIREN"
+              },
+              {
+                "uri": "201019083D",
+                "role": "labo id",
+                "title": "RNSR"
+              }
+            ],
+            "isContact": true,
+            "email": "bruno.falissard@universite-paris-saclay.fr",
+            "PILabo": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE - / Inserm U1018 - Centre de Recherche en Épidémiologie et Santé des Populations Équipe: Genre, Santé sexuelle et Reproductive"
+          }
+        ],
+        "othId": []
+      },
+      "distStmt": {
+        "contact": [
+          {
+            "name": "Julie;GREZES",
+            "email": "julie.grèzes@ens.fr",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "ECOLE NORMALE SUPERIEURE (ENS)"
+              },
+              {
+                "lang": "en",
+                "value": "ECOLE NORMALE SUPERIEURE (ENS)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/05a0dhs15",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "197534597",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          },
+          {
+            "name": "Sylvie;BERTHOZ",
+            "email": "sylvie.berthoz@imm.fr",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "INSTITUT MEDICO-CHIRURGICAL MONTSOURIS"
+              },
+              {
+                "lang": "en",
+                "value": "INSTITUT MEDICO-CHIRURGICAL MONTSOURIS"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/00bea5h57",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "992985036",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          },
+          {
+            "name": "Bruno;FALISSARD",
+            "email": "bruno.falissard@universite-paris-saclay.fr",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE (INSERM)"
+              },
+              {
+                "lang": "en",
+                "value": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE (INSERM)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/02vjkv261",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "180036048",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          }
+        ]
+      },
+      "prodStmt": {
+        "fundAg": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "INSTITUT MEDICO-CHIRURGICAL MONTSOURIS"
+              },
+              {
+                "lang": "en",
+                "value": "INSTITUT MEDICO-CHIRURGICAL MONTSOURIS"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "ROR",
+                "uri": "https://ror.org/00bea5h57"
+              },
+              {
+                "title": "SIREN",
+                "uri": "992985036"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Privé à but non lucratif"
+              },
+              {
+                "lang": "en",
+                "value": "Private non-profit"
+              }
+            ]
+          }
+        ],
+        "producer": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE (INSERM)"
+              },
+              {
+                "lang": "en",
+                "value": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE (INSERM)"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "ROR",
+                "uri": "https://ror.org/02vjkv261"
+              },
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "180036048"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "ECOLE NORMALE SUPERIEURE (ENS)"
+              },
+              {
+                "lang": "en",
+                "value": "ECOLE NORMALE SUPERIEURE (ENS)"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "ROR",
+                "uri": "https://ror.org/05a0dhs15"
+              },
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "197534597"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "INSTITUT MEDICO-CHIRURGICAL MONTSOURIS"
+              },
+              {
+                "lang": "en",
+                "value": "INSTITUT MEDICO-CHIRURGICAL MONTSOURIS"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Privé à but non lucratif"
+              },
+              {
+                "lang": "en",
+                "value": "Private non-profit"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "ROR",
+                "uri": "https://ror.org/00bea5h57"
+              },
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "992985036"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "studyAuthorization": {
+      "authorizingAgency": {
+        "lang": "fr",
+        "value": "CNIL"
+      }
+    },
+    "method": {
+      "notes": [
+        {
+          "subject": "research type",
+          "lang": "fr",
+          "value": "Etude observationnelle"
+        },
+        {
+          "subject": "research type",
+          "lang": "en",
+          "value": "Observational Study"
+        }
+      ],
+      "stdyClas": [
+        {
+          "lang": "fr",
+          "value": "Étude complétée"
+        },
+        {
+          "lang": "en",
+          "value": "Completed study"
+        }
+      ],
+      "dataColl": {
+        "targetSampleSize": [
+          {
+            "lang": "fr",
+            "value": "< 500 individus"
+          },
+          {
+            "lang": "en",
+            "value": "< 500 individuals"
+          }
+        ],
+        "timeMeth": [
+          {
+            "lang": "fr",
+            "value": "Etude transversale non répétée"
+          },
+          {
+            "lang": "en",
+            "value": "One-time cross-sectional study"
+          }
+        ],
+        "sampleFrame": {
+          "frameUnit": {
+            "unitType": [
+              {
+                "lang": "fr",
+                "value": "Via des structures (services ou établissements de santé, écoles, entreprises…)"
+              },
+              {
+                "lang": "en",
+                "value": "Through organizations (health services or institutions, schools, businesses, etc.)"
+              }
+            ]
+          }
+        },
+        "sources": [
+          {}
+        ],
+        "collMode": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Interview",
+              "vocab": "CESSDA"
+            },
+            "value": "Entretien avec le participant (dont clinique)"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Interview",
+              "vocab": "CESSDA"
+            },
+            "value": "Interview with the participant (including clinical)"
+          },
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "MeasurementsAndTests.Psychological",
+              "vocab": "CESSDA"
+            },
+            "value": "Tests psychologiques/échelles cliniques (dépression, cognition, qualité de vie...)"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "MeasurementsAndTests.Psychological",
+              "vocab": "CESSDA"
+            },
+            "value": "Psychological tests/clinical scales (depression, cognition, quality of life, etc.)"
+          }
+        ],
+        "sampProc": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ],
+        "respRate": [
+          {
+            "lang": "fr",
+            "value": "30"
+          },
+          {
+            "lang": "en",
+            "value": "30"
+          }
+        ]
+      }
+    },
+    "stdyInfo": {
+      "abstract": [
+        {
+          "contentType": "purpose",
+          "lang": "fr",
+          "value": "- Mettre en place de paradigmes expérimentaux évaluant les différences interindividuelles dans le traitement des émotions et d’autres paradigmes permettant d’évaluer le caractère récompensant des stimuli sociaux. - Analyser et interpréter les résultats à la lumière des théories existantes de l’autisme et, en retour, fournir des données permettant d’enrichir, soutenir, ou contredire ces théories. - Informer les professionnels travaillant avec des personnes autistes et permettre la mise en oeuvre de nouvelles stratégies éducatives, notamment de régulation émotionnelle."
+        },
+        {
+          "contentType": "purpose",
+          "lang": "en",
+          "value": "- To establish experimental paradigms evaluating the inter-individual differences in the treatment of emotions and other paradigms, to evaluate the rewarding nature of social stimuli. - To analyse and interpret the results in light of existing theories of autism and, in turn, provide data that expand, support or contradict these theories. - To inform professionals who work with autistic people and to help implement new educational strategies, especially for emotional regulation"
+        }
+      ],
+      "subject": {
+        "topcClas": [
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/3de50dee-da1c-4791-a386-56bca24a5fed"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D011570"
+              }
+            ],
+            "value": "Psychiatrie"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/3de50dee-da1c-4791-a386-56bca24a5fed"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D011570"
+              }
+            ],
+            "value": "Psychiatry"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants socio-démographiques et économiques"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Socio-demographic and economic determinants"
+          }
+        ],
+        "keyword": [
+          {
+            "lang": "fr",
+            "value": "motivation"
+          },
+          {
+            "lang": "fr",
+            "value": "émotion sociale"
+          },
+          {
+            "lang": "fr",
+            "value": "autisme"
+          },
+          {
+            "lang": "fr",
+            "value": "psychiatrie"
+          },
+          {
+            "lang": "fr",
+            "value": "imagerie"
+          },
+          {
+            "lang": "en",
+            "value": "social emotion"
+          },
+          {
+            "lang": "en",
+            "value": "motivation"
+          },
+          {
+            "lang": "en",
+            "value": "autism"
+          },
+          {
+            "lang": "en",
+            "value": "psychiatry"
+          },
+          {
+            "lang": "en",
+            "value": "imaging"
+          }
+        ]
+      },
+      "qualityStatement": {
+        "standardsCompliance": {}
+      },
+      "sumDscr": {
+        "dataKind": [
+          {
+            "lang": "fr",
+            "value": "Données cliniques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données rapportées par le participant de l&#x27;étude"
+          },
+          {
+            "lang": "fr",
+            "value": "Données paracliniques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données paracliniques (hors biologiques) : Imagerie"
+          },
+          {
+            "lang": "en",
+            "value": "Clinical data"
+          },
+          {
+            "lang": "en",
+            "value": "Participant-reported health data"
+          },
+          {
+            "lang": "en",
+            "value": "Paraclinical data (non-biological) : Imaging"
+          }
+        ],
+        "anlyUnit": [
+          {
+            "lang": "fr",
+            "value": "Individus"
+          },
+          {
+            "lang": "en",
+            "value": "Individuals"
+          }
+        ],
+        "nation": [
+          {
+            "lang": "fr",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          },
+          {
+            "lang": "en",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          }
+        ],
+        "geogCover": [
+          {
+            "lang": "fr",
+            "value": "Ile-de-France"
+          },
+          {
+            "lang": "en",
+            "value": "Ile-de-France"
+          }
+        ],
+        "universe": [
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Masculin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Féminin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Male"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Female"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Adulte (19 à 24 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adulte (25 à 44 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Young Adult (19 to 24 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adult (25 to 44 years)"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Patients"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "en",
+            "value": "Patients population"
+          },
+          {
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Adultes (18-40 ans) avec autisme de haut niveau ou syndrome d’Asperger ayant reçu un diagnostique par un psychologue ou un psychiatre professionnel, selon les critères internationaux en vigueur (DSM-IV ou CIM-10)."
+          },
+          {
+            "clusion": "I",
+            "lang": "en",
+            "value": "Adults (18-40 years of age) with high-level autism or Asperger’s syndrome who have been diagnosed by a professional psychiatrist or psychologist, according to the current international criteria (DSM-IV or CIM-10)."
+          },
+          {
+            "clusion": "E",
+            "lang": "fr",
+            "value": ""
+          },
+          {
+            "clusion": "E",
+            "lang": "en",
+            "value": ""
+          }
+        ],
+        "collDate": [
+          {
+            "event": "start",
+            "value": "2008-01-01"
+          },
+          {
+            "event": "end",
+            "value": "2011-01-01"
+          }
+        ]
+      }
+    },
+    "dataAccs": {
+      "setAvail": {
+        "avlStatus": [
+          {
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Accès réservé"
+          },
+          {
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Restricted access"
+          }
+        ],
+        "conditions": []
+      },
+      "useStmt": {}
+    },
+    "othStdMat": {
+      "relMat": [
+        {
+          "lang": "fr",
+          "value": "Accès restreint sur projet spécifique"
+        },
+        {
+          "lang": "en",
+          "value": "Access on specific project only"
+        }
+      ]
+    },
+    "studyDevelopment": {
+      "developmentActivity": [
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/morbidité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Qualité de vie/santé perçue"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/morbidity"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Quality of life/health perception"
+        }
+      ]
+    }
+  },
+  "docDscr": {
+    "citation": {
+      "rspStmt": {
+        "AuthEnty": "Bruno FALISSARD"
+      },
+      "prodStmt": {
+        "producer": [
+          {
+            "affiliation": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE (INSERM)",
+            "value": "Bruno;FALISSARD"
+          }
+        ],
+        "prodPlac": "Portail Épidémiologie France"
+      }
+    }
+  },
+  "additional": {
+    "prodPlac": "Portail Épidémiologie France",
+    "relatedDocuments": {
+      "documentTitle": [
+        {
+          "lang": "fr"
+        },
+        {
+          "lang": "en"
+        }
+      ],
+      "documentLink": [
+        {
+          "lang": "fr",
+          "value": "http://www.autisme42.org/spip.php?article728"
+        },
+        {
+          "lang": "en",
+          "value": "http://www.autisme42.org/spip.php?article728"
+        }
+      ]
+    },
+    "creationDate": "10-10-2012",
+    "lastUpdatedManual": "11-09-2017",
+    "theme": {},
+    "governance": {},
+    "collaborations": {},
+    "mockSample": {},
+    "dataQuality": {},
+    "variableDictionnary": {},
+    "dataTypes": {
+      "clinicalDataDetails": [
+        {
+          "lang": "fr",
+          "value": "examen ADOS, profil affectif, Tests cognitifs (econnaissance d’expressions émotionnelles faciales et corporelles, traitement de stimuli sociaux et non sociaux)"
+        },
+        {
+          "lang": "en",
+          "value": "ADOS test, emotional profile, Cognitive tests (recognition of facial and body emotional expressions, handling of social and non-social stimuli)"
+        }
+      ],
+      "isDataInBiobank": false
+    },
+    "collectionProcess": {
+      "collectionModeDetails": [
+        {
+          "lang": "fr",
+          "value": "Confirmation du diagnostic via questionnaires ADOSTests cognitifs : le participant sera placé devant un ordinateur et il devra réaliser une série de tâches cognitives (reconnaissance d’expressions émotionnelles faciales et corporelles, traitement de stimuli sociaux et non sociaux) ne durant en tout pas plus de 2h."
+        },
+        {
+          "lang": "en",
+          "value": "Confirmation of the diagnosis by ADOS questionnaires Cognitive tests: the participant will be put in front of a computer and then they will perform a series of cognitive tasks (recognition of facial and body emotional expressions, handling of social and non-social stimuli), lasting no more than 2 hours."
+        }
+      ]
+    },
+    "geographicalCoverage": {
+      "geoDetail": [
+        {
+          "lang": "fr",
+          "value": "Institut Mutualiste Montsouris"
+        },
+        {
+          "lang": "en",
+          "value": "Institut Mutualiste Montsouris"
+        }
+      ]
+    },
+    "activeFollowUp": {
+      "isActiveFollowUp": false
+    },
+    "dataCollectionIntegration": {
+      "isDataIntegration": false
+    },
+    "isHealthTheme": true
+  },
+  "schematype": "survey"
+}

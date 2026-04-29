@@ -1,0 +1,929 @@
+{
+  "stdyDscr": {
+    "citation": {
+      "titlStmt": {
+        "IDNo": [
+          {
+            "agency": "PEF",
+            "value": "240"
+          },
+          {
+            "agency": "FReSH",
+            "value": "FRESH-PEF240"
+          }
+        ],
+        "titl": [
+          {
+            "lang": "fr",
+            "value": "Registre des Victimes Corporelles d’Accidents de la Circulation Routière dans le département du Rhône (registre qualifié 2010-2013)"
+          },
+          {
+            "lang": "en",
+            "value": "Registre des Victimes Corporelles d’Accidents de la Circulation Routière dans le département du Rhône (registre qualifié)"
+          }
+        ]
+      },
+      "rspStmt": {
+        "AuthEnty": [
+          {
+            "name": "Bernard;LAUMON",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "UNIVERSITE GUSTAVE EIFFEL"
+              },
+              {
+                "lang": "en",
+                "value": "UNIVERSITE GUSTAVE EIFFEL"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "076439143",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/03x42jk29",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "130026123",
+                "role": "organisation id",
+                "title": "SIREN"
+              },
+              {
+                "uri": "200717642A",
+                "role": "labo id",
+                "title": "RNSR"
+              }
+            ],
+            "isContact": true,
+            "email": "bernard.laumon@univ-eiffel.fr",
+            "PILabo": "IFSTTAR / Unité Mixte de Recherche Épidémiologique et de Surveillance Transport Travail Environnement (UMRESTTE)"
+          }
+        ],
+        "othId": []
+      },
+      "distStmt": {
+        "contact": [
+          {
+            "name": "Bernard;LAUMON",
+            "email": "bernard.laumon@univ-eiffel.fr",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "UNIVERSITE GUSTAVE EIFFEL"
+              },
+              {
+                "lang": "en",
+                "value": "UNIVERSITE GUSTAVE EIFFEL"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/03x42jk29",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "130026123",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          }
+        ]
+      },
+      "prodStmt": {
+        "fundAg": [
+          {
+            "name": [
+              {
+                "lang": "fr"
+              },
+              {
+                "lang": "en"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ]
+          }
+        ],
+        "producer": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "UNIVERSITE GUSTAVE EIFFEL"
+              },
+              {
+                "lang": "en",
+                "value": "UNIVERSITE GUSTAVE EIFFEL"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "ROR",
+                "uri": "https://ror.org/03x42jk29"
+              },
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "130026123"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "studyAuthorization": {
+      "authorizingAgency": {
+        "lang": "fr",
+        "value": "CNIL"
+      }
+    },
+    "method": {
+      "notes": [
+        {
+          "subject": "research type",
+          "lang": "fr",
+          "value": "Etude observationnelle"
+        },
+        {
+          "subject": "research type",
+          "lang": "en",
+          "value": "Observational Study"
+        },
+        {
+          "lang": "fr",
+          "subject": "observational study method",
+          "value": "Registre de morbidité"
+        },
+        {
+          "lang": "en",
+          "subject": "observational study method",
+          "value": "Morbidity registry"
+        }
+      ],
+      "stdyClas": [
+        {
+          "lang": "fr",
+          "value": "Inconnu"
+        },
+        {
+          "lang": "en",
+          "value": "Unknown"
+        }
+      ],
+      "dataColl": {
+        "targetSampleSize": [
+          {
+            "lang": "fr",
+            "value": ">= 20000 individus"
+          },
+          {
+            "lang": "en",
+            "value": ">= 20000 individuals"
+          }
+        ],
+        "sampleFrame": {
+          "frameUnit": {
+            "unitType": [
+              {
+                "lang": "fr",
+                "value": "Base médico-administrative (de patients, Assurance Maladie/Mutuelle) Registre de maladies, de décès"
+              },
+              {
+                "lang": "en",
+                "value": "Medical-administrative database (patients, health insurance/mutual insurance) Disease and death registry"
+              }
+            ]
+          }
+        },
+        "sources": [
+          {}
+        ],
+        "collMode": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ],
+        "sampProc": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ],
+        "respRate": [
+          {
+            "lang": "fr",
+            "value": "1995-2006 : 116945 cas 2007 : 8434 cas 2008 : 7730 2009 : 8342"
+          },
+          {
+            "lang": "en",
+            "value": "1995-2006 : 116945 cas 2007 : 8434 cas 2008 : 7730 2009 : 8342"
+          }
+        ]
+      }
+    },
+    "stdyInfo": {
+      "abstract": [
+        {
+          "contentType": "purpose",
+          "lang": "fr",
+          "value": "Objectifs de santé publique - Disposer d’un outil de surveillance de la morbidité routière en France et de ses évolutions selon les grandes composantes de cette morbidité (catégories d’usagers, âge, sexe, etc.), - Disposer d’un outil d’évaluation des mesures de prévention par la connaissance de leur impact sur la distribution des tableaux lésionnels, et en particulier des plus graves d’entre eux (qu’il s’agisse de pronostic vital ou de pronostic séquellaire), - Disposer d’un outil d’évaluation des modalités de prise en charge médicale des victimes de l’insécurité routière (réseau, parcours de soin et organisation du suivi), - Contribuer à l’évaluation de la qualité “épidémiologique“ (exhaustivité et représentativité) des autres systèmes d’information de référence, notamment en termes de mortalité (ONISR, Inserm-CépiDc), - Faire reconnaître l’insécurité routière comme un enjeu de santé publique (notamment en termes de handicap). Objectifs de recherche - Améliorer la définition et la connaissance des groupes les plus à risque, aussi bien en termes de catégories d’usagers (piétons, cyclistes, usagers de deux-roues motorisés) que d’âge (enfants, personnes âgées), de sexe (hommes), - Améliorer la définition et la connaissance du blessé grave, notamment en termes de pronostic séquellaire et de devenir, - Améliorer la connaissance des causes (lésionnelles) de la morbidité et de la mortalité routière, et des mécanismes lésionnels associés, - Disposer d’une population de référence permettant de coordonner un ensemble de projets de recherches complémentaires, ainsi que de répondre à la demande institutionnelle, économique (constructeurs, assurances) ou sociétale (associations de prévention), - Constituer une référence française (tant en termes de données que d’approches méthodologiques) dans une perspective de collaborations européennes et/ou internationales en matière de recherche en insécurité routière."
+        },
+        {
+          "contentType": "purpose",
+          "lang": "en",
+          "value": "Public health objectives - Provide a tool for monitoring road morbidity in France and its progression according to the major components of this morbidity (categories of users, age, gender, etc.) - Provide a tool for evaluating prevention measures by finding out what their impact is on the distribution of lesion presentations - particularly of the most serious injuries (whether this concern how life-threatening they are or the sequelae prognosis), - Provide a tool for evaluating treatments of victims of road traffic accidents (network, care stream and follow-up organization), - Help to evaluate the \"\"epidemiological\"\" quality (exhaustiveness and representativeness) of other reference information systems - particularly in terms of mortality (ONISR, Inserm-CépiDc), - Raise awareness of the road traffic accidents as a public health stake (especially in terms of disability). Research objectives - Improve the definition and knowledge of the most at-risk groups, both in terms of categories of users (pedestrians, cyclists, motorbike and moped users) and age (children, the elderly) and gender (men), - Improve the definition and knowledge of seriously injured victims, above all in terms of the sequelae prognosis and fate, - Improve knowledge of the causes (lesional) of morbidity and road mortality, and the associated lesional mechanisms, - Obtain a reference population for coordinating a series of additional research projects, as well as meeting an institutional, economic (road builders, insurance) or social (prevention associations) demand, - Put together a French reference (both in terms of data and methodological approaches) for the purpose of European and/or international partnerships in research on road traffic accidents."
+        }
+      ],
+      "subject": {
+        "topcClas": [
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/38e57437-b2cc-4d26-a46e-c5b639c01e5f"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D010810"
+              }
+            ],
+            "value": "Médecine physique et de réadaptation"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/c4538836-ae58-4941-b544-50f53e979e20"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D009985"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D014194"
+              }
+            ],
+            "value": "Orthopédie et traumatologie"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/38e57437-b2cc-4d26-a46e-c5b639c01e5f"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D010810"
+              }
+            ],
+            "value": "Physical and Rehabilitation Medicine"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/c4538836-ae58-4941-b544-50f53e979e20"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D009985"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D014194"
+              }
+            ],
+            "value": "Orthopaedics and traumatology"
+          }
+        ],
+        "keyword": [
+          {
+            "lang": "fr",
+            "value": "Accidents de la route"
+          },
+          {
+            "lang": "fr",
+            "value": "blessures"
+          },
+          {
+            "lang": "fr",
+            "value": "lésion"
+          },
+          {
+            "lang": "fr",
+            "value": "gravité"
+          },
+          {
+            "lang": "fr",
+            "value": "blessé grave"
+          },
+          {
+            "lang": "fr",
+            "value": "polytraumatisme"
+          },
+          {
+            "lang": "en",
+            "value": "Road traffic accidents"
+          },
+          {
+            "lang": "en",
+            "value": "injuries"
+          },
+          {
+            "lang": "en",
+            "value": "lesion"
+          },
+          {
+            "lang": "en",
+            "value": "seriously injured"
+          },
+          {
+            "lang": "en",
+            "value": "multiple injuries"
+          },
+          {
+            "lang": "en",
+            "value": "severity"
+          }
+        ]
+      },
+      "qualityStatement": {
+        "standardsCompliance": {
+          "standard": {
+            "standardName": [
+              {
+                "lang": "fr",
+                "value": "AIS (Abbreviated Injury Scale) et IIS (Injury Impairment Score)"
+              },
+              {
+                "lang": "en",
+                "value": "AIS (Abbreviated Injury Scale) et IIS (Injury Impairment Score)"
+              }
+            ]
+          }
+        }
+      },
+      "sumDscr": {
+        "dataKind": [
+          {
+            "lang": "fr",
+            "value": "Données cliniques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données rapportées par le participant de l&#x27;étude"
+          },
+          {
+            "lang": "fr",
+            "value": "Données socio-démographiques"
+          },
+          {
+            "lang": "en",
+            "value": "Clinical data"
+          },
+          {
+            "lang": "en",
+            "value": "Participant-reported health data"
+          },
+          {
+            "lang": "en",
+            "value": "Socio-demographic data"
+          }
+        ],
+        "anlyUnit": [
+          {
+            "lang": "fr",
+            "value": "Individus"
+          },
+          {
+            "lang": "en",
+            "value": "Individuals"
+          }
+        ],
+        "nation": [
+          {
+            "lang": "fr",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          },
+          {
+            "lang": "en",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          }
+        ],
+        "geogCover": [
+          {
+            "lang": "fr",
+            "value": "Auvergne Rhône-Alpes"
+          },
+          {
+            "lang": "en",
+            "value": "Auvergne Rhône-Alpes"
+          }
+        ],
+        "universe": [
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Masculin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Féminin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Male"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Female"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D007231"
+            },
+            "value": "Nouveau-né (naissance à 28j)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D007223"
+            },
+            "value": "Nourrisson (28j à 2 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D002675"
+            },
+            "value": "Petite enfance (2 à 5 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D002648"
+            },
+            "value": "Enfance (6 à 12 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000293"
+            },
+            "value": "Adolescence (13 à 18 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Adulte (19 à 24 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adulte (25 à 44 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Adulte (45 à 64 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Personne âgée (65 à 79 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000369"
+            },
+            "value": "Grand âge (80 ans et plus)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D007231"
+            },
+            "value": "Infant, Newborn (birth to 28 days)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D007223"
+            },
+            "value": "Infant (28 days to 2 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D002675"
+            },
+            "value": "Child, Preschool (2 to 5 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D002648"
+            },
+            "value": "Child (6 to 12 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Young Adult (19 to 24 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adult (25 to 44 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Middle Aged (45 to 64 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Aged (65 to 79 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000369"
+            },
+            "value": "Aged, 80 and over (80 years and more)"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Personnes en situation de handicap"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "en",
+            "value": "People with disabilities"
+          },
+          {
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Les cas enregistrés sont les victimes d’un accident corporel de la circulation routière survenant dans le département du Rhône. La définition d’un accident corporel est donnée par l’Observatoire national interministériel de sécurité routière (ONISR). Il provoque au moins une victime, survient sur une voie ouverte à la circulation publique, implique au moins un véhicule (motorisé ou non). Par victime, l’ONISR entend, toute personne impliquée qui n’est pas indemne, c'est-à-dire que son état nécessite au moins un soin médical (ou pour le moins une consultation médicale)."
+          },
+          {
+            "clusion": "I",
+            "lang": "en",
+            "value": "The cases recorded are victims of road traffic accidents resulting in death or injury happening in the  Rhône département. The definition of an accident resulting in death or injury is given by the French National Interministerial Observatory for Road Safety (ONISR). It has at least one victim, occurs on a public road and involves at least one vehicle (which may or may not be a motor vehicle). By victim, the ONISR means anyone involved who is injured, i.e. their condition requires at least one type of medical treatment (or at the very least a medical appointment)."
+          },
+          {
+            "clusion": "E",
+            "lang": "fr",
+            "value": ""
+          },
+          {
+            "clusion": "E",
+            "lang": "en",
+            "value": ""
+          }
+        ],
+        "collDate": {
+          "event": "start",
+          "value": "1995-01-01"
+        }
+      }
+    },
+    "dataAccs": {
+      "setAvail": {
+        "avlStatus": [
+          {
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Accès réservé"
+          },
+          {
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Restricted access"
+          }
+        ],
+        "conditions": [
+          {
+            "lang": "fr",
+            "value": "Application informatique d&#x27;interrogation simplifiée en cours d&#x27;élaboration."
+          },
+          {
+            "lang": "en",
+            "value": "Simplified inquiry IT program currently being developed."
+          }
+        ],
+        "notes": [
+          {
+            "lang": "fr",
+            "value": "Nombreuses collaborations."
+          },
+          {
+            "lang": "en",
+            "value": "Numerous forms of cooperation."
+          }
+        ]
+      },
+      "useStmt": {}
+    },
+    "othStdMat": {
+      "relMat": [
+        {
+          "lang": "fr",
+          "value": "Accès libre"
+        },
+        {
+          "lang": "en",
+          "value": "Free access"
+        }
+      ]
+    },
+    "studyDevelopment": {
+      "developmentActivity": [
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/morbidité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/mortalité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/morbidity"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/mortality"
+        }
+      ]
+    }
+  },
+  "docDscr": {
+    "citation": {
+      "rspStmt": {
+        "AuthEnty": "Bernard LAUMON"
+      },
+      "prodStmt": {
+        "producer": [
+          {
+            "affiliation": "UNIVERSITE GUSTAVE EIFFEL",
+            "value": "Bernard;LAUMON"
+          }
+        ],
+        "prodPlac": "Portail Épidémiologie France"
+      }
+    }
+  },
+  "additional": {
+    "prodPlac": "Portail Épidémiologie France",
+    "relatedDocuments": {
+      "documentTitle": [
+        {
+          "lang": "fr"
+        },
+        {
+          "lang": "en"
+        }
+      ],
+      "documentLink": [
+        {
+          "lang": "fr",
+          "value": "http://www.balises-rhone-alpes.org/"
+        },
+        {
+          "lang": "en",
+          "value": "http://www.balises-rhone-alpes.org/"
+        }
+      ]
+    },
+    "creationDate": "04-01-2011",
+    "lastUpdatedManual": "28-08-2012",
+    "theme": {},
+    "governance": {},
+    "collaborations": {},
+    "mockSample": {},
+    "dataQuality": {},
+    "variableDictionnary": {},
+    "dataTypes": {
+      "isDataInBiobank": false
+    },
+    "collectionProcess": {
+      "collectionModeDetails": [
+        {
+          "lang": "fr",
+          "value": "actif ou passif"
+        },
+        {
+          "lang": "en",
+          "value": "active or passive"
+        }
+      ]
+    },
+    "geographicalCoverage": {
+      "geoDetail": [
+        {
+          "lang": "fr",
+          "value": "Rhône"
+        },
+        {
+          "lang": "en",
+          "value": "Rhône"
+        }
+      ]
+    },
+    "activeFollowUp": {
+      "isActiveFollowUp": true
+    },
+    "dataCollectionIntegration": {
+      "isDataIntegration": false
+    },
+    "isHealthTheme": true
+  },
+  "schematype": "survey"
+}

@@ -1,0 +1,779 @@
+{
+  "stdyDscr": {
+    "citation": {
+      "titlStmt": {
+        "IDNo": [
+          {
+            "agency": "PEF",
+            "value": "73205"
+          },
+          {
+            "agency": "FReSH",
+            "value": "FRESH-PEF73205"
+          }
+        ],
+        "titl": [
+          {
+            "lang": "fr",
+            "value": "Cohorte d'adolescents ayant été admis dans un service d’urgences pédiatriques pour une tentative de suicide"
+          },
+          {
+            "lang": "en",
+            "value": "Cohort of Adolescents Admitted to Paediatric Emergency Unit for Attempted Suicide"
+          }
+        ]
+      },
+      "rspStmt": {
+        "AuthEnty": [
+          {
+            "name": "Patricia;GIRAUD-ESCOFFIER",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "ASSISTANCE PUBLIQUE HOPITAUX DE MARSEILLE (AP-HM)"
+              },
+              {
+                "lang": "en",
+                "value": "ASSISTANCE PUBLIQUE HOPITAUX DE MARSEILLE (AP-HM)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/002cp4060",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "261300081",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ],
+            "isContact": true,
+            "email": "dr.giraud.escoffier@free.fr",
+            "PILabo": "Adolescent suicide and malaise association (ASMA); AP-HM"
+          },
+          {
+            "name": "Cécile;FORTANIER",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "UNIVERSITE D'AIX MARSEILLE"
+              },
+              {
+                "lang": "en",
+                "value": "UNIVERSITE D'AIX MARSEILLE"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "070334919",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/035xkbk20",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "130015332",
+                "role": "organisation id",
+                "title": "SIREN"
+              },
+              {
+                "uri": "200014577Z",
+                "role": "labo id",
+                "title": "RNSR"
+              }
+            ],
+            "isContact": false,
+            "email": "",
+            "PILabo": "Faculty of Medicine, Aix-Marseille Universit, AP-HM / EA 3279, methodological support unit for clinical research and economic assessment, public health laboratory, chronic disease and public health services"
+          }
+        ],
+        "othId": []
+      },
+      "distStmt": {
+        "contact": [
+          {
+            "name": "Patricia;GIRAUD-ESCOFFIER",
+            "email": "dr.giraud.escoffier@free.fr",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "ASSISTANCE PUBLIQUE HOPITAUX DE MARSEILLE (AP-HM)"
+              },
+              {
+                "lang": "en",
+                "value": "ASSISTANCE PUBLIQUE HOPITAUX DE MARSEILLE (AP-HM)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/002cp4060",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "261300081",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          }
+        ]
+      },
+      "prodStmt": {
+        "fundAg": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "ARS PACA"
+              },
+              {
+                "lang": "en",
+                "value": "ARS PACA"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "SIREN",
+                "uri": "130007982"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ]
+          }
+        ],
+        "producer": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "ASSOCIATION SUICIDE ET MAL ETRE CHEZ L'ADOLESCENT (ASMA)"
+              },
+              {
+                "lang": "en",
+                "value": "ASSOCIATION SUICIDE ET MAL ETRE CHEZ L'ADOLESCENT (ASMA)"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Privé à but non lucratif"
+              },
+              {
+                "lang": "en",
+                "value": "Private non-profit"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "443512355"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "studyAuthorization": {
+      "authorizingAgency": {
+        "lang": "fr",
+        "value": "CNIL"
+      }
+    },
+    "method": {
+      "notes": [
+        {
+          "subject": "research type",
+          "lang": "fr",
+          "value": "Etude observationnelle"
+        },
+        {
+          "subject": "research type",
+          "lang": "en",
+          "value": "Observational Study"
+        },
+        {
+          "lang": "fr",
+          "subject": "observational study method",
+          "value": "Cohorte"
+        },
+        {
+          "lang": "en",
+          "subject": "observational study method",
+          "value": "Cohort study"
+        }
+      ],
+      "stdyClas": [
+        {
+          "lang": "fr",
+          "value": "Inconnu"
+        },
+        {
+          "lang": "en",
+          "value": "Unknown"
+        }
+      ],
+      "dataColl": {
+        "targetSampleSize": [
+          {
+            "lang": "fr",
+            "value": "[500-1000[ individus"
+          },
+          {
+            "lang": "en",
+            "value": "[500-1000[ individuals"
+          }
+        ],
+        "sampleFrame": {
+          "frameUnit": {
+            "unitType": [
+              {
+                "lang": "fr",
+                "value": "Via des structures (services ou établissements de santé, écoles, entreprises…)"
+              },
+              {
+                "lang": "en",
+                "value": "Through organizations (health services or institutions, schools, businesses, etc.)"
+              }
+            ]
+          }
+        },
+        "sources": [
+          {}
+        ],
+        "collMode": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Interview",
+              "vocab": "CESSDA"
+            },
+            "value": "Entretien avec le participant (dont clinique)"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Interview",
+              "vocab": "CESSDA"
+            },
+            "value": "Interview with the participant (including clinical)"
+          }
+        ],
+        "sampProc": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ],
+        "respRate": [
+          {
+            "lang": "fr",
+            "value": "517"
+          },
+          {
+            "lang": "en",
+            "value": "517"
+          }
+        ]
+      }
+    },
+    "stdyInfo": {
+      "abstract": [
+        {
+          "contentType": "purpose",
+          "lang": "fr",
+          "value": "Les tentatives de suicide (TS) de l’adolescent représentent une préoccupation importante de santé publique ayant conduit à de nombreux travaux scientifiques, mais peu auprès de jeunes adolescents. Nous avons étudié les caractéristiques épidémiologiques et le devenir psychique sur 1 an des adolescents ayant été admis dans un service d’urgences pédiatriques de Marseille pour une tentative de suicide, grâce à l’existence d’un réseau hôpital–ville en charge de l’organisation de leur suivi"
+        },
+        {
+          "contentType": "purpose",
+          "lang": "en",
+          "value": "Teen suicide attempts (SA) are a significant public health concern that have led to numerous scientific studies, but few involving young adolescents. We studied the epidemiological characteristics and psychological outcome for adolescents that were admitted to a paediatric emergency unit in Marseilles for attempted suicide over 1 year, given the existence of a city hospital network in charge of monitoring these patients."
+        }
+      ],
+      "subject": {
+        "topcClas": [
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/3de50dee-da1c-4791-a386-56bca24a5fed"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D011570"
+              }
+            ],
+            "value": "Psychiatrie"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/3de50dee-da1c-4791-a386-56bca24a5fed"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D011570"
+              }
+            ],
+            "value": "Psychiatry"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "fr",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/851395624",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Lésion auto-infligée"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "en",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/851395624",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Intentional self-harm"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Systèmes de soins et accès aux soins"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants comportementaux"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants socio-démographiques et économiques"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Behavioral determinants"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Socio-demographic and economic determinants"
+          }
+        ],
+        "keyword": [
+          {
+            "lang": "fr",
+            "value": "suicide"
+          },
+          {
+            "lang": "fr",
+            "value": "adolescent"
+          },
+          {
+            "lang": "fr",
+            "value": "spychatrie"
+          },
+          {
+            "lang": "fr",
+            "value": "pédiatrie"
+          },
+          {
+            "lang": "fr",
+            "value": "prise en charge"
+          },
+          {
+            "lang": "en",
+            "value": "suicide"
+          },
+          {
+            "lang": "en",
+            "value": "adolescent"
+          },
+          {
+            "lang": "en",
+            "value": "psychiatry"
+          },
+          {
+            "lang": "en",
+            "value": "paediatrics"
+          },
+          {
+            "lang": "en",
+            "value": "treatment"
+          }
+        ]
+      },
+      "qualityStatement": {
+        "standardsCompliance": {},
+        "otherQualityStatement": [
+          {
+            "lang": "fr",
+            "value": "Les variables qualitatives ont été synthétisées par leur fréquence absolue et relative, les variables quantitatives par leur moyenne, écart-type et étendue. Les données ont été analysées avec le logiciel SPSS version 15.0 (SPSS Inc., Chicago, IL, États-Unis)."
+          },
+          {
+            "lang": "en",
+            "value": "Qualitative variables were synthesised by their absolute and relevant frequency; quantitative variables by mean, standard deviation and range. Data were analysed using SPSS, version 15.0 (SPSS Inc., Chicago IL, USA)."
+          }
+        ]
+      },
+      "sumDscr": {
+        "dataKind": [
+          {
+            "lang": "fr",
+            "value": "Données cliniques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données rapportées par le participant de l&#x27;étude"
+          },
+          {
+            "lang": "en",
+            "value": "Clinical data"
+          },
+          {
+            "lang": "en",
+            "value": "Participant-reported health data"
+          }
+        ],
+        "anlyUnit": [
+          {
+            "lang": "fr",
+            "value": "Individus"
+          },
+          {
+            "lang": "en",
+            "value": "Individuals"
+          }
+        ],
+        "nation": [
+          {
+            "lang": "fr",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          },
+          {
+            "lang": "en",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          }
+        ],
+        "geogCover": [
+          {
+            "lang": "fr",
+            "value": "Provence - Alpes - Côte d'Azur"
+          },
+          {
+            "lang": "en",
+            "value": "Provence - Alpes - Côte d'Azur"
+          }
+        ],
+        "universe": [
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Masculin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Féminin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Male"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Female"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000293"
+            },
+            "value": "Adolescence (13 à 18 ans)"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Patients"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "en",
+            "value": "Patients population"
+          },
+          {
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Tous les adolescents de moins de 15 ans et 3 mois s’étant présentés dans l’un des 3 sites d’urgences pédiatriques de Marseille pour une tentative de suicide du 1er octobre 2002 au 31 décembre 2010 ont été inclus de façon exhaustive dans l’étude."
+          },
+          {
+            "clusion": "I",
+            "lang": "en",
+            "value": "All adolescents under 15 years and 3 months old who attended one of three paediatric emergency units in Marseilles for attempted suicide between 01 October 2002 and 31 December 2010 were extensively enrolled in the study."
+          },
+          {
+            "clusion": "E",
+            "lang": "fr",
+            "value": ""
+          },
+          {
+            "clusion": "E",
+            "lang": "en",
+            "value": ""
+          }
+        ],
+        "collDate": [
+          {
+            "event": "start",
+            "value": "2002-01-01"
+          },
+          {
+            "event": "end",
+            "value": "2011-01-01"
+          }
+        ]
+      }
+    },
+    "dataAccs": {
+      "setAvail": {
+        "avlStatus": [
+          {
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Accès réservé"
+          },
+          {
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Restricted access"
+          }
+        ],
+        "conditions": [
+          {
+            "lang": "fr",
+            "value": "Contacter le responsable scientifique"
+          },
+          {
+            "lang": "en",
+            "value": "Contact the principal investigator"
+          }
+        ]
+      },
+      "useStmt": {}
+    },
+    "othStdMat": {
+      "relMat": [
+        {
+          "lang": "fr",
+          "value": "Accès restreint sur projet spécifique"
+        },
+        {
+          "lang": "en",
+          "value": "Access on specific project only"
+        }
+      ]
+    },
+    "studyDevelopment": {
+      "developmentActivity": [
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/morbidité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Consommation de soins/services de santé"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/morbidity"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health care consumption and services"
+        }
+      ]
+    }
+  },
+  "docDscr": {
+    "citation": {
+      "rspStmt": {
+        "AuthEnty": ""
+      },
+      "prodStmt": {
+        "producer": [
+          {
+            "affiliation": ""
+          }
+        ],
+        "prodPlac": "Portail Épidémiologie France"
+      }
+    }
+  },
+  "additional": {
+    "prodPlac": "Portail Épidémiologie France",
+    "relatedDocuments": {
+      "documentTitle": [
+        {
+          "lang": "fr",
+          "value": "Liste des publications dans Pubmed"
+        },
+        {
+          "lang": "en",
+          "value": "Liste des publications dans Pubmed"
+        }
+      ],
+      "documentLink": [
+        {
+          "lang": "fr",
+          "value": "http://tinyurl.com/PUBMED-suicide"
+        },
+        {
+          "lang": "en",
+          "value": "http://tinyurl.com/PUBMED-suicide"
+        }
+      ]
+    },
+    "creationDate": "25-08-2015",
+    "lastUpdatedManual": "20-06-2016",
+    "theme": {},
+    "governance": {
+      "committee": true
+    },
+    "collaborations": {},
+    "mockSample": {},
+    "dataQuality": {},
+    "variableDictionnary": {},
+    "dataTypes": {
+      "clinicalDataDetails": [
+        {
+          "lang": "fr",
+          "value": "Evaluation psychiatrique initiale des adolescents a été menée par 2 pédopsychiatres. Devenir et la prise en charge psychique des adolescents durant l’année suivant la TS"
+        },
+        {
+          "lang": "en",
+          "value": "Initial psychiatric assessment of adolescents by two child psychiatrists. Outcome and psychological care for adolescents in the year following SA."
+        }
+      ],
+      "isDataInBiobank": false
+    },
+    "collectionProcess": {
+      "collectionModeDetails": [
+        {
+          "lang": "fr",
+          "value": "Les données ont été recueillies à la fois auprès des adolescents et des familles mais aussi auprès des professionnels durant l’hospitalisation initiale et le suivi dans le cadre du réseau"
+        },
+        {
+          "lang": "en",
+          "value": "Data was collected from both adolescents and families, as well as professionals during initial hospital stay and follow-up within the network."
+        }
+      ]
+    },
+    "geographicalCoverage": {
+      "geoDetail": [
+        {
+          "lang": "fr",
+          "value": "Marseille"
+        },
+        {
+          "lang": "en",
+          "value": "Marseilles"
+        }
+      ]
+    },
+    "activeFollowUp": {
+      "isActiveFollowUp": true
+    },
+    "dataCollectionIntegration": {
+      "isDataIntegration": false
+    },
+    "isHealthTheme": true
+  },
+  "schematype": "survey"
+}

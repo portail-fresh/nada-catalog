@@ -1,0 +1,909 @@
+{
+  "stdyDscr": {
+    "citation": {
+      "titlStmt": {
+        "IDNo": [
+          {
+            "agency": "PEF",
+            "value": "73204"
+          },
+          {
+            "agency": "FReSH",
+            "value": "FRESH-PEF73204"
+          }
+        ],
+        "titl": [
+          {
+            "lang": "fr",
+            "value": "Cohorte de patients hospitalisés suite à une tentative de suicide"
+          },
+          {
+            "lang": "en",
+            "value": "Cohort of Patients Admitted to Hospital Following Suicide Attempt"
+          }
+        ],
+        "altTitl": [
+          {
+            "lang": "fr",
+            "value": "REPEATERS"
+          },
+          {
+            "lang": "en",
+            "value": "REPEATERS"
+          }
+        ]
+      },
+      "rspStmt": {
+        "AuthEnty": [
+          {
+            "name": "Francis;GUILLEMIN",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "CENTRE HOSPITALIER REGIONAL ET UNIVERSITAIRE DE NANCY"
+              },
+              {
+                "lang": "en",
+                "value": "CENTRE HOSPITALIER REGIONAL ET UNIVERSITAIRE DE NANCY"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "0000-0002-9860-7024",
+                "role": "pi id",
+                "title": "ORCID"
+              },
+              {
+                "uri": "068536569",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/016ncsr12",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "200042166",
+                "role": "organisation id",
+                "title": "SIREN"
+              },
+              {
+                "uri": "200918432A",
+                "role": "labo id",
+                "title": "RNSR"
+              }
+            ],
+            "isContact": true,
+            "email": "francis.guillemin@univ-lorraine.fr",
+            "PILabo": "Nancy University Hospital / EA 4360 APEMAC, Nancy - INSERM CIC-EC 1433"
+          },
+          {
+            "name": "Fabienne;LIGIER",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "CENTRE HOSPITALIER REGIONAL ET UNIVERSITAIRE DE NANCY"
+              },
+              {
+                "lang": "en",
+                "value": "CENTRE HOSPITALIER REGIONAL ET UNIVERSITAIRE DE NANCY"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "114589976",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/016ncsr12",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "200042166",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ],
+            "isContact": true,
+            "email": "fabienne.ligier@cpn-laxou.com",
+            "PILabo": "Nancy University Hospital / EA 4360 APEMAC, Nancy"
+          },
+          {
+            "name": "Bernard;KABUTH",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "CENTRE PSYCHOTHERAPIQUE DE NANCY (CPN)"
+              },
+              {
+                "lang": "en",
+                "value": "CENTRE PSYCHOTHERAPIQUE DE NANCY (CPN)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "079426387",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "265400119",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ],
+            "isContact": true,
+            "email": "bernard.kabuth@cpn-laxou.com",
+            "PILabo": "Nancy-Laxou Psychotherapeutic Centre"
+          }
+        ],
+        "othId": []
+      },
+      "distStmt": {
+        "contact": [
+          {
+            "name": "Francis;GUILLEMIN",
+            "email": "francis.guillemin@univ-lorraine.fr",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "CENTRE HOSPITALIER REGIONAL ET UNIVERSITAIRE DE NANCY"
+              },
+              {
+                "lang": "en",
+                "value": "CENTRE HOSPITALIER REGIONAL ET UNIVERSITAIRE DE NANCY"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/016ncsr12",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "200042166",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          },
+          {
+            "name": "Fabienne;LIGIER",
+            "email": "fabienne.ligier@cpn-laxou.com",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "CENTRE HOSPITALIER REGIONAL ET UNIVERSITAIRE DE NANCY"
+              },
+              {
+                "lang": "en",
+                "value": "CENTRE HOSPITALIER REGIONAL ET UNIVERSITAIRE DE NANCY"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/016ncsr12",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "200042166",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          },
+          {
+            "name": "Bernard;KABUTH",
+            "email": "bernard.kabuth@cpn-laxou.com",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "CENTRE PSYCHOTHERAPIQUE DE NANCY (CPN)"
+              },
+              {
+                "lang": "en",
+                "value": "CENTRE PSYCHOTHERAPIQUE DE NANCY (CPN)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "265400119",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          }
+        ]
+      },
+      "prodStmt": {
+        "fundAg": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "CENTRE HOSPITALIER REGIONAL ET UNIVERSITAIRE DE NANCY"
+              },
+              {
+                "lang": "en",
+                "value": "CENTRE HOSPITALIER REGIONAL ET UNIVERSITAIRE DE NANCY"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "ROR",
+                "uri": "https://ror.org/016ncsr12"
+              },
+              {
+                "title": "SIREN",
+                "uri": "200042166"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE (INSERM)"
+              },
+              {
+                "lang": "en",
+                "value": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE (INSERM)"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "ROR",
+                "uri": "https://ror.org/02vjkv261"
+              },
+              {
+                "title": "SIREN",
+                "uri": "180036048"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ]
+          }
+        ],
+        "producer": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "CENTRE HOSPITALIER REGIONAL ET UNIVERSITAIRE DE NANCY"
+              },
+              {
+                "lang": "en",
+                "value": "CENTRE HOSPITALIER REGIONAL ET UNIVERSITAIRE DE NANCY"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "ROR",
+                "uri": "https://ror.org/016ncsr12"
+              },
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "200042166"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "studyAuthorization": [
+      {
+        "authorizingAgency": {
+          "lang": "fr",
+          "value": "CNIL"
+        }
+      },
+      {
+        "authorizingAgency": {
+          "lang": "fr",
+          "value": "CESREES"
+        }
+      }
+    ],
+    "method": {
+      "notes": [
+        {
+          "subject": "research type",
+          "lang": "fr",
+          "value": "Etude observationnelle"
+        },
+        {
+          "subject": "research type",
+          "lang": "en",
+          "value": "Observational Study"
+        },
+        {
+          "lang": "fr",
+          "subject": "observational study method",
+          "value": "Cohorte"
+        },
+        {
+          "lang": "en",
+          "subject": "observational study method",
+          "value": "Cohort study"
+        }
+      ],
+      "stdyClas": [
+        {
+          "lang": "fr",
+          "value": "Inconnu"
+        },
+        {
+          "lang": "en",
+          "value": "Unknown"
+        }
+      ],
+      "dataColl": {
+        "targetSampleSize": [
+          {
+            "lang": "fr",
+            "value": "< 500 individus"
+          },
+          {
+            "lang": "en",
+            "value": "< 500 individuals"
+          }
+        ],
+        "sampleFrame": {
+          "frameUnit": {
+            "unitType": [
+              {
+                "lang": "fr",
+                "value": "Via des structures (services ou établissements de santé, écoles, entreprises…)"
+              },
+              {
+                "lang": "en",
+                "value": "Through organizations (health services or institutions, schools, businesses, etc.)"
+              }
+            ]
+          }
+        },
+        "sources": [
+          {}
+        ],
+        "collMode": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Transcription",
+              "vocab": "CESSDA"
+            },
+            "value": "Transcription et saisie d’informations dans un enregistrement structuré"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Transcription",
+              "vocab": "CESSDA"
+            },
+            "value": "Converting or copying information into a structured record"
+          },
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Interview",
+              "vocab": "CESSDA"
+            },
+            "value": "Entretien avec le participant (dont clinique)"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Interview",
+              "vocab": "CESSDA"
+            },
+            "value": "Interview with the participant (including clinical)"
+          }
+        ],
+        "sampProc": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ],
+        "respRate": [
+          {
+            "lang": "fr",
+            "value": "246"
+          },
+          {
+            "lang": "en",
+            "value": "246"
+          }
+        ]
+      }
+    },
+    "stdyInfo": {
+      "abstract": [
+        {
+          "contentType": "purpose",
+          "lang": "fr",
+          "value": "Cette étude a pour objectif d'observer le comportement d'adolescents suite à une tentative de suicide. Cette étude cherche à observer si la perte de contact du personnel médical avec un adolescent dans l'année qui suit une tentative de suicide augmente le risque de récidive (étude REPEATERS), dans les 10 ans qui suivent la tentative de suicide d'inclusion"
+        },
+        {
+          "contentType": "purpose",
+          "lang": "en",
+          "value": "The aim of this study is to observe adolescent behaviour following a suicide attempt. This study shall determine and observe whether being lost to contact by medical staff the year following suicide attempt increases the risk of recurrence in adolescents (REPEATERS study) within 10 years of baseline suicide attempt."
+        }
+      ],
+      "subject": {
+        "topcClas": [
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/3de50dee-da1c-4791-a386-56bca24a5fed"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D011570"
+              }
+            ],
+            "value": "Psychiatrie"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/3de50dee-da1c-4791-a386-56bca24a5fed"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D011570"
+              }
+            ],
+            "value": "Psychiatry"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "fr",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/851395624",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Lésion auto-infligée"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "en",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/851395624",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Intentional self-harm"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants comportementaux"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Systèmes de soins et accès aux soins"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Behavioral determinants"
+          }
+        ],
+        "keyword": [
+          {
+            "lang": "fr",
+            "value": "suivi"
+          },
+          {
+            "lang": "fr",
+            "value": "récurrence"
+          },
+          {
+            "lang": "fr",
+            "value": "Tentative de suicide"
+          },
+          {
+            "lang": "fr",
+            "value": "Devenir à long terme"
+          },
+          {
+            "lang": "fr",
+            "value": "adolescent"
+          },
+          {
+            "lang": "en",
+            "value": "long-term outcome"
+          },
+          {
+            "lang": "en",
+            "value": "follow-up"
+          },
+          {
+            "lang": "en",
+            "value": "recurrence"
+          },
+          {
+            "lang": "en",
+            "value": "suicide attempt"
+          },
+          {
+            "lang": "en",
+            "value": "adolescent"
+          }
+        ]
+      },
+      "qualityStatement": {
+        "standardsCompliance": {}
+      },
+      "sumDscr": {
+        "dataKind": [
+          {
+            "lang": "fr",
+            "value": "Données cliniques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données rapportées par le participant de l&#x27;étude"
+          },
+          {
+            "lang": "en",
+            "value": "Clinical data"
+          },
+          {
+            "lang": "en",
+            "value": "Participant-reported health data"
+          }
+        ],
+        "anlyUnit": [
+          {
+            "lang": "fr",
+            "value": "Individus"
+          },
+          {
+            "lang": "en",
+            "value": "Individuals"
+          }
+        ],
+        "nation": [
+          {
+            "lang": "fr",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          },
+          {
+            "lang": "en",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          }
+        ],
+        "geogCover": [
+          {
+            "lang": "fr",
+            "value": "Grand Est"
+          },
+          {
+            "lang": "en",
+            "value": "Grand Est"
+          }
+        ],
+        "universe": [
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Masculin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Féminin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Male"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Female"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000293"
+            },
+            "value": "Adolescence (13 à 18 ans)"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Patients"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "en",
+            "value": "Patients population"
+          },
+          {
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Les adolescents (âgés de 13-18 ans) qui ont été hospitalisés après une tentative de suicide  de 1994 à 2000 à l'hôpital de Nancy Université enfants pour l'étude concernant l'impact de la perte de contact"
+          },
+          {
+            "clusion": "I",
+            "lang": "en",
+            "value": "Adolescents (aged 13-18) admitted to hospital following a suicide attempt between 1994 and 2000 at Nancy University Children's Hospital to study the impact of being lost to contact."
+          },
+          {
+            "clusion": "E",
+            "lang": "fr",
+            "value": ""
+          },
+          {
+            "clusion": "E",
+            "lang": "en",
+            "value": ""
+          }
+        ],
+        "collDate": [
+          {
+            "event": "start",
+            "value": "1994-01-01"
+          },
+          {
+            "event": "end",
+            "value": "2010-01-01"
+          }
+        ]
+      }
+    },
+    "dataAccs": {
+      "setAvail": {
+        "avlStatus": [
+          {
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Accès réservé"
+          },
+          {
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Restricted access"
+          }
+        ],
+        "conditions": [
+          {
+            "lang": "fr",
+            "value": "En contactant le Docteur LIGIER"
+          },
+          {
+            "lang": "en",
+            "value": "Contact the scientist in charge"
+          }
+        ]
+      },
+      "useStmt": {}
+    },
+    "othStdMat": {
+      "relMat": [
+        {
+          "lang": "fr",
+          "value": "Accès restreint sur projet spécifique"
+        },
+        {
+          "lang": "en",
+          "value": "Access on specific project only"
+        }
+      ]
+    },
+    "studyDevelopment": {
+      "developmentActivity": [
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/morbidité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Consommation de soins/services de santé"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/morbidity"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health care consumption and services"
+        }
+      ]
+    }
+  },
+  "docDscr": {
+    "citation": {
+      "rspStmt": {
+        "AuthEnty": "Fabienne LIGNIER"
+      },
+      "prodStmt": {
+        "producer": [
+          {
+            "affiliation": "CENTRE HOSPITALIER REGIONAL ET UNIVERSITAIRE DE NANCY",
+            "value": "Fabienne;LIGNIER"
+          }
+        ],
+        "prodPlac": "Portail Épidémiologie France"
+      }
+    }
+  },
+  "additional": {
+    "prodPlac": "Portail Épidémiologie France",
+    "relatedDocuments": {
+      "documentTitle": [
+        {
+          "lang": "fr",
+          "value": "Liste des publications dans Pubmed"
+        },
+        {
+          "lang": "en",
+          "value": "Liste des publications dans Pubmed"
+        }
+      ],
+      "documentLink": [
+        {
+          "lang": "fr",
+          "value": "http://tinyurl.com/PUBMED-REPEATERS"
+        },
+        {
+          "lang": "en",
+          "value": "http://tinyurl.com/PUBMED-REPEATERS"
+        }
+      ]
+    },
+    "creationDate": "24-08-2015",
+    "lastUpdatedManual": "23-06-2016",
+    "theme": {},
+    "governance": {
+      "committee": false
+    },
+    "collaborations": {},
+    "mockSample": {},
+    "dataQuality": {},
+    "variableDictionnary": {},
+    "dataTypes": {
+      "clinicalDataDetails": [
+        {
+          "lang": "fr",
+          "value": "Indice de la tentative de suicide, les données personnelles et familiales ont été recueillies à partir des dossiers médicaux pour les adolescents: caractéristiques personnelles (sexe, âge, histoire de la tentative de suicide [oui / non], comorbidités psychiatriques [oui / non] selon la Classification, les difficultés scolaires [oui / non], et les caractéristiques familiales (relation matrimoniale des parents [séparés ou non], le statut professionnel de chacun des parents de travail [ou non], des antécédents familiaux de suicide [oui / pas], et de la dépendance alcoolique des parents [oui / non]. données sur la durée de l'hospitalisation, suivi psychiatrique [oui / non], la récurrence des tentatives de suicide dans l'année (début récidive SA [oui / non]), et le statut de LCE [oui / non]"
+        },
+        {
+          "lang": "en",
+          "value": "Suicide attempt index; personal and family details were gathered from adolescent medical records: personal characteristics (sex, age, history of suicide attempts [yes/no]; psychiatric comorbidity [yes/no] according to classification; academic difficulties [yes/no] and family characteristics (marital relationship [separated or not]; employment status of each working parent [or not]; family history of suicide [yes/no] and parent alcohol dependence [yes/no]; details on length of hospitalisation; psychiatric follow-up [yes/no]; recurrence of suicide attempts throughout the year [early SA recurrence [yes/no]) and LCE (lost to contact early) status [yes/no]."
+        }
+      ],
+      "isDataInBiobank": false
+    },
+    "collectionProcess": {},
+    "geographicalCoverage": {
+      "geoDetail": [
+        {
+          "lang": "fr",
+          "value": "Nancy"
+        },
+        {
+          "lang": "en",
+          "value": "Nancy"
+        }
+      ]
+    },
+    "activeFollowUp": {
+      "isActiveFollowUp": true
+    },
+    "dataCollectionIntegration": {
+      "isDataIntegration": false
+    },
+    "isHealthTheme": true
+  },
+  "schematype": "survey"
+}

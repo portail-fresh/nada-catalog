@@ -1,0 +1,1150 @@
+{
+  "stdyDscr": {
+    "citation": {
+      "titlStmt": {
+        "IDNo": [
+          {
+            "agency": "PEF",
+            "value": "60014"
+          },
+          {
+            "agency": "FReSH",
+            "value": "FRESH-PEF60014"
+          }
+        ],
+        "titl": [
+          {
+            "lang": "fr",
+            "value": "Cohorte des mineurs d'uranium en France"
+          },
+          {
+            "lang": "en",
+            "value": "Cohort Study of Uranium Miners in France"
+          }
+        ],
+        "altTitl": [
+          {
+            "lang": "fr",
+            "value": "MINEURS D'URANIUM"
+          },
+          {
+            "lang": "en",
+            "value": "MINEURS D'URANIUM"
+          }
+        ]
+      },
+      "rspStmt": {
+        "AuthEnty": [
+          {
+            "name": "Dominique;LAURIER",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "AUTORITE DE SURETE NUCLEAIRE ET DE RADIOPROTECTION (ASNR)"
+              },
+              {
+                "lang": "en",
+                "value": "AUTORITE DE SURETE NUCLEAIRE ET DE RADIOPROTECTION (ASNR)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "0000-0003-1432-4738",
+                "role": "pi id",
+                "title": "ORCID"
+              },
+              {
+                "uri": "156587181",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/04dbtaf18",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "130001803",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ],
+            "isContact": true,
+            "email": "dominique.laurier@irsn.fr",
+            "PILabo": "LABORATOIRE D'ÉPIDÉMIOLOGIE DES RADIATIONS DRPH/SRBE/LEPID IRSN INSTITUT DE RADIOPROTECTION ET DE SURETÉ NUCLÉAIRE (IRSN)"
+          },
+          {
+            "name": "Klervi;LEURAUD",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "AUTORITE DE SURETE NUCLEAIRE ET DE RADIOPROTECTION (ASNR)"
+              },
+              {
+                "lang": "en",
+                "value": "AUTORITE DE SURETE NUCLEAIRE ET DE RADIOPROTECTION (ASNR)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "090176804",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/04dbtaf18",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "130001803",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ],
+            "isContact": true,
+            "email": "klervi.leuraud@irsn.fr",
+            "PILabo": "LABORATOIRE D'ÉPIDÉMIOLOGIE DES RADIATIONS DRPH/SRBE/LEPID IRSN INSTITUT DE RADIOPROTECTION ET DE SURETÉ NUCLÉAIRE (IRSN)"
+          },
+          {
+            "name": "Estelle;RAGE",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "AUTORITE DE SURETE NUCLEAIRE ET DE RADIOPROTECTION (ASNR)"
+              },
+              {
+                "lang": "en",
+                "value": "AUTORITE DE SURETE NUCLEAIRE ET DE RADIOPROTECTION (ASNR)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "095672621",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/04dbtaf18",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "130001803",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ],
+            "isContact": true,
+            "email": "estelle.rage@irsn.fr",
+            "PILabo": "LABORATOIRE D'ÉPIDÉMIOLOGIE DES RADIATIONS DRPH/SRBE/LEPID IRSN INSTITUT DE RADIOPROTECTION ET DE SURETÉ NUCLÉAIRE (IRSN)"
+          }
+        ],
+        "othId": [
+          {
+            "type": "collaboration",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "Inclusion dans un projet européen : projet Alpha-Risk, dans le cadre du 6ème PCRD de la Communauté Européenne."
+              }
+            ]
+          }
+        ]
+      },
+      "distStmt": {
+        "contact": [
+          {
+            "name": "Dominique;LAURIER",
+            "email": "dominique.laurier@irsn.fr",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "AUTORITE DE SURETE NUCLEAIRE ET DE RADIOPROTECTION (ASNR)"
+              },
+              {
+                "lang": "en",
+                "value": "AUTORITE DE SURETE NUCLEAIRE ET DE RADIOPROTECTION (ASNR)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/04dbtaf18",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "130001803",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          },
+          {
+            "name": "Klervi;LEURAUD",
+            "email": "klervi.leuraud@irsn.fr",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "AUTORITE DE SURETE NUCLEAIRE ET DE RADIOPROTECTION (ASNR)"
+              },
+              {
+                "lang": "en",
+                "value": "AUTORITE DE SURETE NUCLEAIRE ET DE RADIOPROTECTION (ASNR)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/04dbtaf18",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "130001803",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          },
+          {
+            "name": "Estelle;RAGE",
+            "email": "estelle.rage@irsn.fr",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "AUTORITE DE SURETE NUCLEAIRE ET DE RADIOPROTECTION (ASNR)"
+              },
+              {
+                "lang": "en",
+                "value": "AUTORITE DE SURETE NUCLEAIRE ET DE RADIOPROTECTION (ASNR)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/04dbtaf18",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "130001803",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          }
+        ]
+      },
+      "prodStmt": {
+        "fundAg": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "EUROPEAN COMMISSION RESEARCH"
+              },
+              {
+                "lang": "en",
+                "value": "EUROPEAN COMMISSION RESEARCH"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "ROR",
+                "uri": "https://ror.org/00k4n6c32"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Public (Europe)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (Europe)"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "AREVA"
+              },
+              {
+                "lang": "en",
+                "value": "AREVA"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "ROR",
+                "uri": "https://ror.org/05ek91318"
+              },
+              {
+                "title": "SIREN",
+                "uri": "712054923"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Industrie"
+              },
+              {
+                "lang": "en",
+                "value": "Industry"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "AUTORITE DE SURETE NUCLEAIRE ET DE RADIOPROTECTION (ASNR)"
+              },
+              {
+                "lang": "en",
+                "value": "AUTORITE DE SURETE NUCLEAIRE ET DE RADIOPROTECTION (ASNR)"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "ROR",
+                "uri": "https://ror.org/04dbtaf18"
+              },
+              {
+                "title": "SIREN",
+                "uri": "130001803"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ]
+          }
+        ],
+        "producer": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "AREVA"
+              },
+              {
+                "lang": "en",
+                "value": "AREVA"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Industrie"
+              },
+              {
+                "lang": "en",
+                "value": "Industry"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "ROR",
+                "uri": "https://ror.org/05ek91318"
+              },
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "330956871"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "studyAuthorization": {
+      "authorizingAgency": {
+        "lang": "fr",
+        "value": "CNIL"
+      }
+    },
+    "method": {
+      "notes": [
+        {
+          "subject": "research type",
+          "lang": "fr",
+          "value": "Etude observationnelle"
+        },
+        {
+          "subject": "research type",
+          "lang": "en",
+          "value": "Observational Study"
+        },
+        {
+          "lang": "fr",
+          "subject": "observational study method",
+          "value": "Cohorte"
+        },
+        {
+          "lang": "en",
+          "subject": "observational study method",
+          "value": "Cohort study"
+        }
+      ],
+      "stdyClas": [
+        {
+          "lang": "fr",
+          "value": "Inconnu"
+        },
+        {
+          "lang": "en",
+          "value": "Unknown"
+        }
+      ],
+      "dataColl": {
+        "targetSampleSize": [
+          {
+            "lang": "fr",
+            "value": "[1000-10000[ individus"
+          },
+          {
+            "lang": "en",
+            "value": "[1000-10000[ individuals"
+          }
+        ],
+        "sampleFrame": {
+          "frameUnit": {
+            "unitType": [
+              {
+                "lang": "fr",
+                "value": "Base de population à finalité statistique"
+              },
+              {
+                "lang": "en",
+                "value": "Population database for statistical purposes"
+              }
+            ]
+          }
+        },
+        "sources": [
+          {}
+        ],
+        "collMode": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "SelfAdministeredQuestionnaire",
+              "vocab": "CESSDA"
+            },
+            "value": "Questionnaire auto-administré"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "SelfAdministeredQuestionnaire",
+              "vocab": "CESSDA"
+            },
+            "value": "Self-administered questionnaire"
+          },
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Interview",
+              "vocab": "CESSDA"
+            },
+            "value": "Entretien avec le participant (dont clinique)"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Interview",
+              "vocab": "CESSDA"
+            },
+            "value": "Interview with the participant (including clinical)"
+          }
+        ],
+        "sampProc": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ],
+        "respRate": [
+          {
+            "lang": "fr",
+            "value": "5 086"
+          },
+          {
+            "lang": "en",
+            "value": "5 086"
+          }
+        ]
+      }
+    },
+    "stdyInfo": {
+      "abstract": [
+        {
+          "contentType": "purpose",
+          "lang": "fr",
+          "value": "Étude de l'augmentation du risque de cancer, notamment de cancer pulmonaire, après une exposition chronique à des rayonnements ionisants, notamment à des émetteurs alpha (descendants du radon, poussières d'uranium). Prise en compte de cofacteurs professionnels et du tabagisme. Objectif secondaire : cette étude de cohorte bénéficie d'une bonne qualité de l'enregistrement individuel annuel de l'exposition à différents cancérigènes, et a un suivi de longue durée (plus de 20 ans en moyenne). L'ensemble des causes de décès étant enregistrés régulièrement, il est possible d'étudier également les risques autres que cancer dans cette cohorte, notamment le risque de décès cardio-vasculaire ou respiratoire.l'extrapolation du risque par unité d'exposition permet l'évaluation du risque aux faibles doses, à des niveaux rencontrées régulièrement par une partie de la population française ; ceci est notamment vrai pour l'estimation du risque de cancer par unité d'exposition au radon dans les habitations."
+        },
+        {
+          "contentType": "purpose",
+          "lang": "en",
+          "value": "Study on the increased risk of cancer, including lung cancer, after chronic exposure to ionising radiation, including alpha emitters (radon descendants, uranium dust). Professional cofactors and smoking are taken into account. Secondary objective: The cohort study benefits from high quality individual registration of exposure to various carcinogens on an annual basis, as well as long-term follow-up (over 20 years on average). All causes of death are recorded regularly. It is also possible to study risks other than cancer in this cohort, including the risk of cardiovascular or respiratory death. The extrapolation of risk per unit of exposure enables the assessment of low-dosage risk, at levels regularly encountered by some of the French population. This is especially true for the estimation of cancer risk per unit of radon exposure in the home."
+        }
+      ],
+      "subject": {
+        "topcClas": [
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/5784b7f1-c7ce-49d9-9f38-aebcda0ff41d"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D008495"
+              }
+            ],
+            "value": "Oncologie"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/4455c187-2f2f-4cd1-a4dd-449f59d73b39"
+              },
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/c42fc6ec-b216-4a24-9e9d-f5e781c175a0"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D002309"
+              }
+            ],
+            "value": "Cardiologie et médecine vasculaire"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/b533acc2-aff1-4c65-80ca-5d5bee865ba9"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D004778"
+              }
+            ],
+            "value": "Santé publique, environnementale et du travail"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/f6e18c52-6087-4662-904c-5c4b8174e40e"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D015272"
+              }
+            ],
+            "value": "Pneumologie"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/5784b7f1-c7ce-49d9-9f38-aebcda0ff41d"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D008495"
+              }
+            ],
+            "value": "Oncology"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/4455c187-2f2f-4cd1-a4dd-449f59d73b39"
+              },
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/c42fc6ec-b216-4a24-9e9d-f5e781c175a0"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D002309"
+              }
+            ],
+            "value": "Cardiology and vascular medicine"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/b533acc2-aff1-4c65-80ca-5d5bee865ba9"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D004778"
+              }
+            ],
+            "value": "Public, environmental and occupational health"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/f6e18c52-6087-4662-904c-5c4b8174e40e"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D015272"
+              }
+            ],
+            "value": "Pulmonary medicine"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants socio-démographiques et économiques : Emploi"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants comportementaux"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants comportementaux : Addictions"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants socio-démographiques et économiques"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Socio-demographic and economic determinants: Employment"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Behavioral determinants"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Behavioral determinants: Addiction"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Socio-demographic and economic determinants"
+          }
+        ],
+        "keyword": [
+          {
+            "lang": "fr",
+            "value": "poumon"
+          },
+          {
+            "lang": "fr",
+            "value": "radon"
+          },
+          {
+            "lang": "fr",
+            "value": "alpha-risk"
+          },
+          {
+            "lang": "fr",
+            "value": "décès"
+          },
+          {
+            "lang": "fr",
+            "value": "cancer"
+          },
+          {
+            "lang": "fr",
+            "value": "tabac"
+          },
+          {
+            "lang": "fr",
+            "value": "santé"
+          },
+          {
+            "lang": "fr",
+            "value": "environnement"
+          },
+          {
+            "lang": "en",
+            "value": "Death"
+          },
+          {
+            "lang": "en",
+            "value": "lung"
+          },
+          {
+            "lang": "en",
+            "value": "cancer"
+          },
+          {
+            "lang": "en",
+            "value": "radon"
+          },
+          {
+            "lang": "en",
+            "value": "tobacco"
+          },
+          {
+            "lang": "en",
+            "value": "alpha-risk"
+          },
+          {
+            "lang": "en",
+            "value": "health"
+          },
+          {
+            "lang": "en",
+            "value": "environment"
+          }
+        ]
+      },
+      "qualityStatement": {
+        "standardsCompliance": {},
+        "otherQualityStatement": {
+          "lang": "fr",
+          "value": "Présence d'une requête de cohérence au moment de la saisie des données informatiques et après la saisie des données informatiques.Gestion des données manquantes par retour au dossier source.Croisements de l'ensemble des bases de données disponibles.Relance des sujets pour réaliser les visites de suivi.Audit qualité sur la gestion des bases de données.IRSN : accréditation qualité ISO 9001.Les patients sont informés de l'utilisation de leur données par écrit."
+        }
+      },
+      "sumDscr": {
+        "dataKind": [
+          {
+            "lang": "fr",
+            "value": "Données rapportées par le participant de l&#x27;étude"
+          },
+          {
+            "lang": "en",
+            "value": "Participant-reported health data"
+          }
+        ],
+        "anlyUnit": [
+          {
+            "lang": "fr",
+            "value": "Individus"
+          },
+          {
+            "lang": "en",
+            "value": "Individuals"
+          }
+        ],
+        "nation": [
+          {
+            "lang": "fr",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          },
+          {
+            "lang": "en",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          }
+        ],
+        "universe": [
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Masculin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Féminin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Male"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Female"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Adulte (19 à 24 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adulte (25 à 44 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Adulte (45 à 64 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Personne âgée (65 à 79 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000369"
+            },
+            "value": "Grand âge (80 ans et plus)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Young Adult (19 to 24 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adult (25 to 44 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Middle Aged (45 to 64 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Aged (65 to 79 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000369"
+            },
+            "value": "Aged, 80 and over (80 years and more)"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Population générale"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "en",
+            "value": "General population"
+          },
+          {
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Avoir travaillé au moins 1 an dans les mines d'Uranium CEA-Areva"
+          },
+          {
+            "clusion": "I",
+            "lang": "en",
+            "value": "Having worked at least 1 year in the CEA-Areva Uranium Mines"
+          },
+          {
+            "clusion": "E",
+            "lang": "fr",
+            "value": ""
+          },
+          {
+            "clusion": "E",
+            "lang": "en",
+            "value": ""
+          }
+        ],
+        "collDate": [
+          {
+            "event": "start",
+            "value": "1946-01-01"
+          },
+          {
+            "event": "end",
+            "value": "2007-01-01"
+          }
+        ]
+      }
+    },
+    "dataAccs": {
+      "setAvail": {
+        "avlStatus": [
+          {
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_14cb"
+              }
+            ],
+            "value": "Accès aux seules métadonnées"
+          },
+          {
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_14cb"
+              }
+            ],
+            "value": "Metadata-only access"
+          }
+        ],
+        "conditions": []
+      },
+      "useStmt": {
+        "restrctn": {
+          "lang": "fr",
+          "value": "Utilisation impossible des données par des équipes académiques et des industriels."
+        }
+      }
+    },
+    "othStdMat": {
+      "relMat": [
+        {
+          "lang": "fr",
+          "value": "Accès restreint sur projet spécifique"
+        },
+        {
+          "lang": "en",
+          "value": "Access on specific project only"
+        }
+      ]
+    },
+    "studyDevelopment": {
+      "developmentActivity": [
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/morbidité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/mortalité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Consommation de soins/services de santé"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/morbidity"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/mortality"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health care consumption and services"
+        }
+      ]
+    }
+  },
+  "docDscr": {
+    "citation": {
+      "rspStmt": {
+        "AuthEnty": "Estelle RAGE"
+      },
+      "prodStmt": {
+        "producer": [
+          {
+            "affiliation": "AUTORITE DE SURETE NUCLEAIRE ET DE RADIOPROTECTION (ASNR)",
+            "value": "Estelle;RAGE"
+          }
+        ],
+        "prodPlac": "Portail Épidémiologie France"
+      }
+    }
+  },
+  "additional": {
+    "prodPlac": "Portail Épidémiologie France",
+    "relatedDocuments": {
+      "documentTitle": [
+        {
+          "lang": "fr",
+          "value": "List of publications in HAL"
+        },
+        {
+          "lang": "en",
+          "value": "List of publications in HAL"
+        }
+      ],
+      "documentLink": [
+        {
+          "lang": "fr",
+          "value": "http://tinyurl.com/HAL-Mineurs-d-uranium"
+        },
+        {
+          "lang": "en",
+          "value": "http://tinyurl.com/HAL-Mineurs-d-uranium"
+        }
+      ]
+    },
+    "creationDate": "08-03-2013",
+    "lastUpdatedManual": "12-08-2014",
+    "theme": {},
+    "governance": {},
+    "collaborations": {},
+    "mockSample": {},
+    "dataQuality": {},
+    "variableDictionnary": {},
+    "dataTypes": {
+      "isDataInBiobank": false
+    },
+    "collectionProcess": {
+      "collectionModeDetails": [
+        {
+          "lang": "fr",
+          "value": "Auto-questionnaire : saisie manuelle à partir d’un questionnaire papier.Entretiens : saisie manuelle à partir d’un questionnaire papier."
+        },
+        {
+          "lang": "en",
+          "value": "Self-administered questionnaire: manual input from a paper questionnaire Interviews: manual input from a paper questionnaire"
+        }
+      ]
+    },
+    "geographicalCoverage": {
+      "geoDetail": [
+        {
+          "lang": "fr",
+          "value": "4 centres français (Mines de Vendée, Limousin, Hérault, Forez)"
+        },
+        {
+          "lang": "en",
+          "value": "4 centres throughout France (Mines in Vendée, Limousin, Hérault and Forez)"
+        }
+      ]
+    },
+    "activeFollowUp": {
+      "isActiveFollowUp": true
+    },
+    "dataCollectionIntegration": {
+      "isDataIntegration": false
+    },
+    "isHealthTheme": true
+  },
+  "schematype": "survey"
+}

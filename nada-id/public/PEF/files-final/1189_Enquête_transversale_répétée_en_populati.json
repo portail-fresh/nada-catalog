@@ -1,0 +1,787 @@
+{
+  "stdyDscr": {
+    "citation": {
+      "titlStmt": {
+        "IDNo": [
+          {
+            "agency": "PEF",
+            "value": "1189"
+          },
+          {
+            "agency": "FReSH",
+            "value": "FRESH-PEF1189"
+          }
+        ],
+        "titl": [
+          {
+            "lang": "fr",
+            "value": "Enquête transversale répétée en population générale : conditions de travail des actifs occupés et leurs évolutions"
+          },
+          {
+            "lang": "en",
+            "value": "Repeated cross-sectional survey: working conditions"
+          }
+        ]
+      },
+      "rspStmt": {
+        "AuthEnty": [
+          {
+            "name": "Thomas;COUTROT",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "MINISTERE DU TRAVAIL ET DES SOLIDARITES"
+              },
+              {
+                "lang": "en",
+                "value": "MINISTERE DU TRAVAIL ET DES SOLIDARITES"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "028880641",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/018k53h31",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "110000072",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ],
+            "isContact": true,
+            "email": "thomas.coutrot@ires.fr",
+            "PILabo": "Dares"
+          }
+        ],
+        "othId": []
+      },
+      "distStmt": {
+        "contact": [
+          {
+            "name": "Thomas;COUTROT",
+            "email": "thomas.coutrot@ires.fr",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "MINISTERE DU TRAVAIL ET DES SOLIDARITES"
+              },
+              {
+                "lang": "en",
+                "value": "MINISTERE DU TRAVAIL ET DES SOLIDARITES"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/018k53h31",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "110000072",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          }
+        ]
+      },
+      "prodStmt": {
+        "fundAg": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "MINISTERE DU TRAVAIL ET DES SOLIDARITES"
+              },
+              {
+                "lang": "en",
+                "value": "MINISTERE DU TRAVAIL ET DES SOLIDARITES"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "ROR",
+                "uri": "https://ror.org/018k53h31"
+              },
+              {
+                "title": "SIREN",
+                "uri": "110000072"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ]
+          }
+        ],
+        "producer": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "MINISTERE DU TRAVAIL ET DES SOLIDARITES"
+              },
+              {
+                "lang": "en",
+                "value": "MINISTERE DU TRAVAIL ET DES SOLIDARITES"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "ROR",
+                "uri": "https://ror.org/018k53h31"
+              },
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "110000072"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "studyAuthorization": {
+      "authorizingAgency": {
+        "lang": "fr",
+        "value": "CNIL"
+      }
+    },
+    "method": {
+      "notes": [
+        {
+          "subject": "research type",
+          "lang": "fr",
+          "value": "Etude observationnelle"
+        },
+        {
+          "subject": "research type",
+          "lang": "en",
+          "value": "Observational Study"
+        }
+      ],
+      "stdyClas": [
+        {
+          "lang": "fr",
+          "value": "Inconnu"
+        },
+        {
+          "lang": "en",
+          "value": "Unknown"
+        }
+      ],
+      "dataColl": {
+        "targetSampleSize": [
+          {
+            "lang": "fr",
+            "value": ">= 20000 individus"
+          },
+          {
+            "lang": "en",
+            "value": ">= 20000 individuals"
+          }
+        ],
+        "timeMeth": [
+          {
+            "lang": "fr",
+            "value": "Etude transversale répétée"
+          },
+          {
+            "lang": "en",
+            "value": "Repeated cross-sectional study"
+          }
+        ],
+        "sampleFrame": {
+          "frameUnit": {
+            "unitType": [
+              {
+                "lang": "fr",
+                "value": "Base de population à finalité statistique"
+              },
+              {
+                "lang": "en",
+                "value": "Population database for statistical purposes"
+              }
+            ]
+          }
+        },
+        "sources": [
+          {
+            "citation": {
+              "lang": "fr",
+              "value": "SNIIRAM"
+            },
+            "srcOrig": [
+              {
+                "lang": "fr",
+                "value": "Base médico-administrative"
+              },
+              {
+                "lang": "en",
+                "value": "Medico-administrative database"
+              }
+            ]
+          }
+        ],
+        "collMode": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "SelfAdministeredQuestionnaire",
+              "vocab": "CESSDA"
+            },
+            "value": "Questionnaire auto-administré"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "SelfAdministeredQuestionnaire",
+              "vocab": "CESSDA"
+            },
+            "value": "Self-administered questionnaire"
+          },
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Interview",
+              "vocab": "CESSDA"
+            },
+            "value": "Entretien avec le participant (dont clinique)"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Interview",
+              "vocab": "CESSDA"
+            },
+            "value": "Interview with the participant (including clinical)"
+          }
+        ],
+        "sampProc": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ],
+        "respRate": [
+          {
+            "lang": "fr",
+            "value": "230296 (2016)"
+          },
+          {
+            "lang": "en",
+            "value": "18 789 (2005)"
+          }
+        ]
+      }
+    },
+    "stdyInfo": {
+      "abstract": [
+        {
+          "contentType": "purpose",
+          "lang": "fr",
+          "value": "Les principaux objectifs de l’enquête sont de décrire et d’analyser les situations de travail des actifs occupés et leurs évolutions, de faire le lien entre les différentes composantes du travail, d’observer l'évolution des technologies et leur impact sur le travail et de décrire les risques professionnels et les pratiques de prévention. Depuis 2013, l'enquête comporte en alternance un volet additionnel de question sur les conditions de travail (édition 2013 et 2019 à venir) et sur les risques psychosociaux (édition 2016). Le suivi panel mis en place depuis 2013 permet d'analyser l'impact des trajectoires professionnelles et des conditions de travail sur la santé, et réciproquement."
+        },
+        {
+          "contentType": "purpose",
+          "lang": "en",
+          "value": "The survey's primary objectives are to describe and analyse the work situations of active workers and their trends; to link up different work components; to observe technology trends and its impact on work and to describe occupational risks and prevention practices."
+        }
+      ],
+      "subject": {
+        "topcClas": [
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/b533acc2-aff1-4c65-80ca-5d5bee865ba9"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D004778"
+              }
+            ],
+            "value": "Santé publique, environnementale et du travail"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/b533acc2-aff1-4c65-80ca-5d5bee865ba9"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D004778"
+              }
+            ],
+            "value": "Public, environmental and occupational health"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants socio-démographiques et économiques"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants socio-démographiques et économiques : Emploi"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Socio-demographic and economic determinants"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Socio-demographic and economic determinants: Employment"
+          }
+        ],
+        "keyword": [
+          {
+            "lang": "fr",
+            "value": "situations de travail"
+          },
+          {
+            "lang": "fr",
+            "value": "actifs"
+          },
+          {
+            "lang": "fr",
+            "value": "évolutions"
+          },
+          {
+            "lang": "fr",
+            "value": "évolution des technologies"
+          },
+          {
+            "lang": "fr",
+            "value": "risques professionnels"
+          },
+          {
+            "lang": "fr",
+            "value": "pratiques de prévention."
+          },
+          {
+            "lang": "fr",
+            "value": "impact"
+          },
+          {
+            "lang": "en",
+            "value": "work situations"
+          },
+          {
+            "lang": "en",
+            "value": "active workers"
+          },
+          {
+            "lang": "en",
+            "value": "technology developments"
+          },
+          {
+            "lang": "en",
+            "value": "professional risks"
+          },
+          {
+            "lang": "en",
+            "value": "prevention practices"
+          },
+          {
+            "lang": "en",
+            "value": "trends"
+          },
+          {
+            "lang": "en",
+            "value": "impact"
+          }
+        ]
+      },
+      "qualityStatement": {
+        "standardsCompliance": {}
+      },
+      "sumDscr": {
+        "dataKind": [
+          {
+            "lang": "fr",
+            "value": "Données rapportées par le participant de l&#x27;étude"
+          },
+          {
+            "lang": "en",
+            "value": "Participant-reported health data"
+          }
+        ],
+        "anlyUnit": [
+          {
+            "lang": "fr",
+            "value": "Individus"
+          },
+          {
+            "lang": "en",
+            "value": "Individuals"
+          }
+        ],
+        "nation": [
+          {
+            "lang": "fr",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          },
+          {
+            "lang": "en",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          }
+        ],
+        "universe": [
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Masculin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Féminin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Male"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Female"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000293"
+            },
+            "value": "Adolescence (13 à 18 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Adulte (19 à 24 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adulte (25 à 44 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Adulte (45 à 64 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Young Adult (19 to 24 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adult (25 to 44 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Middle Aged (45 to 64 years)"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Population générale"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "en",
+            "value": "General population"
+          },
+          {
+            "clusion": "I",
+            "lang": "fr",
+            "value": "L’enquête est représentative de l’ensemble des actifs en emploi (salariés ou non), qui vivent dans un ménage ordinaire de France métropolitaine et depuis 2013, de la Martinique, la Guadeloupe, la Guyane et de la Réunion,."
+          },
+          {
+            "clusion": "I",
+            "lang": "en",
+            "value": "The survey is representative of all active workers in employment (whether employees or not) living in an ordinary household in mainland France."
+          },
+          {
+            "clusion": "E",
+            "lang": "fr",
+            "value": ""
+          },
+          {
+            "clusion": "E",
+            "lang": "en",
+            "value": ""
+          }
+        ],
+        "collDate": [
+          {
+            "event": "start",
+            "value": "1978-01-01"
+          },
+          {
+            "event": "end",
+            "value": "2016-01-01"
+          }
+        ]
+      }
+    },
+    "dataAccs": {
+      "setAvail": {
+        "avlStatus": [
+          {
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Accès réservé"
+          },
+          {
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Restricted access"
+          }
+        ],
+        "accsPlac": [
+          {
+            "lang": "fr",
+            "value": "données individuelles disponibles pour les chercheurs au centre Quételet / Maurice Halbwachs"
+          },
+          {
+            "lang": "en",
+            "value": "Detailed results online, personal data available for researchers at the Quételet center/Maurice Halbwachs."
+          }
+        ],
+        "conditions": []
+      },
+      "useStmt": {}
+    },
+    "othStdMat": {
+      "relMat": [
+        {
+          "lang": "fr",
+          "value": "Accès libre"
+        },
+        {
+          "lang": "en",
+          "value": "Free access"
+        }
+      ]
+    },
+    "studyDevelopment": {
+      "developmentActivity": [
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Autres"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Others"
+        }
+      ]
+    }
+  },
+  "docDscr": {
+    "citation": {
+      "rspStmt": {
+        "AuthEnty": "Thomas COUTROT"
+      },
+      "prodStmt": {
+        "producer": [
+          {
+            "affiliation": "MINISTERE DU TRAVAIL ET DES SOLIDARITES",
+            "value": "Thomas;COUTROT"
+          }
+        ],
+        "prodPlac": "Portail Épidémiologie France"
+      }
+    }
+  },
+  "additional": {
+    "prodPlac": "Portail Épidémiologie France",
+    "relatedDocuments": {
+      "documentTitle": [
+        {
+          "lang": "fr"
+        },
+        {
+          "lang": "en"
+        }
+      ],
+      "documentLink": [
+        {
+          "lang": "fr",
+          "value": "http://dares.travail-emploi.gouv.fr/dares-etudes-et-statistiques/enquetes-de-a-a-z/article/conditions-de-travail-edition-2013"
+        },
+        {
+          "lang": "en",
+          "value": "http://dares.travail-emploi.gouv.fr/dares-etudes-et-statistiques/enquetes-de-a-a-z/article/conditions-de-travail-edition-2013"
+        }
+      ]
+    },
+    "creationDate": "15-02-2011",
+    "lastUpdatedManual": "25-10-2017",
+    "theme": {},
+    "governance": {
+      "committee": true
+    },
+    "collaborations": {},
+    "mockSample": {},
+    "dataQuality": {},
+    "variableDictionnary": {},
+    "dataTypes": {
+      "isDataInBiobank": false
+    },
+    "collectionProcess": {
+      "collectionModeDetails": [
+        {
+          "lang": "fr",
+          "value": "Jusqu’en 2013, l’enquête était un module complémentaire de l'enquête Emploi. Les personnes actives occupés étaient alors interrogées sur leurs conditions de travail après la passation du questionnaire de l’enquête Emploi. Depuis 2013 l’enquête est indépendante de l’enquête Emploi. Le champ a été étendu aux DOM et un panel a été mis en place, avec une interrogation tous les 3 ans. Les questions les plus sensibles sont regroupées dans un auto-questionnaire auquel les enquêtés répondent sous casque après l'entretien en face-à-face"
+        },
+        {
+          "lang": "en",
+          "value": "The Emploi survey was conducted every March until 2002. Subjects were asked about their work conditions after filling out the Emploi survey questionnaire. The Emploi survey has been \"ongoing\" for over six quarters since 2002. In 2005, those surveyed, active workers, were questioned during the sixth and last interview. The survey will be withdrawn from the Emploi survey in 2012."
+        }
+      ]
+    },
+    "geographicalCoverage": {
+      "geoDetail": [
+        {
+          "lang": "fr",
+          "value": "France entière"
+        },
+        {
+          "lang": "en",
+          "value": "Metropolitan France"
+        }
+      ]
+    },
+    "activeFollowUp": {
+      "isActiveFollowUp": true
+    },
+    "dataCollectionIntegration": {
+      "isDataIntegration": true
+    },
+    "isHealthTheme": true
+  },
+  "schematype": "survey"
+}

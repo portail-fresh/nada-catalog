@@ -1,0 +1,1016 @@
+{
+  "stdyDscr": {
+    "citation": {
+      "titlStmt": {
+        "IDNo": [
+          {
+            "agency": "PEF",
+            "value": "3981"
+          },
+          {
+            "agency": "FReSH",
+            "value": "FRESH-PEF3981"
+          }
+        ],
+        "titl": [
+          {
+            "lang": "fr",
+            "value": "Réseau national de vigilance et de prévention des pathologies professionnelles RNV3P"
+          },
+          {
+            "lang": "en",
+            "value": "RNV3p National Network"
+          }
+        ],
+        "altTitl": [
+          {
+            "lang": "fr",
+            "value": "RNV3P"
+          },
+          {
+            "lang": "en",
+            "value": "RNV3P"
+          }
+        ]
+      },
+      "rspStmt": {
+        "AuthEnty": [
+          {
+            "name": "Mélina;LE BARBIER",
+            "affiliation": [
+              {
+                "lang": "fr"
+              },
+              {
+                "lang": "en"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "0000-0003-1598-6557",
+                "role": "pi id",
+                "title": "ORCID"
+              },
+              {
+                "uri": "265835291",
+                "role": "pi id",
+                "title": "IdRef"
+              }
+            ],
+            "isContact": true,
+            "email": "melina.lebarbier@santepubliquefrance.fr",
+            "PILabo": ""
+          }
+        ],
+        "othId": {
+          "type": "collaboration",
+          "affiliation": {
+            "lang": "fr",
+            "value": "MODERNET"
+          }
+        }
+      },
+      "distStmt": {
+        "contact": [
+          {
+            "name": "Mélina;LE BARBIER",
+            "email": "melina.lebarbier@santepubliquefrance.fr",
+            "affiliation": [
+              {
+                "lang": "fr"
+              },
+              {
+                "lang": "en"
+              }
+            ]
+          }
+        ]
+      },
+      "prodStmt": {
+        "fundAg": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "AGENCE NATIONALE DE SECURITE SANITAIRE DE L ALIMENTATION DE L ENVIRONNEMENT ET DU TRAVAIL (ANSES)"
+              },
+              {
+                "lang": "en",
+                "value": "AGENCE NATIONALE DE SECURITE SANITAIRE DE L ALIMENTATION DE L ENVIRONNEMENT ET DU TRAVAIL (ANSES)"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "ROR",
+                "uri": "https://ror.org/0471kz689"
+              },
+              {
+                "title": "SIREN",
+                "uri": "130012024"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "CAISSE NATIONALE DE L'ASSURANCE MALADIE (CNAM)"
+              },
+              {
+                "lang": "en",
+                "value": "CAISSE NATIONALE DE L'ASSURANCE MALADIE (CNAM)"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "ROR",
+                "uri": "https://ror.org/03am7sg53"
+              },
+              {
+                "title": "SIREN",
+                "uri": "180035024"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "MUTUALITE SOCIALE AGRICOLE (MSA)"
+              },
+              {
+                "lang": "en",
+                "value": "MUTUALITE SOCIALE AGRICOLE (MSA)"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "SIREN",
+                "uri": "302731054"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ]
+          }
+        ],
+        "producer": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "SOCIETE FRANCAISE MEDECINE TRAVAIL (SFMT)"
+              },
+              {
+                "lang": "en",
+                "value": "SOCIETE FRANCAISE MEDECINE TRAVAIL (SFMT)"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Privé à but non lucratif"
+              },
+              {
+                "lang": "en",
+                "value": "Private non-profit"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "439084229"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "AGENCE NATIONALE DE SECURITE SANITAIRE DE L ALIMENTATION DE L ENVIRONNEMENT ET DU TRAVAIL (ANSES)"
+              },
+              {
+                "lang": "en",
+                "value": "AGENCE NATIONALE DE SECURITE SANITAIRE DE L ALIMENTATION DE L ENVIRONNEMENT ET DU TRAVAIL (ANSES)"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "ROR",
+                "uri": "https://ror.org/0471kz689"
+              },
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "130012024"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "SANTE PUBLIQUE FRANCE"
+              },
+              {
+                "lang": "en",
+                "value": "SANTE PUBLIQUE FRANCE"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "ROR",
+                "uri": "https://ror.org/00dfw9p58"
+              },
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "130022338"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "CAISSE NATIONALE DE L'ASSURANCE MALADIE (CNAM)"
+              },
+              {
+                "lang": "en",
+                "value": "CAISSE NATIONALE DE L'ASSURANCE MALADIE (CNAM)"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "ROR",
+                "uri": "https://ror.org/03am7sg53"
+              },
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "180035024"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "CAISSE CENTRALE DE MUTUALITE SOCIALE AGRICOLE (CCMSA)"
+              },
+              {
+                "lang": "en",
+                "value": "CAISSE CENTRALE DE MUTUALITE SOCIALE AGRICOLE (CCMSA)"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "302990445"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "studyAuthorization": {
+      "authorizingAgency": {
+        "lang": "fr",
+        "value": "CNIL"
+      }
+    },
+    "method": {
+      "notes": [
+        {
+          "subject": "research type",
+          "lang": "fr",
+          "value": "Etude observationnelle"
+        },
+        {
+          "subject": "research type",
+          "lang": "en",
+          "value": "Observational Study"
+        },
+        {
+          "lang": "fr",
+          "subject": "observational study method",
+          "value": "Registre de morbidité"
+        },
+        {
+          "lang": "en",
+          "subject": "observational study method",
+          "value": "Morbidity registry"
+        }
+      ],
+      "stdyClas": [
+        {
+          "lang": "fr",
+          "value": "Inconnu"
+        },
+        {
+          "lang": "en",
+          "value": "Unknown"
+        }
+      ],
+      "dataColl": {
+        "targetSampleSize": [
+          {
+            "lang": "fr",
+            "value": ">= 20000 individus"
+          },
+          {
+            "lang": "en",
+            "value": ">= 20000 individuals"
+          }
+        ],
+        "sampleFrame": {
+          "frameUnit": {}
+        },
+        "sources": [
+          {}
+        ],
+        "collMode": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Transcription",
+              "vocab": "CESSDA"
+            },
+            "value": "Transcription et saisie d’informations dans un enregistrement structuré"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Transcription",
+              "vocab": "CESSDA"
+            },
+            "value": "Converting or copying information into a structured record"
+          },
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Interview",
+              "vocab": "CESSDA"
+            },
+            "value": "Entretien avec le participant (dont clinique)"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Interview",
+              "vocab": "CESSDA"
+            },
+            "value": "Interview with the participant (including clinical)"
+          }
+        ],
+        "sampProc": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ],
+        "respRate": [
+          {
+            "lang": "fr",
+            "value": "30 000 (5000 par an/ by year)"
+          },
+          {
+            "lang": "en",
+            "value": "30 000 (5000 par an/ by year)"
+          }
+        ]
+      }
+    },
+    "stdyInfo": {
+      "abstract": [
+        {
+          "contentType": "purpose",
+          "lang": "fr",
+          "value": "Le Réseau national de vigilance et de prévention des pathologies professionnelles (rnv3p) réunit l’ensemble des 31 centres de consultation de pathologie professionnelle (CCPP) français, ainsi que plusieurs services de santé au travail (SST) rattachés au réseau. Il enregistre de façon standardisée l’ensemble des consultations réalisées dans les CCPP, d’une part et l’ensemble des problèmes de santé au travail incidents diagnostiqués par les SST participants au rnv3p, d’autre part (données démographiques du patient, pathologies, expositions, secteur d’activité, profession, imputabilité entre pathologie et exposition). Il faut noter que les données des CCPP reflètent d’abord un système de recours aux soins. En conséquence, contrairement à ce qui est observé dans d’autres systèmes de surveillance épidémiologique, il n’y a pas de critères d’inclusion et d’exclusion, et le recrutement des cas dépend non seulement de la population source mais aussi du réseau de médecins qui adressent les malades dans les CCPP. L’intérêt de ces données réside dans le fait qu’elles sont ouvertes sur l’ensemble du champ des pathologies suspectées d’être professionnelles (indépendamment des considérations médico-légales d’indemnisation) et qu’elles reposent sur des dossiers bien documentés. Les données fournies par les SST renseignent en revanche sur l’incidence des diverses pathologies associées à l’activité professionnelle, et sont des informations complémentaires à celles transmises par les CCPP. Une force supplémentaire du rnv3p est son intrication historique et sa complémentarité avec les préventeurs, en particulier les ingénieurs des Caisses d'assurance retraite et de la santé au travail (CARSAT), dont la coopération avec les CCPP est formalisée de longue date. Le rnv3p est donc simultanément un réseau de compétence en santé au travail et une base de données sanitaires. Ses objectifs principaux sont : - repérer et décrire les situations professionnelles à risque sanitaire en France, - rechercher des étiologies nouvelles et des risques émergents, - améliorer et harmoniser les pratiques de diagnostic des pathologies liées au travail. L’Anses, en tant qu’opérateur, a pour mission de coordonner toutes les activités associées au réseau et participe aux travaux scientifiques associés en partenariat avec la Caisse nationale d’Assurance maladie des travailleurs salariés (Cnam-TS), la Caisse centrale de la mutualité sociale agricole (CCMSA), l’Institut de veille sanitaire (InVS) et la Société française de médecine du travail (SFMT)."
+        },
+        {
+          "contentType": "purpose",
+          "lang": "en",
+          "value": "The French National Occupational Diseases Surveillance and Prevention Network (RNV3P) groups together the 32 Occupational Disease Consultation Centres (CCPPs) in mainland France and a sample of 10 occupational health services (SSTs) associated with the network. This network aims to collect data from each consultation in a permanent national database on occupational diseases (patient’s demographic data, diseases, exposures, business sector and profession). The RNV3P has two interrelated components: \"RNV3P-CCPP\" and \"RNV3P-SST\". The former is a surveillance system for CCPP patient consultations while the latter is a survelliance system for the working population. One of the original aims of RNV3P is to record CCPP expertise on the causal nature of relations between occupational exposure and diseases observed in patients. It is up to the network's university-hospital experts to investigate the diseases and attribute them, if necessary, to an occupational origin (this causality is also registered in the database). The RNV3P is not a health surveillance system that gives a representative picture of actual disease frequency in a given field. Its main objectives are to identify and describe at-risk occupational situations in France, and to research new etiologies and emerging occupational health risks. As a network operator, ANSES is responsible for coordinating all activities associated with the network and to participate in related scientific work in partnership with the State Health Insurance Fund for Salaried Workers (CNAM-TS), the Central Health and Social Security Insurance Fund for Agricultural Employees (CCMSA), the French Institute for Public Health Surveillance (InVS), and the French Occupational Medicine Society (SFMT)."
+        }
+      ],
+      "subject": {
+        "topcClas": [
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/af65e2bf-afc5-45e8-a0fc-364dfb48f0a4"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D000486"
+              }
+            ],
+            "value": "Allergologie"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/5784b7f1-c7ce-49d9-9f38-aebcda0ff41d"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D008495"
+              }
+            ],
+            "value": "Oncologie"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/b533acc2-aff1-4c65-80ca-5d5bee865ba9"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D004778"
+              }
+            ],
+            "value": "Santé publique, environnementale et du travail"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/f6e18c52-6087-4662-904c-5c4b8174e40e"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D015272"
+              }
+            ],
+            "value": "Pneumologie"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/5375c411-6db9-40ed-a854-6554102a587b"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D003880"
+              }
+            ],
+            "value": "Dermatologie"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/cb061cc1-dd52-46a4-a8fe-065838d5b44a"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D014686"
+              }
+            ],
+            "value": "Vénérologie"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/af65e2bf-afc5-45e8-a0fc-364dfb48f0a4"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D000486"
+              }
+            ],
+            "value": "Allergology"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/5784b7f1-c7ce-49d9-9f38-aebcda0ff41d"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D008495"
+              }
+            ],
+            "value": "Oncology"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/b533acc2-aff1-4c65-80ca-5d5bee865ba9"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D004778"
+              }
+            ],
+            "value": "Public, environmental and occupational health"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/f6e18c52-6087-4662-904c-5c4b8174e40e"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D015272"
+              }
+            ],
+            "value": "Pulmonary medicine"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/5375c411-6db9-40ed-a854-6554102a587b"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D003880"
+              }
+            ],
+            "value": "Dermatology"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/cb061cc1-dd52-46a4-a8fe-065838d5b44a"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D014686"
+              }
+            ],
+            "value": "Venereology"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants socio-démographiques et économiques : Emploi"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants socio-démographiques et économiques"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Socio-demographic and economic determinants: Employment"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Socio-demographic and economic determinants"
+          }
+        ],
+        "keyword": [
+          {
+            "lang": "fr",
+            "value": "Santé au travail"
+          },
+          {
+            "lang": "en",
+            "value": "Occupational health"
+          }
+        ]
+      },
+      "qualityStatement": {
+        "standardsCompliance": {}
+      },
+      "sumDscr": {
+        "dataKind": [
+          {
+            "lang": "fr",
+            "value": "Données cliniques"
+          },
+          {
+            "lang": "en",
+            "value": "Clinical data"
+          }
+        ],
+        "anlyUnit": [
+          {
+            "lang": "fr",
+            "value": "Individus"
+          },
+          {
+            "lang": "en",
+            "value": "Individuals"
+          }
+        ],
+        "nation": [
+          {
+            "lang": "fr",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          },
+          {
+            "lang": "en",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          }
+        ],
+        "universe": [
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Masculin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Féminin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Male"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Female"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Adulte (19 à 24 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adulte (25 à 44 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Adulte (45 à 64 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Young Adult (19 to 24 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adult (25 to 44 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Middle Aged (45 to 64 years)"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Population générale"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "en",
+            "value": "General population"
+          },
+          {
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Sont recensés dans le réseau, l’ensemble des patients reçus en consultation au sein d’un CCPP et l’ensemble des salariés chez lesquels un médecin sentinelle a observé une pathologie qu’il estime ou n’exclue pas être en relation avec une activité professionnelle (présente ou passée). Il faut noter que les données des CCPP reflètent d’abord un système de recours aux soins. En conséquence, contrairement à ce qui est observé dans d’autres systèmes de surveillance épidémiologique, il n’y a pas de critères d’inclusion et d’exclusion, et le recrutement des cas dépend non seulement de la population source mais aussi du réseau de médecins qui adressent les malades dans les CCPP. L’intérêt de ces données réside dans le fait qu’elles sont ouvertes sur l’ensemble du champ des pathologies suspectées d’être professionnelles (indépendamment des considérations médico-légales d’indemnisation) et qu’elles reposent sur des dossiers bien documentés. Les données fournies par les SST renseignent en revanche sur l’incidence des diverses pathologies associées à l’activité professionnelle, et sont des informations complémentaires à celles transmises par les CCPP."
+          },
+          {
+            "clusion": "I",
+            "lang": "en",
+            "value": "All patients who attended a CCPP consultation identified in the network. All salaried workers with a disease noted by a sentinel physician where a relationship between disease and occupation (current or past) is suspected or has not been ruled out."
+          },
+          {
+            "clusion": "E",
+            "lang": "fr",
+            "value": ""
+          },
+          {
+            "clusion": "E",
+            "lang": "en",
+            "value": ""
+          }
+        ],
+        "collDate": {
+          "event": "start",
+          "value": "2001-01-01"
+        }
+      }
+    },
+    "dataAccs": {
+      "setAvail": {
+        "avlStatus": [
+          {
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Accès réservé"
+          },
+          {
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Restricted access"
+          }
+        ],
+        "conditions": [
+          {
+            "lang": "fr",
+            "value": "Interrogation de la base : Un règlement interne au réseau rnv3p fixe les droits d’accès aux données et les modalités d’exploitation de la base nationale. L’exploitation des données est conditionnée par la validation préalable d’un formulaire de requête renseigné par les demandeurs et adressé au chef de projet du réseau selon une procédure définie par la convention. Toute demande faite par un acteur extérieur au réseau doit être approuvée en comité de pilotage. Il est donc possible d’accéder aux informations contenues dans la base au moyen d’une simple demande dès lors que l’utilisation des données répond à l’une des missions précisées ci-dessus. Deux types de demandes existent : la recherche de cas similaires au(x) cas observé(s) par le demandeur au sein du réseau et une demande de données quantitatives sur une thématique particulière. D’autres requêtes sont également réalisées dans le cadre de travaux de thèse. La majorité des demandes émanent des CCPP, mais les différents partenaires nationaux interrogent de plus en plus la base de données."
+          },
+          {
+            "lang": "en",
+            "value": "Database queries: Internal RNV3P network procedures determine data access rights and national database terms of use. As such, data mining is subject to prior approval of a completed application by the requesting party that is submitted to the network project head according to the outlined convention procedure. Any request to the network made by an external player must be approved by the steering committee. It is possible to access information in the database through a simple request when use of the data meets one of the above objectives. There are two application types: a network search for cases similar to the case(s) observed by the applicant, and a request for quantitative data regarding a particular field. Other applications are also made concerning thesis work. The majority of applications come from CCPP. However, various national partners are increasingly submitting database queries."
+          }
+        ]
+      },
+      "useStmt": {
+        "restrctn": [
+          {
+            "lang": "fr",
+            "value": "La convention qui définit les missions du rnv3p stipule que la base de données nationale du rnv3p est exclusivement réservée à l’exécution d’une mission de service public, d’étude, d’analyse ou de recherche qui poursuit un objectif de prévention et de vigilance des pathologies professionnelles."
+          },
+          {
+            "lang": "en",
+            "value": "The convention defining RNV3P&#x27;s objectives states that the RNV3P national database is reserved exclusively for the execution of public service missions, studies, analyses or research involving the monitoring and vigilance of occupational diseases."
+          }
+        ]
+      }
+    },
+    "othStdMat": {
+      "relMat": [
+        {
+          "lang": "fr",
+          "value": "Accès restreint sur projet spécifique"
+        },
+        {
+          "lang": "en",
+          "value": "Access on specific project only"
+        }
+      ]
+    },
+    "studyDevelopment": {
+      "developmentActivity": [
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/morbidité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/mortalité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/morbidity"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/mortality"
+        }
+      ]
+    }
+  },
+  "docDscr": {
+    "citation": {
+      "rspStmt": {
+        "AuthEnty": ""
+      },
+      "prodStmt": {
+        "producer": [
+          {
+            "affiliation": ""
+          }
+        ],
+        "prodPlac": "Portail Épidémiologie France"
+      }
+    }
+  },
+  "additional": {
+    "prodPlac": "Portail Épidémiologie France",
+    "creationDate": "06-07-2012",
+    "lastUpdatedManual": "06-08-2014",
+    "theme": {},
+    "governance": {
+      "committee": true
+    },
+    "collaborations": {},
+    "mockSample": {},
+    "dataQuality": {},
+    "variableDictionnary": {},
+    "dataTypes": {
+      "isDataInBiobank": false
+    },
+    "collectionProcess": {},
+    "geographicalCoverage": {
+      "geoDetail": [
+        {
+          "lang": "fr",
+          "value": "France"
+        },
+        {
+          "lang": "en",
+          "value": "France"
+        }
+      ]
+    },
+    "activeFollowUp": {
+      "isActiveFollowUp": true
+    },
+    "dataCollectionIntegration": {
+      "isDataIntegration": false
+    },
+    "isHealthTheme": true
+  },
+  "schematype": "survey"
+}

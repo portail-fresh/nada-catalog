@@ -1,0 +1,1142 @@
+{
+  "stdyDscr": {
+    "citation": {
+      "titlStmt": {
+        "IDNo": [
+          {
+            "agency": "PEF",
+            "value": "73213"
+          },
+          {
+            "agency": "FReSH",
+            "value": "FRESH-PEF73213"
+          }
+        ],
+        "titl": [
+          {
+            "lang": "fr",
+            "value": "Enquête transversale sur la sévérité de la rhinite allergique saisonnière en fonction de la présence de pollen et de la pollution de l'air"
+          },
+          {
+            "lang": "en",
+            "value": "Cross-sectional survey on the severity of seasonal allergic rhinitis according to the presence of pollen and air pollution"
+          }
+        ],
+        "altTitl": [
+          {
+            "lang": "fr",
+            "value": "Pollin’Air"
+          },
+          {
+            "lang": "en",
+            "value": "Pollin’Air"
+          }
+        ]
+      },
+      "rspStmt": {
+        "AuthEnty": [
+          {
+            "name": "Hélène;DESQUEYROUX",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "AGENCE DE L ENVIRONNEMENT ET DE LA MAITRISE DE L ENERGIE (ADEME)"
+              },
+              {
+                "lang": "en",
+                "value": "AGENCE DE L ENVIRONNEMENT ET DE LA MAITRISE DE L ENERGIE (ADEME)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "165553820",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "385290309",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ],
+            "isContact": true,
+            "email": "helene.desqueyroux@ademe.fr",
+            "PILabo": "ADEME"
+          },
+          {
+            "name": "Roger;JANKOWSKI",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "CENTRE HOSPITALIER REGIONAL ET UNIVERSITAIRE DE NANCY"
+              },
+              {
+                "lang": "en",
+                "value": "CENTRE HOSPITALIER REGIONAL ET UNIVERSITAIRE DE NANCY"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "117685178",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/016ncsr12",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "200042166",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ],
+            "isContact": true,
+            "email": "r.jankowski@chru-nancy.fr",
+            "PILabo": "CHU Nancy"
+          },
+          {
+            "name": "Pascal;DEMOLY",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "CENTRE HOSPITALIER UNIVERSITAIRE DE MONTPELLIER (CHU)"
+              },
+              {
+                "lang": "en",
+                "value": "CENTRE HOSPITALIER UNIVERSITAIRE DE MONTPELLIER (CHU)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "0000-0001-7827-7964",
+                "role": "pi id",
+                "title": "ORCID"
+              },
+              {
+                "uri": "03442959X",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/00mthsf17",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "263400160",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ],
+            "isContact": true,
+            "email": "p-demoly@chu-montpellier.fr",
+            "PILabo": "CHU Montpellier / General Allergology-Rhinitis-Asthma"
+          },
+          {
+            "name": "Jean-Michel;KLOSSEK",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "CENTRE HOSPITALIER UNIVERSITAIRE DE POITIERS"
+              },
+              {
+                "lang": "en",
+                "value": "CENTRE HOSPITALIER UNIVERSITAIRE DE POITIERS"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "031246982",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/029s6hd13",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "200055358",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ],
+            "isContact": false,
+            "email": "",
+            "PILabo": "CHU Poitiers"
+          },
+          {
+            "name": "Alain;DIDIER",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "CENTRE HOSPITALIER UNIVERSITAIRE DE TOULOUSE (CHUT)"
+              },
+              {
+                "lang": "en",
+                "value": "CENTRE HOSPITALIER UNIVERSITAIRE DE TOULOUSE (CHUT)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "034511768",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/017h5q109",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "263100125",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ],
+            "isContact": true,
+            "email": "didier.a@chu-toulouse.fr",
+            "PILabo": "CHU Toulouse / didier.a@chu-toulouse.fr"
+          },
+          {
+            "name": "Isabella;ANNESI-MAESANO",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE (INSERM)"
+              },
+              {
+                "lang": "en",
+                "value": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE (INSERM)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "0000-0002-6340-9300",
+                "role": "pi id",
+                "title": "ORCID"
+              },
+              {
+                "uri": "123241847",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/02vjkv261",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "180036048",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ],
+            "isContact": true,
+            "email": "isabella.annesi-maesano@inserm.fr",
+            "PILabo": "Inserm / Epidemiology of Allergic and Respiratory Diseases"
+          },
+          {
+            "name": "Michel;THIBAUDON",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "RESEAU NATIONAL SURVEILLANCE AEROBIOLOGI (RNSA)"
+              },
+              {
+                "lang": "en",
+                "value": "RESEAU NATIONAL SURVEILLANCE AEROBIOLOGI (RNSA)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "0000-0002-3549-5408",
+                "role": "pi id",
+                "title": "ORCID"
+              },
+              {
+                "uri": "250397293",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/00b4tzx19",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "408900884",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ],
+            "isContact": true,
+            "email": "rnsa@rnsa.fr",
+            "PILabo": "RNSA"
+          }
+        ],
+        "othId": []
+      },
+      "distStmt": {
+        "contact": [
+          {
+            "name": "Hélène;DESQUEYROUX",
+            "email": "helene.desqueyroux@ademe.fr",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "AGENCE DE L ENVIRONNEMENT ET DE LA MAITRISE DE L ENERGIE (ADEME)"
+              },
+              {
+                "lang": "en",
+                "value": "AGENCE DE L ENVIRONNEMENT ET DE LA MAITRISE DE L ENERGIE (ADEME)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "385290309",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          },
+          {
+            "name": "Roger;JANKOWSKI",
+            "email": "r.jankowski@chru-nancy.fr",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "CENTRE HOSPITALIER REGIONAL ET UNIVERSITAIRE DE NANCY"
+              },
+              {
+                "lang": "en",
+                "value": "CENTRE HOSPITALIER REGIONAL ET UNIVERSITAIRE DE NANCY"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/016ncsr12",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "200042166",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          },
+          {
+            "name": "Pascal;DEMOLY",
+            "email": "p-demoly@chu-montpellier.fr",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "CENTRE HOSPITALIER UNIVERSITAIRE DE MONTPELLIER (CHU)"
+              },
+              {
+                "lang": "en",
+                "value": "CENTRE HOSPITALIER UNIVERSITAIRE DE MONTPELLIER (CHU)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/00mthsf17",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "263400160",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          },
+          {
+            "name": "Alain;DIDIER",
+            "email": "didier.a@chu-toulouse.fr",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "CENTRE HOSPITALIER UNIVERSITAIRE DE TOULOUSE (CHUT)"
+              },
+              {
+                "lang": "en",
+                "value": "CENTRE HOSPITALIER UNIVERSITAIRE DE TOULOUSE (CHUT)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/017h5q109",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "263100125",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          },
+          {
+            "name": "Isabella;ANNESI-MAESANO",
+            "email": "isabella.annesi-maesano@inserm.fr",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE (INSERM)"
+              },
+              {
+                "lang": "en",
+                "value": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE (INSERM)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/02vjkv261",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "180036048",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          },
+          {
+            "name": "Michel;THIBAUDON",
+            "email": "rnsa@rnsa.fr",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "RESEAU NATIONAL SURVEILLANCE AEROBIOLOGI (RNSA)"
+              },
+              {
+                "lang": "en",
+                "value": "RESEAU NATIONAL SURVEILLANCE AEROBIOLOGI (RNSA)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/00b4tzx19",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "408900884",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          }
+        ]
+      },
+      "prodStmt": {
+        "fundAg": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE (INSERM)"
+              },
+              {
+                "lang": "en",
+                "value": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE (INSERM)"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "ROR",
+                "uri": "https://ror.org/02vjkv261"
+              },
+              {
+                "title": "SIREN",
+                "uri": "180036048"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ]
+          }
+        ],
+        "producer": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE (INSERM)"
+              },
+              {
+                "lang": "en",
+                "value": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE (INSERM)"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "ROR",
+                "uri": "https://ror.org/02vjkv261"
+              },
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "180036048"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "studyAuthorization": {
+      "authorizingAgency": {
+        "lang": "fr",
+        "value": "CNIL"
+      }
+    },
+    "method": {
+      "notes": [
+        {
+          "subject": "research type",
+          "lang": "fr",
+          "value": "Etude observationnelle"
+        },
+        {
+          "subject": "research type",
+          "lang": "en",
+          "value": "Observational Study"
+        }
+      ],
+      "stdyClas": [
+        {
+          "lang": "fr",
+          "value": "Étude complétée"
+        },
+        {
+          "lang": "en",
+          "value": "Completed study"
+        }
+      ],
+      "dataColl": {
+        "targetSampleSize": [
+          {
+            "lang": "fr",
+            "value": ">= 20000 individus"
+          },
+          {
+            "lang": "en",
+            "value": ">= 20000 individuals"
+          }
+        ],
+        "timeMeth": [
+          {
+            "lang": "fr",
+            "value": "Etude transversale non répétée"
+          },
+          {
+            "lang": "en",
+            "value": "One-time cross-sectional study"
+          }
+        ],
+        "sampleFrame": {
+          "frameUnit": {
+            "unitType": [
+              {
+                "lang": "fr",
+                "value": "Via les professionnels d&#x27;exercice libéral"
+              },
+              {
+                "lang": "en",
+                "value": "Through independent healthcare practitioners"
+              }
+            ]
+          }
+        },
+        "sources": [
+          {}
+        ],
+        "collMode": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Transcription",
+              "vocab": "CESSDA"
+            },
+            "value": "Transcription et saisie d’informations dans un enregistrement structuré"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Transcription",
+              "vocab": "CESSDA"
+            },
+            "value": "Converting or copying information into a structured record"
+          }
+        ],
+        "sampProc": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ],
+        "respRate": [
+          {
+            "lang": "fr",
+            "value": "36 397"
+          },
+          {
+            "lang": "en",
+            "value": "36 397"
+          }
+        ]
+      }
+    },
+    "stdyInfo": {
+      "abstract": [
+        {
+          "contentType": "purpose",
+          "lang": "fr",
+          "value": "Le but de ce travail était de modéliser le risque de souffrir d'une rhinite allergique saisonnière sévère (SAR) en fonction à la fois de la présence de pollen et de la pollution de l'air dans un grand échantillon de patients."
+        },
+        {
+          "contentType": "purpose",
+          "lang": "en",
+          "value": "The aim of this work was to model the risk of severe seasonal allergic rhinitis (SAR) in terms of both the presence of pollen and air pollution in a large sample of patients."
+        }
+      ],
+      "subject": {
+        "topcClas": [
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/af65e2bf-afc5-45e8-a0fc-364dfb48f0a4"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D000486"
+              }
+            ],
+            "value": "Allergologie"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/af65e2bf-afc5-45e8-a0fc-364dfb48f0a4"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D000486"
+              }
+            ],
+            "value": "Allergology"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "fr",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/1565925107",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Rhinite allergique due à d'autres allergènes saisonniers"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "en",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/1565925107",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Allergic rhinitis due to other seasonal allergens"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants environnementaux"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Environmental determinants"
+          }
+        ],
+        "keyword": [
+          {
+            "lang": "fr",
+            "value": "Pollution"
+          },
+          {
+            "lang": "fr",
+            "value": "rhinite"
+          },
+          {
+            "lang": "fr",
+            "value": "pollen"
+          },
+          {
+            "lang": "fr",
+            "value": "allergie"
+          },
+          {
+            "lang": "en",
+            "value": "rhinitis"
+          },
+          {
+            "lang": "en",
+            "value": "Pollution"
+          },
+          {
+            "lang": "en",
+            "value": "pollen"
+          },
+          {
+            "lang": "en",
+            "value": "allergy"
+          }
+        ]
+      },
+      "qualityStatement": {
+        "standardsCompliance": {}
+      },
+      "sumDscr": {
+        "dataKind": [
+          {
+            "lang": "fr",
+            "value": "Données cliniques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données socio-démographiques"
+          },
+          {
+            "lang": "en",
+            "value": "Clinical data"
+          },
+          {
+            "lang": "en",
+            "value": "Socio-demographic data"
+          }
+        ],
+        "anlyUnit": [
+          {
+            "lang": "fr",
+            "value": "Individus"
+          },
+          {
+            "lang": "en",
+            "value": "Individuals"
+          }
+        ],
+        "nation": [
+          {
+            "lang": "fr",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          },
+          {
+            "lang": "en",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          }
+        ],
+        "universe": [
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Masculin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Féminin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Male"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Female"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Adulte (19 à 24 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adulte (25 à 44 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Adulte (45 à 64 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Personne âgée (65 à 79 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000369"
+            },
+            "value": "Grand âge (80 ans et plus)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Young Adult (19 to 24 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adult (25 to 44 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Middle Aged (45 to 64 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Aged (65 to 79 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000369"
+            },
+            "value": "Aged, 80 and over (80 years and more)"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Patients"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "en",
+            "value": "Patients population"
+          },
+          {
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Les patients consultant un médecin pour une rhinite allergique non traitée  entre Mai et Août 2004  Le diagnostic est confirmé par la présence de symptômes nasaux (obstruction nasale, rhinorrhée, éternuements et prurit nasal), un symptôme oculaire (prurit oculaire) et la sensibilisation allergique à des allergènes majeurs Consentement des participants"
+          },
+          {
+            "clusion": "I",
+            "lang": "en",
+            "value": "Patients seeing a physician for untreated allergic rhinitis between May and August 2004  Diagnosis is confirmed by the presence of nasal symptoms (nasal obstruction, rhinorrhoea, sneezing and nasal pruritus), ocular symptoms (ocular pruritus) and allergic sensitisation to major allergens  Participants’ consent"
+          },
+          {
+            "clusion": "E",
+            "lang": "fr",
+            "value": ""
+          },
+          {
+            "clusion": "E",
+            "lang": "en",
+            "value": ""
+          }
+        ],
+        "collDate": [
+          {
+            "event": "start",
+            "value": "2004-01-01"
+          },
+          {
+            "event": "end",
+            "value": "2004-12-31"
+          }
+        ]
+      }
+    },
+    "dataAccs": {
+      "setAvail": {
+        "avlStatus": [
+          {
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Accès réservé"
+          },
+          {
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Restricted access"
+          }
+        ],
+        "conditions": [
+          {
+            "lang": "fr",
+            "value": "Contacter le responsable scientifique"
+          },
+          {
+            "lang": "en",
+            "value": "Contact the principal investigator"
+          }
+        ]
+      },
+      "useStmt": {}
+    },
+    "othStdMat": {
+      "relMat": [
+        {
+          "lang": "fr",
+          "value": "Accès restreint sur projet spécifique"
+        },
+        {
+          "lang": "en",
+          "value": "Access on specific project only"
+        }
+      ]
+    },
+    "studyDevelopment": {
+      "developmentActivity": [
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/morbidité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Qualité de vie/santé perçue"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/morbidity"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Quality of life/health perception"
+        }
+      ]
+    }
+  },
+  "docDscr": {
+    "citation": {
+      "rspStmt": {
+        "AuthEnty": "Isabella ANNESI-MAESANO"
+      },
+      "prodStmt": {
+        "producer": [
+          {
+            "affiliation": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE (INSERM)",
+            "value": "Isabella;ANNESI-MAESANO"
+          }
+        ],
+        "prodPlac": "Portail Épidémiologie France"
+      }
+    }
+  },
+  "additional": {
+    "prodPlac": "Portail Épidémiologie France",
+    "relatedDocuments": {
+      "documentTitle": [
+        {
+          "lang": "fr"
+        },
+        {
+          "lang": "en"
+        }
+      ],
+      "documentLink": [
+        {
+          "lang": "fr",
+          "value": "http://www.ncbi.nlm.nih.gov/pubmed/?term=Grass+Pollen+Counts%2C+Air+Pollution+Levels+and+Allergic+Rhinitis+Severity"
+        },
+        {
+          "lang": "en",
+          "value": "http://www.ncbi.nlm.nih.gov/pubmed/?term=Grass+Pollen+Counts%2C+Air+Pollution+Levels+and+Allergic+Rhinitis+Severity"
+        }
+      ]
+    },
+    "creationDate": "02-09-2015",
+    "lastUpdatedManual": "14-09-2017",
+    "theme": {},
+    "governance": {},
+    "collaborations": {},
+    "mockSample": {},
+    "dataQuality": {},
+    "variableDictionnary": {},
+    "dataTypes": {
+      "clinicalDataDetails": [
+        {
+          "lang": "fr",
+          "value": "Diagnostic et tests cutanés ou des IgE spécifiques, le médecin a évalué l'intensité de quatre symptômes nasaux (d'obstruction nasale, rhinorrhée, éternuements et prurit nasal) et un symptôme oculaire (prurit oculaire)"
+        },
+        {
+          "lang": "en",
+          "value": "Diagnosis and skin tests or specific IgE tests, the physician assessed the intensity of four nasal symptoms (nasal obstruction, rhinorrhoea, sneezing and nasal pruritus) and one ocular symptom (ocular pruritus)"
+        }
+      ],
+      "isDataInBiobank": false
+    },
+    "collectionProcess": {
+      "collectionModeDetails": [
+        {
+          "lang": "fr",
+          "value": "Quantité de pollen dans l'air fournie par le réseau de surveillance aérobiologique nationale française, Les données sur la pollution de l'air ont été fournis par l'ADEME. Données cloniques fournies par le personnel médical"
+        },
+        {
+          "lang": "en",
+          "value": "Amount of pollen in the air supplied by the French aerobiology monitoring network (RNSA), Data on air pollution was provided by ADEME. Clinical data provided by medical personnel"
+        }
+      ]
+    },
+    "geographicalCoverage": {
+      "geoDetail": [
+        {
+          "lang": "fr",
+          "value": "France métropolitaine"
+        },
+        {
+          "lang": "en",
+          "value": "Metropolitan France"
+        }
+      ]
+    },
+    "activeFollowUp": {
+      "isActiveFollowUp": false
+    },
+    "dataCollectionIntegration": {
+      "isDataIntegration": false
+    },
+    "isHealthTheme": true
+  },
+  "schematype": "survey"
+}

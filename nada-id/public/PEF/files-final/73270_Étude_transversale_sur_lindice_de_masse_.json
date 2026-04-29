@@ -1,0 +1,940 @@
+{
+  "stdyDscr": {
+    "citation": {
+      "titlStmt": {
+        "IDNo": [
+          {
+            "agency": "PEF",
+            "value": "73270"
+          },
+          {
+            "agency": "FReSH",
+            "value": "FRESH-PEF73270"
+          }
+        ],
+        "titl": [
+          {
+            "lang": "fr",
+            "value": "Étude transversale sur l'indice de masse corporelle et la condition physique chez des collégiens et lycéens de six régions françaises, 2007-2014"
+          },
+          {
+            "lang": "en",
+            "value": "Cross-sectional study on body mass index and physical fitness among secondary school pupils in six French regions, 2007-2014"
+          }
+        ]
+      },
+      "rspStmt": {
+        "AuthEnty": [
+          {
+            "name": "Geoffroy;BERTHELOT",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "INSTITUT DE RECHERCHE BIO-MEDICALE ET D'EPIDEMIOLOGIE DU SPORT (IRMES)"
+              },
+              {
+                "lang": "en",
+                "value": "INSTITUT DE RECHERCHE BIO-MEDICALE ET D'EPIDEMIOLOGIE DU SPORT (IRMES)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "0000-0003-4036-6114",
+                "role": "pi id",
+                "title": "ORCID"
+              },
+              {
+                "uri": "174431864",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/00dgdgj39",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "201420795X",
+                "role": "labo id",
+                "title": "RNSR"
+              }
+            ],
+            "isContact": true,
+            "email": "geoffroy.berthelot@insep.fr",
+            "PILabo": "Institut de recherche biomédicale et d’épidémiologie du sport (Irmes)"
+          },
+          {
+            "name": "Guillaume;SAULIERE",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "INSTITUT DE RECHERCHE BIO-MEDICALE ET D'EPIDEMIOLOGIE DU SPORT (IRMES)"
+              },
+              {
+                "lang": "en",
+                "value": "INSTITUT DE RECHERCHE BIO-MEDICALE ET D'EPIDEMIOLOGIE DU SPORT (IRMES)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "0000-0001-8263-6456",
+                "role": "pi id",
+                "title": "ORCID"
+              },
+              {
+                "uri": "233346562",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/00dgdgj39",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "201420795X",
+                "role": "labo id",
+                "title": "RNSR"
+              }
+            ],
+            "isContact": true,
+            "email": "guillaume.sauliere@insep.fr",
+            "PILabo": "Institut de recherche biomédicale et d’épidémiologie du sport (Irmes)"
+          },
+          {
+            "name": "Julien;SCHIPMAN",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "INSTITUT DE RECHERCHE BIO-MEDICALE ET D'EPIDEMIOLOGIE DU SPORT (IRMES)"
+              },
+              {
+                "lang": "en",
+                "value": "INSTITUT DE RECHERCHE BIO-MEDICALE ET D'EPIDEMIOLOGIE DU SPORT (IRMES)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "0000-0002-4111-6005",
+                "role": "pi id",
+                "title": "ORCID"
+              },
+              {
+                "uri": "187897778",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/00dgdgj39",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "201420795X",
+                "role": "labo id",
+                "title": "RNSR"
+              }
+            ],
+            "isContact": true,
+            "email": "julien.schipman@insep.fr",
+            "PILabo": "Institut de recherche biomédicale et d’épidémiologie du sport (Irmes) / Epidémiologie du Sport - Santé"
+          },
+          {
+            "name": "Adrien;SEDEAUD",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "INSTITUT DE RECHERCHE BIO-MEDICALE ET D'EPIDEMIOLOGIE DU SPORT (IRMES)"
+              },
+              {
+                "lang": "en",
+                "value": "INSTITUT DE RECHERCHE BIO-MEDICALE ET D'EPIDEMIOLOGIE DU SPORT (IRMES)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "0000-0002-8492-3579",
+                "role": "pi id",
+                "title": "ORCID"
+              },
+              {
+                "uri": "175265097",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/00dgdgj39",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "201420795X",
+                "role": "labo id",
+                "title": "RNSR"
+              }
+            ],
+            "isContact": true,
+            "email": "adrien.sedeaud@insep.fr",
+            "PILabo": "Institut de recherche biomédicale et d’épidémiologie du sport (Irmes)"
+          },
+          {
+            "name": "Jean-François;TOUSSAINT",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "INSTITUT DE RECHERCHE BIO-MEDICALE ET D'EPIDEMIOLOGIE DU SPORT (IRMES)"
+              },
+              {
+                "lang": "en",
+                "value": "INSTITUT DE RECHERCHE BIO-MEDICALE ET D'EPIDEMIOLOGIE DU SPORT (IRMES)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "0000-0002-0411-2363",
+                "role": "pi id",
+                "title": "ORCID"
+              },
+              {
+                "uri": "074575902",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/00dgdgj39",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "201420795X",
+                "role": "labo id",
+                "title": "RNSR"
+              }
+            ],
+            "isContact": true,
+            "email": "irmes@insep.fr",
+            "PILabo": "Institut de recherche biomédicale et d’épidémiologie du sport (Irmes)"
+          }
+        ],
+        "othId": []
+      },
+      "distStmt": {
+        "contact": [
+          {
+            "name": "Geoffroy;BERTHELOT",
+            "email": "geoffroy.berthelot@insep.fr",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "INSTITUT DE RECHERCHE BIO-MEDICALE ET D'EPIDEMIOLOGIE DU SPORT (IRMES)"
+              },
+              {
+                "lang": "en",
+                "value": "INSTITUT DE RECHERCHE BIO-MEDICALE ET D'EPIDEMIOLOGIE DU SPORT (IRMES)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/00dgdgj39",
+                "role": "organisation id",
+                "title": "ROR"
+              }
+            ]
+          },
+          {
+            "name": "Guillaume;SAULIERE",
+            "email": "guillaume.sauliere@insep.fr",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "INSTITUT DE RECHERCHE BIO-MEDICALE ET D'EPIDEMIOLOGIE DU SPORT (IRMES)"
+              },
+              {
+                "lang": "en",
+                "value": "INSTITUT DE RECHERCHE BIO-MEDICALE ET D'EPIDEMIOLOGIE DU SPORT (IRMES)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/00dgdgj39",
+                "role": "organisation id",
+                "title": "ROR"
+              }
+            ]
+          },
+          {
+            "name": "Julien;SCHIPMAN",
+            "email": "julien.schipman@insep.fr",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "INSTITUT DE RECHERCHE BIO-MEDICALE ET D'EPIDEMIOLOGIE DU SPORT (IRMES)"
+              },
+              {
+                "lang": "en",
+                "value": "INSTITUT DE RECHERCHE BIO-MEDICALE ET D'EPIDEMIOLOGIE DU SPORT (IRMES)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/00dgdgj39",
+                "role": "organisation id",
+                "title": "ROR"
+              }
+            ]
+          },
+          {
+            "name": "Adrien;SEDEAUD",
+            "email": "adrien.sedeaud@insep.fr",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "INSTITUT DE RECHERCHE BIO-MEDICALE ET D'EPIDEMIOLOGIE DU SPORT (IRMES)"
+              },
+              {
+                "lang": "en",
+                "value": "INSTITUT DE RECHERCHE BIO-MEDICALE ET D'EPIDEMIOLOGIE DU SPORT (IRMES)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/00dgdgj39",
+                "role": "organisation id",
+                "title": "ROR"
+              }
+            ]
+          },
+          {
+            "name": "Jean-François;TOUSSAINT",
+            "email": "irmes@insep.fr",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "INSTITUT DE RECHERCHE BIO-MEDICALE ET D'EPIDEMIOLOGIE DU SPORT (IRMES)"
+              },
+              {
+                "lang": "en",
+                "value": "INSTITUT DE RECHERCHE BIO-MEDICALE ET D'EPIDEMIOLOGIE DU SPORT (IRMES)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/00dgdgj39",
+                "role": "organisation id",
+                "title": "ROR"
+              }
+            ]
+          }
+        ]
+      },
+      "prodStmt": {
+        "fundAg": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "Institut Curie"
+              },
+              {
+                "lang": "en",
+                "value": "Institut Curie"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "ROR",
+                "uri": "https://ror.org/04t0gwh46"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ]
+          }
+        ],
+        "producer": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "INSTITUT DE RECHERCHE BIO-MEDICALE ET D'EPIDEMIOLOGIE DU SPORT (IRMES)"
+              },
+              {
+                "lang": "en",
+                "value": "INSTITUT DE RECHERCHE BIO-MEDICALE ET D'EPIDEMIOLOGIE DU SPORT (IRMES)"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "ROR",
+                "uri": "https://ror.org/00dgdgj39"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "studyAuthorization": {
+      "authorizingAgency": {
+        "lang": "fr",
+        "value": "CNIL"
+      }
+    },
+    "method": {
+      "notes": [
+        {
+          "subject": "research type",
+          "lang": "fr",
+          "value": "Etude observationnelle"
+        },
+        {
+          "subject": "research type",
+          "lang": "en",
+          "value": "Observational Study"
+        }
+      ],
+      "stdyClas": [
+        {
+          "lang": "fr",
+          "value": "Étude complétée"
+        },
+        {
+          "lang": "en",
+          "value": "Completed study"
+        }
+      ],
+      "dataColl": {
+        "targetSampleSize": [
+          {
+            "lang": "fr",
+            "value": ">= 20000 individus"
+          },
+          {
+            "lang": "en",
+            "value": ">= 20000 individuals"
+          }
+        ],
+        "timeMeth": [
+          {
+            "lang": "fr",
+            "value": "Etude transversale non répétée"
+          },
+          {
+            "lang": "en",
+            "value": "One-time cross-sectional study"
+          }
+        ],
+        "sampleFrame": {
+          "frameUnit": {
+            "unitType": [
+              {
+                "lang": "fr",
+                "value": "Base de population à finalité statistique"
+              },
+              {
+                "lang": "en",
+                "value": "Population database for statistical purposes"
+              }
+            ]
+          }
+        },
+        "sources": [
+          {}
+        ],
+        "collMode": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "MeasurementsAndTests.Physical",
+              "vocab": "CESSDA"
+            },
+            "value": "Mesures physiques/biologiques (tension artérielle, poids, biochimie, imagerie...)"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "MeasurementsAndTests.Physical",
+              "vocab": "CESSDA"
+            },
+            "value": "Physical/biological measurements (blood pressure, weight, biochemistry, imaging, etc.)"
+          }
+        ],
+        "sampProc": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ],
+        "respRate": [
+          {
+            "lang": "fr",
+            "value": "49 631"
+          },
+          {
+            "lang": "en",
+            "value": "49 631"
+          }
+        ]
+      }
+    },
+    "stdyInfo": {
+      "abstract": [
+        {
+          "contentType": "purpose",
+          "lang": "fr",
+          "value": "L’objectif de l'étude était d'analyser le lien entre ce déterminant de santé et l’indice de masse corporelle (IMC) chez l’adolescent."
+        },
+        {
+          "contentType": "purpose",
+          "lang": "en",
+          "value": "The objective of the study was to analyse the relationship between this determinant of health and body mass index (BMI) in adolescents."
+        }
+      ],
+      "subject": {
+        "topcClas": [
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/4b9f8efb-68dd-45a1-b04c-d23d457d6898"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D058006"
+              }
+            ],
+            "value": "Médecine générale"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/4b9f8efb-68dd-45a1-b04c-d23d457d6898"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D058006"
+              }
+            ],
+            "value": "General medicine"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants comportementaux"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants environnementaux"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Behavioral determinants"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Environmental determinants"
+          }
+        ],
+        "keyword": [
+          {
+            "lang": "fr",
+            "value": "Condition physique | Endurance | Test navette | Sprint | Indice de masse corporelle"
+          },
+          {
+            "lang": "en",
+            "value": "Physical fitness"
+          },
+          {
+            "lang": "en",
+            "value": "Endurance"
+          },
+          {
+            "lang": "en",
+            "value": "Multi-stage fitness test"
+          },
+          {
+            "lang": "en",
+            "value": "Sprint"
+          },
+          {
+            "lang": "en",
+            "value": "Body mass index"
+          }
+        ]
+      },
+      "qualityStatement": {
+        "standardsCompliance": {}
+      },
+      "sumDscr": {
+        "dataKind": [
+          {
+            "lang": "fr",
+            "value": "Données cliniques"
+          },
+          {
+            "lang": "en",
+            "value": "Clinical data"
+          }
+        ],
+        "anlyUnit": [
+          {
+            "lang": "fr",
+            "value": "Individus"
+          },
+          {
+            "lang": "en",
+            "value": "Individuals"
+          }
+        ],
+        "nation": [
+          {
+            "lang": "fr",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          },
+          {
+            "lang": "en",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          }
+        ],
+        "geogCover": [
+          {
+            "lang": "fr",
+            "value": "Grand Est"
+          },
+          {
+            "lang": "en",
+            "value": "Grand Est"
+          },
+          {
+            "lang": "fr",
+            "value": "Auvergne Rhône-Alpes"
+          },
+          {
+            "lang": "en",
+            "value": "Auvergne Rhône-Alpes"
+          },
+          {
+            "lang": "fr",
+            "value": "Ile-de-France"
+          },
+          {
+            "lang": "en",
+            "value": "Ile-de-France"
+          },
+          {
+            "lang": "fr",
+            "value": "Hauts-de-France"
+          },
+          {
+            "lang": "en",
+            "value": "Hauts-de-France"
+          },
+          {
+            "lang": "fr",
+            "value": "Pays de la Loire"
+          },
+          {
+            "lang": "en",
+            "value": "Pays de la Loire"
+          }
+        ],
+        "universe": [
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Masculin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Féminin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Male"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Female"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000293"
+            },
+            "value": "Adolescence (13 à 18 ans)"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Population générale"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "en",
+            "value": "General population"
+          },
+          {
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Tous les collégiens et lycéens de ces établissements ont été invités dans le cadre du cours d’éducation physique ou sportive. À partir de 15 ans, un questionnaire sur l’aptitude à l’activité physique (Q-AAP(1)) était complété avant les tests d’évaluation par chacun des participants."
+          },
+          {
+            "clusion": "I",
+            "lang": "en",
+            "value": "All the pupils of these establishments were invited within the framework of physical education or sports classes. From the age of 15 years, a Physical Activity Readiness Questionnaire (PAR-Q (1)) was completed by each participant prior to the assessment tests."
+          },
+          {
+            "clusion": "E",
+            "lang": "fr",
+            "value": ""
+          },
+          {
+            "clusion": "E",
+            "lang": "en",
+            "value": ""
+          }
+        ],
+        "collDate": [
+          {
+            "event": "start",
+            "value": "2007-01-01"
+          },
+          {
+            "event": "end",
+            "value": "2014-01-01"
+          }
+        ]
+      }
+    },
+    "dataAccs": {
+      "setAvail": {
+        "avlStatus": [
+          {
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Accès réservé"
+          },
+          {
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Restricted access"
+          }
+        ],
+        "conditions": [
+          {
+            "lang": "fr",
+            "value": "Contacter le responsable scientifique"
+          },
+          {
+            "lang": "en",
+            "value": "Contact the principal investigator"
+          }
+        ]
+      },
+      "useStmt": {}
+    },
+    "othStdMat": {
+      "relMat": [
+        {
+          "lang": "fr",
+          "value": "Accès restreint sur projet spécifique"
+        },
+        {
+          "lang": "en",
+          "value": "Access on specific project only"
+        }
+      ]
+    },
+    "studyDevelopment": {
+      "developmentActivity": [
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/morbidité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/morbidity"
+        }
+      ]
+    }
+  },
+  "docDscr": {
+    "citation": {
+      "rspStmt": {
+        "AuthEnty": "Julien SCHIPMAN"
+      },
+      "prodStmt": {
+        "producer": [
+          {
+            "affiliation": "INSTITUT DE RECHERCHE BIO-MEDICALE ET D&#x27;EPIDEMIOLOGIE DU SPORT (IRMES)",
+            "value": "Julien;SCHIPMAN"
+          }
+        ],
+        "prodPlac": "Portail Épidémiologie France"
+      }
+    }
+  },
+  "additional": {
+    "prodPlac": "Portail Épidémiologie France",
+    "relatedDocuments": {
+      "documentTitle": [
+        {
+          "lang": "fr"
+        },
+        {
+          "lang": "en"
+        }
+      ],
+      "documentLink": [
+        {
+          "lang": "fr",
+          "value": "http://www.invs.sante.fr/beh/2015/30-31/2015_30-31_2.html"
+        },
+        {
+          "lang": "en",
+          "value": "http://www.invs.sante.fr/beh/2015/30-31/2015_30-31_2.html"
+        }
+      ]
+    },
+    "creationDate": "17-11-2015",
+    "lastUpdatedManual": "19-10-2017",
+    "theme": {},
+    "governance": {},
+    "collaborations": {},
+    "mockSample": {},
+    "dataQuality": {},
+    "variableDictionnary": {},
+    "dataTypes": {
+      "clinicalDataDetails": [
+        {
+          "lang": "fr",
+          "value": "Les données recueillies regroupaient : âge, sexe, indice de masse corporelle (IMC=poids/taille2, en kg/m2) et deux critères de vitesse (m/s) mesurés 13. La catégorisation de l’IMC pour les enfants était basée sur les courbes de corpulence françaises, reprises dans le Plan national nutrition santé, et les seuils de l’International Obesity Task Force (IOTF) 16 avec les critères IOTF25 et IOTF30 définissant surpoids et obésité. Les enfants avec un IMC inférieur au 3e percentile étaient considérés en insuffisance pondérale."
+        },
+        {
+          "lang": "en",
+          "value": "The data collected included age, sex, body mass index (BMI = weight/height2, in kg/m2) and two speed criteria (m/s) measured 13. The categorisation of BMI for children was based on the French corpulence curves included in the National Health Nutrition Plan and the thresholds of the International Obesity Task Force (IOTF) 16 with the IOTF25 and IOTF30 criteria defining overweight and obesity. Children with a BMI below the 3rd percentile were considered underweight."
+        }
+      ],
+      "isDataInBiobank": false
+    },
+    "collectionProcess": {
+      "collectionModeDetails": [
+        {
+          "lang": "fr",
+          "value": "Les données de vitesse ont été mesurées et collectées par les organisateurs"
+        },
+        {
+          "lang": "en",
+          "value": "The speed data was measured and collected by the organisers"
+        }
+      ]
+    },
+    "geographicalCoverage": {
+      "geoDetail": [
+        {
+          "lang": "fr",
+          "value": "Alsace, Lorraine, Île-de-France, Nord-Pas-de-Calais, Pays de Loire et Rhône-Alpes"
+        },
+        {
+          "lang": "en",
+          "value": "Alsace, Lorraine, Île-de-France, Nord-Pas-de-Calais, Pays de Loire and Rhône-Alpes"
+        }
+      ]
+    },
+    "activeFollowUp": {
+      "isActiveFollowUp": false
+    },
+    "dataCollectionIntegration": {
+      "isDataIntegration": false
+    },
+    "isHealthTheme": true
+  },
+  "schematype": "survey"
+}

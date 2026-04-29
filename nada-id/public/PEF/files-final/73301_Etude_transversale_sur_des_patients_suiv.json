@@ -1,0 +1,963 @@
+{
+  "stdyDscr": {
+    "citation": {
+      "titlStmt": {
+        "IDNo": [
+          {
+            "agency": "PEF",
+            "value": "73301"
+          },
+          {
+            "agency": "FReSH",
+            "value": "FRESH-PEF73301"
+          }
+        ],
+        "titl": [
+          {
+            "lang": "fr",
+            "value": "Etude transversale sur des patients suivis en médecine de ville, usagers de substances actives illicites ou de médicaments détournés de leur usage thérapeutique ou sous traitement de substitution de la dépendance aux opiacés"
+          },
+          {
+            "lang": "en",
+            "value": "Cross-sectional study of patients monitored in private practice, users of illegal active substances or medicines diverted from their therapeutic use or under substitution treatment for opioid dependence"
+          }
+        ],
+        "altTitl": [
+          {
+            "lang": "fr",
+            "value": "OPEMA : Observation des pharmacodépendances en médecine ambulatoire"
+          },
+          {
+            "lang": "en",
+            "value": "OPEMA: Observation of drug dependence in outpatient medicine"
+          }
+        ]
+      },
+      "rspStmt": {
+        "AuthEnty": [
+          {
+            "name": "Elisabeth;FRAUGER",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "ASSISTANCE PUBLIQUE HOPITAUX DE MARSEILLE (AP-HM)"
+              },
+              {
+                "lang": "en",
+                "value": "ASSISTANCE PUBLIQUE HOPITAUX DE MARSEILLE (AP-HM)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "086822853",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/002cp4060",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "261300081",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ],
+            "isContact": true,
+            "email": "elisabeth.frauger@ap-hm.fr",
+            "PILabo": "CEIP Marseille"
+          },
+          {
+            "name": "Joëlle;MICALLEF",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "ASSISTANCE PUBLIQUE HOPITAUX DE MARSEILLE (AP-HM)"
+              },
+              {
+                "lang": "en",
+                "value": "ASSISTANCE PUBLIQUE HOPITAUX DE MARSEILLE (AP-HM)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "067341012",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/002cp4060",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "261300081",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ],
+            "isContact": true,
+            "email": "joelle.micallef@ap-hm.fr",
+            "PILabo": "CEIP Marseille"
+          },
+          {
+            "name": "Samira;MILOUDI",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "UNIVERSITE D'AIX MARSEILLE"
+              },
+              {
+                "lang": "en",
+                "value": "UNIVERSITE D'AIX MARSEILLE"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/035xkbk20",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "130015332",
+                "role": "organisation id",
+                "title": "SIREN"
+              },
+              {
+                "uri": "200014577Z",
+                "role": "labo id",
+                "title": "RNSR"
+              }
+            ],
+            "isContact": false,
+            "email": "",
+            "PILabo": "Centre associated with CEIP-Addictovigilance PACA-Corsica, Public Health Laboratory, Faculty of Medicine, Aix-Marseille Université / EA 3279"
+          },
+          {
+            "name": "Veronica;ORLEANS",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "UNIVERSITE D'AIX MARSEILLE"
+              },
+              {
+                "lang": "en",
+                "value": "UNIVERSITE D'AIX MARSEILLE"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/035xkbk20",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "130015332",
+                "role": "organisation id",
+                "title": "SIREN"
+              },
+              {
+                "uri": "200014577Z",
+                "role": "labo id",
+                "title": "RNSR"
+              }
+            ],
+            "isContact": false,
+            "email": "",
+            "PILabo": "Centre associated with CEIP-Addictovigilance PACA-Corsica, Public Health Laboratory, Faculty of Medicine, Aix-Marseille Université / EA 3279"
+          },
+          {
+            "name": "Xavier;THIRION",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "UNIVERSITE D'AIX MARSEILLE"
+              },
+              {
+                "lang": "en",
+                "value": "UNIVERSITE D'AIX MARSEILLE"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "075552280",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/035xkbk20",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "130015332",
+                "role": "organisation id",
+                "title": "SIREN"
+              },
+              {
+                "uri": "200014577Z",
+                "role": "labo id",
+                "title": "RNSR"
+              }
+            ],
+            "isContact": true,
+            "email": "xavier.thirion@ap-hm.fr",
+            "PILabo": "Centre associated with CEIP-Addictovigilance PACA-Corsica, Public Health Laboratory, Faculty of Medicine, Aix-Marseille Université / EA 3279"
+          }
+        ],
+        "othId": []
+      },
+      "distStmt": {
+        "contact": [
+          {
+            "name": "Elisabeth;FRAUGER",
+            "email": "elisabeth.frauger@ap-hm.fr",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "ASSISTANCE PUBLIQUE HOPITAUX DE MARSEILLE (AP-HM)"
+              },
+              {
+                "lang": "en",
+                "value": "ASSISTANCE PUBLIQUE HOPITAUX DE MARSEILLE (AP-HM)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/002cp4060",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "261300081",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          },
+          {
+            "name": "Joëlle;MICALLEF",
+            "email": "joelle.micallef@ap-hm.fr",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "ASSISTANCE PUBLIQUE HOPITAUX DE MARSEILLE (AP-HM)"
+              },
+              {
+                "lang": "en",
+                "value": "ASSISTANCE PUBLIQUE HOPITAUX DE MARSEILLE (AP-HM)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/002cp4060",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "261300081",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          },
+          {
+            "name": "Xavier;THIRION",
+            "email": "xavier.thirion@ap-hm.fr",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "UNIVERSITE D'AIX MARSEILLE"
+              },
+              {
+                "lang": "en",
+                "value": "UNIVERSITE D'AIX MARSEILLE"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/035xkbk20",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "130015332",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          }
+        ]
+      },
+      "prodStmt": {
+        "fundAg": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "AGENCE NATIONALE DE SECURITE DU MEDICAMENT ET DES PRODUITS DE SANTE (ANSM)"
+              },
+              {
+                "lang": "en",
+                "value": "AGENCE NATIONALE DE SECURITE DU MEDICAMENT ET DES PRODUITS DE SANTE (ANSM)"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "ROR",
+                "uri": "https://ror.org/01g80gk13"
+              },
+              {
+                "title": "SIREN",
+                "uri": "180036113"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ]
+          }
+        ],
+        "producer": [
+          {
+            "name": [
+              {
+                "lang": "fr"
+              },
+              {
+                "lang": "en"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ],
+            "extLink": []
+          }
+        ]
+      }
+    },
+    "studyAuthorization": {
+      "authorizingAgency": {
+        "lang": "fr",
+        "value": "CNIL"
+      }
+    },
+    "method": {
+      "notes": [
+        {
+          "subject": "research type",
+          "lang": "fr",
+          "value": "Etude observationnelle"
+        },
+        {
+          "subject": "research type",
+          "lang": "en",
+          "value": "Observational Study"
+        }
+      ],
+      "stdyClas": [
+        {
+          "lang": "fr",
+          "value": "Inconnu"
+        },
+        {
+          "lang": "en",
+          "value": "Unknown"
+        }
+      ],
+      "dataColl": {
+        "targetSampleSize": [
+          {
+            "lang": "fr",
+            "value": "[1000-10000[ individus"
+          },
+          {
+            "lang": "en",
+            "value": "[1000-10000[ individuals"
+          }
+        ],
+        "timeMeth": [
+          {
+            "lang": "fr",
+            "value": "Etude transversale répétée"
+          },
+          {
+            "lang": "en",
+            "value": "Repeated cross-sectional study"
+          }
+        ],
+        "sampleFrame": {
+          "frameUnit": {
+            "unitType": [
+              {
+                "lang": "fr",
+                "value": "Via les professionnels d&#x27;exercice libéral"
+              },
+              {
+                "lang": "en",
+                "value": "Through independent healthcare practitioners"
+              }
+            ]
+          }
+        },
+        "sources": [
+          {}
+        ],
+        "collMode": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ],
+        "sampProc": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ],
+        "respRate": [
+          {
+            "lang": "fr",
+            "value": "418 (2008), 628 (2009), 1385 (2010), 1516 (2011)"
+          },
+          {
+            "lang": "en",
+            "value": "418 (2008), 628 (2009), 1385 (2010), 1516 (2011)"
+          }
+        ]
+      }
+    },
+    "stdyInfo": {
+      "abstract": [
+        {
+          "contentType": "purpose",
+          "lang": "fr",
+          "value": "Son objectif principal est de recueillir des informations sur les caractéristiques socio démographiques, les consommations de produits et l'état de santé des patients suivis en médecine de ville, usagers de substances actives illicites ou de médicaments détournés de leur usage thérapeutique ou sous traitement de substitution de la dépendance aux opiacés."
+        },
+        {
+          "contentType": "purpose",
+          "lang": "en",
+          "value": "Its main objective is to collect information on sociodemographic characteristics, consumption of products and the health status of patients in monitored in private practice, users of illegal active substances or medicines diverted from their therapeutic use or under substitution treatment for opioid dependence."
+        }
+      ],
+      "subject": {
+        "topcClas": [
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/4b9f8efb-68dd-45a1-b04c-d23d457d6898"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D058006"
+              }
+            ],
+            "value": "Médecine générale"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/4b9f8efb-68dd-45a1-b04c-d23d457d6898"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D058006"
+              }
+            ],
+            "value": "General medicine"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants comportementaux : Addictions"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants liés au système de santé : Consommation des soins"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants comportementaux"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants liés au système de santé"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Behavioral determinants: Addiction"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Healthcare system determinants: Use of care"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Behavioral determinants"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Healthcare system determinants"
+          }
+        ],
+        "keyword": [
+          {
+            "lang": "fr",
+            "value": "pharmaco-épidémiologie / consommations de substances psychoactives / médecins généralistes"
+          },
+          {
+            "lang": "en",
+            "value": "pharmacoepidemiology / consumption of psychoactive substances / general practitioners"
+          }
+        ]
+      },
+      "qualityStatement": {
+        "standardsCompliance": {}
+      },
+      "sumDscr": {
+        "dataKind": [
+          {
+            "lang": "fr",
+            "value": "Données cliniques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données socio-démographiques"
+          },
+          {
+            "lang": "en",
+            "value": "Clinical data"
+          },
+          {
+            "lang": "en",
+            "value": "Socio-demographic data"
+          }
+        ],
+        "anlyUnit": [
+          {
+            "lang": "fr",
+            "value": "Individus"
+          },
+          {
+            "lang": "en",
+            "value": "Individuals"
+          }
+        ],
+        "nation": [
+          {
+            "lang": "fr",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          },
+          {
+            "lang": "en",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          }
+        ],
+        "universe": [
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Masculin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Féminin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Male"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Female"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Adulte (19 à 24 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adulte (25 à 44 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Adulte (45 à 64 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Personne âgée (65 à 79 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000369"
+            },
+            "value": "Grand âge (80 ans et plus)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Young Adult (19 to 24 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adult (25 to 44 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Middle Aged (45 to 64 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Aged (65 to 79 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000369"
+            },
+            "value": "Aged, 80 and over (80 years and more)"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Population générale"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "en",
+            "value": "General population"
+          },
+          {
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Patients volontaires et consultant chez un médecin généraliste recruté et animé par les CEIP"
+          },
+          {
+            "clusion": "I",
+            "lang": "en",
+            "value": "Voluntary patients and consultants at a general practitioner’s clinic recruited and led by the CEIP"
+          },
+          {
+            "clusion": "E",
+            "lang": "fr",
+            "value": ""
+          },
+          {
+            "clusion": "E",
+            "lang": "en",
+            "value": ""
+          }
+        ],
+        "collDate": {
+          "event": "start",
+          "value": "2008-01-01"
+        }
+      }
+    },
+    "dataAccs": {
+      "setAvail": {
+        "avlStatus": [
+          {
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_14cb"
+              }
+            ],
+            "value": "Accès aux seules métadonnées"
+          },
+          {
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_14cb"
+              }
+            ],
+            "value": "Metadata-only access"
+          }
+        ],
+        "conditions": [
+          {
+            "lang": "fr",
+            "value": "Contacter le responsable scientifique"
+          },
+          {
+            "lang": "en",
+            "value": "Contact the principal investigator"
+          }
+        ]
+      },
+      "useStmt": {}
+    },
+    "othStdMat": {
+      "relMat": [
+        {
+          "lang": "fr",
+          "value": "Pas d’accès"
+        },
+        {
+          "lang": "en",
+          "value": "Access not yet planned"
+        }
+      ]
+    },
+    "studyDevelopment": {
+      "developmentActivity": [
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/morbidité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Consommation de soins/services de santé"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/morbidity"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health care consumption and services"
+        }
+      ]
+    }
+  },
+  "docDscr": {
+    "citation": {
+      "rspStmt": {
+        "AuthEnty": "Xavier THIRION"
+      },
+      "prodStmt": {
+        "producer": [
+          {
+            "affiliation": "UNIVERSITE D&#x27;AIX MARSEILLE",
+            "value": "Xavier;THIRION"
+          }
+        ],
+        "prodPlac": "Portail Épidémiologie France"
+      }
+    }
+  },
+  "additional": {
+    "prodPlac": "Portail Épidémiologie France",
+    "relatedDocuments": {
+      "documentTitle": [
+        {
+          "lang": "fr"
+        },
+        {
+          "lang": "en"
+        }
+      ],
+      "documentLink": [
+        {
+          "lang": "fr",
+          "value": "http://ansm.sante.fr/Declarer-un-effet-indesirable/Pharmacodependance-Addictovigilance/Outils-de-surveillance-et-d-evaluation-Resultats-d-enquetes/%28offset%29/3#paragraph_54413"
+        },
+        {
+          "lang": "en",
+          "value": "http://ansm.sante.fr/Declarer-un-effet-indesirable/Pharmacodependance-Addictovigilance/Outils-de-surveillance-et-d-evaluation-Resultats-d-enquetes/%28offset%29/3#paragraph_54413"
+        }
+      ]
+    },
+    "creationDate": "05-01-2016",
+    "lastUpdatedManual": "19-10-2017",
+    "theme": {},
+    "governance": {},
+    "collaborations": {},
+    "mockSample": {},
+    "dataQuality": {},
+    "variableDictionnary": {},
+    "dataTypes": {
+      "clinicalDataDetails": [
+        {
+          "lang": "fr",
+          "value": "État de santé et leur consommation actuelle de substances psychoactives"
+        },
+        {
+          "lang": "en",
+          "value": "Health status and current consumption of psychoactive substances"
+        }
+      ],
+      "isDataInBiobank": false
+    },
+    "collectionProcess": {
+      "collectionModeDetails": [
+        {
+          "lang": "fr",
+          "value": "Par les médecins généralistes"
+        },
+        {
+          "lang": "en",
+          "value": "By general practitioners"
+        }
+      ]
+    },
+    "geographicalCoverage": {
+      "geoDetail": [
+        {
+          "lang": "fr",
+          "value": "France"
+        },
+        {
+          "lang": "en",
+          "value": "France"
+        }
+      ]
+    },
+    "activeFollowUp": {
+      "isActiveFollowUp": false
+    },
+    "dataCollectionIntegration": {
+      "isDataIntegration": false
+    },
+    "isHealthTheme": true
+  },
+  "schematype": "survey"
+}

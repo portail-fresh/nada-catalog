@@ -1,0 +1,511 @@
+.btn-edit-vd-field {
+    cursor: pointer;
+    color: var(--wp--preset--color--light-blue);
+    border: none;
+    background: none;
+}
+
+/* Modal Footer */
+#editVDModal .modal-footer {
+    border-top: 1px solid var(--wp--preset--color--tinted-white);
+    padding: 15px 20px;
+    background-color: var(--wp--preset--color--tinted-white);
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+/* Buttons */
+#editVDModal .modal-footer .button {
+    padding: 5px 25px;
+    font-weight: 500;
+    color: var(--wp--preset--color--white);
+    border-radius: var(--wp--preset--border-radius--md);
+    border-color: var(--wp--preset--color--primary);
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    min-width: 110px;
+    justify-content: center;
+    background-color: var(--wp--preset--color--primary);
+}
+
+/* Grid Layout */
+.technical-documentation-container {
+    width: 100%;
+    max-width: 100%;
+}
+
+/* Sidebar */
+.technical-documentation-sidebar {
+    padding: 20px 0;
+    min-height: 100vh;
+    background: var(--wp--preset--color--white);
+    transition: all 0.3s ease;
+    visibility: visible;
+    display: block;
+}
+
+.technical-documentation-col-3 {
+    border-right: 1px solid var(--wp--preset--color--tinted-white);
+    box-shadow: 4px 0 6px -5px var(--wp--preset--color--black-with-opacity);
+    position: relative;
+}
+
+.technical-documentation-main-content {
+    padding-left: 30px;
+}
+
+.closedSideBar .technical-documentation-sidebar {
+    visibility: hidden;
+    display: none;
+}
+
+.toggle-btn {
+    background: var(--wp--preset--color--tinted-white);
+    padding: 5px;
+    border-radius: 5px 0 0 5px !important;
+    position: absolute;
+    right: 0;
+    box-shadow: var(--wp--preset--shadow--sm);
+}
+
+/* Navigation Items */
+.technical-documentation-nav-item a,
+.technical-documentation-nav-link {
+    display: block;
+    padding: 10px 20px;
+    color: var(--wp--preset--color--primary);
+    text-decoration: none;
+    font-size: var(--wp--preset--font-size--small);
+    border-left: 3px solid transparent;
+    transition: all 0.2s ease;
+}
+
+.technical-documentation-nav-item a:hover,
+.technical-documentation-nav-link:hover,
+.technical-documentation-subsection-items .technical-documentation-nav-link:hover {
+    background: var(--wp--preset--color--tinted-white);
+    color: var(--wp--preset--color--primary);
+}
+
+/* Introduction link - special styling */
+.technical-documentation-nav-intro {
+    margin-left: 0;
+    padding-left: 30px;
+    font-size: var(--wp--preset--font-size--small);
+}
+
+/* Navigation Sections */
+.technical-documentation-nav-section {
+    margin: 8px 0;
+}
+
+.technical-documentation-col-3.col-1 {
+    width: 40px;
+}
+
+.technical-documentation-col-3.col-1 .arrow-left {
+    transform: rotate(320deg);
+    -webkit-transform: rotate(320deg);
+}
+
+.technical-documentation-nav-toggle {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 20px;
+    background: transparent;
+    border: none;
+    border-left: 3px solid transparent;
+    color: var(--wp--preset--color--primary);
+    font-size: var(--wp--preset--font-size--small);
+    font-weight: 500;
+    cursor: pointer;
+    text-align: left;
+    transition: all 0.2s ease;
+}
+
+.technical-documentation-nav-toggle:hover,
+.technical-documentation-sections-toggle:hover,
+.technical-documentation-subsection-toggle:hover {
+    background: var(--wp--preset--color--tinted-white);
+}
+
+.technical-documentation-nav-toggle.active {
+    color: var(--wp--preset--color--primary);
+}
+
+.technical-documentation-arrow {
+    font-size: var(--wp--preset--font-size--x-small);
+    font-style: normal;
+    color: var(--wp--preset--color--primary);
+}
+
+.technical-documentation-nav-subsection {
+    display: none;
+    padding: 0;
+}
+
+.technical-documentation-nav-subsection.show {
+    display: block;
+}
+
+/* Sections Header */
+.technical-documentation-sections-header {
+    margin: 5px 0;
+}
+
+.technical-documentation-sections-toggle {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 8px 20px 8px 30px;
+    background: transparent;
+    border: none;
+    border-left: 3px solid transparent;
+    color: var(--wp--preset--color--primary);
+    font-size: var(--wp--preset--font-size--small);
+    font-weight: 500;
+    cursor: pointer;
+    text-align: left;
+    transition: all 0.2s ease;
+}
+
+/* Sections List */
+.technical-documentation-sections-list {
+    display: none;
+}
+
+.technical-documentation-sections-list.show {
+    display: block;
+}
+
+.technical-documentation-sections-list .technical-documentation-nav-link {
+    padding: 8px 20px 8px 50px;
+    font-size: var(--wp--preset--font-size--small);
+}
+
+/* Sub-sections*/
+.technical-documentation-subsection {
+    margin: 5px 0;
+}
+
+.technical-documentation-subsection-toggle {
+    width: 100%;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    padding: 8px 20px 8px 30px;
+    background: transparent;
+    border: none;
+    border-left: 3px solid transparent;
+    color: var(--wp--preset--color--primary);
+    font-size: var(--wp--preset--font-size--small);
+    font-weight: 500;
+    cursor: pointer;
+    text-align: left;
+    transition: all 0.2s ease;
+    line-height: 26px;
+}
+
+.technical-documentation-subsection-toggle .technical-documentation-arrow {
+    color: var(--wp--preset--color--primary);
+    font-size: var(--wp--preset--font-size--x-small);
+}
+
+.technical-documentation-subsection-items {
+    display: none;
+}
+
+.technical-documentation-subsection-items.show {
+    display: block;
+}
+
+.technical-documentation-subsection-items .technical-documentation-nav-link {
+    padding: 8px 20px 8px 50px;
+    font-size: var(--wp--preset--font-size--small);
+    color: var(--wp--preset--color--primary);
+}
+
+.technical-documentation-sidebar .technical-documentation-sections-list .technical-documentation-nav-link.active,
+.technical-documentation-sidebar .technical-documentation-subsection-items .technical-documentation-nav-link.active,
+.technical-documentation-nav-link.active {
+    background-color: var(--wp--preset--color--secondary);
+    color: var(--wp--preset--color--white);
+    font-weight: 500;
+}
+
+.technical-documentation-sidebar .technical-documentation-sections-list .technical-documentation-nav-link.active:hover,
+.technical-documentation-sidebar .technical-documentation-subsection-items .technical-documentation-nav-link.active:hover {
+    background-color: var(--wp--preset--color--secondary);
+    color: var(--wp--preset--color--primary);
+}
+
+.technical-documentation-article-header {
+    margin-bottom: 30px;
+    padding-bottom: 15px;
+    border-bottom: 2px solid var(--wp--preset--color--tinted-white);
+}
+
+.technical-documentation-article-header h1 {
+    margin: 0;
+    font-size: var(--wp--preset--font-size--x-large-id);
+    font-weight: 600;
+    color: var(--wp--preset--color--primary);
+}
+
+/* Content styling for introduction */
+.technical-documentation-content {
+    font-size: var(--wp--preset--font-size--normal);
+    line-height: 1.7;
+    color: var(--wp--preset--color--primary);
+}
+
+.technical-documentation-content h2 {
+    font-size: var(--wp--preset--font-size--xl-normal);
+    font-weight: 600;
+    color: var(--wp--preset--color--primary);
+    margin-top: 30px;
+    margin-bottom: 15px;
+}
+
+.technical-documentation-content p {
+    margin-bottom: 15px;
+}
+
+.technical-documentation-content ul {
+    margin: 15px 0;
+    padding-left: 30px;
+}
+
+.technical-documentation-content ul li {
+    margin-bottom: 8px;
+}
+
+.table-container {
+    overflow-x: auto;
+    margin: 20px 0;
+    border: 1px solid var(--wp--preset--color--tinted-white);
+    border-radius: var(--wp--preset--border-radius--sm);
+}
+
+/* Base Table Styles */
+.technical-documentation-metadata-table,
+.technical-documentation-vocab-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: var(--wp--preset--font-size--small);
+    background: var(--wp--preset--color--white);
+    table-layout: fixed;
+    min-width: 1200px;
+}
+
+.technical-documentation-metadata-table thead,
+.technical-documentation-vocab-table thead {
+    background: var(--wp--preset--color--secondary);
+    color: var(--wp--preset--color--white)
+}
+
+.technical-documentation-metadata-table th,
+.technical-documentation-vocab-table th {
+    padding: 12px 15px;
+    text-align: left;
+    font-weight: 600;
+    font-size: var(--wp--preset--font-size--small);
+    border-bottom: 2px solid var(--wp--preset--color--light-blue);
+    white-space: normal;
+    word-wrap: break-word;
+    vertical-align: top;
+}
+
+.technical-documentation-metadata-table td,
+.technical-documentation-vocab-table td {
+    padding: 12px 15px;
+    border-bottom: 1px solid var(--wp--preset--color--tinted-white);
+    color: var(--wp--preset--color--primary);
+    line-height: 1.5;
+    white-space: normal;
+    word-wrap: break-word;
+    word-break: break-word;
+    vertical-align: top;
+}
+
+.technical-documentation-metadata-table tbody tr:hover,
+.technical-documentation-vocab-table tbody tr:hover {
+    background: rgb(196, 195, 195);
+}
+
+.technical-documentation-metadata-table th:nth-child(1),
+.technical-documentation-metadata-table td:nth-child(1) {
+    width: 70px;
+}
+
+.technical-documentation-metadata-table th:nth-child(2),
+.technical-documentation-metadata-table td:nth-child(2) {
+    width: 240px !important;
+    white-space: nowrap;
+    word-break: normal;
+    font-weight: 600;
+}
+
+.technical-documentation-metadata-table th:nth-child(3),
+.technical-documentation-metadata-table td:nth-child(3),
+.technical-documentation-metadata-table th:nth-child(5),
+.technical-documentation-metadata-table td:nth-child(5) {
+    width: 130px;
+}
+
+.technical-documentation-metadata-table th:nth-child(4),
+.technical-documentation-metadata-table td:nth-child(4),
+.technical-documentation-metadata-table th:nth-child(6),
+.technical-documentation-metadata-table td:nth-child(6) {
+    width: 200px;
+}
+
+.technical-documentation-metadata-table th:nth-child(7),
+.technical-documentation-metadata-table td:nth-child(7) {
+    width: 90px;
+}
+
+.technical-documentation-metadata-table th:nth-child(8),
+.technical-documentation-metadata-table td:nth-child(8),
+.technical-documentation-metadata-table th:nth-child(9),
+.technical-documentation-metadata-table td:nth-child(9) {
+    width: 80px;
+    text-align: center;
+}
+
+.technical-documentation-vocab-table th:nth-child(1),
+.technical-documentation-vocab-table td:nth-child(1),
+.technical-documentation-vocab-table th:nth-child(2),
+.technical-documentation-vocab-table td:nth-child(2) {
+    width: 150px;
+    font-weight: 600;
+}
+
+.technical-documentation-vocab-table th:nth-child(3),
+.technical-documentation-vocab-table td:nth-child(3),
+.technical-documentation-vocab-table th:nth-child(4),
+.technical-documentation-vocab-table td:nth-child(4) {
+    width: 250px;
+}
+
+.technical-documentation-vocab-table th:nth-child(5),
+.technical-documentation-vocab-table td:nth-child(5),
+.technical-documentation-vocab-table th:nth-child(6),
+.technical-documentation-vocab-table td:nth-child(6),
+.technical-documentation-vocab-table th:nth-child(7),
+.technical-documentation-vocab-table td:nth-child(7) {
+    width: 120px;
+}
+
+.technical-documentation-metadata-table .col-actions,
+.technical-documentation-vocab-table .col-actions {
+    position: sticky;
+    right: 0;
+    z-index: 2;
+    width: 80px !important;
+    min-width: 80px;
+}
+
+.technical-documentation-metadata-table td.col-actions,
+.technical-documentation-vocab-table td.col-actions {
+    position: sticky;
+    right: 0;
+    background: var(--wp--preset--color--white);
+    z-index: 2;
+}
+
+.td-table th.col-actions {
+    z-index: 3;
+}
+
+.td-table td.col-actions {
+    box-shadow: -4px 0 6px var(--wp--preset--color--black-with-opacity);
+}
+
+.technical-documentation-metadata-table th.col-actions,
+.technical-documentation-vocab-table th.col-actions {
+    z-index: 3;
+    background: var(--wp--preset--color--light-blue);
+}
+
+.technical-documentation-metadata-table tbody tr:hover td.col-actions,
+.technical-documentation-vocab-table tbody tr:hover td.col-actions {
+    background: rgb(196, 195, 195);
+}
+
+.technical-documentation-metadata-table td a,
+.technical-documentation-vocab-table td a {
+    word-break: break-all;
+    display: inline-block;
+    max-width: 100%;
+}
+
+/* END tables styles  */
+
+/* Responsive stype */
+@media (max-width: 992px) {
+
+    .technical-documentation-col-3,
+    .technical-documentation-col-9 {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
+    .technical-documentation-sidebar {
+        border-right: none;
+        border-bottom: 1px solid var(--wp--preset--color--tinted-white);
+        min-height: auto;
+    }
+
+    .technical-documentation-main-content {
+        padding: 30px 20px;
+    }
+
+    .technical-documentation-article-header h1 {
+        font-size: var(--wp--preset--font-size--large-id);
+    }
+}
+
+@media (max-width: 768px) {
+    .technical-documentation-main-content {
+        padding: 20px 15px;
+    }
+
+    .td-table,
+    .technical-documentation-vocab-table {
+        font-size: var(--wp--preset--font-size--x-small);
+        min-width: 900px;
+    }
+
+    .td-table th,
+    .technical-documentation-vocab-table th,
+    .td-table td,
+    .technical-documentation-vocab-table td {
+        padding: 8px 10px;
+    }
+
+    .technical-documentation-article-header h1 {
+        font-size: var(--wp--preset--font-size--xl-normal);
+    }
+}
+
+/* fin responsive*/
+
+.technical-documentation-sidebar button {
+    border-radius: var(--wp--preset--border-radius--none) !important;
+}
+
+.technical-documentation-article table {
+    margin: unset !important;
+}
+
+.container {
+    max-width: 1440px !important;
+    width: 100% !important;
+}

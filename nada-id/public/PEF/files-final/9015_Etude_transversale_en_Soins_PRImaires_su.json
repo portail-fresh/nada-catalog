@@ -1,0 +1,730 @@
+{
+  "stdyDscr": {
+    "citation": {
+      "titlStmt": {
+        "IDNo": [
+          {
+            "agency": "PEF",
+            "value": "9015"
+          },
+          {
+            "agency": "FReSH",
+            "value": "FRESH-PEF9015"
+          }
+        ],
+        "titl": [
+          {
+            "lang": "fr",
+            "value": "Etude transversale en Soins PRImaires sur les événemenTs indésirables"
+          },
+          {
+            "lang": "en",
+            "value": "Cross-Sectional Study on Primary Care for Adverse Events"
+          }
+        ],
+        "altTitl": [
+          {
+            "lang": "fr",
+            "value": "ESPRIT"
+          },
+          {
+            "lang": "en",
+            "value": "ESPRIT"
+          }
+        ]
+      },
+      "rspStmt": {
+        "AuthEnty": [
+          {
+            "name": "Philippe;MICHEL",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "COMITE DE COORDINATION DE L'EVALUATION CLINIQUE ET DE LA QUALITE EN NOUVELLE-AQUITAINE (CCECQA)"
+              },
+              {
+                "lang": "en",
+                "value": "COMITE DE COORDINATION DE L'EVALUATION CLINIQUE ET DE LA QUALITE EN NOUVELLE-AQUITAINE (CCECQA)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "0000-0001-8455-8332",
+                "role": "pi id",
+                "title": "ORCID"
+              },
+              {
+                "uri": "061666300",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "409084308",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ],
+            "isContact": true,
+            "email": "philippe.michel@chu-lyon.fr",
+            "PILabo": "Comité de Coordination de l’Évaluation Clinique et de la Qualité en Aquitaine"
+          }
+        ],
+        "othId": [
+          {
+            "type": "collaboration",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "Partenariat avec Open Romehttp://esprit.openrome.org/documents/Rapport_ESPRIT_final.pdf"
+              },
+              {
+                "lang": "en",
+                "value": "Partnership with Open Rome http://esprit.openrome.org/documents/Rapport_ESPRIT_final.pdf"
+              }
+            ]
+          }
+        ]
+      },
+      "distStmt": {
+        "contact": [
+          {
+            "name": "Philippe;MICHEL",
+            "email": "philippe.michel@chu-lyon.fr",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "COMITE DE COORDINATION DE L'EVALUATION CLINIQUE ET DE LA QUALITE EN NOUVELLE-AQUITAINE (CCECQA)"
+              },
+              {
+                "lang": "en",
+                "value": "COMITE DE COORDINATION DE L'EVALUATION CLINIQUE ET DE LA QUALITE EN NOUVELLE-AQUITAINE (CCECQA)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "409084308",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          }
+        ]
+      },
+      "prodStmt": {
+        "fundAg": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "MINISTERE DU TRAVAIL, DE LA SANTE, DES SOLIDARITES ET DES FAMILLES"
+              },
+              {
+                "lang": "en",
+                "value": "MINISTERE DU TRAVAIL, DE LA SANTE, DES SOLIDARITES ET DES FAMILLES"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "ROR",
+                "uri": "https://ror.org/01wp0c315"
+              },
+              {
+                "title": "SIREN",
+                "uri": "130016546"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ]
+          }
+        ],
+        "producer": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "COMITE DE COORDINATION DE L'EVALUATION CLINIQUE ET DE LA QUALITE EN NOUVELLE-AQUITAINE (CCECQA)"
+              },
+              {
+                "lang": "en",
+                "value": "COMITE DE COORDINATION DE L'EVALUATION CLINIQUE ET DE LA QUALITE EN NOUVELLE-AQUITAINE (CCECQA)"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Privé à but non lucratif"
+              },
+              {
+                "lang": "en",
+                "value": "Private non-profit"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "409084308"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "studyAuthorization": {
+      "authorizingAgency": {
+        "lang": "fr",
+        "value": "CNIL"
+      }
+    },
+    "method": {
+      "notes": [
+        {
+          "subject": "research type",
+          "lang": "fr",
+          "value": "Etude observationnelle"
+        },
+        {
+          "subject": "research type",
+          "lang": "en",
+          "value": "Observational Study"
+        }
+      ],
+      "stdyClas": [
+        {
+          "lang": "fr",
+          "value": "Étude complétée"
+        },
+        {
+          "lang": "en",
+          "value": "Completed study"
+        }
+      ],
+      "dataColl": {
+        "targetSampleSize": [
+          {
+            "lang": "fr",
+            "value": "< 500 individus"
+          },
+          {
+            "lang": "en",
+            "value": "< 500 individuals"
+          }
+        ],
+        "timeMeth": [
+          {
+            "lang": "fr",
+            "value": "Etude transversale non répétée"
+          },
+          {
+            "lang": "en",
+            "value": "One-time cross-sectional study"
+          }
+        ],
+        "sampleFrame": {
+          "frameUnit": {
+            "unitType": [
+              {
+                "lang": "fr",
+                "value": "Via les professionnels d&#x27;exercice libéral"
+              },
+              {
+                "lang": "en",
+                "value": "Through independent healthcare practitioners"
+              }
+            ]
+          }
+        },
+        "sources": [
+          {}
+        ],
+        "collMode": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Interview",
+              "vocab": "CESSDA"
+            },
+            "value": "Entretien avec le participant (dont clinique)"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Interview",
+              "vocab": "CESSDA"
+            },
+            "value": "Interview with the participant (including clinical)"
+          }
+        ],
+        "sampProc": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ],
+        "respRate": [
+          {
+            "lang": "fr",
+            "value": "475"
+          },
+          {
+            "lang": "en",
+            "value": "475"
+          }
+        ]
+      }
+    },
+    "stdyInfo": {
+      "abstract": [
+        {
+          "contentType": "purpose",
+          "lang": "fr",
+          "value": "Estimer en France l’incidence des événements indésirables associés aux soins (EIAS) évitables en médecine générale et d’en décrire la typologie."
+        },
+        {
+          "contentType": "purpose",
+          "lang": "en",
+          "value": "To estimate the incidence of avoidable treatment-related adverse effects in general medicine and to describe the typology."
+        }
+      ],
+      "subject": {
+        "topcClas": [
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/4b9f8efb-68dd-45a1-b04c-d23d457d6898"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D058006"
+              }
+            ],
+            "value": "Médecine générale"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/4b9f8efb-68dd-45a1-b04c-d23d457d6898"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D058006"
+              }
+            ],
+            "value": "General medicine"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Systèmes de soins et accès aux soins"
+          }
+        ],
+        "keyword": [
+          {
+            "lang": "fr",
+            "value": "Fréquence"
+          },
+          {
+            "lang": "fr",
+            "value": "événements indésirables"
+          },
+          {
+            "lang": "fr",
+            "value": "gestion des risques"
+          },
+          {
+            "lang": "en",
+            "value": "risk management"
+          },
+          {
+            "lang": "en",
+            "value": "frequency"
+          },
+          {
+            "lang": "en",
+            "value": "adverse events"
+          }
+        ]
+      },
+      "qualityStatement": {
+        "standardsCompliance": {},
+        "otherQualityStatement": [
+          {
+            "lang": "fr",
+            "value": "La complétude des données sera suivie:‐ en temps réel pour les fiches saisies en ligne,‐ à l’arrivée à la coordination Open Rome pour les fiches envoyées par la Poste.Un retour au médecin sera fait au fur et à mesure par la coordination, si nécessaire, pour compléter les données ou ajuster le recueil. La qualité de la saisie et la cohérence des données seront validés par les responsables de la base de données selon leurs procédures habituelles."
+          },
+          {
+            "lang": "en",
+            "value": "Data completeness will be monitored: ‐ in real time, - when files arrive to Open Rome by post. If required, the organisation will contact to the physician again to adjust or supplement data collection. The quality of data recording and consistency will be checked by those in charge of the database in accordance with regular procedures"
+          }
+        ]
+      },
+      "sumDscr": {
+        "dataKind": [
+          {
+            "lang": "fr",
+            "value": "Données rapportées par le participant de l&#x27;étude"
+          },
+          {
+            "lang": "en",
+            "value": "Participant-reported health data"
+          }
+        ],
+        "anlyUnit": [
+          {
+            "lang": "fr",
+            "value": "Individus"
+          },
+          {
+            "lang": "en",
+            "value": "Individuals"
+          }
+        ],
+        "nation": [
+          {
+            "lang": "fr",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          },
+          {
+            "lang": "en",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          }
+        ],
+        "universe": [
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Masculin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Féminin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Male"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Female"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Adulte (19 à 24 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adulte (25 à 44 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Adulte (45 à 64 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Young Adult (19 to 24 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adult (25 to 44 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Middle Aged (45 to 64 years)"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Population générale"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "en",
+            "value": "General population"
+          },
+          {
+            "clusion": "I",
+            "lang": "fr",
+            "value": " homme et femme - patients vus ou contactés par les médecins généralistes volontaires de l'étude"
+          },
+          {
+            "clusion": "I",
+            "lang": "en",
+            "value": "Male and female; - Patients seen or contacted by voluntary general practitioners from the study."
+          },
+          {
+            "clusion": "E",
+            "lang": "fr",
+            "value": ""
+          },
+          {
+            "clusion": "E",
+            "lang": "en",
+            "value": ""
+          }
+        ],
+        "collDate": [
+          {
+            "event": "start",
+            "value": "2012-01-01"
+          },
+          {
+            "event": "end",
+            "value": "2013-01-01"
+          }
+        ]
+      }
+    },
+    "dataAccs": {
+      "setAvail": {
+        "avlStatus": [
+          {
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Accès réservé"
+          },
+          {
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Restricted access"
+          }
+        ],
+        "conditions": [
+          {
+            "lang": "fr",
+            "value": "Contacter le responsable scientifique"
+          },
+          {
+            "lang": "en",
+            "value": "Contact the principal investigator"
+          }
+        ]
+      },
+      "useStmt": {}
+    },
+    "othStdMat": {
+      "relMat": [
+        {
+          "lang": "fr",
+          "value": "Accès restreint sur projet spécifique"
+        },
+        {
+          "lang": "en",
+          "value": "Access on specific project only"
+        }
+      ]
+    },
+    "studyDevelopment": {
+      "developmentActivity": [
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/morbidité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Qualité de vie/santé perçue"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/morbidity"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Quality of life/health perception"
+        }
+      ]
+    }
+  },
+  "docDscr": {
+    "citation": {
+      "rspStmt": {
+        "AuthEnty": "Philippe MICHEL"
+      },
+      "prodStmt": {
+        "producer": [
+          {
+            "affiliation": "COMITE DE COORDINATION DE L&#x27;EVALUATION CLINIQUE ET DE LA QUALITE EN NOUVELLE-AQUITAINE (CCECQA)",
+            "value": "Philippe;MICHEL"
+          }
+        ],
+        "prodPlac": "Portail Épidémiologie France"
+      }
+    }
+  },
+  "additional": {
+    "prodPlac": "Portail Épidémiologie France",
+    "relatedDocuments": {
+      "documentTitle": [
+        {
+          "lang": "fr"
+        },
+        {
+          "lang": "en"
+        }
+      ],
+      "documentLink": [
+        {
+          "lang": "fr",
+          "value": "http://www.invs.sante.fr/beh/2014/24-25/2014_24-25_1.html"
+        },
+        {
+          "lang": "en",
+          "value": "http://www.invs.sante.fr/beh/2014/24-25/2014_24-25_1.html"
+        }
+      ]
+    },
+    "creationDate": "23-05-2014",
+    "lastUpdatedManual": "12-05-2015",
+    "theme": {},
+    "governance": {},
+    "collaborations": {},
+    "mockSample": {},
+    "dataQuality": {},
+    "variableDictionnary": {},
+    "dataTypes": {
+      "isDataInBiobank": false
+    },
+    "collectionProcess": {
+      "collectionModeDetails": [
+        {
+          "lang": "fr",
+          "value": "Le recueil sera réalisé sur une semaine tirée au sort parmi celles de la période de collecte qui seront définies au préalable avec chaque médecin généraliste,en fonction de sa disponibilité. L’ensemble des données est collecté sur un site internet sécurisé et hébergé par Open Rome, sauf pour les médecins généralistes préférant adresser les questionnaires sous version papier à Open Rome qui se chargeait de la saisie."
+        },
+        {
+          "lang": "en",
+          "value": "Collection will be carried out over a randomly selected week during the data collection period that is scheduled beforehand with all general practitioners, according to availability. All data is collected on a secure website hosted by Open Rome, except for general practitioners who choose to send questionnaires in paper format to Open Rome, who are in charge of recording."
+        }
+      ]
+    },
+    "geographicalCoverage": {
+      "geoDetail": [
+        {
+          "lang": "fr",
+          "value": "19 régions de France métropolitaine"
+        },
+        {
+          "lang": "en",
+          "value": "19 regions throughout metropolitan France."
+        }
+      ]
+    },
+    "activeFollowUp": {
+      "isActiveFollowUp": false
+    },
+    "dataCollectionIntegration": {
+      "isDataIntegration": false
+    },
+    "isHealthTheme": true
+  },
+  "schematype": "survey"
+}

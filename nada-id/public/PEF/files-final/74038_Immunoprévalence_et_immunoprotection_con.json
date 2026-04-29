@@ -1,0 +1,931 @@
+{
+  "stdyDscr": {
+    "citation": {
+      "titlStmt": {
+        "IDNo": [
+          {
+            "agency": "PEF",
+            "value": "74038"
+          },
+          {
+            "agency": "FReSH",
+            "value": "FRESH-PEF74038"
+          }
+        ],
+        "titl": [
+          {
+            "lang": "fr",
+            "value": "Immunoprévalence et immunoprotection contre SARS-CoV2 dans un échantillon d'enfants hospitalisées à l'APHP et en Guyane et leurs parents"
+          },
+          {
+            "lang": "en",
+            "value": "Immunoprevalence and immunoprotection against SARS-CoV2 in a sample of children hospitalized at APHP and in French Guiana and their parents"
+          }
+        ],
+        "altTitl": [
+          {
+            "lang": "fr",
+            "value": "PED-COVID"
+          },
+          {
+            "lang": "en",
+            "value": "PED-COVID"
+          }
+        ]
+      },
+      "rspStmt": {
+        "AuthEnty": [
+          {
+            "name": "Michaela;SEMERARO",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "ASSISTANCE PUBLIQUE HOPITAUX DE PARIS (AP-HP)"
+              },
+              {
+                "lang": "en",
+                "value": "ASSISTANCE PUBLIQUE HOPITAUX DE PARIS (AP-HP)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "18149714X",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/00pg5jh14",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "267500452",
+                "role": "organisation id",
+                "title": "SIREN"
+              },
+              {
+                "uri": "199320123H",
+                "role": "labo id",
+                "title": "RNSR"
+              }
+            ],
+            "isContact": true,
+            "email": "michaela.semeraro@aphp.fr",
+            "PILabo": "Centre Investigation Clinique"
+          }
+        ],
+        "othId": []
+      },
+      "distStmt": {
+        "contact": [
+          {
+            "name": "Michaela;SEMERARO",
+            "email": "michaela.semeraro@aphp.fr",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "ASSISTANCE PUBLIQUE HOPITAUX DE PARIS (AP-HP)"
+              },
+              {
+                "lang": "en",
+                "value": "ASSISTANCE PUBLIQUE HOPITAUX DE PARIS (AP-HP)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/00pg5jh14",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "267500452",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          },
+          {
+            "name": "Isabelle;SERMET-GAUDELUS",
+            "email": "isabelle.sermet@aphp.fr",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE (INSERM)"
+              },
+              {
+                "lang": "en",
+                "value": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE (INSERM)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/02vjkv261",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "180036048",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          }
+        ]
+      },
+      "prodStmt": {
+        "fundAg": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "AGENCE NATIONALE DE LA RECHERCHE (ANR)"
+              },
+              {
+                "lang": "en",
+                "value": "AGENCE NATIONALE DE LA RECHERCHE (ANR)"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "ROR",
+                "uri": "https://ror.org/00rbzpz17"
+              },
+              {
+                "title": "SIREN",
+                "uri": "130002504"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "ASSISTANCE PUBLIQUE HOPITAUX DE PARIS (AP-HP)"
+              },
+              {
+                "lang": "en",
+                "value": "ASSISTANCE PUBLIQUE HOPITAUX DE PARIS (AP-HP)"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "ROR",
+                "uri": "https://ror.org/00pg5jh14"
+              },
+              {
+                "title": "SIREN",
+                "uri": "267500452"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "CAPNET"
+              },
+              {
+                "lang": "en",
+                "value": "CAPNET"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "SIREN",
+                "uri": "403710536"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Autre"
+              },
+              {
+                "lang": "en",
+                "value": "Other"
+              }
+            ]
+          }
+        ],
+        "producer": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "ASSISTANCE PUBLIQUE HOPITAUX DE PARIS (AP-HP)"
+              },
+              {
+                "lang": "en",
+                "value": "ASSISTANCE PUBLIQUE HOPITAUX DE PARIS (AP-HP)"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "ROR",
+                "uri": "https://ror.org/00pg5jh14"
+              },
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "267500452"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "studyAuthorization": {
+      "authorizingAgency": {
+        "lang": "fr",
+        "value": "CNIL"
+      }
+    },
+    "method": {
+      "notes": [
+        {
+          "subject": "research type",
+          "lang": "fr",
+          "value": "Etude observationnelle"
+        },
+        {
+          "subject": "research type",
+          "lang": "en",
+          "value": "Observational Study"
+        },
+        {
+          "lang": "fr",
+          "subject": "observational study method",
+          "value": "Cohorte"
+        },
+        {
+          "lang": "en",
+          "subject": "observational study method",
+          "value": "Cohort study"
+        }
+      ],
+      "stdyClas": [
+        {
+          "lang": "fr",
+          "value": "Inconnu"
+        },
+        {
+          "lang": "en",
+          "value": "Unknown"
+        }
+      ],
+      "dataColl": {
+        "targetSampleSize": {
+          "lang": "fr",
+          "value": "[500-1000[ individus"
+        },
+        "sampleFrame": {
+          "frameUnit": {
+            "unitType": [
+              {
+                "lang": "fr",
+                "value": "Via des structures (services ou établissements de santé, écoles, entreprises…)"
+              },
+              {
+                "lang": "en",
+                "value": "Through organizations (health services or institutions, schools, businesses, etc.)"
+              }
+            ]
+          }
+        },
+        "sources": [
+          {}
+        ],
+        "collMode": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Transcription",
+              "vocab": "CESSDA"
+            },
+            "value": "Transcription et saisie d’informations dans un enregistrement structuré"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Transcription",
+              "vocab": "CESSDA"
+            },
+            "value": "Converting or copying information into a structured record"
+          }
+        ],
+        "sampProc": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ],
+        "respRate": [
+          {
+            "lang": "fr",
+            "value": "1000"
+          },
+          {
+            "lang": "en",
+            "value": "1000"
+          }
+        ]
+      }
+    },
+    "stdyInfo": {
+      "abstract": [
+        {
+          "contentType": "purpose",
+          "lang": "fr",
+          "value": "Etude de cohorte visant à identifier l’immunoprévalence et l’immunoprotection des enfants ayant un médecin référent à l’APHP (dans un centre recruteur) ou hospitalisés depuis moins de 5 jours dans des sites pédiatriques de l’APHP et un centre en Guyane et 1 de leurs parents. Etude longitudinale · sur la sous-population des enfants et leurs parents positifs en PCR, quel que soit le prélèvement (cohorte principale) - 3 visites à domicile ou à l’hôpital à court terme (J 7, J15, J45 post début des symptômes ayant motivé l’hospitalisation ou du prélèvement si enfant asymptomatique) visant à évaluer la cinétique de la réponse immunitaire et de la clairance virale - 2 visites à long terme (6 mois et 1 an) visant à évaluer la cinétique du taux des Ac et l’évaluation de la mémoire immunitaire. - Dépistage d’éventuelles réinfections par des prélèvements de salive si le patient présente des symptômes compatibles avec une nouvelle infection COVID - en cas de réinfection authentifiée par PCR salive + SARS-CoV2: - prélèvement sanguin (caractérisation de la réponse immunitaire humorale et cellulaire chez des patients pauci-symptomatiques) ; - prélevements de selles, et nasopharynx si accord des parents (infection des différents sites, viabilité du virus, mutations de SARS CoV2) ; · Sur la sous population des enfants séropositifs ou fortement suspects d’infections COVID repérés lors de la 1ere vague : prélèvement à la rentrée 2020, soit environ 6 mois après l’infection (cohorte associée) Cohorte famille visant à évaluer la transmission du virus de l’enfant aux autres membres de la famille : 5 visites à domicile post-dépistage positif"
+        },
+        {
+          "contentType": "purpose",
+          "lang": "en",
+          "value": "Cohort study to identify the immunoprevalence and immunoprotection of children with a referring physician at APHP (in a recruiting center) or hospitalized for less than 5 days in APHP pediatric sites and a center in French Guiana, and 1 of their parents Longitudinal study - on the subpopulation of PCR-positive children and their parents, whatever the sample (main cohort) - 3 short-term home or hospital visits (D7, D15, D45 post onset of symptoms leading to hospitalization or sampling if asymptomatic child) to assess kinetics of immune response and viral clearance - 2 long-term visits (6 months and 1 year) to evaluate the kinetics of Ac levels and immune memory - Screening for reinfections by saliva sampling if the patient presents symptoms compatible with a new COVID infection - in case of reinfection authenticated by PCR saliva + SARS-CoV2: - blood sampling (characterization of humoral and cellular immune response in pauci-symptomatic patients) - stool samples, and nasopharynx if parents agree (infection of different sites, virus viability, SARS CoV2 mutations) - On the sub-population of children with seropositive or highly suspected COVID infections identified in the 1st wave: sampling at the start of the 2020 school year, i.e. around 6 months after infection (associated cohort) Family cohort designed to assess transmission of the virus from the child to other family members: 5 home visits after positive screening."
+        }
+      ],
+      "subject": {
+        "topcClas": [
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/bf8aaaac-ddee-41cd-bb8a-c5a63de3fcbd"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D010372"
+              }
+            ],
+            "value": "Pédiatrie"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/f6e18c52-6087-4662-904c-5c4b8174e40e"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D015272"
+              }
+            ],
+            "value": "Pneumologie"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/bf8aaaac-ddee-41cd-bb8a-c5a63de3fcbd"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D010372"
+              }
+            ],
+            "value": "Paediatrics"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/f6e18c52-6087-4662-904c-5c4b8174e40e"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D015272"
+              }
+            ],
+            "value": "Pulmonary medicine"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "fr",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/1730556128",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "COVID-19"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "en",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/1730556128",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "COVID-19"
+          }
+        ],
+        "keyword": [
+          {
+            "lang": "fr",
+            "value": "COVID enfant"
+          },
+          {
+            "lang": "fr",
+            "value": "méméoire immunitaire"
+          },
+          {
+            "lang": "fr",
+            "value": "transmission"
+          },
+          {
+            "lang": "en",
+            "value": "COVID child"
+          },
+          {
+            "lang": "en",
+            "value": "immune memory"
+          },
+          {
+            "lang": "en",
+            "value": "transmission"
+          }
+        ]
+      },
+      "qualityStatement": {
+        "standardsCompliance": {}
+      },
+      "sumDscr": {
+        "dataKind": [
+          {
+            "lang": "fr",
+            "value": "Données cliniques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données paracliniques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données biologiques"
+          },
+          {
+            "lang": "en",
+            "value": "Clinical data"
+          },
+          {
+            "lang": "en",
+            "value": "Biological data"
+          }
+        ],
+        "anlyUnit": [
+          {
+            "lang": "fr",
+            "value": "Individus"
+          },
+          {
+            "lang": "en",
+            "value": "Individuals"
+          }
+        ],
+        "nation": [
+          {
+            "lang": "fr",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          },
+          {
+            "lang": "en",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          }
+        ],
+        "geogCover": [
+          {
+            "lang": "fr",
+            "value": "Ile-de-France"
+          },
+          {
+            "lang": "en",
+            "value": "Ile-de-France"
+          },
+          {
+            "lang": "fr",
+            "value": "Guyane"
+          },
+          {
+            "lang": "en",
+            "value": "Guyane"
+          }
+        ],
+        "universe": [
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Masculin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Féminin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": {},
+              "vocabURI": {}
+            },
+            "value": "Autre"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Male"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Female"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": {},
+              "vocabURI": {}
+            },
+            "value": "Other"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D007223"
+            },
+            "value": "Nourrisson (28j à 2 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D002675"
+            },
+            "value": "Petite enfance (2 à 5 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D002648"
+            },
+            "value": "Enfance (6 à 12 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000293"
+            },
+            "value": "Adolescence (13 à 18 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Adulte (19 à 24 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adulte (25 à 44 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Adulte (45 à 64 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D007223"
+            },
+            "value": "Infant (28 days to 2 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D002675"
+            },
+            "value": "Child, Preschool (2 to 5 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D002648"
+            },
+            "value": "Child (6 to 12 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Young Adult (19 to 24 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adult (25 to 44 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Middle Aged (45 to 64 years)"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Population générale"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "en",
+            "value": "General population"
+          },
+          {
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Cohorte principale :  1) Enfants  -       tout enfant de plus de 7 jours et moins de 17 ans en consultation ou hospitalisé depuis au plus 4 jours à l’AP-HP ou au CH Cayenne;  -       ou tout enfant de plus de 7 jours et moins de 17 ans, considéré comme infecté par SARS-CoV2 du fait d’un test positif en PCR ou en test antigénique , quel que soit le site -ces tests peuvent être réalisés à l’APHP, ou au domicile, l’enfant ayant un médecin référent à l’AP-HP (dans un centre recruteur); quels que soient les symptômes ;  -       accord du parent présent pour le prélèvement sanguin, salivaire et rectal  -       accord optionnel pour le prélèvement nasopharyngé  -       accord optionnel pour les prélèvements au domicile et au CIC ou à l’hôpital de référence si patient positif en qPCR  -       affiliation à un régime de sécurité sociale.  2) adultes  ·         un des parents de l’enfant inclus dans la cohorte principale de l’étude PED-COVID  ·         Donnant son accord pour prélèvement sanguin et salive  ·         Accord optionnel pour prélèvement nasopharynx  ·         accord optionnel pour les prélèvements au domicile et au CIC ou à l’hôpital de référence si sujet positif en qPCR  ·         affiliation à un régime de sécurité sociale.    Cohorte associée :  -        tout enfant de plus de 7 jours et moins de 17 ans; séropositif par la technique LIPS/Pasteur  repéré par la 1ere étude lors de la 1ere vague, quel que soit le délai entre le diagnostic et l’inclusion dans PED-COVID  OU  -       tout enfant de plus de 7 jours et moins de 17 ans; ayant présenté une atteinte clinique inflammatoire potentiellement reliée à SARS-CoV2, sur des arguments épidémiologiques, cliniques, infectieux ou sérologiques quel que soit le délai entre le diagnostic et l’inclusion dans PED-COVID  -       affiliation à un régime de sécurité sociale.     ·         Cohorte famille  1)      Cas index  ·      tout enfant de moins de 18 ans  ·      scolarisé  ·      considéré comme infecté par SARS-CoV2 du fait d’un test positif en PCR ou en test antigénique quel que soit le site accord du parent présent pour le prélèvement sanguin et salivaire  ·      accord optionel pour le prélèvement nasopharyngéaffiliation à un régime de sécurité sociale  2)      Autres membres vivants sous le même toit  ·      tout enfant, quel que soit son âge ou adulte vivant sous le même toit qu’un enfant infecté  inclus dans PED-COVID-cohorte famille  ·      affiliation à un régime de sécurité sociale"
+          },
+          {
+            "clusion": "I",
+            "lang": "en",
+            "value": ""
+          },
+          {
+            "clusion": "E",
+            "lang": "fr",
+            "value": ""
+          },
+          {
+            "clusion": "E",
+            "lang": "en",
+            "value": ""
+          }
+        ],
+        "collDate": [
+          {
+            "event": "start",
+            "value": "2020-01-01"
+          },
+          {
+            "event": "end",
+            "value": "2022-01-01"
+          }
+        ]
+      }
+    },
+    "dataAccs": {
+      "setAvail": {
+        "avlStatus": [
+          {
+            "lang": "fr",
+            "value": "A définir"
+          },
+          {
+            "lang": "en",
+            "value": "To be defined"
+          }
+        ],
+        "conditions": []
+      },
+      "useStmt": {}
+    },
+    "othStdMat": {},
+    "studyDevelopment": {}
+  },
+  "docDscr": {
+    "citation": {
+      "rspStmt": {
+        "AuthEnty": "Isabelle SERMET-GAUDELUS"
+      },
+      "prodStmt": {
+        "producer": [
+          {
+            "affiliation": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE (INSERM)",
+            "value": "Isabelle;SERMET-GAUDELUS"
+          }
+        ],
+        "prodPlac": "Portail Épidémiologie France"
+      }
+    }
+  },
+  "additional": {
+    "prodPlac": "Portail Épidémiologie France",
+    "relatedDocuments": {
+      "documentTitle": [
+        {
+          "lang": "fr",
+          "value": "Sermet et al. Eurosurveillance 2020"
+        },
+        {
+          "lang": "en",
+          "value": "Sermet et al. Eurosurveillance 2020"
+        }
+      ],
+      "documentLink": [
+        {
+          "lang": "fr",
+          "value": "http://epidemiologie-france.aviesan.fr"
+        },
+        {
+          "lang": "en",
+          "value": "http://epidemiologie-france.aviesan.fr"
+        }
+      ]
+    },
+    "creationDate": "----",
+    "lastUpdatedManual": "20-06-2025",
+    "theme": {},
+    "governance": {
+      "committee": true
+    },
+    "collaborations": {},
+    "mockSample": {},
+    "dataQuality": {},
+    "variableDictionnary": {},
+    "dataTypes": {
+      "clinicalDataDetails": {
+        "lang": "fr",
+        "value": "anamnése"
+      },
+      "biologicalDataDetails": [
+        {
+          "lang": "fr",
+          "value": "sérologie, etudes virales (PCR,ARN sous génomique, Charge virale, infection sur cellules véro; séquences virales), mémoire immunitaire"
+        },
+        {
+          "lang": "en",
+          "value": "Viral studies (PCR, genomic RNA, Viral load, vero cell infection; viral sequences), immune memory"
+        }
+      ],
+      "isDataInBiobank": true
+    },
+    "collectionProcess": {
+      "collectionModeDetails": [
+        {
+          "lang": "fr",
+          "value": "CRF"
+        },
+        {
+          "lang": "en",
+          "value": "CRF"
+        }
+      ]
+    },
+    "geographicalCoverage": {
+      "geoDetail": [
+        {
+          "lang": "fr",
+          "value": "Ile de France et Guyane"
+        },
+        {
+          "lang": "en",
+          "value": "Ile de France and French Guiana"
+        }
+      ]
+    },
+    "activeFollowUp": {
+      "isActiveFollowUp": true
+    },
+    "dataCollectionIntegration": {
+      "isDataIntegration": false
+    },
+    "isHealthTheme": true
+  },
+  "schematype": "survey"
+}

@@ -1,0 +1,824 @@
+{
+  "stdyDscr": {
+    "citation": {
+      "titlStmt": {
+        "IDNo": [
+          {
+            "agency": "PEF",
+            "value": "227"
+          },
+          {
+            "agency": "FReSH",
+            "value": "FRESH-PEF227"
+          }
+        ],
+        "titl": [
+          {
+            "lang": "fr",
+            "value": "registre multicentrique à vocation nationale des mésothéliomes pleuraux (registre qualifié 2013-2016)"
+          },
+          {
+            "lang": "en",
+            "value": "French registry of pleural mesothelioma cases"
+          }
+        ],
+        "altTitl": [
+          {
+            "lang": "fr",
+            "value": "MESONAT"
+          },
+          {
+            "lang": "en",
+            "value": "MESONAT"
+          }
+        ]
+      },
+      "rspStmt": {
+        "AuthEnty": [
+          {
+            "name": "Françoise;GALATEAU-SALLE",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "chu"
+              },
+              {
+                "lang": "en",
+                "value": "chu"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "0000-0002-2814-1644",
+                "role": "pi id",
+                "title": "ORCID"
+              },
+              {
+                "uri": "069734135",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/027arzy69",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "261400931",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ],
+            "isContact": false,
+            "email": "",
+            "PILabo": "CHU / Groupe Mésopath. Laboratoire d'ANATOMIE PATHOLOGIQUE, CHU CAEN 14033 Caen CedexERI 3 Inserm ‘’Cancers et Populations’’"
+          }
+        ],
+        "othId": []
+      },
+      "distStmt": {},
+      "prodStmt": {
+        "fundAg": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "SANTE PUBLIQUE FRANCE"
+              },
+              {
+                "lang": "en",
+                "value": "SANTE PUBLIQUE FRANCE"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "ROR",
+                "uri": "https://ror.org/00dfw9p58"
+              },
+              {
+                "title": "SIREN",
+                "uri": "130022338"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ]
+          }
+        ],
+        "producer": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "CENTRE HOSPITALIER UNIVERSITAIRE DE CAEN NORMANDIE (CHU)"
+              },
+              {
+                "lang": "en",
+                "value": "CENTRE HOSPITALIER UNIVERSITAIRE DE CAEN NORMANDIE (CHU)"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "ROR",
+                "uri": "https://ror.org/027arzy69"
+              },
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "261400931"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "studyAuthorization": {
+      "authorizingAgency": {
+        "lang": "fr",
+        "value": "CNIL"
+      }
+    },
+    "method": {
+      "notes": [
+        {
+          "subject": "research type",
+          "lang": "fr",
+          "value": "Etude observationnelle"
+        },
+        {
+          "subject": "research type",
+          "lang": "en",
+          "value": "Observational Study"
+        },
+        {
+          "lang": "fr",
+          "subject": "observational study method",
+          "value": "Registre de morbidité"
+        },
+        {
+          "lang": "en",
+          "subject": "observational study method",
+          "value": "Morbidity registry"
+        }
+      ],
+      "stdyClas": [
+        {
+          "lang": "fr",
+          "value": "Inconnu"
+        },
+        {
+          "lang": "en",
+          "value": "Unknown"
+        }
+      ],
+      "dataColl": {
+        "targetSampleSize": [
+          {
+            "lang": "fr",
+            "value": "< 500 individus"
+          },
+          {
+            "lang": "en",
+            "value": "< 500 individuals"
+          }
+        ],
+        "sampleFrame": {
+          "frameUnit": {}
+        },
+        "sources": [
+          {}
+        ],
+        "collMode": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Interview",
+              "vocab": "CESSDA"
+            },
+            "value": "Entretien avec le participant (dont clinique)"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Interview",
+              "vocab": "CESSDA"
+            },
+            "value": "Interview with the participant (including clinical)"
+          }
+        ],
+        "sampProc": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ],
+        "respRate": [
+          {
+            "lang": "fr",
+            "value": "1998-2006 : 1900 (238/an/year)"
+          },
+          {
+            "lang": "en",
+            "value": "1998-2006 : 1900 (238/an/year)"
+          }
+        ]
+      }
+    },
+    "stdyInfo": {
+      "abstract": [
+        {
+          "contentType": "purpose",
+          "lang": "fr",
+          "value": "Le registre est l’élément central du PNSM (Programme National de Surveillance des Mésothéliomes), et constitue l’outil de base du dispositif national de surveillance épidémiologique du mésothéliome à des fins de santé publique. Cette surveillance comporte notamment les volets : - Estimation de l’incidence nationale : un ratio incidence/mortalité est établi à partir des données des départements couverts par le registre et appliqué aux données de mortalité nationales par classe d’âge, France entière, chez les hommes et les femmes séparément. - Amélioration du diagnostic anatomopathologique du mésothéliome - Description des secteurs d’activité et des professions à risque pour la survenue du mésothéliome chez l’homme : les secteurs d’activité économique et les professions sont classés selon l’importance du risque de mésothéliome pleural. - Établissement de fractions attribuables : la fraction de risque attribuable à une exposition professionnelle à l’amiante chez l’homme a été estimée globalement à 83,2 % (IC 95 % : 76,8-89,6) ; des analyses plus détaillées sont prévues. - Évaluation de la prise en charge du mésothéliome au titre des maladies professionnelles ; c’est un autre axe d’analyse systématique, en raison du taux de reconnaissance globalement insuffisant."
+        },
+        {
+          "contentType": "purpose",
+          "lang": "en",
+          "value": "The registry is the kingpin of the PNSM (National Program for Mesothelioma Surveillance) and forms the basic tool of the national system for epidemiological mesothelioma surveillance for the purposes of public health. This surveillance includes in particular: - Estimation of national incidence: an incidence/mortality ratio is established on the basis of data from the départements covered by the registry and applied to national mortality data by age range, whole of France, with men and women considered separately. - Improvement in the anatomopathological diagnosis of mesothelioma - Description of the activity sectors and at-risk professions for mesothelioma in men: the economic activity sectors and professions are grouped according to the degree of pleural mesothelioma risk. - Establishment of attributable fractions: the risk fraction attributable to occupational asbestos exposure in men has been put overall at 83.2% (CI 95%: 76.8-89.6); more in-depth analyses are in the pipeline. - Evaluation of mesothelioma treatment as an occupational disease; this is another branch of systematic analysis because the level of recognition is insufficient overall."
+        }
+      ],
+      "subject": {
+        "topcClas": [
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/5784b7f1-c7ce-49d9-9f38-aebcda0ff41d"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D008495"
+              }
+            ],
+            "value": "Oncologie"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/5784b7f1-c7ce-49d9-9f38-aebcda0ff41d"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D008495"
+              }
+            ],
+            "value": "Oncology"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "fr",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/369414280",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Mésothéliome de la plèvre"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "en",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/369414280",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Mesothelioma of pleura"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants liés au système de santé : Consommation des soins"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants socio-démographiques et économiques : Emploi"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants liés au système de santé"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants socio-démographiques et économiques"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Healthcare system determinants: Use of care"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Socio-demographic and economic determinants: Employment"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Healthcare system determinants"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Socio-demographic and economic determinants"
+          }
+        ],
+        "keyword": [
+          {
+            "lang": "fr",
+            "value": "amiante"
+          },
+          {
+            "lang": "fr",
+            "value": "autres fibres"
+          },
+          {
+            "lang": "fr",
+            "value": "irradiation"
+          },
+          {
+            "lang": "fr",
+            "value": "génétique."
+          },
+          {
+            "lang": "fr",
+            "value": "environnement"
+          },
+          {
+            "lang": "en",
+            "value": "asbestos"
+          },
+          {
+            "lang": "en",
+            "value": "other fibers"
+          },
+          {
+            "lang": "en",
+            "value": "genetics."
+          },
+          {
+            "lang": "en",
+            "value": "environment"
+          },
+          {
+            "lang": "en",
+            "value": "irradiation"
+          }
+        ]
+      },
+      "qualityStatement": {
+        "standardsCompliance": {
+          "standard": {
+            "standardName": [
+              {
+                "lang": "fr",
+                "value": "CIM0/CIM10/ADICAP"
+              },
+              {
+                "lang": "en",
+                "value": "CIM0/CIM10/ADICAP"
+              }
+            ]
+          }
+        }
+      },
+      "sumDscr": {
+        "dataKind": [
+          {
+            "lang": "fr",
+            "value": "Données cliniques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données paracliniques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données biologiques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données socio-démographiques"
+          },
+          {
+            "lang": "en",
+            "value": "Clinical data"
+          },
+          {
+            "lang": "en",
+            "value": "Biological data"
+          },
+          {
+            "lang": "en",
+            "value": "Socio-demographic data"
+          }
+        ],
+        "anlyUnit": [
+          {
+            "lang": "fr",
+            "value": "Individus"
+          },
+          {
+            "lang": "en",
+            "value": "Individuals"
+          }
+        ],
+        "nation": [
+          {
+            "lang": "fr",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          },
+          {
+            "lang": "en",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          }
+        ],
+        "universe": [
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Masculin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Féminin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Male"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Female"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000293"
+            },
+            "value": "Adolescence (13 à 18 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Adulte (19 à 24 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adulte (25 à 44 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Adulte (45 à 64 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Personne âgée (65 à 79 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000369"
+            },
+            "value": "Grand âge (80 ans et plus)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Young Adult (19 to 24 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adult (25 to 44 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Middle Aged (45 to 64 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Aged (65 to 79 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000369"
+            },
+            "value": "Aged, 80 and over (80 years and more)"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Patients"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "en",
+            "value": "Patients population"
+          },
+          {
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Les cas enregistrés sont des patients résidant dans les départements décrits ci-dessous qui ont présenté une première suspicion de mésothéliome pleural de 1998 à l’année en cours."
+          },
+          {
+            "clusion": "I",
+            "lang": "en",
+            "value": "The cases recorded are of patients living in the départements described below who presented the first signs of pleural mesothelioma from 1998 to the current year."
+          },
+          {
+            "clusion": "E",
+            "lang": "fr",
+            "value": ""
+          },
+          {
+            "clusion": "E",
+            "lang": "en",
+            "value": ""
+          }
+        ],
+        "collDate": {
+          "event": "start",
+          "value": "1998-01-01"
+        }
+      }
+    },
+    "dataAccs": {
+      "setAvail": {
+        "avlStatus": [
+          {
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Accès réservé"
+          },
+          {
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Restricted access"
+          }
+        ],
+        "conditions": []
+      },
+      "useStmt": {}
+    },
+    "othStdMat": {
+      "relMat": [
+        {
+          "lang": "fr",
+          "value": "Accès restreint sur projet spécifique"
+        },
+        {
+          "lang": "en",
+          "value": "Access on specific project only"
+        }
+      ]
+    },
+    "studyDevelopment": {
+      "developmentActivity": [
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/morbidité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/mortalité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/morbidity"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/mortality"
+        }
+      ]
+    }
+  },
+  "docDscr": {
+    "citation": {
+      "rspStmt": {
+        "AuthEnty": "Françoise GALATEAU-SALLE"
+      },
+      "prodStmt": {
+        "producer": [
+          {
+            "affiliation": "chu",
+            "value": "Françoise;GALATEAU-SALLE"
+          }
+        ],
+        "prodPlac": "Portail Épidémiologie France"
+      }
+    }
+  },
+  "additional": {
+    "prodPlac": "Portail Épidémiologie France",
+    "creationDate": "03-01-2011",
+    "lastUpdatedManual": "23-01-2015",
+    "theme": {
+      "RareDiseases": true
+    },
+    "governance": {},
+    "collaborations": {},
+    "mockSample": {},
+    "dataQuality": {},
+    "variableDictionnary": {},
+    "dataTypes": {
+      "clinicalDataDetails": [
+        {
+          "lang": "fr",
+          "value": "> Antécédents de cancer > Tumeur: lieu, la date du diagnostic initial, la date du premier échantillon, l'échantillon date d'enregistrement, la méthode de diagnostic (clinique et biologique, paraclinique, cytologie / histologie), la morphologie de la tumeur, le grade OMS, taille de la tumeur, le stade de la tumeur, les métastases > Traitements: date du premier traitement, la chirurgie, la chimiothérapie, la radiothérapie, les soins palliatifs"
+        },
+        {
+          "lang": "en",
+          "value": "> Cancer antecedents > Tumor: location, date of initial diagnosis, date of first sample, sample recording date, diagnostic method (clinic"
+        }
+      ],
+      "biologicalDataDetails": [
+        {
+          "lang": "fr",
+          "value": "marqueurs"
+        },
+        {
+          "lang": "en",
+          "value": "markers"
+        }
+      ],
+      "isDataInBiobank": true
+    },
+    "collectionProcess": {
+      "collectionModeDetails": [
+        {
+          "lang": "fr",
+          "value": "courriers, mail, visites, téléphones, recueil passif."
+        },
+        {
+          "lang": "en",
+          "value": "letters, emails, visits, phone calls and passive collection."
+        }
+      ]
+    },
+    "geographicalCoverage": {
+      "geoDetail": [
+        {
+          "lang": "fr",
+          "value": "Les départements participants au registre sont au nombre de 22 en 2008 (Calvados (14), Dordogne (24), Doubs (25), Gironde (33), Isère (38), Landes (40), Loire-Atlantique (44), Lot-et-Garonne (47), Manche (50), Orne (61), Pyrénées-Atlantiques (64), Bas-Rhin (67), Haut-Rhin (68), Somme (80), Bouches-du-Rhône (13), Var (83) et Seine-Saint-Denis (93), Val-de-Marne (94), Alpes-Maritimes (06), Haute-Corse (2B), Corse-du-Sud (2A) et Seine-Maritime (76)."
+        },
+        {
+          "lang": "en",
+          "value": "22 departments in 2008 : Calvados (14), Dordogne (24), Doubs (25), Gironde (33), Isère (38), Landes (40), Loire-Atlantique (44), Lot-et-Garonne (47), Manche (50), Orne (61), Pyrénées-Atlantiques (64), Bas-Rhin (67), Haut-Rhin (68), Somme (80), Bouches-du-Rhône (13), Var (83) et Seine-Saint-Denis (93), Val-de-Marne (94), Alpes-Maritimes (06), Haute-Corse (2B), Corse-du-Sud (2A) et Seine-Maritime (76)"
+        }
+      ]
+    },
+    "activeFollowUp": {
+      "isActiveFollowUp": true
+    },
+    "dataCollectionIntegration": {
+      "isDataIntegration": false
+    },
+    "isHealthTheme": true
+  },
+  "schematype": "survey"
+}

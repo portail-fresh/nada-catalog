@@ -1,0 +1,829 @@
+{
+  "stdyDscr": {
+    "citation": {
+      "titlStmt": {
+        "IDNo": [
+          {
+            "agency": "PEF",
+            "value": "200"
+          },
+          {
+            "agency": "FReSH",
+            "value": "FRESH-PEF200"
+          }
+        ],
+        "titl": [
+          {
+            "lang": "fr",
+            "value": "Registre général des cancers de la région Poitou-Charentes (Registre qualifié 2013-2015)"
+          },
+          {
+            "lang": "en",
+            "value": "General Registry on Cancer in the Poitou-Charentes Region (Certified 2013-2015 Registry)"
+          }
+        ]
+      },
+      "rspStmt": {
+        "AuthEnty": [
+          {
+            "name": "Pierre;INGRAND",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "UNIVERSITE DE POITIERS"
+              },
+              {
+                "lang": "en",
+                "value": "UNIVERSITE DE POITIERS"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "0000-0002-7765-2520",
+                "role": "pi id",
+                "title": "ORCID"
+              },
+              {
+                "uri": "031207774",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/04xhy8q59",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "198608564",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ],
+            "isContact": true,
+            "email": "pierre.ingrand@chu-poitiers.fr",
+            "PILabo": "Faculty of Medicine and Pharmacy at Poitiers Teaching Department / Cancer Epidemiology Unit"
+          }
+        ],
+        "othId": []
+      },
+      "distStmt": {
+        "contact": [
+          {
+            "name": "Pierre;INGRAND",
+            "email": "pierre.ingrand@chu-poitiers.fr",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "UNIVERSITE DE POITIERS"
+              },
+              {
+                "lang": "en",
+                "value": "UNIVERSITE DE POITIERS"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/04xhy8q59",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "198608564",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          }
+        ]
+      },
+      "prodStmt": {
+        "fundAg": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "INSTITUT NATIONAL DU CANCER (INCA)"
+              },
+              {
+                "lang": "en",
+                "value": "INSTITUT NATIONAL DU CANCER (INCA)"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "ROR",
+                "uri": "https://ror.org/03m8vkq32"
+              },
+              {
+                "title": "SIREN",
+                "uri": "187512777"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ]
+          }
+        ],
+        "producer": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "UNIVERSITE DE POITIERS"
+              },
+              {
+                "lang": "en",
+                "value": "UNIVERSITE DE POITIERS"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "ROR",
+                "uri": "https://ror.org/04xhy8q59"
+              },
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "198608564"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "studyAuthorization": {
+      "authorizingAgency": {
+        "lang": "fr",
+        "value": "CNIL"
+      }
+    },
+    "method": {
+      "notes": [
+        {
+          "subject": "research type",
+          "lang": "fr",
+          "value": "Etude observationnelle"
+        },
+        {
+          "subject": "research type",
+          "lang": "en",
+          "value": "Observational Study"
+        },
+        {
+          "lang": "fr",
+          "subject": "observational study method",
+          "value": "Registre de morbidité"
+        },
+        {
+          "lang": "en",
+          "subject": "observational study method",
+          "value": "Morbidity registry"
+        }
+      ],
+      "stdyClas": [
+        {
+          "lang": "fr",
+          "value": "Inconnu"
+        },
+        {
+          "lang": "en",
+          "value": "Unknown"
+        }
+      ],
+      "dataColl": {
+        "targetSampleSize": [
+          {
+            "lang": "fr",
+            "value": "[1000-10000[ individus"
+          },
+          {
+            "lang": "en",
+            "value": "[1000-10000[ individuals"
+          }
+        ],
+        "sampleFrame": {
+          "frameUnit": {}
+        },
+        "sources": [
+          {}
+        ],
+        "collMode": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Transcription",
+              "vocab": "CESSDA"
+            },
+            "value": "Transcription et saisie d’informations dans un enregistrement structuré"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Transcription",
+              "vocab": "CESSDA"
+            },
+            "value": "Converting or copying information into a structured record"
+          }
+        ],
+        "sampProc": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ],
+        "respRate": [
+          {
+            "lang": "fr",
+            "value": "3 323 cancers invasifs / 217 carcinomes in situ"
+          },
+          {
+            "lang": "en",
+            "value": "3,323 invasive cancers/217 in situ carcinomas"
+          }
+        ]
+      }
+    },
+    "stdyInfo": {
+      "abstract": [
+        {
+          "contentType": "purpose",
+          "lang": "fr",
+          "value": "Objectifs du registre en termes de santé publique (surveillance, évaluation): Le registre a pour objectif de fournir des indicateurs de référence permettant de décrire la dynamique d’évolution des cancers (distribution, évolution et impact de la maladie selon les caractéristiques géographiques et démographiques de la population) et intervient dans l’évaluation de la prévention et du dépistage (en évaluant l’efficacité pratique des programmes mis en place) et dans l’évaluation des soins (par l’analyse des filières de soins empruntés par les patients, les déterminants du choix de mode de prise en charge diagnostique, la diffusion des recommandations de bonne pratique). Il jouera son rôle d’expert dans l’aide à l’évaluation des politiques publiques auprès de l’Agence Régionale de Santé (ARS), en collaboration avec les autres structures régionales (Réseau Onco Poitou-Charentes, Observatoire Régional de la Santé, structures de dépistage). Il participera à la production de statistiques nationales (FRANCIM) et internationales (CIRC). Objectifs du registre en termes de recherche: Deux axes de recherche sont privilégiés dans la continuité des travaux réalisés au sein de l’équipe de Santé Publique de Poitiers. 1) L’évaluation des déterminants de l’accès au dépistage (accès au dépistage des fratries des cas index incident) et l’évaluation des déterminants de l’accès aux soins (satisfaction des patients, accès aux plateaux techniques chirurgicaux et délais d’attente de radiothérapie). 2) La classification automatisée de l’information textuelle contenue dans les comptes rendus d’anatomie et de cytologie pathologiques informatisés (collaboration Université de Rennes 1)."
+        },
+        {
+          "contentType": "purpose",
+          "lang": "en",
+          "value": "Register aims in terms of public healthcare (monitoring, assessment): The aim of the register is to provide benchmarks for describing the dynamics of cancer progression (distribution, progression and impact of the disease according to the geography and demographics of the population) and to become involved in the evaluation of screening and prevention (by assessing the effectiveness of the programmes in place) and care assessment (analysing treatment paths used by patients; factors that determine diagnostic care management and distribution of good practice recommendations). It shall play a specialist role in aiding the assessment of public policies by the Regional Health Agency (ARS), in collaboration with other regional organisations (Poitou-Charentes Cancer Network, Regional Health Observatory and screening facilities). It shall participate in producing national (FRANCIM) and international (IARC) statistics. Register aims in terms of research: Two research areas are preferred for continuing research conducted by the Public Health Team in Poitiers. 1) Assessing factors that affect access to screening facilities (access to screening facilities for sibship-based index cases) and assessing factors affecting access to care (patient satisfaction; access to technical surgical platforms and waiting periods for radiotherapy). 2) Automated classification of textual information contained in electronic anatomic pathology and cytopathology reports (collaboration with University of Rennes 1)."
+        }
+      ],
+      "subject": {
+        "topcClas": [
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/5784b7f1-c7ce-49d9-9f38-aebcda0ff41d"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D008495"
+              }
+            ],
+            "value": "Oncologie"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/5784b7f1-c7ce-49d9-9f38-aebcda0ff41d"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D008495"
+              }
+            ],
+            "value": "Oncology"
+          }
+        ],
+        "keyword": [
+          {
+            "lang": "fr",
+            "value": "Registre"
+          },
+          {
+            "lang": "fr",
+            "value": "santé publique"
+          },
+          {
+            "lang": "fr",
+            "value": "région"
+          },
+          {
+            "lang": "en",
+            "value": "region"
+          },
+          {
+            "lang": "en",
+            "value": "registry"
+          },
+          {
+            "lang": "en",
+            "value": "public health"
+          }
+        ]
+      },
+      "qualityStatement": {
+        "standardsCompliance": {}
+      },
+      "sumDscr": {
+        "dataKind": [
+          {
+            "lang": "fr",
+            "value": "Données cliniques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données socio-démographiques"
+          },
+          {
+            "lang": "en",
+            "value": "Clinical data"
+          },
+          {
+            "lang": "en",
+            "value": "Socio-demographic data"
+          }
+        ],
+        "anlyUnit": [
+          {
+            "lang": "fr",
+            "value": "Individus"
+          },
+          {
+            "lang": "en",
+            "value": "Individuals"
+          }
+        ],
+        "nation": [
+          {
+            "lang": "fr",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          },
+          {
+            "lang": "en",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          }
+        ],
+        "geogCover": [
+          {
+            "lang": "fr",
+            "value": "Nouvelle-Aquitaine"
+          },
+          {
+            "lang": "en",
+            "value": "Nouvelle-Aquitaine"
+          }
+        ],
+        "universe": [
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Masculin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Féminin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Male"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Female"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D007231"
+            },
+            "value": "Nouveau-né (naissance à 28j)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D007223"
+            },
+            "value": "Nourrisson (28j à 2 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D002675"
+            },
+            "value": "Petite enfance (2 à 5 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D002648"
+            },
+            "value": "Enfance (6 à 12 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000293"
+            },
+            "value": "Adolescence (13 à 18 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Adulte (19 à 24 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adulte (25 à 44 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Adulte (45 à 64 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Personne âgée (65 à 79 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000369"
+            },
+            "value": "Grand âge (80 ans et plus)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D007231"
+            },
+            "value": "Infant, Newborn (birth to 28 days)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D007223"
+            },
+            "value": "Infant (28 days to 2 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D002675"
+            },
+            "value": "Child, Preschool (2 to 5 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D002648"
+            },
+            "value": "Child (6 to 12 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Young Adult (19 to 24 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adult (25 to 44 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Middle Aged (45 to 64 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Aged (65 to 79 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000369"
+            },
+            "value": "Aged, 80 and over (80 years and more)"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Patients"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "en",
+            "value": "Patients population"
+          },
+          {
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Tous les cas de tumeurs malignes invasives (hémopathies malignes et tumeurs solides en-dehors des carcinomes baso-cellulaires de la peau), les tumeurs in situ, les tumeurs borderline des ovaires, et les tumeurs bénignes ou d’évolution imprévisible du cerveau et de la vessie. Les adénomes avancés colorectaux font l’objet d’un enregistrement passif."
+          },
+          {
+            "clusion": "I",
+            "lang": "en",
+            "value": "All cases of malignant invasive tumours (haematologic malignancies and solid tumours excluding basal cell carcinoma of the skin); in situ tumours; borderline ovarian tumours; as well as benign tumours or tumours with unpredictable progression in the brain and bladder. Advanced colorectal adenomas will be passively recorded."
+          },
+          {
+            "clusion": "E",
+            "lang": "fr",
+            "value": ""
+          },
+          {
+            "clusion": "E",
+            "lang": "en",
+            "value": ""
+          }
+        ],
+        "collDate": {
+          "event": "start",
+          "value": "2008-01-01"
+        }
+      }
+    },
+    "dataAccs": {
+      "setAvail": {
+        "avlStatus": [
+          {
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Accès réservé"
+          },
+          {
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Restricted access"
+          }
+        ],
+        "conditions": [
+          {
+            "lang": "fr",
+            "value": "Contacter le responsable scientifique"
+          },
+          {
+            "lang": "en",
+            "value": "Contact the principal investigator"
+          }
+        ]
+      },
+      "useStmt": {}
+    },
+    "othStdMat": {
+      "relMat": [
+        {
+          "lang": "fr",
+          "value": "Accès restreint sur projet spécifique"
+        },
+        {
+          "lang": "en",
+          "value": "Access on specific project only"
+        }
+      ]
+    },
+    "studyDevelopment": {
+      "developmentActivity": [
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/morbidité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/morbidity"
+        }
+      ]
+    }
+  },
+  "docDscr": {
+    "citation": {
+      "rspStmt": {
+        "AuthEnty": "Pierre INGRAND"
+      },
+      "prodStmt": {
+        "producer": [
+          {
+            "affiliation": "UNIVERSITE DE POITIERS",
+            "value": "Pierre;INGRAND"
+          }
+        ],
+        "prodPlac": "Portail Épidémiologie France"
+      }
+    }
+  },
+  "additional": {
+    "prodPlac": "Portail Épidémiologie France",
+    "relatedDocuments": {
+      "documentTitle": [
+        {
+          "lang": "fr",
+          "value": "Liste des publications dans Pubmed"
+        },
+        {
+          "lang": "en",
+          "value": "Liste des publications dans Pubmed"
+        }
+      ],
+      "documentLink": [
+        {
+          "lang": "fr",
+          "value": "http://tinyurl.com/PUBMED-PCCR"
+        },
+        {
+          "lang": "en",
+          "value": "http://tinyurl.com/PUBMED-PCCR"
+        }
+      ]
+    },
+    "creationDate": "20-12-2010",
+    "lastUpdatedManual": "05-07-2016",
+    "theme": {},
+    "governance": {},
+    "collaborations": {},
+    "mockSample": {},
+    "dataQuality": {},
+    "variableDictionnary": {},
+    "dataTypes": {
+      "isDataInBiobank": false
+    },
+    "collectionProcess": {
+      "collectionModeDetails": [
+        {
+          "lang": "fr",
+          "value": "Recueil informatique crypté (actif ou passif) des cas éligibles dans les Structures d’anatomie et de cytologies pathologiques, les Services d’information médicale des établissements de santé (PMSI), les Services médicaux de l’Assurance Maladie (ALD).Recueil informatique (actif) des fiches du Réseau de Cancérologie Onco Poitou-CharentesRecueil actif (retour au dossier médical) dans les établissements de santé (services cliniques ou archives)Recueil pour identification des fuites extrarégionales et contrôle de l’exhaustivité des données de la Base régionale PMSI domiciliéeRecueil informatique crypté passif des cas enregistrés par l’EPC (Enquête Permanente Cancer)"
+        },
+        {
+          "lang": "en",
+          "value": "Encrypted data collection (active or passive) for eligible cases in anatomic pathology and cytopathology facilities; medical information departments within healthcare establishments (PMSI); national health insurance medical services (ALD). Data collection (active) from records within the Poitou-Charentes Cancer Treatment Network. Active collection (return to medical record) within healthcare establishments (clinical or archiving departments). Collection to identify extra-regional data breaches and to check completeness of data from the regional PMSI base. Passive encrypted data collection from cases recorded by the permanent cancer survey (EPC)."
+        }
+      ]
+    },
+    "geographicalCoverage": {
+      "geoDetail": [
+        {
+          "lang": "fr",
+          "value": "Région Poitou-Charentes, soit quatre départements : 16 Charente, 17 Charente-Maritime, 79 Deux-Sèvres et 86 Vienne"
+        },
+        {
+          "lang": "en",
+          "value": "Poitou-Charentes region, i.e. four departments: 16 Charente 17 Charente-Maritime 79 Deux-Sèvres and 86 Vienne."
+        }
+      ]
+    },
+    "activeFollowUp": {
+      "isActiveFollowUp": true
+    },
+    "dataCollectionIntegration": {
+      "isDataIntegration": false
+    },
+    "isHealthTheme": true
+  },
+  "schematype": "survey"
+}

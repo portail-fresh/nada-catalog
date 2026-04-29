@@ -1,0 +1,965 @@
+{
+  "stdyDscr": {
+    "citation": {
+      "titlStmt": {
+        "IDNo": [
+          {
+            "agency": "PEF",
+            "value": "73076"
+          },
+          {
+            "agency": "FReSH",
+            "value": "FRESH-PEF73076"
+          }
+        ],
+        "titl": [
+          {
+            "lang": "fr",
+            "value": "Étude transversale chez les séniors : efficacité de stratégies « sensorielles» pour prévenir et lutter contre la dénutrition"
+          },
+          {
+            "lang": "en",
+            "value": "Cross-sectional study of seniors: efficacy of \"sensory\" strategies for preventing and fighting malnutrition"
+          }
+        ],
+        "altTitl": [
+          {
+            "lang": "fr",
+            "value": "Aupalesens"
+          },
+          {
+            "lang": "en",
+            "value": "Aupalesens"
+          }
+        ]
+      },
+      "rspStmt": {
+        "AuthEnty": [
+          {
+            "name": "Virginie;VAN WYMELBEKE",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "CENTRE HOSPITALIER UNIVERSITAIRE DE DIJON"
+              },
+              {
+                "lang": "en",
+                "value": "CENTRE HOSPITALIER UNIVERSITAIRE DE DIJON"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "0000-0002-4245-0267",
+                "role": "pi id",
+                "title": "ORCID"
+              },
+              {
+                "uri": "193419009",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/0377z4z10",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "262100076",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ],
+            "isContact": true,
+            "email": "virginie.vanwymelbeke@chu-dijon.fr",
+            "PILabo": "CHU Dijon / Gerontology Research Unit"
+          }
+        ],
+        "othId": [
+          {
+            "type": "collaboration",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "Pole de compétivité Vitagora, Valorial"
+              },
+              {
+                "lang": "en",
+                "value": "Valorial, Vitagora competitiveness cluster"
+              }
+            ]
+          }
+        ]
+      },
+      "distStmt": {
+        "contact": [
+          {
+            "name": "Virginie;VAN WYMELBEKE",
+            "email": "virginie.vanwymelbeke@chu-dijon.fr",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "CENTRE HOSPITALIER UNIVERSITAIRE DE DIJON"
+              },
+              {
+                "lang": "en",
+                "value": "CENTRE HOSPITALIER UNIVERSITAIRE DE DIJON"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/0377z4z10",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "262100076",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          }
+        ]
+      },
+      "prodStmt": {
+        "fundAg": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "AGENCE NATIONALE DE LA RECHERCHE (ANR)"
+              },
+              {
+                "lang": "en",
+                "value": "AGENCE NATIONALE DE LA RECHERCHE (ANR)"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "ROR",
+                "uri": "https://ror.org/00rbzpz17"
+              },
+              {
+                "title": "SIREN",
+                "uri": "130002504"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "VALORIAL"
+              },
+              {
+                "lang": "en",
+                "value": "VALORIAL"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "SIREN",
+                "uri": "800779522"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Autre"
+              },
+              {
+                "lang": "en",
+                "value": "Other"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "VITAGORA"
+              },
+              {
+                "lang": "en",
+                "value": "VITAGORA"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "SIREN",
+                "uri": "487507121"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Autre"
+              },
+              {
+                "lang": "en",
+                "value": "Other"
+              }
+            ]
+          }
+        ],
+        "producer": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "CENTRE DES SCIENCES DU GOUT ET DE L'ALIMENTATION"
+              },
+              {
+                "lang": "en",
+                "value": "CENTRE DES SCIENCES DU GOUT ET DE L'ALIMENTATION"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "ROR",
+                "uri": "https://ror.org/05s1rff82"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "INSTITUT NATIONAL DE RECHERCHE POUR L'AGRICULTURE L'ALIMENTATION ET L'ENVIRONNEMENT (INRAE)"
+              },
+              {
+                "lang": "en",
+                "value": "INSTITUT NATIONAL DE RECHERCHE POUR L'AGRICULTURE L'ALIMENTATION ET L'ENVIRONNEMENT (INRAE)"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "ROR",
+                "uri": "https://ror.org/003vg9w96"
+              },
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "180070039"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE (CNRS)"
+              },
+              {
+                "lang": "en",
+                "value": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE (CNRS)"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "ROR",
+                "uri": "https://ror.org/02feahw73"
+              },
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "180089013"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "CENTRE HOSPITALIER UNIVERSITAIRE DE DIJON"
+              },
+              {
+                "lang": "en",
+                "value": "CENTRE HOSPITALIER UNIVERSITAIRE DE DIJON"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "ROR",
+                "uri": "https://ror.org/0377z4z10"
+              },
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "262100076"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "studyAuthorization": {
+      "authorizingAgency": {
+        "lang": "fr",
+        "value": "CNIL"
+      }
+    },
+    "method": {
+      "notes": [
+        {
+          "subject": "research type",
+          "lang": "fr",
+          "value": "Etude observationnelle"
+        },
+        {
+          "subject": "research type",
+          "lang": "en",
+          "value": "Observational Study"
+        }
+      ],
+      "stdyClas": [
+        {
+          "lang": "fr",
+          "value": "Étude complétée"
+        },
+        {
+          "lang": "en",
+          "value": "Completed study"
+        }
+      ],
+      "dataColl": {
+        "targetSampleSize": [
+          {
+            "lang": "fr",
+            "value": "[500-1000[ individus"
+          },
+          {
+            "lang": "en",
+            "value": "[500-1000[ individuals"
+          }
+        ],
+        "timeMeth": [
+          {
+            "lang": "fr",
+            "value": "Etude transversale non répétée"
+          },
+          {
+            "lang": "en",
+            "value": "One-time cross-sectional study"
+          }
+        ],
+        "sampleFrame": {
+          "frameUnit": {
+            "unitType": [
+              {
+                "lang": "fr",
+                "value": "Via des structures (services ou établissements de santé, écoles, entreprises…) Base de population à finalité statistique"
+              },
+              {
+                "lang": "en",
+                "value": "Through organizations (health services or institutions, schools, businesses, etc.) Population database for statistical purposes"
+              }
+            ]
+          }
+        },
+        "sources": [
+          {}
+        ],
+        "collMode": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ],
+        "sampProc": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ],
+        "respRate": [
+          {
+            "lang": "fr",
+            "value": "559"
+          },
+          {
+            "lang": "en",
+            "value": "559"
+          }
+        ]
+      }
+    },
+    "stdyInfo": {
+      "abstract": [
+        {
+          "contentType": "purpose",
+          "lang": "fr",
+          "value": "Objectif du programme AUPALESENS était de tester l’efficacité de stratégies « sensorielles» pour prévenir et lutter contre la dénutrition chez les seniors. Spécifiquement, ce programme a permis : • de mesurer l’impact de facteurs sensoriels, psychologiques et sociologiques sur le comportement alimentaire et le statut nutritionnel du senior. Ce travail repose sur une enquête pluridisciplinaire menée auprès de 559 français de plus de 65 ans présentant différents degrés de dépendance (personnes autonomes vivant à domicile, personnes bénéficiant d’une aide à domicile, personnes vivant en institution) ; • d’identifier des leviers permettant d’améliorer l’appétence et le plaisir associés aux repas pour les seniors dépendants. Pour ce travail, nous avons développé et testé des outils et des stratégies permettant d’améliorer 1. la qualité sensorielle des aliments proposés aux seniors (contenu de l’assiette) et 2. le contexte du repas (réappropriation du repas) ; • d’évaluer l’impact de leviers sensoriels sur la prise alimentaire au cours d’un repas."
+        },
+        {
+          "contentType": "purpose",
+          "lang": "en",
+          "value": "Purpose of the AUPALESENS programme was to test the efficacy of \"sensory\" strategies for preventing and fighting malnutrition among seniors. Specifically, this programme allows for: • the measurement of the impact of sensory, psychological and sociological factors on the dietary behaviour and nutritional status of seniors. This work is based on a multidisciplinary survey conducted in 559 French people over 65 years of age who present different degrees of dependence (independent individuals living at home, individuals receiving aid at home, individuals living in an institution); • identification of tactics for improving the appetence and pleasure associated with meals for dependent seniors. For this work, we have developed and tested tools and strategies for improving 1. the sensory quality of foods offered to seniors (content of the dish) and 2. the context of the meal (reappropriation of the meal); • evaluation of the impact of sensory tactics on dietary intake over the course of a meal."
+        }
+      ],
+      "subject": {
+        "topcClas": [
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/d1dd1bac-5313-4ab3-837f-4acd3ec521a7"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D004704"
+              }
+            ],
+            "value": "Endocrinologie"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/d1dd1bac-5313-4ab3-837f-4acd3ec521a7"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D004704"
+              }
+            ],
+            "value": "Endocrinology"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "fr",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/1517885800",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Dénutrition"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "en",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/1517885800",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Undernutrition"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants comportementaux"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants comportementaux : Alimentation"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants socio-démographiques et économiques"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Behavioral determinants"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Behavioral determinants: Eating habits"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Socio-demographic and economic determinants"
+          }
+        ],
+        "keyword": [
+          {
+            "lang": "fr",
+            "value": "dénutrition"
+          },
+          {
+            "lang": "fr",
+            "value": "repas"
+          },
+          {
+            "lang": "fr",
+            "value": "plaisir alimentaire"
+          },
+          {
+            "lang": "fr",
+            "value": "appétence"
+          },
+          {
+            "lang": "fr",
+            "value": "Alimentation"
+          },
+          {
+            "lang": "fr",
+            "value": "nutrition"
+          },
+          {
+            "lang": "fr",
+            "value": "autonomie"
+          },
+          {
+            "lang": "fr",
+            "value": "dépendance"
+          },
+          {
+            "lang": "en",
+            "value": "Malnutrition"
+          },
+          {
+            "lang": "en",
+            "value": "meal"
+          },
+          {
+            "lang": "en",
+            "value": "dietary pleasure"
+          },
+          {
+            "lang": "en",
+            "value": "appetence"
+          },
+          {
+            "lang": "en",
+            "value": "Diet"
+          },
+          {
+            "lang": "en",
+            "value": "nutrition"
+          },
+          {
+            "lang": "en",
+            "value": "autonomy"
+          },
+          {
+            "lang": "en",
+            "value": "dependence"
+          }
+        ]
+      },
+      "qualityStatement": {
+        "standardsCompliance": {}
+      },
+      "sumDscr": {
+        "dataKind": [
+          {
+            "lang": "fr",
+            "value": "Données cliniques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données rapportées par le participant de l&#x27;étude"
+          },
+          {
+            "lang": "en",
+            "value": "Clinical data"
+          },
+          {
+            "lang": "en",
+            "value": "Participant-reported health data"
+          }
+        ],
+        "anlyUnit": [
+          {
+            "lang": "fr",
+            "value": "Individus"
+          },
+          {
+            "lang": "en",
+            "value": "Individuals"
+          }
+        ],
+        "nation": [
+          {
+            "lang": "fr",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          },
+          {
+            "lang": "en",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          }
+        ],
+        "universe": [
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Masculin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Féminin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Male"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Female"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Personne âgée (65 à 79 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000369"
+            },
+            "value": "Grand âge (80 ans et plus)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Aged (65 to 79 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000369"
+            },
+            "value": "Aged, 80 and over (80 years and more)"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Population générale"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "en",
+            "value": "General population"
+          },
+          {
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Personnes volontaires Plus de 65 ans"
+          },
+          {
+            "clusion": "I",
+            "lang": "en",
+            "value": "Volunteers  Over 65 years of age"
+          },
+          {
+            "clusion": "E",
+            "lang": "fr",
+            "value": ""
+          },
+          {
+            "clusion": "E",
+            "lang": "en",
+            "value": ""
+          }
+        ]
+      }
+    },
+    "dataAccs": {
+      "setAvail": {
+        "avlStatus": [
+          {
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Accès réservé"
+          },
+          {
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Restricted access"
+          }
+        ],
+        "conditions": [
+          {
+            "lang": "fr",
+            "value": "Contacter le responsable scientifique"
+          },
+          {
+            "lang": "en",
+            "value": "Contact the principal investigator"
+          }
+        ]
+      },
+      "useStmt": {}
+    },
+    "othStdMat": {
+      "relMat": [
+        {
+          "lang": "fr",
+          "value": "Accès restreint sur projet spécifique"
+        },
+        {
+          "lang": "en",
+          "value": "Access on specific project only"
+        }
+      ]
+    },
+    "studyDevelopment": {
+      "developmentActivity": [
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/morbidité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Qualité de vie/santé perçue"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/morbidity"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Quality of life/health perception"
+        }
+      ]
+    }
+  },
+  "docDscr": {
+    "citation": {
+      "rspStmt": {
+        "AuthEnty": "Virginie VAN WYMELBEKE"
+      },
+      "prodStmt": {
+        "producer": [
+          {
+            "affiliation": "CENTRE HOSPITALIER UNIVERSITAIRE DE DIJON",
+            "value": "Virginie;VAN WYMELBEKE"
+          }
+        ],
+        "prodPlac": "Portail Épidémiologie France"
+      }
+    }
+  },
+  "additional": {
+    "prodPlac": "Portail Épidémiologie France",
+    "relatedDocuments": {
+      "documentTitle": [
+        {
+          "lang": "fr"
+        },
+        {
+          "lang": "en"
+        }
+      ],
+      "documentLink": [
+        {
+          "lang": "fr",
+          "value": "http://inra-dam-front-resources-cdn.brainsonic.com/ressources/file/3637603-245861-fe8fe-object-brochure-colloque-aupalesens.html"
+        },
+        {
+          "lang": "en",
+          "value": "http://inra-dam-front-resources-cdn.brainsonic.com/ressources/file/3637603-245861-fe8fe-object-brochure-colloque-aupalesens.html"
+        }
+      ]
+    },
+    "creationDate": "11-05-2015",
+    "lastUpdatedManual": "19-10-2017",
+    "theme": {},
+    "governance": {
+      "committee": true
+    },
+    "collaborations": {},
+    "mockSample": {},
+    "dataQuality": {},
+    "variableDictionnary": {},
+    "dataTypes": {
+      "clinicalDataDetails": [
+        {
+          "lang": "fr",
+          "value": "Evaluation des capacités fonctionnelles (SPPB), état nutritionnel (MNA), degré d'autonomie (IADL), Dépression (GDS), Test cognitif (Mini-Mental State)"
+        },
+        {
+          "lang": "en",
+          "value": "Evaluation of functional skills (SPPB), nutritional status (MNA), degree of autonomy (IADL), Depression (GDS), Cognitive test (Mini-Mental State)"
+        }
+      ],
+      "isDataInBiobank": false
+    },
+    "collectionProcess": {
+      "collectionModeDetails": [
+        {
+          "lang": "fr",
+          "value": "Enqueteurs formés spécialement pour le programme"
+        },
+        {
+          "lang": "en",
+          "value": "Surveyors trained specifically for the program"
+        }
+      ]
+    },
+    "geographicalCoverage": {
+      "geoDetail": [
+        {
+          "lang": "fr",
+          "value": "Nantes, Brest, Angers, Dijon"
+        },
+        {
+          "lang": "en",
+          "value": "Nantes, Brest, Angers, Dijon"
+        }
+      ]
+    },
+    "activeFollowUp": {
+      "isActiveFollowUp": false
+    },
+    "dataCollectionIntegration": {
+      "isDataIntegration": false
+    },
+    "isHealthTheme": true
+  },
+  "schematype": "survey"
+}

@@ -1,0 +1,766 @@
+{
+  "stdyDscr": {
+    "citation": {
+      "titlStmt": {
+        "IDNo": [
+          {
+            "agency": "PEF",
+            "value": "73840"
+          },
+          {
+            "agency": "FReSH",
+            "value": "FRESH-PEF73840"
+          }
+        ],
+        "titl": [
+          {
+            "lang": "fr",
+            "value": "Étude prospective, contrôlée, randomisée et multicentrique comparant l'efficacité d'un inhibiteur de l'autophagie (GNS561), d’une immunothérapie par anti-NKG2A (monalizumab) et d'un anti-C5aR (avdoralimab) par rapport à la prise en charge standard chez des patients atteints de cancer avancé ou métastatique et présentant une infection par le SRAS-CoV-2 (COVID-19)"
+          },
+          {
+            "lang": "en",
+            "value": "A prospective, controlled, randomized, multicenter study of the efficacy of an autophagy inhibitor (GNS561), an anti-NKG2A (monalizumab) and an anti-C5aR (avdoralimab) compared to the standard of care in patients with advanced or metastatic cancer and SARS-CoV-2 (COVID-19) infection."
+          }
+        ],
+        "altTitl": [
+          {
+            "lang": "fr",
+            "value": "ImmunONCOVID-20"
+          },
+          {
+            "lang": "en",
+            "value": "ImmunONCOVID-20"
+          }
+        ]
+      },
+      "rspStmt": {
+        "AuthEnty": [
+          {
+            "name": "Virginie;AVRILLON",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "CENTRE LEON BERARD"
+              },
+              {
+                "lang": "en",
+                "value": "CENTRE LEON BERARD"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "147488842",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/01cmnjq37",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "779924133",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ],
+            "isContact": false,
+            "email": "",
+            "PILabo": "Centre Léon Bérard"
+          }
+        ],
+        "othId": [
+          {
+            "type": "collaboration",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "Banque Publique d'Investissement"
+              },
+              {
+                "lang": "en",
+                "value": "Banque Publique d'Investissement"
+              }
+            ]
+          }
+        ]
+      },
+      "distStmt": {},
+      "prodStmt": {
+        "fundAg": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "BPIFRANCE"
+              },
+              {
+                "lang": "en",
+                "value": "BPIFRANCE"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "SIREN",
+                "uri": "483790069"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ]
+          }
+        ],
+        "producer": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "CENTRE LEON BERARD"
+              },
+              {
+                "lang": "en",
+                "value": "CENTRE LEON BERARD"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Privé à but non lucratif"
+              },
+              {
+                "lang": "en",
+                "value": "Private non-profit"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "ROR",
+                "uri": "https://ror.org/01cmnjq37"
+              },
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "779924133"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "studyAuthorization": {
+      "authorizingAgency": {
+        "lang": "fr",
+        "value": "Autre"
+      }
+    },
+    "method": {
+      "notes": [
+        {
+          "subject": "research type",
+          "lang": "fr",
+          "value": "Etude observationnelle"
+        },
+        {
+          "subject": "research type",
+          "lang": "en",
+          "value": "Observational Study"
+        }
+      ],
+      "stdyClas": [
+        {
+          "lang": "fr",
+          "value": "Inconnu"
+        },
+        {
+          "lang": "en",
+          "value": "Unknown"
+        }
+      ],
+      "dataColl": {
+        "targetSampleSize": [
+          {
+            "lang": "fr",
+            "value": "< 500 individus"
+          },
+          {
+            "lang": "en",
+            "value": "< 500 individuals"
+          }
+        ],
+        "sampleFrame": {
+          "frameUnit": {
+            "unitType": [
+              {
+                "lang": "fr",
+                "value": "Via des structures (services ou établissements de santé, écoles, entreprises…)"
+              },
+              {
+                "lang": "en",
+                "value": "Through organizations (health services or institutions, schools, businesses, etc.)"
+              }
+            ]
+          }
+        },
+        "sources": [
+          {}
+        ],
+        "collMode": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Transcription",
+              "vocab": "CESSDA"
+            },
+            "value": "Transcription et saisie d’informations dans un enregistrement structuré"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Transcription",
+              "vocab": "CESSDA"
+            },
+            "value": "Converting or copying information into a structured record"
+          }
+        ],
+        "sampProc": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Probability.Stratified",
+              "vocab": "CESSDA"
+            },
+            "value": "Probabiliste : stratifié"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Probability.Stratified",
+              "vocab": "CESSDA"
+            },
+            "value": "Probability: Stratified"
+          }
+        ],
+        "respRate": [
+          {
+            "lang": "fr",
+            "value": "219 attendus"
+          },
+          {
+            "lang": "en",
+            "value": "219 expected"
+          }
+        ]
+      }
+    },
+    "stdyInfo": {
+      "abstract": [
+        {
+          "contentType": "purpose",
+          "lang": "fr",
+          "value": "L'objectif principal est de comparer les taux de mortalité à court terme chez des patients atteints d'un cancer avancé ou métastatique positif au COVID-19 et traités par un inhibiteur de l'autophagie (GNS561), un anti-NKG2A (monalizumab) ou un anti-C5aR (avdoralimab), par rapport à un traitement standard. Le critère d'évaluation principal sera le taux de survie à 28 jours, défini par la proportion de patients encore en vie 28 jours après la randomisation. Le taux de survie à 28 jours sera décrit dans chaque bras de chaque cohorte."
+        },
+        {
+          "contentType": "purpose",
+          "lang": "en",
+          "value": "The main objective is to compare versus standard of care short-term mortality rates in advanced or metastatic cancer patients who are positive for COVID-19 treated with an autophagy inhibitor (GNS561), an anti-NKG2A (monalizumab) or an anti-C5aR (avdoralimab). The primary endpoint will be the 28-day survival rate, defined by the proportion of patients still alive 28 days after randomization. The 28-day survival rate will be described in each arm of each cohort."
+        }
+      ],
+      "subject": {
+        "topcClas": [
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/5784b7f1-c7ce-49d9-9f38-aebcda0ff41d"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D008495"
+              }
+            ],
+            "value": "Oncologie"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/5784b7f1-c7ce-49d9-9f38-aebcda0ff41d"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D008495"
+              }
+            ],
+            "value": "Oncology"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "fr",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/1630407678",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Tumeurs"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "en",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/1630407678",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Neoplasms"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "fr",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/1730556128",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "COVID-19"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "en",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/1730556128",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "COVID-19"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants liés au système de santé : Consommation des soins"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants liés au système de santé"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Healthcare system determinants: Use of care"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Healthcare system determinants"
+          }
+        ]
+      },
+      "qualityStatement": {
+        "standardsCompliance": {},
+        "otherQualityStatement": [
+          {
+            "lang": "fr",
+            "value": "Monitoring à distance et sur site"
+          },
+          {
+            "lang": "en",
+            "value": "Remote and on-site monitoring"
+          }
+        ]
+      },
+      "sumDscr": {
+        "dataKind": [
+          {
+            "lang": "fr",
+            "value": "Données cliniques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données biologiques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données économiques"
+          },
+          {
+            "lang": "en",
+            "value": "Clinical data"
+          },
+          {
+            "lang": "en",
+            "value": "Biological data"
+          },
+          {
+            "lang": "en",
+            "value": "Economic data"
+          }
+        ],
+        "anlyUnit": [
+          {
+            "lang": "fr",
+            "value": "Individus"
+          },
+          {
+            "lang": "en",
+            "value": "Individuals"
+          }
+        ],
+        "nation": [
+          {
+            "lang": "fr",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          },
+          {
+            "lang": "en",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          }
+        ],
+        "universe": [
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Masculin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Féminin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Male"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Female"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Adulte (19 à 24 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adulte (25 à 44 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Adulte (45 à 64 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Personne âgée (65 à 79 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000369"
+            },
+            "value": "Grand âge (80 ans et plus)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Young Adult (19 to 24 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adult (25 to 44 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Middle Aged (45 to 64 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Aged (65 to 79 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000369"
+            },
+            "value": "Aged, 80 and over (80 years and more)"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Patients"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "en",
+            "value": "Patients population"
+          },
+          {
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Critères d'inclusion 1. Âge de 18 ans ou plus au moment de recrutement pour les femmes et âge de 60 ans ou plus au moment de recrutement pour les hommes. 2. Diagnostic histologiquement ou cytologiquement confirmé de tumeur hématologique ou solide avancée ou métastatique (tumeur hématologique ou solide, de tout type et de toute localisation). 3. Diagnostic documenté de COVID-19 (test diagnostique effectué dans un laboratoire certifié) sans indication de transfert en unité de réanimation. Nota Bene : Un délai maximum de 7 jours peut s'être écoulé entre la date des premiers symptômes et la date du consentement pour la cohorte 1 (légère). Dans la cohorte 2 (sévère), un maximum de 10 jours peut s'être écoulé depuis les premiers symptômes. 4. Cohorte 2 : patients présentant une pneumonie confirmée par imagerie thoracique et une saturation en oxygène (Sao2) de 94 % ou moins lorsqu'ils respirent l'air ambiant ou un rapport entre la pression partielle d'oxygène (Pao2) et la fraction d'oxygène inspirée (Fio2) (Pao2:Fio2) égal ou inférieur à 300 mg Hg. 5. Approche multidisciplinaire selon laquelle le patient n'est pas éligible pour un transfert vers l'unité de réanimation (soit en raison d'une condition médicale sous-jacente - y compris le cancer - soit en raison d'un manque de lits disponibles). Note : Point annulé (addendum 2 - octobre 2020). 6. Espérance de vie supérieure à 3 mois. 7. Fonction adéquate de la moelle osseuse et des organes cibles, définie par les résultats de laboratoire suivants : - Moelle osseuse : - Hémoglobine ≥ 9,0 g/dL, - Nombre absolu de neutrophiles (ANC) ≥ 1,0 Gi/L, - Plaquettes ≥ 100 Gi/L ; - Fonction hépatique : - Bilirubine sérique totale ≤ 1,5 x LSN (à l'exception des patients atteints du syndrome de Gilbert qui doivent avoir une bilirubine sérique totale ≤ 3,0 x LSN), - AST et ALT ≤ 5 LSN - Fonction rénale : - Créatinine sérique ≤ 2,0 x LSN ou Cr. Cl. ≥ 30ml/min/1,73m² (formule MDRD ou CKD-EPI) ; 8. Volonté et capacité de se conformer aux exigences de l'étude ; 9. Consentement éclairé signé et daté indiquant que le patient a été informé de tous les aspects de l'essai avant l'inscription (en cas de situation d'urgence, veuillez vous référer à la section du protocole 12.1 INFORMATION DU PATIENT ET CONSENTEMENT ÉCLAIRÉ) ; 10. Les femmes en âge de procréer (annexe 1) doivent avoir un test de grossesse sérique négatif dans les 72 heures précédant le début du traitement de l'étude. Un test urinaire positif doit être confirmé par un test de grossesse sérique ; 11. Les femmes en âge de procréer et les patients de sexe masculin doivent accepter d'utiliser une contraception adéquate et hautement efficace (annexe 1) pendant toute la durée de leur participation à l'étude et jusqu'à 6 mois après la fin du traitement ; 12. Le patient doit être couvert par une assurance maladie. "
+          },
+          {
+            "clusion": "I",
+            "lang": "en",
+            "value": "Inclusion criteria I1. Age 18 or older at the time of enrolment for women and age 60 or older at the time of enrolment for men.  I2. Histologically or cytologically confirmed diagnosis of advanced or metastatic hematological or solid tumor (hematological or solid tumor, any type and any localization). I3. Documented diagnosis of COVID-19 (diagnostic test performed in a certified laboratory) without indication of transfer in a rescucitation unit. . Nota Bene : A maximum time of 7 days may have elapsed between the date of first symptoms and the date of consent for patient cohort 1 (mild). In cohort 2 (severe), up to  10 days may have elapsed since the first symptoms. I4. Cohort 2: patients with pneumonia confirmed by chest imaging, and an oxygen saturation (Sao2) of 94% or less while they are breathing ambient air or a ratio of the partial pressure of oxygen (Pao2) to the fraction of inspired oxygen (Fio2) (Pao2:Fio2) at or below 300 mg Hg.  I5. Multidisciplinary approach that patient is not eligible for a transfer to Resuscitation Unit (either due to underlying medical condition – including cancer – or due to lack of available bed).   Note: Item cancelled (addendum 2 – October 2020) I6. Life-expectancy longer than 3 months. I7. Adequate bone marrow and end-organ function defined by the following laboratory results: • Bone marrow:  - Hemoglobin ≥ 9.0 g/dL,  - Absolute Neutrophils Count (ANC) ≥ 1.0 Gi/L,  - Platelets ≥ 100 Gi/L; • Hepatic function: - Total serum bilirubin ≤ 1.5 x ULN (except patients with Gilbert’s syndrome who must have total serum bilirubin ≤ 3.0 x ULN),  - AST and ALT ≤ 5 ULN • Renal function: - Serum creatinine ≤ 2.0 x ULN or Cr. Cl. ≥ 30ml/min/1.73m² (MDRD or CKD-EPI formula); I8. Willingness and ability to comply with the study requirements; I9. Signed and dated informed consent indicating that the patient has been informed of all the aspects of the trial prior to enrollment (in case of emergency situation, please refer to protocol section 12.1 PATIENT INFORMATION AND INFORMED CONSENT); I10. Women of childbearing potential (Appendix 1) are required to have a negative serum pregnancy test within 72 hours prior to study treatment start. A positive urine test must be confirmed by a serum pregnancy test; I11. Women of childbearing potential and male patients must agree to use adequate highly effective contraception (Appendix 1) for the duration of study participation and up to 6 months following completion of therapy; I12. Patient must be covered by a medical insurance.  "
+          },
+          {
+            "clusion": "E",
+            "lang": "fr",
+            "value": "E1 Pour la cohorte 1 uniquement : Patient recevant actuellement une thérapie avec un anti-NKG2A E2 Pour la cohorte 2 uniquement : Patient recevant actuellement une thérapie avec un anti-C5aR E3 Contre-indication au traitement par monalizumab (cohorte 1 uniquement) ou avdoralimab (cohorte 2 uniquement) conformément à la notice d'information correspondante, y compris une hypersensibilité connue à l'un de ces médicaments à l'étude ou une réaction d'hypersensibilité grave à tout anticorps monoclonal E4 Pour la cohorte 1 uniquement : patients présentant une intolérance ou une hypersensibilité connue à la chloroquine ou à tout dérivé de la quinoléine (quinine, chloroquine, tafenoquine, hydroxychloroquine, méfloquine) Les patients précédemment exposés à la CQ, à l'HCQ ou à d'autres dérivés de la quinoléine doivent avoir interrompu leur traitement au moins 72 heures avant la randomisation E5 Le patient présente une maladie auto-immune active ayant nécessité un traitement systémique au cours des 3 derniers mois avant la date de randomisation ou un historique documenté de maladie auto-immune cliniquement sévère, ou un syndrome nécessitant des stéroïdes systémiques à des doses supérieures à 10 mg/j d'équivalents prednisone ou des agents immunosuppresseurs  de l'étude b Note 2 : Les patients peuvent recevoir des corticostéroïdes si nécessaire pour la prise en charge des symptômes liés au SRAS-CoV-2 E6 Les patients nécessitant l'utilisation de l'un des traitements interdits suivants pendant la période de traitement de l'étude, y compris, mais sans s'y limiter : -Chirurgie majeure -Vaccins vivants Les exemples de vaccins vivants incluent, sans s'y limiter, les vaccins suivants : rougeole, oreillons, rubéole, varicelle, fièvre jaune et BCG Les vaccins antigrippaux saisonniers injectables sont généralement des vaccins à virus tués et sont autorisés ; toutefois, les vaccins antigrippaux intranasaux (par exemple Flu-Mist®) sont des vaccins vivants atténués et ne sont pas autorisés E7 Maladie cardiovasculaire importante, telle que maladie cardiaque selon la New York Heart Association (classe II ou supérieure), infarctus du myocarde dans les 3 mois précédant la date de la randomisation, arythmie instable ou angor instable, fraction d'éjection du ventricule gauche (FEVG) connue < 50 % a Note : Les patients souffrant d'une maladie coronarienne connue ou d'une insuffisance cardiaque congestive ne répondant pas aux critères ci-dessus doivent suivre un régime médical stable et optimisé selon l'avis du médecin traitant et en consultation avec un cardiologue, le cas échéant E8 Le patient présente une hépatite B active connue (chronique ou aiguë ; définie par un test positif à l'antigène de surface de l'hépatite B [HBsAg] lors du dépistage), une hépatite C active connue (les patients positifs aux anticorps du virus de l'hépatite C (VHC) ne sont éligibles que si la PCR est négative pour l'ARN du VHC lors du dépistage) ou une infection connue par le virus de l'immunodéficience humaine (VIH) (anticorps anti-VIH 1/2) E9 Transplantation allogénique de moelle osseuse ou transplantation d'organe solide dans le passé E10 A des antécédents ou des preuves actuelles d'une affection, d'une thérapie ou d'une anomalie biologique susceptible de fausser les résultats de l'essai, d'interférer avec la participation du sujet pendant toute la durée de l'essai, ou dont la participation n'est pas dans l'intérêt du sujet, de l'avis de l'investigateur traitant E11 Le sujet souffre de troubles psychiatriques ou de toxicomanie connus qui l'empêcheraient de coopérer aux exigences de l'essai E12 Patiente enceinte ou allaitante, ou attendant de concevoir des enfants pendant la durée prévue de l'essai, à partir de la visite de sélection jusqu'à 6 mois après la dernière dose de médicaments de l'étude"
+          },
+          {
+            "clusion": "E",
+            "lang": "en",
+            "value": ". For cohort 1 only : Patient currently receiving therapy with an anti-NKG2A. E2. For cohort 2 only: Patient currently receiving therapy with an anti-C5aR.E3. Contraindication to treatment with monalizumab (cohort 1 only) or avdoralimab (cohort 2 only) as per respective IB, including known hypersensitivity to one of these study drugs or severe hypersensitivity reaction to any monoclonal antibody. E4. For cohort 1 only : Patient known to have intolerance or hypersensitivity to chloroquine or any quinoline derivates (quinine, chloroquine, tafenoquine, hydroxychloroquine, mefloquine). Patients previously exposed to CQ, HCQ or other quinoline derivates should have interrupted their treatment at least 72h prior to randomization. E5. Patient has active autoimmune disease that has required systemic treatment in the past 3 months before the date of randomisation or a documented history of clinically severe autoimmune disease, or a syndrome that requires systemic steroids at doses higher than 10 mg/d prednisone equivalents or immunosuppressive agents.from the study. b. Note 2: Patients may receive corticosteroids as required for the management of SARS-CoV-2-related symptoms. E6. Patient requires the use of one of the following forbidden treatment during the study treatment period, including but not limited to : Major surgery.  Live vaccines. Examples of live vaccines include, but are not limited to, the following: measles, mumps, rubella, chicken pox, yellow fever and BCG. Seasonal influenza vaccines for injection are generally killed virus vaccines and are allowed; however intranasal influenza vaccines (e.g. Flu-Mist®) are live attenuated vaccines, and are not allowed. E7. Significant cardiovascular disease, such as New York Heart Association cardiac disease (Class II or greater), myocardial infarction within 3 months prior to the date of randomisation unstable arrhythmias or unstable angina, Known Left Ventricular Ejection Fraction (LVEF) < 50%. a. Note: Patients with known coronary artery disease, congestive heart failure not meeting the above criteria must be on a stable medical regimen that is optimized in the opinion of the treating physician and in consultation with a cardiologist if appropriate. E8. Patient has known active hepatitis B (chronic or acute; defined as having a positive hepatitis B surface antigen [HBsAg] test at screening), known active hepatitis C (Patients positive for hepatitis C virus (HCV) antibody are eligible only if PCR is negative for HCV RNA at screening) or known Human Immunodeficiency Virus (HIV) infection (HIV 1/2 antibodies). E9. Prior allogeneic bone marrow transplantation or solid organ transplant in the past. E10. Has a history or current evidence of any condition, therapy, or laboratory abnormality that might confound the results of the trial, interfere with the subject’s participation for the full duration of the trial, or is not in the best interest of the subject to participate, in the opinion of the treating Investigator.E11. Has known psychiatric or substance abuse disorders that would interfere with cooperation with the requirements of the trial. E12. Pregnant or breastfeeding patient, or expecting to conceive children within the projected duration of the trial, starting with the screening visit through 6 months after the last dose of study drugs."
+          }
+        ],
+        "collDate": [
+          {
+            "event": "start",
+            "value": "2020-01-01"
+          },
+          {
+            "event": "end",
+            "value": "2021-01-01"
+          }
+        ]
+      }
+    },
+    "dataAccs": {
+      "setAvail": {
+        "avlStatus": [
+          {
+            "lang": "fr",
+            "value": "A définir"
+          },
+          {
+            "lang": "en",
+            "value": "To be defined"
+          }
+        ],
+        "conditions": []
+      },
+      "useStmt": {}
+    },
+    "othStdMat": {},
+    "studyDevelopment": {
+      "developmentActivity": [
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/morbidité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/mortalité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Consommation de soins/services de santé"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Qualité de vie/santé perçue"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/morbidity"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/mortality"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health care consumption and services"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Quality of life/health perception"
+        }
+      ]
+    }
+  },
+  "docDscr": {
+    "citation": {
+      "rspStmt": {
+        "AuthEnty": "JULIEN GAUTIER"
+      },
+      "prodStmt": {
+        "producer": [
+          {
+            "affiliation": "UNICANCER GROUP",
+            "value": "JULIEN;GAUTIER"
+          }
+        ],
+        "prodPlac": "Portail Épidémiologie France"
+      }
+    }
+  },
+  "additional": {
+    "prodPlac": "Portail Épidémiologie France",
+    "creationDate": "09-12-2020",
+    "lastUpdatedManual": "07-07-2025",
+    "theme": {},
+    "governance": {
+      "committee": true
+    },
+    "collaborations": {},
+    "mockSample": {},
+    "dataQuality": {},
+    "variableDictionnary": {},
+    "dataTypes": {
+      "clinicalDataDetails": [
+        {
+          "lang": "fr",
+          "value": "Antécédents médicaux et cancéreux, antécédents COVID-19 (diagnostic et symptômes), exposition aux traitements de l'étude, données relatives à l'efficacité et à la sécurité."
+        },
+        {
+          "lang": "en",
+          "value": "Medical and cancer history, COVID-19 history (diagnosis and symptoms), study treatments exposure, efficacy and safety data"
+        }
+      ],
+      "isDataInBiobank": true
+    },
+    "collectionProcess": {
+      "collectionModeDetails": [
+        {
+          "lang": "fr",
+          "value": "eCRF"
+        },
+        {
+          "lang": "en",
+          "value": "Electronic Case Report Form"
+        }
+      ]
+    },
+    "geographicalCoverage": {
+      "geoDetail": [
+        {
+          "lang": "fr",
+          "value": "France"
+        },
+        {
+          "lang": "en",
+          "value": "France"
+        }
+      ]
+    },
+    "activeFollowUp": {
+      "isActiveFollowUp": true
+    },
+    "dataCollectionIntegration": {
+      "isDataIntegration": false
+    },
+    "isHealthTheme": true
+  },
+  "schematype": "survey"
+}

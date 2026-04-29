@@ -1,0 +1,945 @@
+{
+  "stdyDscr": {
+    "citation": {
+      "titlStmt": {
+        "IDNo": [
+          {
+            "agency": "PEF",
+            "value": "73327"
+          },
+          {
+            "agency": "FReSH",
+            "value": "FRESH-PEF73327"
+          }
+        ],
+        "titl": [
+          {
+            "lang": "fr",
+            "value": "Etude observationnelle rétrospective faisant un état des lieux du test KRAS en 2011 chez des patients atteint d'un cancer colorectal métastatique ayant débuté récemment un traitement de première ligne"
+          },
+          {
+            "lang": "en",
+            "value": "Retrospective observational study taking an inventory of the KRAS test in 2011 in patients with metastatic colorectal cancer having recently started a first-line treatment"
+          }
+        ],
+        "altTitl": [
+          {
+            "lang": "fr",
+            "value": "Flash-KRAS"
+          },
+          {
+            "lang": "en",
+            "value": "Flash-KRAS"
+          }
+        ]
+      },
+      "rspStmt": {
+        "AuthEnty": [
+          {
+            "name": "Pierre;LAURENT-PUIG",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "ASSISTANCE PUBLIQUE HOPITAUX DE PARIS (AP-HP)"
+              },
+              {
+                "lang": "en",
+                "value": "ASSISTANCE PUBLIQUE HOPITAUX DE PARIS (AP-HP)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "0000-0001-8475-5459",
+                "role": "pi id",
+                "title": "ORCID"
+              },
+              {
+                "uri": "071013512",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/00pg5jh14",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "267500452",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ],
+            "isContact": false,
+            "email": "",
+            "PILabo": ""
+          },
+          {
+            "name": "Astrid;LIEVRE",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "ASSISTANCE PUBLIQUE HOPITAUX DE PARIS (AP-HP)"
+              },
+              {
+                "lang": "en",
+                "value": "ASSISTANCE PUBLIQUE HOPITAUX DE PARIS (AP-HP)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "0000-0003-2118-717X",
+                "role": "pi id",
+                "title": "ORCID"
+              },
+              {
+                "uri": "068655576",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/00pg5jh14",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "267500452",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ],
+            "isContact": false,
+            "email": "",
+            "PILabo": ""
+          },
+          {
+            "name": "Michel;GUIU",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "CENTRE DE PATHOLOGIE DES DOCTEURS ISABELLE BIAL - CELINE LAMBOLAIS - ALEXANDRE NATAF - JEAN PHILIPPE MOMPART, CECILE BOR"
+              },
+              {
+                "lang": "en",
+                "value": "CENTRE DE PATHOLOGIE DES DOCTEURS ISABELLE BIAL - CELINE LAMBOLAIS - ALEXANDRE NATAF - JEAN PHILIPPE MOMPART, CECILE BOR"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "315932525",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ],
+            "isContact": false,
+            "email": "",
+            "PILabo": ""
+          },
+          {
+            "name": "Jean-Louis;MERLIN",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "CENTRE HOSPITALIER REGIONAL ET UNIVERSITAIRE DE NANCY"
+              },
+              {
+                "lang": "en",
+                "value": "CENTRE HOSPITALIER REGIONAL ET UNIVERSITAIRE DE NANCY"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "060244674",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/016ncsr12",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "200042166",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ],
+            "isContact": false,
+            "email": "",
+            "PILabo": ""
+          },
+          {
+            "name": "Jean-Christophe;SABOURIN",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "CENTRE HOSPITALIER UNIVERSITAIRE ROUEN"
+              },
+              {
+                "lang": "en",
+                "value": "CENTRE HOSPITALIER UNIVERSITAIRE ROUEN"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "0000-0001-5490-066X",
+                "role": "pi id",
+                "title": "ORCID"
+              },
+              {
+                "uri": "075521687",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/04cdk4t75",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "267601680",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ],
+            "isContact": false,
+            "email": "",
+            "PILabo": ""
+          },
+          {
+            "name": "Pascal;ARTRU",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "HOSPICES CIVILS DE LYON (HCL)"
+              },
+              {
+                "lang": "en",
+                "value": "HOSPICES CIVILS DE LYON (HCL)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "094607001",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/01502ca60",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "266900273",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ],
+            "isContact": false,
+            "email": "",
+            "PILabo": ""
+          },
+          {
+            "name": "Michel;DUCREUX",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "INSTITUT GUSTAVE ROUSSY (IGR)"
+              },
+              {
+                "lang": "en",
+                "value": "INSTITUT GUSTAVE ROUSSY (IGR)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "03209437X",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/0321g0743",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "775741101",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ],
+            "isContact": false,
+            "email": "",
+            "PILabo": ""
+          },
+          {
+            "name": "Jérôme;VIGUIER",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "UNIVERSITE DE TOURS"
+              },
+              {
+                "lang": "en",
+                "value": "UNIVERSITE DE TOURS"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "075239604",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/02wwzvj46",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "193708005",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ],
+            "isContact": false,
+            "email": "",
+            "PILabo": ""
+          }
+        ],
+        "othId": []
+      },
+      "distStmt": {},
+      "prodStmt": {
+        "fundAg": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "MERCK SANTE"
+              },
+              {
+                "lang": "en",
+                "value": "MERCK SANTE"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "SIREN",
+                "uri": "572028033"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Industrie"
+              },
+              {
+                "lang": "en",
+                "value": "Industry"
+              }
+            ]
+          }
+        ],
+        "producer": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "MERCK SANTE"
+              },
+              {
+                "lang": "en",
+                "value": "MERCK SANTE"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Industrie"
+              },
+              {
+                "lang": "en",
+                "value": "Industry"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "572028033"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "studyAuthorization": {
+      "authorizingAgency": {
+        "lang": "fr",
+        "value": "CNIL"
+      }
+    },
+    "method": {
+      "notes": [
+        {
+          "subject": "research type",
+          "lang": "fr",
+          "value": "Etude observationnelle"
+        },
+        {
+          "subject": "research type",
+          "lang": "en",
+          "value": "Observational Study"
+        }
+      ],
+      "stdyClas": [
+        {
+          "lang": "fr",
+          "value": "Inconnu"
+        },
+        {
+          "lang": "en",
+          "value": "Unknown"
+        }
+      ],
+      "dataColl": {
+        "targetSampleSize": [
+          {
+            "lang": "fr",
+            "value": "[500-1000[ individus"
+          },
+          {
+            "lang": "en",
+            "value": "[500-1000[ individuals"
+          }
+        ],
+        "sampleFrame": {
+          "frameUnit": {
+            "unitType": [
+              {
+                "lang": "fr",
+                "value": "Via les professionnels d&#x27;exercice libéral Via des structures (services ou établissements de santé, écoles, entreprises…)"
+              },
+              {
+                "lang": "en",
+                "value": "Through independent healthcare practitioners Through organizations (health services or institutions, schools, businesses, etc.)"
+              }
+            ]
+          }
+        },
+        "sources": [
+          {}
+        ],
+        "collMode": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Interview",
+              "vocab": "CESSDA"
+            },
+            "value": "Entretien avec le participant (dont clinique)"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Interview",
+              "vocab": "CESSDA"
+            },
+            "value": "Interview with the participant (including clinical)"
+          }
+        ],
+        "sampProc": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ],
+        "respRate": [
+          {
+            "lang": "fr",
+            "value": "n=538 patients (160 centres)"
+          },
+          {
+            "lang": "en",
+            "value": "n=538 patients (160 centres)"
+          }
+        ]
+      }
+    },
+    "stdyInfo": {
+      "abstract": [
+        {
+          "contentType": "purpose",
+          "lang": "fr",
+          "value": "Evaluer le taux de prescription du test KRAS chez des patients débutant un traitement de première ligne d'un cancer colorectal métastatique. Objectifs secondaires: - Décrire les raisons éventuelles de non prescription de ce test - Décrire et analyser les caractéristiques cliniques des patients et les traitements prévus et reçus en première ligne métastatique - Décrire et analyser le délai d'obtention du résultat du test KRAS et le circuit (qui fait la demande, quand) et l'attitude thérapeutique adoptée pendant cette période - Analyser l'impact de la disponibilité du test KRAS et de son résultat sur le choix thérapeutique du médecin - Décrire la technique utilisée pour l'analyse, le type de mutation (si disponible) et la modalité de report des résultats aux cliniciens (compte rendu de résultat)"
+        },
+        {
+          "contentType": "purpose",
+          "lang": "en",
+          "value": "Evaluate the KRAS test prescription rate in patients starting a first-line treatment for metastatic colorectal cancer. Secondary objectives: - Describe the potential reasons for not prescribing this test - Describe and analyse the clinical characteristics of patients and treatments planned and received in first-line metastatic treatment - Describe and analyse the time frame for obtaining the result of the KRAS test and the channel (who makes the request and when) and the therapeutic attitude adopted during this period - Analyse the impact of the availability of the KRAS test and its result on the therapeutic choice of the physician - Describe the technic used for the analysis, the type of mutation (if available) and the method for reporting the results to the clinicians (report of the results)"
+        }
+      ],
+      "subject": {
+        "topcClas": [
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/5784b7f1-c7ce-49d9-9f38-aebcda0ff41d"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D008495"
+              }
+            ],
+            "value": "Oncologie"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/5784b7f1-c7ce-49d9-9f38-aebcda0ff41d"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D008495"
+              }
+            ],
+            "value": "Oncology"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "fr",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/1630407678",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Tumeurs"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "en",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/1630407678",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Neoplasms"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Systèmes de soins et accès aux soins"
+          }
+        ],
+        "keyword": [
+          {
+            "lang": "fr",
+            "value": "Test-KRAS"
+          },
+          {
+            "lang": "fr",
+            "value": "Cancer colorectal"
+          },
+          {
+            "lang": "en",
+            "value": "Flash-KRAS"
+          },
+          {
+            "lang": "en",
+            "value": "Colorectal cancer"
+          }
+        ]
+      },
+      "qualityStatement": {
+        "standardsCompliance": {}
+      },
+      "sumDscr": {
+        "dataKind": [
+          {
+            "lang": "fr",
+            "value": "Données cliniques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données rapportées par le participant de l&#x27;étude"
+          },
+          {
+            "lang": "fr",
+            "value": "Données biologiques"
+          },
+          {
+            "lang": "en",
+            "value": "Clinical data"
+          },
+          {
+            "lang": "en",
+            "value": "Participant-reported health data"
+          },
+          {
+            "lang": "en",
+            "value": "Biological data"
+          }
+        ],
+        "anlyUnit": [
+          {
+            "lang": "fr",
+            "value": "Individus"
+          },
+          {
+            "lang": "en",
+            "value": "Individuals"
+          }
+        ],
+        "nation": [
+          {
+            "lang": "fr",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          },
+          {
+            "lang": "en",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          }
+        ],
+        "universe": [
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Masculin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Féminin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Male"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Female"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Adulte (19 à 24 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adulte (25 à 44 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Adulte (45 à 64 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Personne âgée (65 à 79 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000369"
+            },
+            "value": "Grand âge (80 ans et plus)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Young Adult (19 to 24 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adult (25 to 44 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Middle Aged (45 to 64 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Aged (65 to 79 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000369"
+            },
+            "value": "Aged, 80 and over (80 years and more)"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Patients"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "en",
+            "value": "Patients population"
+          },
+          {
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Chaque centre participant devait sélectionner l'exhaustivité des patients vus en consultation pendant la période de réalisation de l'étude, répondant à tous les critères  suivants: - Patients âgés de 18 ans ou plus, - Patients atteints d'un cancer colorectal métastatique histologiquement prouvé, - Patients pour lesquels un traitement de première ligne métastatique a été initié entre le 01/01/2011 et le 27/03/2011, - Patients vus en consultation pendant la période officielle des 2 semaines de sélection de l'étude."
+          },
+          {
+            "clusion": "I",
+            "lang": "en",
+            "value": "Each participating centre had to select the exhaustiveness of the patients seen in consultation during the study period, meeting all of the following criteria:  - Patients aged 18 years or older,  - Patients with histologically proven metastatic colorectal cancer,  - Patients for whom a metastatic first-line treatment was initiated between 01/01/2011 and 27/03/2011,  - Patients seen in consultation during the official 2-week study selection period."
+          },
+          {
+            "clusion": "E",
+            "lang": "fr",
+            "value": ""
+          },
+          {
+            "clusion": "E",
+            "lang": "en",
+            "value": ""
+          }
+        ],
+        "collDate": [
+          {
+            "event": "start",
+            "value": "2011-01-01"
+          },
+          {
+            "event": "end",
+            "value": "2011-12-31"
+          }
+        ]
+      }
+    },
+    "dataAccs": {
+      "setAvail": {
+        "avlStatus": [
+          {
+            "lang": "fr",
+            "value": "A définir"
+          },
+          {
+            "lang": "en",
+            "value": "To be defined"
+          }
+        ],
+        "conditions": []
+      },
+      "useStmt": {}
+    },
+    "othStdMat": {
+      "relMat": [
+        {
+          "lang": "fr",
+          "value": "Accès restreint sur projet spécifique"
+        },
+        {
+          "lang": "en",
+          "value": "Access on specific project only"
+        }
+      ]
+    },
+    "studyDevelopment": {
+      "developmentActivity": [
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Consommation de soins/services de santé"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health care consumption and services"
+        }
+      ]
+    }
+  },
+  "docDscr": {
+    "citation": {
+      "rspStmt": {
+        "AuthEnty": "Juliette LONGIN"
+      },
+      "prodStmt": {
+        "producer": [
+          {
+            "affiliation": "MERCK SANTE",
+            "value": "Juliette;LONGIN"
+          }
+        ],
+        "prodPlac": "Portail Épidémiologie France"
+      }
+    }
+  },
+  "additional": {
+    "prodPlac": "Portail Épidémiologie France",
+    "creationDate": "06-06-2016",
+    "lastUpdatedManual": "19-10-2017",
+    "theme": {},
+    "governance": {
+      "committee": true
+    },
+    "collaborations": {},
+    "mockSample": {},
+    "dataQuality": {},
+    "variableDictionnary": {},
+    "dataTypes": {
+      "clinicalDataDetails": [
+        {
+          "lang": "fr",
+          "value": "Histoire du cancer colorectal primitif; Traitement de première ligne métastatique; Prescription du génotypage du biomarqueur KRAS; impact du résultat sur la prise en charge thérapeutique"
+        },
+        {
+          "lang": "en",
+          "value": "History of early colorectal cancer; First line metastatic treatment; Prescription of KRAS biomarker genotyping; impact of the result on therapeutic management"
+        }
+      ],
+      "biologicalDataDetails": [
+        {
+          "lang": "fr",
+          "value": "Période d'attente du résultat du test KRAS; compte rendu de génotypage"
+        },
+        {
+          "lang": "en",
+          "value": "Waiting period for KRAS test result; genotyping report"
+        }
+      ],
+      "isDataInBiobank": false
+    },
+    "collectionProcess": {
+      "collectionModeDetails": [
+        {
+          "lang": "fr",
+          "value": "Dossier médical des patients vus en consultation pendant la période de l'étude de façon rétrospective et à l'aide d'un questionnaire papier. Copie anonymisée du compte-rendu de biologie moléculaire"
+        },
+        {
+          "lang": "en",
+          "value": "Medical records of patients seen during the study period retrospectively and using a paper questionnaire. Anonymised copy of the molecular biology report"
+        }
+      ]
+    },
+    "geographicalCoverage": {
+      "geoDetail": [
+        {
+          "lang": "fr",
+          "value": "France"
+        },
+        {
+          "lang": "en",
+          "value": "France"
+        }
+      ]
+    },
+    "activeFollowUp": {
+      "isActiveFollowUp": false
+    },
+    "dataCollectionIntegration": {
+      "isDataIntegration": false
+    },
+    "isHealthTheme": true
+  },
+  "schematype": "survey"
+}

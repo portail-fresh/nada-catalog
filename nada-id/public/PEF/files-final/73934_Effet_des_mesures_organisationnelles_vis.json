@@ -1,0 +1,654 @@
+{
+  "stdyDscr": {
+    "citation": {
+      "titlStmt": {
+        "IDNo": [
+          {
+            "agency": "PEF",
+            "value": "73934"
+          },
+          {
+            "agency": "FReSH",
+            "value": "FRESH-PEF73934"
+          }
+        ],
+        "titl": [
+          {
+            "lang": "fr",
+            "value": "Effet des mesures organisationnelles visant à prévenir et à contrôler l’infection COVID-19 dans les EHPAD sur le risque de décès des résidents pendant et après la période épidémique - PIANO COVID-19"
+          },
+          {
+            "lang": "en",
+            "value": "Effect of organizational measures to prevent and control COVID-19 infection in nursing homes on the risk of death of residents during and after the epidemic period - PIANO COVID-19"
+          }
+        ],
+        "altTitl": [
+          {
+            "lang": "fr",
+            "value": "PIANO COVID-19"
+          },
+          {
+            "lang": "en",
+            "value": "PIANO COVID-19"
+          }
+        ]
+      },
+      "rspStmt": {
+        "AuthEnty": [
+          {
+            "name": "Yves;ROLLAND",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "CENTRE HOSPITALIER UNIVERSITAIRE DE TOULOUSE (CHUT)"
+              },
+              {
+                "lang": "en",
+                "value": "CENTRE HOSPITALIER UNIVERSITAIRE DE TOULOUSE (CHUT)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "084765399",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/017h5q109",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "263100125",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ],
+            "isContact": false,
+            "email": "",
+            "PILabo": "GERONTOPOLE CHU TOULOUSE"
+          }
+        ],
+        "othId": {
+          "type": "collaboration",
+          "affiliation": {
+            "lang": "fr",
+            "value": "Collaboration avec le LISST"
+          }
+        }
+      },
+      "distStmt": {
+        "contact": [
+          {
+            "name": "Delphine;PENNETIER",
+            "email": "pennetier.d@chu-toulouse.fr",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "CENTRE HOSPITALIER UNIVERSITAIRE DE TOULOUSE (CHUT)"
+              },
+              {
+                "lang": "en",
+                "value": "CENTRE HOSPITALIER UNIVERSITAIRE DE TOULOUSE (CHUT)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/017h5q109",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "263100125",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          }
+        ]
+      },
+      "prodStmt": {
+        "fundAg": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "MINISTERE DU TRAVAIL, DE LA SANTE, DES SOLIDARITES ET DES FAMILLES"
+              },
+              {
+                "lang": "en",
+                "value": "MINISTERE DU TRAVAIL, DE LA SANTE, DES SOLIDARITES ET DES FAMILLES"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "ROR",
+                "uri": "https://ror.org/01wp0c315"
+              },
+              {
+                "title": "SIREN",
+                "uri": "130016546"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ]
+          }
+        ],
+        "producer": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "CENTRE HOSPITALIER UNIVERSITAIRE DE TOULOUSE (CHUT)"
+              },
+              {
+                "lang": "en",
+                "value": "CENTRE HOSPITALIER UNIVERSITAIRE DE TOULOUSE (CHUT)"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "ROR",
+                "uri": "https://ror.org/017h5q109"
+              },
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "263100125"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "studyAuthorization": {
+      "authorizingAgency": {
+        "lang": "fr",
+        "value": "CNIL"
+      }
+    },
+    "method": {
+      "notes": [
+        {
+          "subject": "research type",
+          "lang": "fr",
+          "value": "Etude observationnelle"
+        },
+        {
+          "subject": "research type",
+          "lang": "en",
+          "value": "Observational Study"
+        },
+        {
+          "lang": "fr",
+          "subject": "observational study method",
+          "value": "Cohorte"
+        },
+        {
+          "lang": "en",
+          "subject": "observational study method",
+          "value": "Cohort study"
+        }
+      ],
+      "stdyClas": [
+        {
+          "lang": "fr",
+          "value": "Inconnu"
+        },
+        {
+          "lang": "en",
+          "value": "Unknown"
+        }
+      ],
+      "dataColl": {
+        "targetSampleSize": [
+          {
+            "lang": "fr",
+            "value": "[500-1000[ individus"
+          },
+          {
+            "lang": "en",
+            "value": "[500-1000[ individuals"
+          }
+        ],
+        "sampleFrame": {
+          "frameUnit": {
+            "unitType": [
+              {
+                "lang": "fr",
+                "value": "Via des structures (services ou établissements de santé, écoles, entreprises…)"
+              },
+              {
+                "lang": "en",
+                "value": "Through organizations (health services or institutions, schools, businesses, etc.)"
+              }
+            ]
+          }
+        },
+        "sources": [
+          {}
+        ],
+        "collMode": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Transcription",
+              "vocab": "CESSDA"
+            },
+            "value": "Transcription et saisie d’informations dans un enregistrement structuré"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Transcription",
+              "vocab": "CESSDA"
+            },
+            "value": "Converting or copying information into a structured record"
+          }
+        ],
+        "sampProc": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ],
+        "respRate": [
+          {
+            "lang": "fr",
+            "value": "9600 personnes de 120 EHPAD (Infirmières de Coordination (IDEc) ou Médecins Coordonnateurs (MedCo))."
+          },
+          {
+            "lang": "en",
+            "value": "9,600 persons from 120 nursing homes (coordinating nurses or coordinating physicians)."
+          }
+        ]
+      }
+    },
+    "stdyInfo": {
+      "abstract": [
+        {
+          "contentType": "purpose",
+          "lang": "fr",
+          "value": "L'objectif principal est de comparer le taux de mortalité globale des résidents sur une période d'un an (de janvier 2020 à décembre 2020) vivant dans des EHPAD et USLD ayant appliqué un niveau élevé de recommandations pour prévenir l’infection COVID-19 dans l’EHPAD/USLD, au taux de mortalité des EHPAD ayant appliqué un niveau faible de recommandations. Le niveau de mise en oeuvre des recommandations sera jugé 14 jours avant le pic de l’épidémie dans la zone géographique de chaque EHPAD/USLD. Les objectifs secondaires sont : - Comparer le taux de décès lié aux cas de COVID confirmés ou suspectés dans les EHPAD/USLD avec un niveau élevé de mise en oeuvre des recommandations de prévention du COVID-19 ; et les EHPAD/USLD avec un faible niveau de mise en oeuvre des recommandations. - Comparer le taux de décès non lié au COVID dans les EHPAD/USLD avec un niveau élevé de mise en oeuvre des recommandations de prévention du COVID-19 et les EHPAD/USLD avec un faible niveau de mise en oeuvre des recommandations. - Etudier l’impact économique pour les EHPAD et le système de santé de la mise en oeuvre des recommandations de prévention du COVID-19, 6 et 12 mois avant et après la mise en oeuvre des mesures préventives. - Analyser l’incidence des événements de santé graves (décès, hospita-lisations) et la survenue de la COVID chez les résidents (vaccinés et non vaccinés), dans les EHPAD et les USLD en France au cours d’une période d’observation de 12 mois (2021). - Analyser la fréquence de la COVID chez les résidents (vaccinés et non vaccinés), dans les EHPAD et les USLD en France en fonction du taux de vaccination contre la COVID chez le personnel des EHPAD et USLD au cours de la même période d’observation. D’un point de vue médico-économique : - évaluer l’impact économique de la mise en oeuvre des mesures de pré-vention appliquées par le personnel soignant des EHPAD, 6 et 12 mois avant et 6, 12 et 24 mois après la mise en oeuvre des mesures préven-tives, en utilisant des analyses coûts-efficacité et l’analyse coût-effica-cité. - Évaluer l’impact économique de la vaccination contre la COVID chez les résidents et le personnel des EHPAD, du point de vue du système de santé et des EHPAD, 6 et 12 mois avant et après la mise en oeuvre de la campagne de vaccination, à l’aide d’analyses de coûts et de rentabilité. Ces données fourniront également des informations économiques indi-rectes sur la tolérance de la vaccination. - Évaluer l’efficacité de la mise en oeuvre de haut niveau de recommandations visant à prévenir et à contrôler la COVID-19 par rapport à la mise en oeuvre de faible niveau de recommandations visant à prévenir et à contrôler la COVID-19, en utilisant une analyse coût-efficacité à 12 et 24 mois. - Évaluer l’efficacité de la vaccination, à 6 et 12 mois, chez les résidents et le personnel par rapport à l’absence de vaccination, à l’aide d’une analyse coût-efficacité"
+        },
+        {
+          "contentType": "purpose",
+          "lang": "en",
+          "value": "The main objective is to compare the occurrence of global death of residents during a 1-year period (from January 2020 to December 2020) in NH and LTCU with a high level of implementation of the recommendation/guidance to prevent and control COVID-19 NH/LTCU residents’ infection and NH and LTCU with a low level of implementation of the recommendation/guidance to prevent and control COVID-19 NH/LTCU. The secondary objectives are: - To compare the rate of death related to confirmed or suspected COVID cases in NH/LTCU with a high level of implementation of the recommendation/guidance to prevent and control COVID-19 NH/LTCU residents’ infection and NH/LTCU with a low level of implementation of the recommendation/guidance to prevent and control COVID-19 NH/LTCU. - To compare the rate of death not related to COVID cases in NH/LTCU with a high level of implementation of the recommendation/guidance to prevent and control COVID-19 NH/LTCU residents’ infection and NH/LTCU with a low level of implementation of the recommendation/guidance to prevent and control COVID-19 NH/LTCU. - To analyze the incidence of serious health events (deaths, hospitalizations) and the occurrence of COVID in residents (vaccinated and unvaccinated), in NHs and LTCUs in France during a 12-month (2021) observation period. - To analyze the occurrence of COVID in residents (vaccinated and unvaccinated), in NHs and LTCUs in France according to the rate of vaccination against COVID among the NH’s/LTCU’s staff during the same observational period. From an economic perspective: - To assess the economic impact of the implementation of prevention measures applied by nursing homes staff, from healthcare system and the NH perspectives, 6, and 12 months before and 6, 12 months to 24 months after the implementation of the preventive measures. - To assess the economic impact of the vaccination among residents and NH’staff, from healthcare system and the NH perspectives, 6 and 12 months before and after the vaccination campaign. These data will also provide indirect economic information about the tolerance of the vaccination. - To assess the efficiency of the high level implementation of the recommendation to prevent and control COVID-19 in comparison with the low level implementation of recommendation to prevent and control COVID-19, using a cost-effectiveness analysis at 12 and 24 months. - To assess the efficiency of the vaccination, at 6 and 12 months, among residents and healthcare professionals in comparison with no vaccination, using a cost-effectiveness analysis"
+        }
+      ],
+      "subject": {
+        "topcClas": [
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/d37e4d8c-a978-40c7-ba4f-eee841851073"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D005853"
+              }
+            ],
+            "value": "Gériatrie"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/d37e4d8c-a978-40c7-ba4f-eee841851073"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D005853"
+              }
+            ],
+            "value": "Geriatrics"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "fr",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/1730556128",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "COVID-19"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "en",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/1730556128",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "COVID-19"
+          }
+        ],
+        "keyword": [
+          {
+            "lang": "fr",
+            "value": "mesures organnisationelles mises en place"
+          },
+          {
+            "lang": "fr",
+            "value": "décès"
+          }
+        ]
+      },
+      "qualityStatement": {
+        "standardsCompliance": {}
+      },
+      "sumDscr": {
+        "dataKind": [
+          {
+            "lang": "fr",
+            "value": "Données cliniques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données économiques"
+          },
+          {
+            "lang": "en",
+            "value": "Clinical data"
+          },
+          {
+            "lang": "en",
+            "value": "Economic data"
+          }
+        ],
+        "anlyUnit": [
+          {
+            "lang": "fr",
+            "value": "Individus"
+          },
+          {
+            "lang": "en",
+            "value": "Individuals"
+          }
+        ],
+        "nation": [
+          {
+            "lang": "fr",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          },
+          {
+            "lang": "en",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          }
+        ],
+        "universe": [
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Masculin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Féminin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Male"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Female"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Personne âgée (65 à 79 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000369"
+            },
+            "value": "Grand âge (80 ans et plus)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Aged (65 to 79 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000369"
+            },
+            "value": "Aged, 80 and over (80 years and more)"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Population générale"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "en",
+            "value": "General population"
+          },
+          {
+            "clusion": "I",
+            "lang": "fr",
+            "value": "EHPAD ou USLD (Unité de Soins de Longues Durées) volontaires pour participer "
+          },
+          {
+            "clusion": "I",
+            "lang": "en",
+            "value": "NHs and LTCU volunteers to participate from different region of France (from low impacted to highly impacted region) will be welcomed. "
+          },
+          {
+            "clusion": "E",
+            "lang": "fr",
+            "value": "EHPAD ou USLD (Unité de Soins de Longues Durées) Non volontaires pour participer"
+          },
+          {
+            "clusion": "E",
+            "lang": "en",
+            "value": "NHs or LTCUs that refuse to participate."
+          }
+        ],
+        "collDate": [
+          {
+            "event": "start",
+            "value": "2020-01-01"
+          },
+          {
+            "event": "end",
+            "value": "2021-01-01"
+          }
+        ]
+      }
+    },
+    "dataAccs": {
+      "setAvail": {
+        "avlStatus": [
+          {
+            "lang": "fr",
+            "value": "A définir"
+          },
+          {
+            "lang": "en",
+            "value": "To be defined"
+          }
+        ],
+        "conditions": []
+      },
+      "useStmt": {}
+    },
+    "othStdMat": {},
+    "studyDevelopment": {
+      "developmentActivity": [
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/mortalité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Consommation de soins/services de santé"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/mortality"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health care consumption and services"
+        }
+      ]
+    }
+  },
+  "docDscr": {
+    "citation": {
+      "rspStmt": {
+        "AuthEnty": "Delphine PENNETIER"
+      },
+      "prodStmt": {
+        "producer": [
+          {
+            "affiliation": "CENTRE HOSPITALIER UNIVERSITAIRE DE TOULOUSE (CHUT)",
+            "value": "Delphine;PENNETIER"
+          }
+        ],
+        "prodPlac": "Portail Épidémiologie France"
+      }
+    }
+  },
+  "additional": {
+    "prodPlac": "Portail Épidémiologie France",
+    "creationDate": "03-02-2021",
+    "lastUpdatedManual": "23-04-2021",
+    "theme": {},
+    "governance": {
+      "committee": false
+    },
+    "collaborations": {},
+    "mockSample": {},
+    "dataQuality": {},
+    "variableDictionnary": {},
+    "dataTypes": {
+      "clinicalDataDetails": {
+        "lang": "fr",
+        "value": "GIR, statut vital, données sur la vaccination (date et type de vaccination, taille et poids à la vaccination)"
+      },
+      "isDataInBiobank": false
+    },
+    "collectionProcess": {
+      "collectionModeDetails": [
+        {
+          "lang": "fr",
+          "value": "fichier excel; CRF"
+        },
+        {
+          "lang": "en",
+          "value": "Excel file; CRF"
+        }
+      ]
+    },
+    "geographicalCoverage": {},
+    "activeFollowUp": {
+      "isActiveFollowUp": true
+    },
+    "dataCollectionIntegration": {
+      "isDataIntegration": false
+    },
+    "isHealthTheme": true
+  },
+  "schematype": "survey"
+}

@@ -1,0 +1,961 @@
+{
+  "stdyDscr": {
+    "citation": {
+      "titlStmt": {
+        "IDNo": [
+          {
+            "agency": "PEF",
+            "value": "73257"
+          },
+          {
+            "agency": "FReSH",
+            "value": "FRESH-PEF73257"
+          }
+        ],
+        "titl": [
+          {
+            "lang": "fr",
+            "value": "Cohorte de patients atteints de bronchopneumopathie chronique obstructive"
+          },
+          {
+            "lang": "en",
+            "value": "Cohort of Patients with Chronic Obstructive Pulmonary Disease"
+          }
+        ],
+        "altTitl": [
+          {
+            "lang": "fr",
+            "value": "EXACO"
+          },
+          {
+            "lang": "en",
+            "value": "EXACO"
+          }
+        ]
+      },
+      "rspStmt": {
+        "AuthEnty": [
+          {
+            "name": "Frédéric;MASURE",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "CAB GASTROENTEROLOGIE PUCHELLE CARTERET"
+              },
+              {
+                "lang": "en",
+                "value": "CAB GASTROENTEROLOGIE PUCHELLE CARTERET"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "347921793",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ],
+            "isContact": true,
+            "email": "fredmasure@gmail.com",
+            "PILabo": "Saint Remi Medical Group"
+          },
+          {
+            "name": "Alexis;CORTOT",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "CENTRE HOSPITALIER UNIVERSITAIRE DE LILLE (CHU)"
+              },
+              {
+                "lang": "en",
+                "value": "CENTRE HOSPITALIER UNIVERSITAIRE DE LILLE (CHU)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "0000-0003-0098-2238",
+                "role": "pi id",
+                "title": "ORCID"
+              },
+              {
+                "uri": "110084632",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/02ppyfa04",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "265906719",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ],
+            "isContact": true,
+            "email": "alexis.cortot@chru-lille.fr",
+            "PILabo": "Lille Regional University Hospital"
+          },
+          {
+            "name": "Stéphane;SCHUCK",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "KAPPA SANTE"
+              },
+              {
+                "lang": "en",
+                "value": "KAPPA SANTE"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "0000-0003-2642-7726",
+                "role": "pi id",
+                "title": "ORCID"
+              },
+              {
+                "uri": "248665758",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "445405046",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ],
+            "isContact": true,
+            "email": "stephane.schuck@kappasante.com",
+            "PILabo": "Kappa Santé"
+          }
+        ],
+        "othId": []
+      },
+      "distStmt": {
+        "contact": [
+          {
+            "name": "Frédéric;MASURE",
+            "email": "fredmasure@gmail.com",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "CAB GASTROENTEROLOGIE PUCHELLE CARTERET"
+              },
+              {
+                "lang": "en",
+                "value": "CAB GASTROENTEROLOGIE PUCHELLE CARTERET"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "347921793",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          },
+          {
+            "name": "Alexis;CORTOT",
+            "email": "alexis.cortot@chru-lille.fr",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "CENTRE HOSPITALIER UNIVERSITAIRE DE LILLE (CHU)"
+              },
+              {
+                "lang": "en",
+                "value": "CENTRE HOSPITALIER UNIVERSITAIRE DE LILLE (CHU)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/02ppyfa04",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "265906719",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          },
+          {
+            "name": "Stéphane;SCHUCK",
+            "email": "stephane.schuck@kappasante.com",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "KAPPA SANTE"
+              },
+              {
+                "lang": "en",
+                "value": "KAPPA SANTE"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "445405046",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          }
+        ]
+      },
+      "prodStmt": {
+        "fundAg": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "ALTANA PHARMA AG"
+              },
+              {
+                "lang": "en",
+                "value": "ALTANA PHARMA AG"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "SIREN",
+                "uri": "422716779"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Industrie"
+              },
+              {
+                "lang": "en",
+                "value": "Industry"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "ASTRAZENECA (FRANCE)"
+              },
+              {
+                "lang": "en",
+                "value": "ASTRAZENECA (FRANCE)"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "ROR",
+                "uri": "https://ror.org/016qv5070"
+              },
+              {
+                "title": "SIREN",
+                "uri": "558201075"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Industrie"
+              },
+              {
+                "lang": "en",
+                "value": "Industry"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "BOEHRINGER INGELHEIM INTERNATIONAL GMBH"
+              },
+              {
+                "lang": "en",
+                "value": "BOEHRINGER INGELHEIM INTERNATIONAL GMBH"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "SIREN",
+                "uri": "508241882"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Industrie"
+              },
+              {
+                "lang": "en",
+                "value": "Industry"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "GLAXOSMITHKLINE (FRANCE)"
+              },
+              {
+                "lang": "en",
+                "value": "GLAXOSMITHKLINE (FRANCE)"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "ROR",
+                "uri": "https://ror.org/00z1h3j87"
+              },
+              {
+                "title": "SIREN",
+                "uri": "592052146"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Industrie"
+              },
+              {
+                "lang": "en",
+                "value": "Industry"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "PFIZER (FRANCE)"
+              },
+              {
+                "lang": "en",
+                "value": "PFIZER (FRANCE)"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "ROR",
+                "uri": "https://ror.org/02c9yny10"
+              },
+              {
+                "title": "SIREN",
+                "uri": "433623550"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Industrie"
+              },
+              {
+                "lang": "en",
+                "value": "Industry"
+              }
+            ]
+          }
+        ],
+        "producer": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "SOCIETE DE PNEUMOLOGIE DE LANGUE FRANCAISE"
+              },
+              {
+                "lang": "en",
+                "value": "SOCIETE DE PNEUMOLOGIE DE LANGUE FRANCAISE"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Privé à but non lucratif"
+              },
+              {
+                "lang": "en",
+                "value": "Private non-profit"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "310133608"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "studyAuthorization": {
+      "authorizingAgency": {
+        "lang": "fr",
+        "value": "CNIL"
+      }
+    },
+    "method": {
+      "notes": [
+        {
+          "subject": "research type",
+          "lang": "fr",
+          "value": "Etude observationnelle"
+        },
+        {
+          "subject": "research type",
+          "lang": "en",
+          "value": "Observational Study"
+        },
+        {
+          "lang": "fr",
+          "subject": "observational study method",
+          "value": "Cohorte"
+        },
+        {
+          "lang": "en",
+          "subject": "observational study method",
+          "value": "Cohort study"
+        }
+      ],
+      "stdyClas": [
+        {
+          "lang": "fr",
+          "value": "Inconnu"
+        },
+        {
+          "lang": "en",
+          "value": "Unknown"
+        }
+      ],
+      "dataColl": {
+        "targetSampleSize": [
+          {
+            "lang": "fr",
+            "value": "[1000-10000[ individus"
+          },
+          {
+            "lang": "en",
+            "value": "[1000-10000[ individuals"
+          }
+        ],
+        "sampleFrame": {
+          "frameUnit": {
+            "unitType": [
+              {
+                "lang": "fr",
+                "value": "Via les professionnels d&#x27;exercice libéral"
+              },
+              {
+                "lang": "en",
+                "value": "Through independent healthcare practitioners"
+              }
+            ]
+          }
+        },
+        "sources": [
+          {}
+        ],
+        "collMode": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ],
+        "sampProc": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ],
+        "respRate": [
+          {
+            "lang": "fr",
+            "value": "835"
+          },
+          {
+            "lang": "en",
+            "value": "835"
+          }
+        ]
+      }
+    },
+    "stdyInfo": {
+      "abstract": [
+        {
+          "contentType": "purpose",
+          "lang": "fr",
+          "value": "Les objectifs principaux de l'étude sont de Décrire qualitativement et quantitativement les exacerbations d'une cohorte de patients atteints de BPCO en fonction du stade de sévérité et vérifier l'hypothèse de la présence d'un sous-groupe de patients « exacerbateurs fréquents » présentant un nombre d'exacerbations homogène dans le temps. Le cas échéant, déterminer la valeur seuil (nombre d'exacerbations) qui caractérise un exacerbateur fréquent en formulant l'hypothèse que 3 exacerbations par an, quelle que soit leur sévérité, sont suffisantes pour être classé « exacerbateur fréquent ». De plus, plusieurs objectifs secondaires seront poursuivis Identifier des facteurs associés à ce profil « exacerbateur fréquent ». Identifier des critères plus volontiers associés à la sévérité de l'exacerbation. Confirmer l'association exacerbateur fréquent/déclin accéléré de la fonction respiratoire. Valider l'échelle VSRQ sur les critères métrologiques suivants : reproductibilité, validité clinique par comparaison avec le questionnaire de St George, unidimensionnalité du VSRQ, cohérence interne du VSRQ, sensibilité au changement, différence minimale importante."
+        },
+        {
+          "contentType": "purpose",
+          "lang": "en",
+          "value": "The main aims of the study are to qualitatively and quantitatively describe the exacerbations in a cohort of COPD patients at different levels of severity and to confirm the existence of a sub-group of patients defined as frequent exacerbators who experience a high number of exacerbations over time. Where applicable, to determine the threshold value (number of exacerbations) that distinguishes frequent exacerbations by assuming that 3 exacerbations per year, regardless of severity, are sufficient to class the patient as a “frequent” exacerbator. Several secondary aims will also be pursued. To identify factors associated with frequent exacerbators. To identify criteria more readily associated with exacerbation severity. To confirm the link between frequent exacerbators/accelerated decline in lung function. A validation of the VSRQ scale will be performed with the following metrics: replication; clinical validity through comparison with the St. George questionnaire; VSRQ unidimensional structure; VSRQ internal consistency; sensitivity to change; minimal important distance."
+        }
+      ],
+      "subject": {
+        "topcClas": [
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/f6e18c52-6087-4662-904c-5c4b8174e40e"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D015272"
+              }
+            ],
+            "value": "Pneumologie"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/f6e18c52-6087-4662-904c-5c4b8174e40e"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D015272"
+              }
+            ],
+            "value": "Pulmonary medicine"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "fr",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/133207228",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Bronchopneumopathie chronique obstructive"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "en",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/133207228",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Chronic obstructive pulmonary disease"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Autre"
+          }
+        ],
+        "keyword": [
+          {
+            "lang": "fr",
+            "value": "BPCO"
+          },
+          {
+            "lang": "fr",
+            "value": "bronchite"
+          },
+          {
+            "lang": "fr",
+            "value": "exacerbation"
+          },
+          {
+            "lang": "fr",
+            "value": "cohorte"
+          },
+          {
+            "lang": "en",
+            "value": "bronchitis"
+          },
+          {
+            "lang": "en",
+            "value": "COPD"
+          },
+          {
+            "lang": "en",
+            "value": "exacerbation"
+          },
+          {
+            "lang": "en",
+            "value": "cohort"
+          }
+        ]
+      },
+      "qualityStatement": {
+        "standardsCompliance": {}
+      },
+      "sumDscr": {
+        "dataKind": [
+          {
+            "lang": "fr",
+            "value": "Données cliniques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données rapportées par le participant de l&#x27;étude"
+          },
+          {
+            "lang": "en",
+            "value": "Clinical data"
+          },
+          {
+            "lang": "en",
+            "value": "Participant-reported health data"
+          }
+        ],
+        "anlyUnit": [
+          {
+            "lang": "fr",
+            "value": "Individus"
+          },
+          {
+            "lang": "en",
+            "value": "Individuals"
+          }
+        ],
+        "nation": [
+          {
+            "lang": "fr",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          },
+          {
+            "lang": "en",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          }
+        ],
+        "universe": [
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Masculin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Féminin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Male"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Female"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adulte (25 à 44 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Adulte (45 à 64 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Personne âgée (65 à 79 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adult (25 to 44 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Middle Aged (45 to 64 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Aged (65 to 79 years)"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Patients"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "en",
+            "value": "Patients population"
+          },
+          {
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Les pneumologues (libéraux ou exerçant en milieu hospitalier : CHG, CHU) incluront les patients âgés de plus de 40 ans, atteints de BPCO de stade II ou III selon les critères de la SPLF (2003), fumeurs ou ex-fumeurs (> 15 paquets-années), en état stable, dont le VEMS après bronchodilatateur est inférieur ou égal à 80 % de la valeur théorique et le rapport VEMS/CV ≪ 70 %. Les patients devront accepter de compléter à chaque exacerbation et mensuellement le carnet d'autosurveillance et d'être contacté par téléphone tous les trimestres durant 4 ans. Ils signeront un formulaire de consentement.  Ne pourront être inclus les patients présentant une tuberculose active, un cancer (ou ayant reçu un traitement anti-cancéreux au cours des 3 années précédentes), des bronchectasies diffuses, une mucoviscidose, un asthme (sur les données de l'histoire clinique), ou toute autre pathologie pulmonaire diagnostiquée (sarcoïdose, fibrose pulmonaire, pneumoconiose...). "
+          },
+          {
+            "clusion": "I",
+            "lang": "en",
+            "value": "Respiratory physicians (private practice or hospital: CHG, CHU) will enrol patients aged 40 and over with stage II or III COPD according to SPLF criteria (2003); smokers or ex-smokers (>15 pack-years); stable and with post-bronchodilator FEV1 lower than or equal to 80% of predicted value and FEV1/VC relationship <70%. Patients must accept and complete the self-monitoring log on a monthly basis and, at each exacerbation, can be contacted by phone every three months for 4 years. Participants shall sign a consent form.  The following may not be included: patients with active tuberculosis, cancer (or who received cancer treatment in the last 3 years), diffuse bronchiectasis, cystic fibrosis, asthma (in clinical history), or any other diagnosed lung diseases (sarcoidosis, pulmonary fibrosis, pneumoconiosis, etc.). Other "
+          },
+          {
+            "clusion": "E",
+            "lang": "fr",
+            "value": "seront l'existence d'une exacerbation dans le mois précédant l'inclusion, l'absence de téléphone, la participation à une autre étude clinique ou épidémiologique"
+          },
+          {
+            "clusion": "E",
+            "lang": "en",
+            "value": "Exclusion criteria include exacerbation one month prior to enrolment; absence of a telephone and participation in another clinical or epidemiological study."
+          }
+        ],
+        "collDate": [
+          {
+            "event": "start",
+            "value": "2006-01-01"
+          },
+          {
+            "event": "end",
+            "value": "2010-01-01"
+          }
+        ]
+      }
+    },
+    "dataAccs": {
+      "setAvail": {
+        "avlStatus": [
+          {
+            "lang": "fr",
+            "value": "A définir"
+          },
+          {
+            "lang": "en",
+            "value": "To be defined"
+          }
+        ],
+        "conditions": []
+      },
+      "useStmt": {}
+    },
+    "othStdMat": {
+      "relMat": [
+        {
+          "lang": "fr",
+          "value": "Accès restreint sur projet spécifique"
+        },
+        {
+          "lang": "en",
+          "value": "Access on specific project only"
+        }
+      ]
+    },
+    "studyDevelopment": {
+      "developmentActivity": [
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/morbidité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Qualité de vie/santé perçue"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/morbidity"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Quality of life/health perception"
+        }
+      ]
+    }
+  },
+  "docDscr": {
+    "citation": {
+      "rspStmt": {
+        "AuthEnty": "Stéphane SCHUCK"
+      },
+      "prodStmt": {
+        "producer": [
+          {
+            "affiliation": "KAPPA SANTE",
+            "value": "Stéphane;SCHUCK"
+          }
+        ],
+        "prodPlac": "Portail Épidémiologie France"
+      }
+    }
+  },
+  "additional": {
+    "prodPlac": "Portail Épidémiologie France",
+    "relatedDocuments": {
+      "documentTitle": [
+        {
+          "lang": "fr"
+        },
+        {
+          "lang": "en"
+        }
+      ],
+      "documentLink": [
+        {
+          "lang": "fr",
+          "value": "http://www.em-consulte.com/rmr/article/134729"
+        },
+        {
+          "lang": "en",
+          "value": "http://www.em-consulte.com/rmr/article/134729"
+        }
+      ]
+    },
+    "creationDate": "29-10-2015",
+    "lastUpdatedManual": "01-01-2020",
+    "theme": {},
+    "governance": {},
+    "collaborations": {},
+    "mockSample": {},
+    "dataQuality": {},
+    "variableDictionnary": {},
+    "dataTypes": {
+      "clinicalDataDetails": [
+        {
+          "lang": "fr",
+          "value": "les caractéristiques socio-démographiques, le profil clinique et les traitements en cours, les échelles de dyspnée (MRC/Score de Borg), l'exploration Fonctionnelle Respiratoire (EFR), le test de marche de 6 minutes (TM6), l'impact sur la vie quotidienne, la qualité de vie (autoquestionnaire VSRQ). . Les examens facultatifs sont : la saturation artérielle en oxygène, l'examen cytobactériologique des crachats (ECBC), la notion d'emphysème en tomodensitométrie TDM), la mesure des gaz du sang. L'indice de masse corporelle, la dyspnée mesurée par l'échelle MRC et du test de marche de 6 minutes. Lors de chaque visite de suivi, la survenue d'épisodes d'exacerbations ainsi que toutes les modifications intervenues depuis la visite précédente seront notifiées"
+        },
+        {
+          "lang": "en",
+          "value": "Socio-demographic characteristics; clinical profile and ongoing treatment; breathlessness scales (MRC/Borg Score), Pulmonary Function testing (PFT); 6-minute walking test (TM6); impact on daily life; quality of life (VSRQ self-administered questionnaire). Optional tests are: blood oxygen saturation; sputum cytology examination (SCE); signs of emphysema on computed tomography (CT); measurement of blood gas levels. Body Mass Index; breathlessness measured with MRC scale and 6-minute walking test. During each follow-up visit; onset of exacerbation episodes as well as any changes occurring since the last visit will be made known."
+        }
+      ],
+      "isDataInBiobank": false
+    },
+    "collectionProcess": {
+      "collectionModeDetails": [
+        {
+          "lang": "fr",
+          "value": "Receuil par des pneumologues hospitaliers et/ou libéraux"
+        },
+        {
+          "lang": "en",
+          "value": "Collected by hospital and/or private respiratory physicians."
+        }
+      ]
+    },
+    "geographicalCoverage": {
+      "geoDetail": [
+        {
+          "lang": "fr",
+          "value": "France"
+        },
+        {
+          "lang": "en",
+          "value": "France"
+        }
+      ]
+    },
+    "activeFollowUp": {
+      "isActiveFollowUp": true
+    },
+    "dataCollectionIntegration": {
+      "isDataIntegration": false
+    },
+    "isHealthTheme": true
+  },
+  "schematype": "survey"
+}

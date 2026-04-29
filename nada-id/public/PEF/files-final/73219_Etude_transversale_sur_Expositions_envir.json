@@ -1,0 +1,826 @@
+{
+  "stdyDscr": {
+    "citation": {
+      "titlStmt": {
+        "IDNo": [
+          {
+            "agency": "PEF",
+            "value": "73219"
+          },
+          {
+            "agency": "FReSH",
+            "value": "FRESH-PEF73219"
+          }
+        ],
+        "titl": [
+          {
+            "lang": "fr",
+            "value": "Etude transversale sur Expositions environnementales et inégalités sociales de santé dans 4 grandes agglomérations françaises: Lille, Paris, Lyon et Marseille"
+          },
+          {
+            "lang": "en",
+            "value": "Cross-sectional study on environmental exposure and social inequalities in health in 4 major French cities: Lille, Paris, Lyon and Marseille"
+          }
+        ],
+        "altTitl": [
+          {
+            "lang": "fr",
+            "value": "EQUIT’AREA"
+          },
+          {
+            "lang": "en",
+            "value": "EQUIT’AREA"
+          }
+        ]
+      },
+      "rspStmt": {
+        "AuthEnty": [
+          {
+            "name": "Séverine;DEGUEN",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "ECOLE DES HAUTES ETUDES EN SANTE PUBLIQUE (EHESP)"
+              },
+              {
+                "lang": "en",
+                "value": "ECOLE DES HAUTES ETUDES EN SANTE PUBLIQUE (EHESP)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "0000-0002-9872-3690",
+                "role": "pi id",
+                "title": "ORCID"
+              },
+              {
+                "uri": "177535237",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/01sc83v92",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "130003627",
+                "role": "organisation id",
+                "title": "SIREN"
+              },
+              {
+                "uri": "201722263E",
+                "role": "labo id",
+                "title": "RNSR"
+              }
+            ],
+            "isContact": false,
+            "email": "",
+            "PILabo": "EHESP School of Public Health / U1085 Research Institute of Health, Environment and Work Team/activity: Epidemiological research on environment, reproduction and development"
+          },
+          {
+            "name": "Denis;ZMIROU-NAVIER",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE (INSERM)"
+              },
+              {
+                "lang": "en",
+                "value": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE (INSERM)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "057693242",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/02vjkv261",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "180036048",
+                "role": "organisation id",
+                "title": "SIREN"
+              },
+              {
+                "uri": "201722263E",
+                "role": "labo id",
+                "title": "RNSR"
+              }
+            ],
+            "isContact": false,
+            "email": "",
+            "PILabo": "French National Institute of Health and Medical Research - Inserm / U1085 Research Institute of Health, Environment and Work Team/activity: Epidemiological research on environment, reproduction and development"
+          }
+        ],
+        "othId": []
+      },
+      "distStmt": {},
+      "prodStmt": {
+        "fundAg": [
+          {
+            "name": [
+              {
+                "lang": "fr"
+              },
+              {
+                "lang": "en"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ]
+          }
+        ],
+        "producer": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "ECOLE DES HAUTES ETUDES EN SANTE PUBLIQUE (EHESP)"
+              },
+              {
+                "lang": "en",
+                "value": "ECOLE DES HAUTES ETUDES EN SANTE PUBLIQUE (EHESP)"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "ROR",
+                "uri": "https://ror.org/01sc83v92"
+              },
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "130003627"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "studyAuthorization": [
+      {
+        "authorizingAgency": {
+          "lang": "fr",
+          "value": "CNIL"
+        }
+      },
+      {
+        "authorizingAgency": {
+          "lang": "fr",
+          "value": "CESREES"
+        }
+      }
+    ],
+    "method": {
+      "notes": [
+        {
+          "subject": "research type",
+          "lang": "fr",
+          "value": "Etude observationnelle"
+        },
+        {
+          "subject": "research type",
+          "lang": "en",
+          "value": "Observational Study"
+        }
+      ],
+      "stdyClas": [
+        {
+          "lang": "fr",
+          "value": "Étude complétée"
+        },
+        {
+          "lang": "en",
+          "value": "Completed study"
+        }
+      ],
+      "dataColl": {
+        "targetSampleSize": [
+          {
+            "lang": "fr",
+            "value": ">= 20000 individus"
+          },
+          {
+            "lang": "en",
+            "value": ">= 20000 individuals"
+          }
+        ],
+        "timeMeth": [
+          {
+            "lang": "fr",
+            "value": "Etude transversale non répétée"
+          },
+          {
+            "lang": "en",
+            "value": "One-time cross-sectional study"
+          }
+        ],
+        "sampleFrame": {
+          "frameUnit": {
+            "unitType": [
+              {
+                "lang": "fr",
+                "value": "Base de population à finalité statistique Base médico-administrative (de patients, Assurance Maladie/Mutuelle) Registre de maladies, de décès"
+              },
+              {
+                "lang": "en",
+                "value": "Population database for statistical purposes Medical-administrative database (patients, health insurance/mutual insurance) Disease and death registry"
+              }
+            ]
+          }
+        },
+        "sources": [
+          {}
+        ],
+        "collMode": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "MeasurementsAndTests",
+              "vocab": "CESSDA"
+            },
+            "value": "Examens et tests"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "MeasurementsAndTests",
+              "vocab": "CESSDA"
+            },
+            "value": "Measurements and tests"
+          }
+        ],
+        "sampProc": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ],
+        "respRate": [
+          {
+            "lang": "fr",
+            "value": "environ 500 décès de nouveau-nés de moins de 1 an par agglomération entre 2002 et 2009. Et les 30 000 naissances par an sur Paris entre 2008 et 2011"
+          },
+          {
+            "lang": "en",
+            "value": "approximately 500 deaths of newborns under 1 year per urban area between 2002 and 2009. And the 30,000 births per year in Paris between 2008 and 2011"
+          }
+        ]
+      }
+    },
+    "stdyInfo": {
+      "abstract": [
+        {
+          "contentType": "purpose",
+          "lang": "fr",
+          "value": "Explorer la contribution de certaines pollutions et nuisances environnementales aux inégalités sociales de santé, notamment la santé périnatale"
+        },
+        {
+          "contentType": "purpose",
+          "lang": "en",
+          "value": "Explore the contribution of certain environmental pollution and disturbances to social inequalities in health, including perinatal health"
+        }
+      ],
+      "subject": {
+        "topcClas": [
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/bf8aaaac-ddee-41cd-bb8a-c5a63de3fcbd"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D010372"
+              }
+            ],
+            "value": "Pédiatrie"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/bf8aaaac-ddee-41cd-bb8a-c5a63de3fcbd"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D010372"
+              }
+            ],
+            "value": "Paediatrics"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "fr",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/2041060050",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Faible poids de naissance du nouveau-né"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "en",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/2041060050",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Low birth weight of newborn"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "fr",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/223744320",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Anomalies du développement"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "en",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/223744320",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Developmental anomalies"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants environnementaux : Autres"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants comportementaux"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants environnementaux"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Environmental determinants: Other"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Behavioral determinants"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Environmental determinants"
+          }
+        ],
+        "keyword": [
+          {
+            "lang": "fr",
+            "value": "pollutions environnementales"
+          },
+          {
+            "lang": "fr",
+            "value": "Inégalités sociales de santé"
+          },
+          {
+            "lang": "fr",
+            "value": "nuisances environnementales"
+          },
+          {
+            "lang": "fr",
+            "value": "Pollution atmosphérique"
+          },
+          {
+            "lang": "en",
+            "value": "environmental pollution"
+          },
+          {
+            "lang": "en",
+            "value": "Social inequalities in health"
+          },
+          {
+            "lang": "en",
+            "value": "environmental disturbances"
+          },
+          {
+            "lang": "en",
+            "value": "Atmospheric pollution"
+          }
+        ]
+      },
+      "qualityStatement": {
+        "standardsCompliance": {}
+      },
+      "sumDscr": {
+        "dataKind": [
+          {
+            "lang": "fr",
+            "value": "Données rapportées par le participant de l&#x27;étude"
+          },
+          {
+            "lang": "en",
+            "value": "Participant-reported health data"
+          }
+        ],
+        "anlyUnit": [
+          {
+            "lang": "fr",
+            "value": "Individus"
+          },
+          {
+            "lang": "en",
+            "value": "Individuals"
+          }
+        ],
+        "nation": [
+          {
+            "lang": "fr",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          },
+          {
+            "lang": "en",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          }
+        ],
+        "geogCover": [
+          {
+            "lang": "fr",
+            "value": "Auvergne Rhône-Alpes"
+          },
+          {
+            "lang": "en",
+            "value": "Auvergne Rhône-Alpes"
+          },
+          {
+            "lang": "fr",
+            "value": "Ile-de-France"
+          },
+          {
+            "lang": "en",
+            "value": "Ile-de-France"
+          },
+          {
+            "lang": "fr",
+            "value": "Hauts-de-France"
+          },
+          {
+            "lang": "en",
+            "value": "Hauts-de-France"
+          },
+          {
+            "lang": "fr",
+            "value": "Provence - Alpes - Côte d'Azur"
+          },
+          {
+            "lang": "en",
+            "value": "Provence - Alpes - Côte d'Azur"
+          }
+        ],
+        "universe": [
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Masculin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Féminin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Male"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Female"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D007231"
+            },
+            "value": "Nouveau-né (naissance à 28j)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D007223"
+            },
+            "value": "Nourrisson (28j à 2 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D007231"
+            },
+            "value": "Infant, Newborn (birth to 28 days)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D007223"
+            },
+            "value": "Infant (28 days to 2 years)"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Patients"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "en",
+            "value": "Patients population"
+          },
+          {
+            "clusion": "I",
+            "lang": "fr",
+            "value": "La période d'étude s'étend de 2002 à 2012. Habitants de 4 grandes agglomérations françaises: Lille, Paris, Lyon et Marseille et plus récemment l'agglomération de nice."
+          },
+          {
+            "clusion": "I",
+            "lang": "en",
+            "value": "The study period extended from 2002 to 2012.  Inhabitants of 4 major French cities: Lille, Paris, Lyon and Marseille and more recently the Nice urban area."
+          },
+          {
+            "clusion": "E",
+            "lang": "fr",
+            "value": ""
+          },
+          {
+            "clusion": "E",
+            "lang": "en",
+            "value": ""
+          }
+        ],
+        "collDate": [
+          {
+            "event": "start",
+            "value": "2000-01-01"
+          },
+          {
+            "event": "end",
+            "value": "2012-01-01"
+          }
+        ]
+      }
+    },
+    "dataAccs": {
+      "setAvail": {
+        "avlStatus": [
+          {
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Accès réservé"
+          },
+          {
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Restricted access"
+          }
+        ],
+        "conditions": [
+          {
+            "lang": "fr",
+            "value": "Contacter le responsable scientifique"
+          },
+          {
+            "lang": "en",
+            "value": "Contact the principal investigator"
+          }
+        ]
+      },
+      "useStmt": {}
+    },
+    "othStdMat": {
+      "relMat": [
+        {
+          "lang": "fr",
+          "value": "Accès restreint sur projet spécifique"
+        },
+        {
+          "lang": "en",
+          "value": "Access on specific project only"
+        }
+      ]
+    },
+    "studyDevelopment": {
+      "developmentActivity": [
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/morbidité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/mortalité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/morbidity"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/mortality"
+        }
+      ]
+    }
+  },
+  "docDscr": {
+    "citation": {
+      "rspStmt": {
+        "AuthEnty": "Séverine DEGUEN"
+      },
+      "prodStmt": {
+        "producer": [
+          {
+            "affiliation": "ECOLE DES HAUTES ETUDES EN SANTE PUBLIQUE (EHESP)",
+            "value": "Séverine;DEGUEN"
+          }
+        ],
+        "prodPlac": "Portail Épidémiologie France"
+      }
+    }
+  },
+  "additional": {
+    "prodPlac": "Portail Épidémiologie France",
+    "relatedDocuments": {
+      "documentTitle": [
+        {
+          "lang": "fr",
+          "value": "Neighbourhood Characteristics and Long-Term Air Pollution Levels Modify the Association between the Short-Term Nitrogen Dioxide Concentrations and All-Cause Mortality in Paris"
+        },
+        {
+          "lang": "en",
+          "value": "Neighbourhood Characteristics and Long-Term Air Pollution Levels Modify the Association between the Short-Term Nitrogen Dioxide Concentrations and All-Cause Mortality in Paris"
+        }
+      ],
+      "documentLink": [
+        {
+          "lang": "fr",
+          "value": "http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0131463"
+        },
+        {
+          "lang": "en",
+          "value": "http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0131463"
+        }
+      ]
+    },
+    "creationDate": "07-09-2015",
+    "lastUpdatedManual": "14-09-2017",
+    "theme": {},
+    "governance": {
+      "committee": false
+    },
+    "collaborations": {},
+    "mockSample": {},
+    "dataQuality": {},
+    "variableDictionnary": {},
+    "dataTypes": {
+      "isDataInBiobank": false
+    },
+    "collectionProcess": {
+      "collectionModeDetails": [
+        {
+          "lang": "fr",
+          "value": "Données socioéconomiques collectées en 1999 et mise à jour en 2006 par l’INSEE (Institut National de la Statistique et des Études Économiques). Données sanitaires recueillies sur le terrain par des enquêteurs formés à cet effet auprès des services d’Etat civil des mairies des communes. Mesure des expositions environnementales (pollution atmosphérique urbaine, proximité aux industries polluantes, nuisances sonores)."
+        },
+        {
+          "lang": "en",
+          "value": "Socio-economic data collected in 1999 and updated in 2006 by the French National Institute of Statistics and Economic Studies (INSEE). Health data collected in the field by investigators trained in the registry offices of the town halls municipalities. Measurement of environmental exposure (urban atmospheric pollution, proximity to polluting industries, noise pollution)."
+        }
+      ]
+    },
+    "geographicalCoverage": {
+      "geoDetail": [
+        {
+          "lang": "fr",
+          "value": "Lille, Paris, Lyon et Marseille et récemment Nice"
+        },
+        {
+          "lang": "en",
+          "value": "Lille, Paris, Lyon and Marseille and recently Nice"
+        }
+      ]
+    },
+    "activeFollowUp": {
+      "isActiveFollowUp": false
+    },
+    "dataCollectionIntegration": {
+      "isDataIntegration": false
+    },
+    "isHealthTheme": true
+  },
+  "schematype": "survey"
+}

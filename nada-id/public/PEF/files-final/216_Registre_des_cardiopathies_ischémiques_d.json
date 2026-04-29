@@ -1,0 +1,793 @@
+{
+  "stdyDscr": {
+    "citation": {
+      "titlStmt": {
+        "IDNo": [
+          {
+            "agency": "PEF",
+            "value": "216"
+          },
+          {
+            "agency": "FReSH",
+            "value": "FRESH-PEF216"
+          }
+        ],
+        "titl": [
+          {
+            "lang": "fr",
+            "value": "Registre des cardiopathies ischémiques du Bas-Rhin (registre qualifié 2022-2027)"
+          },
+          {
+            "lang": "en",
+            "value": "Bas Rhin Ischaemic Heart Disease Register (Certified Register 2013-2016)"
+          }
+        ]
+      },
+      "rspStmt": {
+        "AuthEnty": [
+          {
+            "name": "Marie;MOITRY",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "UNIVERSITE DE STRASBOURG"
+              },
+              {
+                "lang": "en",
+                "value": "UNIVERSITE DE STRASBOURG"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "192430459",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/00pg6eq24",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "130005457",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ],
+            "isContact": false,
+            "email": "",
+            "PILabo": "Université de Strasbourg / Laboratoire d’épidémiologie et de santé publique"
+          },
+          {
+            "name": "Michel;VELTEN",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "UNIVERSITE DE STRASBOURG"
+              },
+              {
+                "lang": "en",
+                "value": "UNIVERSITE DE STRASBOURG"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "061540536",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/00pg6eq24",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "130005457",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ],
+            "isContact": false,
+            "email": "",
+            "PILabo": "Université de Strasbourg - Faculté de / Laboratoire d'épidémiologie et de santé publique"
+          }
+        ],
+        "othId": []
+      },
+      "distStmt": {},
+      "prodStmt": {
+        "fundAg": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE (INSERM)"
+              },
+              {
+                "lang": "en",
+                "value": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE (INSERM)"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "ROR",
+                "uri": "https://ror.org/02vjkv261"
+              },
+              {
+                "title": "SIREN",
+                "uri": "180036048"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "SANTE PUBLIQUE FRANCE"
+              },
+              {
+                "lang": "en",
+                "value": "SANTE PUBLIQUE FRANCE"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "ROR",
+                "uri": "https://ror.org/00dfw9p58"
+              },
+              {
+                "title": "SIREN",
+                "uri": "130022338"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ]
+          }
+        ],
+        "producer": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "UNIVERSITE DE STRASBOURG"
+              },
+              {
+                "lang": "en",
+                "value": "UNIVERSITE DE STRASBOURG"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "ROR",
+                "uri": "https://ror.org/00pg6eq24"
+              },
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "130005457"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "studyAuthorization": {
+      "authorizingAgency": {
+        "lang": "fr",
+        "value": "CNIL"
+      }
+    },
+    "method": {
+      "notes": [
+        {
+          "subject": "research type",
+          "lang": "fr",
+          "value": "Etude observationnelle"
+        },
+        {
+          "subject": "research type",
+          "lang": "en",
+          "value": "Observational Study"
+        },
+        {
+          "lang": "fr",
+          "subject": "observational study method",
+          "value": "Registre de morbidité"
+        },
+        {
+          "lang": "en",
+          "subject": "observational study method",
+          "value": "Morbidity registry"
+        }
+      ],
+      "stdyClas": [
+        {
+          "lang": "fr",
+          "value": "Inconnu"
+        },
+        {
+          "lang": "en",
+          "value": "Unknown"
+        }
+      ],
+      "dataColl": {
+        "targetSampleSize": [
+          {
+            "lang": "fr",
+            "value": ">= 20000 individus"
+          },
+          {
+            "lang": "en",
+            "value": ">= 20000 individuals"
+          }
+        ],
+        "sampleFrame": {
+          "frameUnit": {
+            "unitType": [
+              {
+                "lang": "fr",
+                "value": "Base administrative (d&#x27;employés, d&#x27;élèves, d&#x27;étudiants, etc…) Base médico-administrative (de patients, Assurance Maladie/Mutuelle) Registre de maladies, de décès"
+              },
+              {
+                "lang": "en",
+                "value": "Administrative database (employees, pupils, students, etc.) Medical-administrative database (patients, health insurance/mutual insurance) Disease and death registry"
+              }
+            ]
+          }
+        },
+        "sources": [
+          {}
+        ],
+        "collMode": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Recording",
+              "vocab": "CESSDA"
+            },
+            "value": "Enregistrement (audio, vidéo, électrophysiologique, imagerie)"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Recording",
+              "vocab": "CESSDA"
+            },
+            "value": "Recording (audio, video, electrophysiological, imaging)"
+          }
+        ],
+        "sampProc": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ],
+        "respRate": {
+          "lang": "en",
+          "value": "1997-2008: 13 620"
+        }
+      }
+    },
+    "stdyInfo": {
+      "abstract": [
+        {
+          "contentType": "purpose",
+          "lang": "fr",
+          "value": "La surveillance permanente de la population bas-rhinoise âgée de 35 à 74 ans et l’enregistrement systématique et continu des cas d’infarctus du myocarde et des décès coronaires, permettent l’estimation continue, mais également l’évolution, d’un certain nombre d’indicateurs épidémiologiques concernant la maladie coronaire : taux d’incidence, taux annuels de survenue (événements incidents et récurrents), taux de mortalité par infarctus du myocarde ; taux de mortalité coronaire et présumée coronaire ; taux de létalité à 28 jours coronaire générale et hospitalière. Ces indicateurs peuvent être fournis par sexe, par âge, par année. Si des modifications de tendance sont observées au cours du temps, il est possible d'estimer la part attribuable à la diminution de l’incidence des événements coronaires et celle attribuable à la diminution de la létalité."
+        },
+        {
+          "contentType": "purpose",
+          "lang": "en",
+          "value": "The permanent monitoring of the Bas-Rhin population aged 35 to 74 and systematic, continuous recording of cases of myocardial infarction and coronary deaths allow for the continuous estimation - as well as development - of a certain number of epidemiological indicators concerning coronary disease: incidence rates, annual occurrence rates (incident and recurring events), death rates by myocardial infarction; coronary and presumed coronary death rates; fatality rate at 28 days - hospital and general coronary. These indicators can be supplied by gender, age and year. Although changes in trend are observed over time, it is possible to estimate the proportion attributable to the reduction in incidence of coronary events and the proportion attributable to the reduction in fatality. Joint analyses are performed on a regular basis with the other two French registries on ischaemic heart diseases, which use the same methodology. The register is a reference tool for validating epidemiological indicators for coronary disease, constructed from other data sources (estimation validation of indicators from the PMSI hospital database for myocardial infarction, validation of indicators for coronary mortality and sudden death from the CépiDc's national death statistics). Parallel to recording coronary disease, surveys on representative samples of the general population are carried out at regular intervals with a view to studying the level of cardiovascular risk factors and how they evolve. Development of descriptive studies completing the basic recording: since 2006, recording of all acute heart failure (myocardial infarction, acute coronary syndromes, unstable angina); periodic recording of out- and inpatient treatment for episodes of acute heart failure, etc. Thanks to the ischaemic heart disease register, several analytical epidemiology studies have been developed (ECTIM case-control and PRIME cohort). Use of data from the register to evaluate the merits of an approach measuring - on an ecological basis - the influence of lifestyle and socioeconomic status on the link between atmospheric pollution and myocardial infarction in the Urban Community of Strasbourg (CUS)."
+        }
+      ],
+      "subject": {
+        "topcClas": [
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/4455c187-2f2f-4cd1-a4dd-449f59d73b39"
+              },
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/c42fc6ec-b216-4a24-9e9d-f5e781c175a0"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D002309"
+              }
+            ],
+            "value": "Cardiologie et médecine vasculaire"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/4455c187-2f2f-4cd1-a4dd-449f59d73b39"
+              },
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/c42fc6ec-b216-4a24-9e9d-f5e781c175a0"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D002309"
+              }
+            ],
+            "value": "Cardiology and vascular medicine"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "fr",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/426429380",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Maladies de l'appareil circulatoire"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "en",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/426429380",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Diseases of the circulatory system"
+          }
+        ],
+        "keyword": [
+          {
+            "lang": "fr",
+            "value": "Cardiopathies ischémiques. Registre de population. Indicateurs épidémiologiques : morbidité"
+          },
+          {
+            "lang": "fr",
+            "value": "létalité"
+          },
+          {
+            "lang": "fr",
+            "value": "mortalité"
+          },
+          {
+            "lang": "en",
+            "value": "mortality and fatality"
+          },
+          {
+            "lang": "en",
+            "value": "Ischaemic heart disease. Population registry. Epidemiological indicators: morbidity"
+          }
+        ]
+      },
+      "qualityStatement": {
+        "standardsCompliance": {
+          "standard": {
+            "standardName": {
+              "lang": "en",
+              "value": "Demographic variables: places of birth and residence: coding of municipalities (INSEE code) Clinical variables: clinician diagnoses coded according to the ICD 9 classification"
+            }
+          }
+        }
+      },
+      "sumDscr": {
+        "dataKind": [
+          {
+            "lang": "fr",
+            "value": "Données cliniques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données socio-démographiques"
+          },
+          {
+            "lang": "en",
+            "value": "Clinical data"
+          },
+          {
+            "lang": "en",
+            "value": "Socio-demographic data"
+          }
+        ],
+        "anlyUnit": [
+          {
+            "lang": "fr",
+            "value": "Individus"
+          },
+          {
+            "lang": "en",
+            "value": "Individuals"
+          }
+        ],
+        "nation": [
+          {
+            "lang": "fr",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          },
+          {
+            "lang": "en",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          }
+        ],
+        "geogCover": [
+          {
+            "lang": "fr",
+            "value": "Grand Est"
+          },
+          {
+            "lang": "en",
+            "value": "Grand Est"
+          }
+        ],
+        "universe": [
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Masculin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Féminin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": {},
+              "vocabURI": {}
+            },
+            "value": "Autre"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Male"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Female"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": {},
+              "vocabURI": {}
+            },
+            "value": "Other"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adulte (25 à 44 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Adulte (45 à 64 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Personne âgée (65 à 79 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adult (25 to 44 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Middle Aged (45 to 64 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Aged (65 to 79 years)"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Patients"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "en",
+            "value": "Patients population"
+          },
+          {
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Surveillance de la population résidant dans le Bas-Rhin âgée de 35 à 74 ans inclus. Enregistrement des pathologies suivantes :   1) infarctus du myocarde : les événements notifiés par les cliniciens comme un infarctus du      myocarde (ou équivalent de terme).  2) décès :      - les décès coronaires certains (infarctus du myocarde ou autre histoire clinique coronaire) ou        coronaires probables (sujets décédés sans autre cause apparente, mais avec des antécédents        de maladie coronaire)      - les décès subits survenant en moins de 24 heures, sans autre cause évidente de décès et        sans antécédents de maladie coronaire      - les décès avec données insuffisantes (la cause du décès n’a pas pu être établie)  Depuis 2006, dans la même tranche d'âge, enregistrement supplémentaire des événements notifiés par le clinicien : syndrome coronaire aigu, angor instable, complication clinique avec aggravation d'une maladie coronaire."
+          },
+          {
+            "clusion": "I",
+            "lang": "en",
+            "value": "Monitoring of population living in the Bas-Rhin aged 35 to 74 inclusive. Recording of the following pathologies:  1) Myocardial infarction: events reported by clinicians as a myocardial      infarction (or equivalent term).  2) Death:      - certain coronary deaths (myocardial infarction or other coronary clinical history) or         probable coronary (subjects died without apparent cause, but with a history of coronary disease)      - sudden deaths occurring in less than 24 hours without other evident cause of death and        without a history of coronary disease      - deaths with insufficient data (the cause of death could not be established)  Since 2006, in the same age range, additional recording of events reported by the clinician: acute coronary syndrome, unstable angina, clinical complications with aggravation of coronary disease."
+          },
+          {
+            "clusion": "E",
+            "lang": "fr",
+            "value": ""
+          },
+          {
+            "clusion": "E",
+            "lang": "en",
+            "value": ""
+          }
+        ],
+        "collDate": {
+          "event": "start",
+          "value": "1984-01-01"
+        }
+      }
+    },
+    "dataAccs": {
+      "setAvail": {
+        "avlStatus": [
+          {
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Accès réservé"
+          },
+          {
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Restricted access"
+          }
+        ],
+        "conditions": []
+      },
+      "useStmt": {}
+    },
+    "othStdMat": {
+      "relMat": [
+        {
+          "lang": "fr",
+          "value": "Accès restreint sur projet spécifique"
+        },
+        {
+          "lang": "en",
+          "value": "Access on specific project only"
+        }
+      ]
+    },
+    "studyDevelopment": {
+      "developmentActivity": [
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/morbidité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/mortalité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/morbidity"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/mortality"
+        }
+      ]
+    }
+  },
+  "docDscr": {
+    "citation": {
+      "rspStmt": {
+        "AuthEnty": "Marie MOITRY"
+      },
+      "prodStmt": {
+        "producer": [
+          {
+            "affiliation": "UNIVERSITE DE STRASBOURG",
+            "value": "Marie;MOITRY"
+          }
+        ],
+        "prodPlac": "Portail Épidémiologie France"
+      }
+    }
+  },
+  "additional": {
+    "prodPlac": "Portail Épidémiologie France",
+    "relatedDocuments": {
+      "documentTitle": [
+        {
+          "lang": "fr"
+        },
+        {
+          "lang": "en"
+        }
+      ],
+      "documentLink": [
+        {
+          "lang": "fr",
+          "value": "http://tinyurl.com/PUBMED-RCIBR"
+        },
+        {
+          "lang": "en",
+          "value": "http://tinyurl.com/PUBMED-RCIBR"
+        }
+      ]
+    },
+    "creationDate": "27-12-2010",
+    "lastUpdatedManual": "16-05-2025",
+    "theme": {},
+    "governance": {
+      "committee": false
+    },
+    "collaborations": {},
+    "mockSample": {},
+    "dataQuality": {},
+    "variableDictionnary": {},
+    "dataTypes": {
+      "clinicalDataDetails": {
+        "lang": "fr",
+        "value": "diagnostic du clinicien, date du diagnostic, antécédents, facteurs de risque, biologie, imagerie, survie à 28 jours"
+      },
+      "isDataInBiobank": false
+    },
+    "collectionProcess": {
+      "collectionModeDetails": [
+        {
+          "lang": "fr",
+          "value": "Actif De 1984 à 1994, enregistrement dans le cadre du Projet MONICA-OMS.Depuis 1997, reprise de l'enregistrement."
+        },
+        {
+          "lang": "en",
+          "value": "Active From 1984 to 1994, recording under the MONICA-WHO project. Recording has begun again since 1997."
+        }
+      ]
+    },
+    "geographicalCoverage": {
+      "geoDetail": [
+        {
+          "lang": "fr",
+          "value": "département du Bas-Rhin"
+        },
+        {
+          "lang": "en",
+          "value": "Bas-Rhin region"
+        }
+      ]
+    },
+    "activeFollowUp": {
+      "isActiveFollowUp": true
+    },
+    "dataCollectionIntegration": {
+      "isDataIntegration": false
+    },
+    "isHealthTheme": true
+  },
+  "schematype": "survey"
+}

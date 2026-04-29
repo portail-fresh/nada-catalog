@@ -1,0 +1,442 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: nada-id\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-29 00:00+0000\n"
+"PO-Revision-Date: 2026-04-06 01:01+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.8\n"
+"X-Domain: nada-id\n"
+
+# les status du list d'etudes
+msgid "draft"
+msgstr "Brouillon"
+
+msgid "pending"
+msgstr "Envoyée pour publication"
+
+msgid "changes_requested"
+msgstr "Modifications requises"
+
+msgid "rejected"
+msgstr "Rejetée"
+
+msgid "published"
+msgstr "Publiée"
+
+msgid "unpublished"
+msgstr "Dépubliée"
+
+msgid "imported"
+msgstr "Importée"
+
+msgid "archived"
+msgstr "Archivée"
+
+# les noms du list des facettes
+msgid "Provenance"
+msgstr "Provenance de la fiche descriptive"
+
+msgid "TrialPhase"
+msgstr "Phase de l'essai"
+
+msgid "ObservationalStudyDe"
+msgstr "Modèle de l’étude observationnelle"
+
+msgid "AllocationMode"
+msgstr "Mode d'allocation"
+
+msgid "StudyStatus"
+msgstr "Statut de l'étude"
+
+msgid "HealthTheme"
+msgstr "Spécialité médicale"
+
+msgid "HealthDeterminant"
+msgstr "Déterminants de santé"
+
+msgid "RareDiseases"
+msgstr "Maladies rares"
+
+msgid "CollectionStart"
+msgstr "Date de debut de la collecte"
+
+msgid "CollectionEnd"
+msgstr "Date de fin de la collecte"
+
+msgid "IndividualDataAccess"
+msgstr "Statut d’accès aux données individuelles"
+
+msgid "PopulationType"
+msgstr "Type de population"
+
+msgid "SponsorName"
+msgstr "Institution promoteur"
+
+msgid "sponsorType"
+msgstr "Type du promoteur"
+
+msgid "DataType"
+msgstr "Types de données"
+
+msgid "FinalSampleSize"
+msgstr "Nombre de participants prévus"
+
+msgid "DataAccessRequestToo"
+msgstr "Outil d’accès aux données"
+
+msgid "FranceRegion"
+msgstr "Régions couvertes par l'étude"
+
+msgid "Age"
+msgstr "Age des participants"
+
+msgid "Sex"
+msgstr "Sexe des participants"
+
+msgid "FunderName"
+msgstr "Financeur"
+
+msgid "SourceType"
+msgstr "Types de sources de données tierces utilisées dans l’étude"
+
+msgid "listTitleKey"
+msgstr "Titre"
+
+msgid "listCreationDateKey"
+msgstr "Date de création"
+
+msgid "listStatusKey"
+msgstr "Statut"
+
+msgid "listUserKey"
+msgstr "Créée"
+
+msgid "listAbbreviationKey"
+msgstr "Acronyme"
+
+msgid "listPIKey"
+msgstr "Responsable scientifique (PI)"
+
+msgid "listPublishKey"
+msgstr "Publier"
+
+msgid "listModificationDateKey"
+msgstr "Date de modification"
+
+msgid "listLastModificator"
+msgstr "Modifiée"
+
+msgid "listIdentifierKey"
+msgstr "Identifiant"
+
+msgid "actionDetails"
+msgstr "Voir"
+
+msgid "actionEdit"
+msgstr "Modifier"
+
+msgid "actionReject"
+msgstr "Rejeter"
+
+msgid "actionApprove"
+msgstr "Approver"
+
+msgid "actionDelete"
+msgstr "Supprimer"
+
+msgid "actionRequiredChanges"
+msgstr "Modifications requises"
+
+msgid "catalogSortBy"
+msgstr "Trier par"
+
+msgid "catalogDisplay"
+msgstr "Afficher"
+
+msgid "catalogFreeResearch"
+msgstr "Recherche libre"
+
+msgid "catalogResearch"
+msgstr "Rechercher"
+
+msgid "catalogPlaceholder"
+msgstr "Mots-clés, auteur, thème..."
+
+msgid "loading"
+msgstr "Chargement..."
+
+msgid "DataTypeKind"
+msgstr "Type de données"
+
+msgid "ResearchType"
+msgstr "Type de recherche"
+
+msgid "Email"
+msgstr "Contact avec l’équipe productrice des données"
+
+msgid "emptyCatalogData"
+msgstr "Aucun élément à afficher."
+
+msgid "refName"
+msgstr "Nom du référentiel"
+
+msgid "titleModelAddItem"
+msgstr "Ajouter un nouvel élément"
+
+msgid "refListNameFr"
+msgstr "Nom fr"
+
+msgid "refListNameEn"
+msgstr "Nom en"
+
+msgid "refListDescriptionFr"
+msgstr "Description fr"
+
+msgid "refListIdentifier"
+msgstr "Identifiant"
+
+msgid "refListStatus"
+msgstr "Statut"
+
+msgid "refListDescriptionEn"
+msgstr "Description en"
+
+msgid "emptyRefData"
+msgstr "Aucun élément à afficher."
+
+msgid "saveAddRefItemButton"
+msgstr "Enregistrer"
+
+msgid "cancelRefItemButton"
+msgstr "Annuler"
+
+msgid "btnBack"
+msgstr "Retour"
+
+msgid "edit"
+msgstr "Modifier"
+
+msgid "uploadAcceptExtMsg"
+msgstr "Le fichier fourni n’est pas valide. Formats acceptés :"
+
+msgid "uploadProvidFileMsg"
+msgstr "Aucun fichier XML ou JSON fourni."
+
+msgid "uploadReadableFileMsg"
+msgstr "Le fichier spécifié est introuvable ou illisible."
+
+msgid "noDataFound"
+msgstr "Aucune donnée trouvée."
+
+msgid "noStudies"
+msgstr "Vous n'avez encore rien ajouter."
+
+msgid "rejectionStudy"
+msgstr "Rejet de l'étude"
+
+msgid "textConfirmRejectionStudy"
+msgstr " Voulez-vous vraiment <strong>rejeter</strong> l'étude"
+
+msgid "btnConfirm"
+msgstr "Confirmer"
+
+msgid "btnCancel"
+msgstr "Annuler"
+
+msgid "deleteStudy"
+msgstr "Suppression de l'étude"
+
+msgid "textConfirmDeleteStudy"
+msgstr "Êtes-vous sûr de vouloir  <strong>Supprimer</strong> l'étude"
+
+msgid "subTextConfirmDeleteStudy"
+msgstr "Cette action est irréversible."
+
+msgid "decisionStudy"
+msgstr "Décision d'une étude"
+
+msgid "textDecisionStudy"
+msgstr "Êtes-vous sûr de vouloir <strong>Approuver / Désapprouver</strong> l'étude"
+
+msgid "btnApprove"
+msgstr "Approuver"
+
+msgid "btnDisapprove"
+msgstr "Désapprouver"
+
+msgid "requestChanges"
+msgstr "Demande de modifications"
+
+msgid "textRequestChanges"
+msgstr "Êtes-vous sûr de vouloir envoyer une demande de <strong>modifications</strong> à l'étude"
+
+msgid "cancelModalTitle"
+msgstr "Annulation de l'étude"
+
+msgid "cancelModalTxt"
+msgstr "Êtes-vous sûr de vouloir <strong>annuler</strong> la soumission de l’étude"
+
+msgid "textPublishUnpublishedStudy"
+msgstr "Êtes-vous sûr de vouloir <strong class=\"study-action\"></strong> l'étude"
+
+msgid "titlePublishUnpublishedStudy"
+msgstr "Confirmation"
+
+msgid "spacePlaceholder"
+msgstr "Titre, Utilisateur, Modifié par"
+
+msgid "spaceResearch"
+msgstr "Rechercher"
+
+msgid "spaceDisplay"
+msgstr "Afficher"
+
+msgid "spaceEntries"
+msgstr "entrées"
+
+msgid "spaceSortBy"
+msgstr "Trier par"
+
+msgid "orderDesc"
+msgstr "Z-A"
+
+msgid "orderAsc"
+msgstr "A-Z"
+
+msgid "frenchTermVD"
+msgstr "Terme français"
+
+msgid "englishTermVD"
+msgstr "Terme anglais"
+
+msgid "frenchDescVD"
+msgstr "Description en français"
+
+msgid "englishDescVD"
+msgstr "Description en anglais"
+
+msgid "introductionVD"
+msgstr "Introduction"
+
+msgid "metadataSchemaVD"
+msgstr "Schéma des métadonnées FReSH"
+
+msgid "controlledVocabulariesVD"
+msgstr "Vocabulaires contrôlés"
+
+msgid "elementIdVDSchema"
+msgstr "ID Element"
+
+msgid "variableNameVDSchema"
+msgstr "Nom variable"
+
+msgid "labelFRVDSchema"
+msgstr "Titre FR"
+
+msgid "labelENVDSchema"
+msgstr "Titre EN"
+
+msgid "descFRVDSchema"
+msgstr "Description FR"
+
+msgid "descENVDSchema"
+msgstr "Description EN"
+
+msgid "variableTypeVDSchema"
+msgstr "Type variable"
+
+msgid "titleVDModel"
+msgstr "Modification de la description"
+
+msgid "editActionVD"
+msgstr "Modifier"
+
+msgid "textConfirmInsModal"
+msgstr "Êtes-vous sûr de vouloir <strong class=\"institution-action\"> approuver </strong> l'institution : "
+
+msgid "dtSearchBtn"
+msgstr "Rechercher"
+
+msgid "dtSearchPlaceholder"
+msgstr "Rechercher..."
+
+msgid "dtDisplay"
+msgstr "Afficher"
+
+msgid "dtDisplayOptionAll"
+msgstr "Tous"
+
+msgid "addInstitution"
+msgstr "Ajouter institution"
+
+msgid "catalogCountry"
+msgstr "Pays"
+
+msgid "catalogCollectionPeriod"
+msgstr "Période de collecte"
+
+msgid "catalogPI"
+msgstr "Responsable scientifique"
+
+msgid "catalogLastModified"
+msgstr "Dernière modification"
+
+msgid "catalogViews"
+msgstr "Vues"
+
+msgid "catalogNoStudies"
+msgstr "Aucune étude trouvée."
+
+msgid "displayItems"
+msgstr "Afficher les éléments"
+
+msgid "metadataIdentifier"
+msgstr "Code de l'identifiant"
+
+msgid "metadataIDSchema"
+msgstr "Source de l'identifiant"
+
+msgid "metadataProvenance"
+msgstr "Provenance"
+
+msgid "metadataVersionLang"
+msgstr "Langue de la version"
+
+msgid "metadataOriginLang"
+msgstr "Langue d'origine"
+
+msgid "metadataCreationDate"
+msgstr "Date du 1er enregistrement"
+
+msgid "metadataLastUpdatedAuto"
+msgstr "Date de la dernière MAJ automatique"
+
+msgid "metadataLastUpdatedManual"
+msgstr "Date de la dernière MAJ manuelle"
+
+msgid "metadataRespValidation"
+msgstr "Complétion/validation par le responsable"
+
+msgid "metadataAutoTranslation"
+msgstr "Traduction automatique"
+
+msgid "metadataStatus"
+msgstr "Statut"
+
+msgid "metadataContributorName"
+msgstr "Prénom NOM"
+
+msgid "metadataContributorAffiliation"
+msgstr "Affiliation"
+
+msgid "technicalMetadata"
+msgstr "Métadonnées techniques"
+
+msgid "technicalMetadataInfoBulle"
+msgstr "Cliquez pour accéder aux métadonnées techniques"

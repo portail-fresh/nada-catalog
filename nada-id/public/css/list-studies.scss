@@ -1,0 +1,644 @@
+.btnStudy {
+  float: right;
+  margin-bottom: 30px;
+}
+
+.filterPerItem{
+  display: flex;
+  justify-content: start;
+  flex-direction: row;
+  width: 100%;
+  align-items: center;
+  column-gap: 8px;
+  font-size: var(--wp--preset--font-size--small);
+
+
+  .limitSelect{
+    width: 100px !important;
+
+    
+
+    .select2-container .select2-selection--single {
+      height: 30px;
+      min-height: 30px;
+      padding: 2px 8px;
+    }
+
+    .select2-container--default .select2-selection--single .select2-selection__rendered {
+      line-height: 26px;
+      padding-left: 0;
+      font-size: var(--wp--preset--font-size--small);
+    }
+
+    .select2-container--default .select2-selection--single .select2-selection__arrow {
+        height: 28px;
+    }
+
+  }
+
+  .sortingSelect{
+    width: 150px !important;
+  }
+}
+
+
+.select2-results .select2-results__option[role="treeitem"]:first-child {
+  display: block !important;
+}
+
+
+.cardContainerList{
+  font-size: var(--wp--preset--font-size--small);
+
+  .card-body{
+    font-size: var(--wp--preset--font-size--small);
+    padding-left: 15px;
+    padding-right: 15px;
+
+    .accordion-item{
+        border: 0px !important;
+
+        .accordion-collapse{
+          clear: both;
+        }
+
+        .statusHtml{
+          font-size: var(--wp--preset--font-size--small);
+          white-space: nowrap;
+        }
+    }
+
+
+    .childs-item{
+
+      .child-item:not(:first-child) {
+        margin-top: 10px;
+      }
+
+
+      .child-item{
+        .card-etude-liste{
+          margin-bottom: 10px !important;
+          border: none;
+          border-radius: var(--wp--preset--border-radius--md);
+          background-color: var(--wp--preset--color--oxygenated-blue);
+          .header-etude-liste{
+            display: flex;
+            justify-content: space-between;
+            border-bottom: 1px solid var(--wp--preset--color--white);
+            align-items: center;
+            margin-bottom: 5px;
+            padding-bottom: 5px;
+            padding-top: 5px;
+
+            .contentTD{
+              background: none;
+              padding: 0px;
+              height: auto;
+            }
+          }
+
+          .body-etude-liste{
+            padding-bottom: 5px !important;
+          }
+
+          .publish-study-switch{
+            font-size: var(--wp--preset--font-size--normal) !important;
+          }
+
+        }
+
+        .card-etude-liste:last-child{
+          margin-bottom: 0px !important;
+        }
+
+        .action-icon{
+          margin-right: 0px;
+          background-color: transparent;
+          color: var(--wp--preset--color--primary);
+          border-radius: 20px;
+          width: 30px;
+          height: auto;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          float: left;
+          border: none;
+          cursor: pointer;
+        }
+
+        .status-icon{
+          background: none;
+          padding: 0px;
+          border-radius: 0px;
+        }
+      }
+    }
+
+    .contentHeaderCard{
+      border-bottom:1px solid var(--wp--preset--color--tinted-white) ;
+      padding-bottom: 5px;
+
+
+        .titleBtnCollapse{
+          padding-left: 20px;
+        }
+
+        .accordion-button{
+          border: 0px !important;
+          border-radius: 0px;
+          background: inherit;
+          box-shadow: none;
+          padding: 0px !important;
+        }
+
+        .accordion-button:focus{
+          border: 0px !important;
+          border-radius: 0px;
+          background: inherit;
+          box-shadow: none;
+        }
+
+        .accordion-button::after {
+          position: absolute;
+          left: 0px;
+        }
+
+        .no-child.accordion-button::after {
+          display: none;
+        }
+
+        
+
+        .no-child .titleBtnCollapse{
+          padding-left: 0px !important;
+         
+        }
+
+        .status-icon{
+          background: var(--wp--preset--color--oxygenated-blue);
+          padding: 5px 15px;
+          border-radius: 4px;
+          border-radius: var(--wp--preset--border-radius--md);
+        }
+    }
+
+    .contentBodyCard{
+      display: flex;
+      align-items: center;
+
+      .actionListcard{
+        width: 100%;
+        display: flex;
+        justify-content: end;
+      }
+    }
+
+    .action-icon{
+      margin-right: 5px;
+      background-color: var(--wp--preset--color--primary);
+      color: var(--wp--preset--color--white);
+      border-radius: 20px;
+      width: 30px;
+      height: 30px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      float: left;
+      border: 1px solid var(--wp--preset--color--primary);
+      cursor: pointer;
+    }
+
+    .action-icon:hover{
+      background-color: var(--wp--preset--color--white);
+      color: var(--wp--preset--color--primary);
+    }
+  }
+}
+
+
+.cardContainerPagination{
+
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+
+    .paginationInfo{
+      font-size: var(--wp--preset--font-size--normal);
+      display: flex;
+    }
+
+    .pagination{
+
+      display: flex;
+      margin: 0px;
+
+      .page-item {
+        margin-right: 5px;
+        .page-link{
+            border-radius: var(--wp--preset--border-radius--sm);
+            font-size: var(--wp--preset--font-size--normal);
+        }
+      }
+    }
+}
+
+
+.link-with-icon {
+  color: var(--wp--preset--color--primary);
+    text-decoration: underline;
+    margin-right: 20px;
+    font-weight: 600;
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;               
+    transition: color 0.3s ease;
+}
+
+.link-with-icon i {
+  font-size: var(--wp--preset--font-size--normal);
+  /* taille de l'icône */
+}
+
+/* hover effect */
+.link-with-icon:hover {
+  color: var(--wp--preset--color--tinted-white)
+}
+
+
+.btnStudy .link-with-icon.link-add,
+.btnStudy .link-with-icon.link-import {
+  color: var(--wp--preset--color--white) !important;
+  background: var(--wp--preset--color--light-blue);
+  padding: 10px !important;
+  border-radius: var(--wp--preset--border-radius--md) !important;
+  text-decoration: none !important;
+  font-weight: normal !important;
+  height: 40px;
+  font-size: var(--wp--preset--font-size--small) !important;
+}
+ 
+.link-add {
+  color: var(--wp--preset--color--light-blue);
+}
+
+.link-import {
+  color: var(--wp--preset--color--primary);
+}
+
+.link-with-icon.link-add,
+.contributor_btn {
+  color: var(--wp--preset--color--white) !important;
+  background: var(--wp--preset--color--light-blue) !important;
+  border-radius: var(--wp--preset--border-radius--sm) !important;
+  font-size: var(--wp--preset--font-size--l-normal);
+  padding: 20px 40px;
+}
+
+.link-add:hover {
+  color: var(--wp--preset--color--secondary);
+  text-decoration: underline;
+}
+
+.link-import:hover {
+  color: var(--wp--preset--color--primary);
+  text-decoration: underline;
+}
+ 
+/* Style commun pour tous les modals spécifiques */
+#deleteStudyModal .modal-content,
+
+#publishStudyModal .modal-content {
+  border: 3px solid var(--wp--preset--color--primary) !important;
+  border-radius: var(--wp--preset--border-radius--md) !important;
+  overflow: hidden;
+}
+ 
+#deleteStudyModal .modal-title,
+#publishStudyModal .modal-title {
+  color: var(--wp--preset--color--primary) !important;
+}
+ 
+.make-study-decision-btn {
+  color: var(--wp--preset--color--light-blue) !important;
+}
+ 
+.text-truncate {
+  color: var(--wp--preset--color--primary);
+}
+
+/* ============================================
+   TOGGLE BUTTON & VERSION COUNT
+   ============================================ */
+.toggle-cell {
+  text-align: center;
+  position: relative;
+  width: 50px;
+}
+
+.toggle-btn {
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.3s ease;
+    color: var(--wp--preset--color--primary);
+    border: 1px solid var(--wp--preset--color--tinted-white);
+    border-radius: var(--wp--preset--border-radius--sm);
+    padding: 7px 8px;
+}
+
+.version-icon-toogle .contentTD {
+  height: 37px;
+  padding: 0px !important;
+  justify-content: center;
+  display: flex !important;
+}
+
+
+.toggle-btn i {
+  font-size: var(--wp--preset--font-size--xx-small);
+  transition: transform 0.3s ease;
+}
+
+.toggle-btn.open {
+  background: var(--wp--preset--color--light-blue);
+  color: var(--wp--preset--color--white)
+}
+
+.version-count {
+  position: absolute;
+  top: 2px;
+  right: 8px;
+  background: var(--wp--preset--color--green);
+  color: var(--wp--preset--color--white);
+  border-radius: var(--wp--preset--border-radius--rond);
+  width: 22px;
+  height: 22px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: var(--wp--preset--font-size--x-small);
+  font-weight: bold;
+  box-shadow: var(--wp--preset--shadow--sm);
+}
+
+
+.table.no-border,
+.table.no-border tr,
+.table.no-border th,
+.table.no-border td {
+  border: none !important;
+  border-color: initial !important;
+}
+
+.flat-table .parentGap td {
+  padding-top: 10px !important;
+}
+
+.row-flex {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+table.dataTable.flat-table tbody th,
+table.dataTable tbody td {
+  padding: 0px 10px;
+}
+
+table>tbody>tr.child-version>td {
+  line-height: inherit;
+  border-top: none;
+}
+
+.child-version {
+  .contentTD .badge {
+    padding: 0;
+    background: inherit !important;
+    color: var(--wp--preset--color--primary);
+    width: 25px;
+  }
+}
+
+.flat-table .parent-study:not(.has-children) td {
+   padding-bottom: 10px !important; 
+}
+
+.dataTables_wrapper .dataTables_paginate .paginate_button {
+  padding: 5px !important;
+}
+
+.flat-table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  border: 1px solid;
+  
+  .paginate_button.next {
+    padding: 0px 5px !important;
+  }
+  
+  thead>tr>th {
+    color: var(--wp--preset--color--primary);
+    padding: 5px !important;
+  }
+
+  .action-icon.red-study-btn-nada {
+    cursor: pointer;
+    color: var(--wp--preset--color--red);
+  }
+
+  td {
+    border-radius: var(--wp--preset--border-radius--none);
+    padding: 0;
+    background: var(--wp--preset--color--white);
+  }
+
+  .version-icon-toogle {
+    width: 30px;
+  }
+ 
+  .study-title {
+    width: 150px !important;
+    max-width: 150px !important;
+  }
+
+  .contentTD {
+    display: block;
+    align-items: center;
+    background: var(--wp--preset--color--tinted-white);
+    width: 100%;
+    max-width: 100%;
+    min-width: 100%;
+    padding: 5px 5px;
+    height: 37px;
+  }
+
+  .study-publish .contentTD {
+    display: flex;
+    align-items: center;
+
+    justify-content: center;
+
+    height: 36px;
+  }
+
+  .study-date {
+    min-width: 150px;
+    max-width: 150px !important;
+  }
+
+  .study-name {
+     min-width: 10%;
+  }
+
+  .study-status {
+   width: 15%;
+  }
+
+  .actions-cell {
+    min-width: 140px;
+  }
+
+  .study-publish {
+     min-width: 55px;
+     max-width: 55px;
+  }
+
+  .title-wrapper {
+      position: relative;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      max-width: 200px;
+  }
+
+  .text-truncate {
+    white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      max-width: 200px;
+  }
+
+  .action-icon {
+    margin-right: 5px;
+
+  }
+}
+ 
+/* CSS CRITIQUE POUR RENDRE LE TOAST VISIBLE - CENTRÉ EN HAUT */
+.toast-container {
+  position: fixed !important;
+  top: 20px !important;
+  left: 50% !important;
+  transform: translateX(-50%) !important;
+  z-index: 99999 !important;
+  pointer-events: none;
+}
+
+.toast {
+    pointer-events: auto;
+    min-width: 350px;
+    max-width: 500px;
+  box-shadow: var(--wp--preset--shadow--sm) !important;
+  border: 1px solid var(--wp--preset--color--black-with-opacity);
+    margin: 0 auto;
+}
+
+.toast.show {
+  opacity: 1 !important;
+  display: block !important;
+}
+
+/* Couleurs */
+.toast.text-bg-success {
+  background-color: var(--wp--preset--color--green) !important;
+  color: var(--wp--preset--color--white) !important;
+}
+
+.toast.text-bg-danger {
+  background-color: var(--wp--preset--color--red) !important;
+  color: var(--wp--preset--color--white) !important;
+}
+
+.toast.text-bg-warning {
+  background-color: var(--wp--preset--color--yellow) !important;
+  color: var(--wp--preset--color--primary) !important;
+}
+
+.toast.text-bg-success .toast-header,
+.toast.text-bg-danger .toast-header,
+.toast.text-bg-warning .toast-header {
+  background-color: var(--wp--preset--color--white-with-opacity) !important;
+    color: inherit !important;
+}
+
+.toast.text-bg-success .btn-close,
+.toast.text-bg-danger .btn-close {
+  filter: invert(1) grayscale(100%) brightness(200%);
+}
+
+
+#btn-search {
+  background: var(--wp--preset--color--primary);
+  width: max-content;
+  font-size: var(--wp--preset--font-size--small);
+  padding: 5px;
+  border-radius: var(--wp--preset--border-radius--md);
+  color: var(--wp--preset--color--white);
+  cursor: pointer;
+}
+
+.publish-study-switch {
+  font-size: var(--wp--preset--font-size--normal) !important;
+}
+
+
+.parent-study.has-children td {
+  padding-bottom: 10px !important;
+}
+
+.titleBtnCollapse {
+  padding-right: 20px;
+}
+
+.open-metadata {
+  margin-left: 5px;
+}
+
+
+/* Tablette */
+@media (max-width: 767px) {
+
+  .contentBodyCard{
+    display: block !important;
+  }
+  .actionListcard{
+    width: 100%;
+    display: flex;
+    justify-content: center !important;
+    margin-top: 10px;
+  }
+}
+
+/* Tablette */
+@media (min-width: 768px) {
+  .statusHtml{
+    //margin-top: 5px;
+    i{
+      visibility: hidden;
+      width: 0px;
+    }
+  }
+}
+
+/* Desktop */
+@media (min-width: 992px) {
+
+  .statusHtml{
+    i{
+      visibility: visible;
+      width: auto;
+    }
+  }
+}

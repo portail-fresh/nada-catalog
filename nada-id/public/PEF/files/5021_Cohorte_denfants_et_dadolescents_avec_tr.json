@@ -1,0 +1,946 @@
+{
+    "stdyDscr": {
+        "citation": {
+            "titlStmt": {
+                "IDNo": [
+                    {
+                        "agency": "PEF",
+                        "value": "5021"
+                    },
+                    {
+                        "agency": "FReSH",
+                        "value": "FRESH-PEF5021"
+                    }
+                ],
+                "titl": [
+                    {
+                        "lang": "fr",
+                        "value": "Cohorte d'enfants et d'adolescents avec troubles du spectre autistique : \u00e9tude des d\u00e9terminants de l'\u00e9volution des troubles"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "Study of outcome trajectories and risk factors in a cohort of children and adolescents with Autism Spectrum Disorders (ASD)"
+                    }
+                ],
+                "altTitl": [
+                    {
+                        "lang": "fr",
+                        "value": "ELENA"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "ELENA-E0"
+                    }
+                ]
+            },
+            "rspStmt": {
+                "AuthEnty": [
+                    {
+                        "name": "Amaria;BAGHDADLI",
+                        "affiliation": [
+                            {
+                                "lang": "fr",
+                                "value": "CENTRE HOSPITALIER UNIVERSITAIRE DE MONTPELLIER (CHU)"
+                            },
+                            {
+                                "lang": "en",
+                                "value": "CENTRE HOSPITALIER UNIVERSITAIRE DE MONTPELLIER (CHU)"
+                            }
+                        ],
+                        "extLink": [
+                            {
+                                "uri": "0000-0002-5679-7544",
+                                "role": "pi id",
+                                "title": "ORCID"
+                            },
+                            {
+                                "uri": "060565551",
+                                "role": "pi id",
+                                "title": "IdRef"
+                            },
+                            {
+                                "uri": "https://ror.org/00mthsf17",
+                                "role": "organisation id",
+                                "title": "ROR"
+                            },
+                            {
+                                "uri": "263400160",
+                                "role": "organisation id",
+                                "title": "SIREN"
+                            },
+                            {
+                                "uri": "201521285A",
+                                "role": "labo id",
+                                "title": "RNSR"
+                            }
+                        ],
+                        "isContact": true,
+                        "email": "dir2@impact-dev.tn",
+                        "PILabo": "CHU de Montpellier / CESP INSERM U 1178"
+                    }
+                ],
+                "othId": []
+            },
+            "distStmt": {
+                "contact": [
+                    {
+                        "name": "Amaria;BAGHDADLI",
+                        "email": "dir2@impact-dev.tn",
+                        "affiliation": [
+                            {
+                                "lang": "fr",
+                                "value": "CENTRE HOSPITALIER UNIVERSITAIRE DE MONTPELLIER (CHU)"
+                            },
+                            {
+                                "lang": "en",
+                                "value": "CENTRE HOSPITALIER UNIVERSITAIRE DE MONTPELLIER (CHU)"
+                            }
+                        ],
+                        "extLink": [
+                            {
+                                "uri": "https://ror.org/00mthsf17",
+                                "role": "organisation id",
+                                "title": "ROR"
+                            },
+                            {
+                                "uri": "263400160",
+                                "role": "organisation id",
+                                "title": "SIREN"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "prodStmt": {
+                "fundAg": [
+                    {
+                        "name": [
+                            {
+                                "lang": "fr",
+                                "value": "CAISSE NATIONALE DE SOLIDARITE POUR L'AUTONOMIE (CNSA)"
+                            },
+                            {
+                                "lang": "en",
+                                "value": "CAISSE NATIONALE DE SOLIDARITE POUR L'AUTONOMIE (CNSA)"
+                            }
+                        ],
+                        "type": [
+                            {
+                                "lang": "fr",
+                                "value": "Public (France)"
+                            },
+                            {
+                                "lang": "en",
+                                "value": "Public (France)"
+                            }
+                        ]
+                    },
+                    {
+                        "name": [
+                            {
+                                "lang": "fr",
+                                "value": "CENTRE HOSPITALIER UNIVERSITAIRE DE MONTPELLIER (CHU)"
+                            },
+                            {
+                                "lang": "en",
+                                "value": "CENTRE HOSPITALIER UNIVERSITAIRE DE MONTPELLIER (CHU)"
+                            }
+                        ],
+                        "extLink": [
+                            {
+                                "title": "ROR",
+                                "uri": "https://ror.org/00mthsf17"
+                            },
+                            {
+                                "title": "SIREN",
+                                "uri": "263400160"
+                            }
+                        ],
+                        "type": [
+                            {
+                                "lang": "fr",
+                                "value": "Public (France)"
+                            },
+                            {
+                                "lang": "en",
+                                "value": "Public (France)"
+                            }
+                        ]
+                    },
+                    {
+                        "name": [
+                            {
+                                "lang": "fr",
+                                "value": "MINISTERE DU TRAVAIL, DE LA SANTE, DES SOLIDARITES ET DES FAMILLES"
+                            },
+                            {
+                                "lang": "en",
+                                "value": "MINISTERE DU TRAVAIL, DE LA SANTE, DES SOLIDARITES ET DES FAMILLES"
+                            }
+                        ],
+                        "extLink": [
+                            {
+                                "title": "ROR",
+                                "uri": "https://ror.org/01wp0c315"
+                            },
+                            {
+                                "title": "SIREN",
+                                "uri": "130016546"
+                            }
+                        ],
+                        "type": [
+                            {
+                                "lang": "fr",
+                                "value": "Public (France)"
+                            },
+                            {
+                                "lang": "en",
+                                "value": "Public (France)"
+                            }
+                        ]
+                    }
+                ],
+                "producer": [
+                    {
+                        "name": [
+                            {
+                                "lang": "fr",
+                                "value": "CENTRE HOSPITALIER UNIVERSITAIRE DE MONTPELLIER (CHU)"
+                            },
+                            {
+                                "lang": "en",
+                                "value": "CENTRE HOSPITALIER UNIVERSITAIRE DE MONTPELLIER (CHU)"
+                            }
+                        ],
+                        "sponsorType": [
+                            {
+                                "lang": "fr",
+                                "value": "Public (France)"
+                            },
+                            {
+                                "lang": "en",
+                                "value": "Public (France)"
+                            }
+                        ],
+                        "extLink": [
+                            {
+                                "role": "sponsor id",
+                                "title": "ROR",
+                                "uri": "https://ror.org/00mthsf17"
+                            },
+                            {
+                                "role": "sponsor id",
+                                "title": "SIREN",
+                                "uri": "263400160"
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        "studyAuthorization": {
+            "authorizingAgency": {
+                "lang": "fr",
+                "value": "CNIL"
+            }
+        },
+        "method": {
+            "notes": [
+                {
+                    "subject": "research type",
+                    "lang": "fr",
+                    "value": "Etude observationnelle"
+                },
+                {
+                    "subject": "research type",
+                    "lang": "en",
+                    "value": "Observational Study"
+                },
+                {
+                    "lang": "fr",
+                    "subject": "observational study method",
+                    "value": "Cohorte"
+                },
+                {
+                    "lang": "en",
+                    "subject": "observational study method",
+                    "value": "Cohort study"
+                }
+            ],
+            "stdyClas": [
+                {
+                    "lang": "fr",
+                    "value": "Inconnu"
+                },
+                {
+                    "lang": "en",
+                    "value": "Unknown"
+                }
+            ],
+            "dataColl": {
+                "targetSampleSize": [
+                    {
+                        "lang": "fr",
+                        "value": "[500-1000[ individus"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "[500-1000[ individuals"
+                    }
+                ],
+                "sampleFrame": {
+                    "frameUnit": {
+                        "unitType": [
+                            {
+                                "lang": "fr",
+                                "value": "Via des structures (services ou \u00e9tablissements de sant\u00e9, \u00e9coles, entreprises\u2026)"
+                            },
+                            {
+                                "lang": "en",
+                                "value": "Through organizations (health services or institutions, schools, businesses, etc.)"
+                            }
+                        ]
+                    }
+                },
+                "sources": [
+                    {}
+                ],
+                "collMode": [
+                    {
+                        "lang": "fr",
+                        "concept": {
+                            "vocabURI": "Interview",
+                            "vocab": "CESSDA"
+                        },
+                        "value": "Entretien avec le participant (dont clinique)"
+                    },
+                    {
+                        "lang": "en",
+                        "concept": {
+                            "vocabURI": "Interview",
+                            "vocab": "CESSDA"
+                        },
+                        "value": "Interview with the participant (including clinical)"
+                    }
+                ],
+                "sampProc": [
+                    {
+                        "lang": "fr",
+                        "concept": {
+                            "vocabURI": "Other",
+                            "vocab": "CESSDA"
+                        },
+                        "value": "Autre"
+                    },
+                    {
+                        "lang": "en",
+                        "concept": {
+                            "vocabURI": "Other",
+                            "vocab": "CESSDA"
+                        },
+                        "value": "Other"
+                    }
+                ],
+                "respRate": [
+                    {
+                        "lang": "fr",
+                        "value": "550"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "550 patients recruted"
+                    }
+                ]
+            }
+        },
+        "stdyInfo": {
+            "abstract": [
+                {
+                    "contentType": "purpose",
+                    "lang": "fr",
+                    "value": "D\u00e9crire les caract\u00e9ristiques, d'une grande population d'enfants et adolescents \u00e2g\u00e9s de 2 \u00e0 16 ans avec un diagnostic formel de troubles du spectre de l'autisme, aux plans clinique et neuropsychologique et en d\u00e9crire l'\u00e9volution au cours du temps. Cette description porte sur des dimensions \u00e9valu\u00e9es en routine: o Diagnostic nosologique o Comportements autistiques o Troubles du comportement o D\u00e9veloppement dans les domaines cognitif, socio-adaptatif, moteur, sensoriel, du langage et de la communication o Histoire du patient et de sa famille, chronologie du d\u00e9veloppement, maladies ou syndromes somatiques et troubles psychiatriques associ\u00e9s. Par ailleurs, d\u00e9crire les r\u00e9sultats de l'examen morphologique et des examens g\u00e9n\u00e9tiques r\u00e9alis\u00e9s en routine dans le cadre du centre r\u00e9f\u00e9rent sur les anomalies du d\u00e9veloppement."
+                },
+                {
+                    "contentType": "purpose",
+                    "lang": "en",
+                    "value": "1) To describe the characteristics of a large sample of individuals with a diagnosis of ASD aged between 2 and 16 years, in the clinical, biological, developmental and psychosocial domains 2) To identify outcome trajectories over years and their determinants."
+                }
+            ],
+            "subject": {
+                "topcClas": [
+                    {
+                        "vocab": "health theme",
+                        "lang": "fr",
+                        "extLink": [
+                            {
+                                "title": "ESV",
+                                "uri": "http://data.europa.eu/8mn/euroscivoc/c4793dfe-e80e-49dd-9fcc-a1a742de1b25"
+                            },
+                            {
+                                "title": "ESV",
+                                "uri": "http://data.europa.eu/8mn/euroscivoc/00a5c4f4-b7ee-41a4-bcdf-3a02e6be1660"
+                            },
+                            {
+                                "title": "MeSH",
+                                "uri": "http://id.nlm.nih.gov/mesh/D009462"
+                            }
+                        ],
+                        "value": "Neurologie"
+                    },
+                    {
+                        "vocab": "health theme",
+                        "lang": "fr",
+                        "extLink": [
+                            {
+                                "title": "ESV",
+                                "uri": "http://data.europa.eu/8mn/euroscivoc/bf8aaaac-ddee-41cd-bb8a-c5a63de3fcbd"
+                            },
+                            {
+                                "title": "MeSH",
+                                "uri": "http://id.nlm.nih.gov/mesh/D010372"
+                            }
+                        ],
+                        "value": "P\u00e9diatrie"
+                    },
+                    {
+                        "vocab": "health theme",
+                        "lang": "fr",
+                        "extLink": [
+                            {
+                                "title": "ESV",
+                                "uri": "http://data.europa.eu/8mn/euroscivoc/3de50dee-da1c-4791-a386-56bca24a5fed"
+                            },
+                            {
+                                "title": "MeSH",
+                                "uri": "http://id.nlm.nih.gov/mesh/D011570"
+                            }
+                        ],
+                        "value": "Psychiatrie"
+                    },
+                    {
+                        "vocab": "health theme",
+                        "lang": "en",
+                        "extLink": [
+                            {
+                                "title": "ESV",
+                                "uri": "http://data.europa.eu/8mn/euroscivoc/c4793dfe-e80e-49dd-9fcc-a1a742de1b25"
+                            },
+                            {
+                                "title": "ESV",
+                                "uri": "http://data.europa.eu/8mn/euroscivoc/00a5c4f4-b7ee-41a4-bcdf-3a02e6be1660"
+                            },
+                            {
+                                "title": "MeSH",
+                                "uri": "http://id.nlm.nih.gov/mesh/D009462"
+                            }
+                        ],
+                        "value": "Neurology"
+                    },
+                    {
+                        "vocab": "health theme",
+                        "lang": "en",
+                        "extLink": [
+                            {
+                                "title": "ESV",
+                                "uri": "http://data.europa.eu/8mn/euroscivoc/bf8aaaac-ddee-41cd-bb8a-c5a63de3fcbd"
+                            },
+                            {
+                                "title": "MeSH",
+                                "uri": "http://id.nlm.nih.gov/mesh/D010372"
+                            }
+                        ],
+                        "value": "Paediatrics"
+                    },
+                    {
+                        "vocab": "health theme",
+                        "lang": "en",
+                        "extLink": [
+                            {
+                                "title": "ESV",
+                                "uri": "http://data.europa.eu/8mn/euroscivoc/3de50dee-da1c-4791-a386-56bca24a5fed"
+                            },
+                            {
+                                "title": "MeSH",
+                                "uri": "http://id.nlm.nih.gov/mesh/D011570"
+                            }
+                        ],
+                        "value": "Psychiatry"
+                    },
+                    {
+                        "vocab": "cim-11",
+                        "lang": "fr",
+                        "extLink": [
+                            {
+                                "uri": "http://id.who.int/icd/entity/1516623224",
+                                "title": "CIM-11"
+                            }
+                        ],
+                        "value": "Troubles neurod\u00e9veloppementaux"
+                    },
+                    {
+                        "vocab": "cim-11",
+                        "lang": "en",
+                        "extLink": [
+                            {
+                                "uri": "http://id.who.int/icd/entity/1516623224",
+                                "title": "CIM-11"
+                            }
+                        ],
+                        "value": "Neurodevelopmental disorders"
+                    },
+                    {
+                        "vocab": "health determinant",
+                        "lang": "fr",
+                        "value": "D\u00e9terminants socio-d\u00e9mographiques et \u00e9conomiques"
+                    },
+                    {
+                        "vocab": "health determinant",
+                        "lang": "fr",
+                        "value": "D\u00e9terminants biologiques : Pr\u00e9dispositions g\u00e9n\u00e9tiques"
+                    },
+                    {
+                        "vocab": "health determinant",
+                        "lang": "fr",
+                        "value": "D\u00e9terminants biologiques"
+                    },
+                    {
+                        "vocab": "health determinant",
+                        "lang": "en",
+                        "value": "Socio-demographic and economic determinants"
+                    },
+                    {
+                        "vocab": "health determinant",
+                        "lang": "en",
+                        "value": "Biological determinants: Genetic predisposition"
+                    },
+                    {
+                        "vocab": "health determinant",
+                        "lang": "en",
+                        "value": "Biological determinants"
+                    }
+                ],
+                "keyword": [
+                    {
+                        "lang": "fr",
+                        "value": "trajectoires \u00e9volutives"
+                    },
+                    {
+                        "lang": "fr",
+                        "value": "troubles du spectre de l'autisme"
+                    },
+                    {
+                        "lang": "fr",
+                        "value": "\u00e9pid\u00e9miologie clinique"
+                    },
+                    {
+                        "lang": "fr",
+                        "value": "enfants"
+                    },
+                    {
+                        "lang": "fr",
+                        "value": "adolescents"
+                    },
+                    {
+                        "lang": "fr",
+                        "value": "cohorte"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "trajectories of change"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "clinical epidemiology"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "childhood"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "adolescence"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "autism spectrum disorders"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "cohort"
+                    }
+                ]
+            },
+            "qualityStatement": {
+                "standardsCompliance": {
+                    "standard": {
+                        "standardName": {
+                            "lang": "fr",
+                            "value": "CIM 10 - DSM 5"
+                        }
+                    }
+                }
+            },
+            "sumDscr": {
+                "dataKind": [
+                    {
+                        "lang": "fr",
+                        "value": "Donn\u00e9es cliniques"
+                    },
+                    {
+                        "lang": "fr",
+                        "value": "Donn\u00e9es rapport\u00e9es par le participant de l&#x27;\u00e9tude"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "Clinical data"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "Participant-reported health data"
+                    }
+                ],
+                "anlyUnit": [
+                    {
+                        "lang": "fr",
+                        "value": "Individus"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "Individuals"
+                    }
+                ],
+                "nation": [
+                    {
+                        "lang": "fr",
+                        "abbr": "fr",
+                        "concept": {
+                            "vocab": "ISO",
+                            "vocabURI": "fr"
+                        },
+                        "value": "France"
+                    },
+                    {
+                        "lang": "en",
+                        "abbr": "fr",
+                        "concept": {
+                            "vocab": "ISO",
+                            "vocabURI": "fr"
+                        },
+                        "value": "France"
+                    }
+                ],
+                "universe": [
+                    {
+                        "level": "sex",
+                        "clusion": "I",
+                        "lang": "fr",
+                        "concept": {
+                            "vocab": "MeSH",
+                            "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+                        },
+                        "value": "Masculin"
+                    },
+                    {
+                        "level": "sex",
+                        "clusion": "I",
+                        "lang": "fr",
+                        "concept": {
+                            "vocab": "MeSH",
+                            "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+                        },
+                        "value": "F\u00e9minin"
+                    },
+                    {
+                        "level": "sex",
+                        "clusion": "I",
+                        "lang": "en",
+                        "concept": {
+                            "vocab": "MeSH",
+                            "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+                        },
+                        "value": "Male"
+                    },
+                    {
+                        "level": "sex",
+                        "clusion": "I",
+                        "lang": "en",
+                        "concept": {
+                            "vocab": "MeSH",
+                            "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+                        },
+                        "value": "Female"
+                    },
+                    {
+                        "level": "age",
+                        "clusion": "I",
+                        "lang": "fr",
+                        "concept": {
+                            "vocab": "MeSH",
+                            "vocabURI": "http://id.nlm.nih.gov/mesh/D002675"
+                        },
+                        "value": "Petite enfance (2 \u00e0 5 ans)"
+                    },
+                    {
+                        "level": "age",
+                        "clusion": "I",
+                        "lang": "fr",
+                        "concept": {
+                            "vocab": "MeSH",
+                            "vocabURI": "http://id.nlm.nih.gov/mesh/D002648"
+                        },
+                        "value": "Enfance (6 \u00e0 12 ans)"
+                    },
+                    {
+                        "level": "age",
+                        "clusion": "I",
+                        "lang": "fr",
+                        "concept": {
+                            "vocab": "MeSH",
+                            "vocabURI": "http://id.nlm.nih.gov/mesh/D000293"
+                        },
+                        "value": "Adolescence (13 \u00e0 18 ans)"
+                    },
+                    {
+                        "level": "age",
+                        "clusion": "I",
+                        "lang": "en",
+                        "concept": {
+                            "vocab": "MeSH",
+                            "vocabURI": "http://id.nlm.nih.gov/mesh/D002675"
+                        },
+                        "value": "Child, Preschool (2 to 5 years)"
+                    },
+                    {
+                        "level": "age",
+                        "clusion": "I",
+                        "lang": "en",
+                        "concept": {
+                            "vocab": "MeSH",
+                            "vocabURI": "http://id.nlm.nih.gov/mesh/D002648"
+                        },
+                        "value": "Child (6 to 12 years)"
+                    },
+                    {
+                        "level": "type",
+                        "clusion": "I",
+                        "lang": "fr",
+                        "value": "Patients"
+                    },
+                    {
+                        "level": "type",
+                        "clusion": "I",
+                        "lang": "en",
+                        "value": "Patients population"
+                    },
+                    {
+                        "clusion": "I",
+                        "lang": "fr",
+                        "value": "Enfants et adolescents de 2 \u00e0 16 ans ayant fait l'objet d'une \u00e9valuation multidisciplinaire, \u00e9tablissant un diagnostic de troubles du spectre de l'autisme. Les parents devront avoir donn\u00e9 leur consentement oral apr\u00e8s une information orale sur la recherche donn\u00e9e lors de la consultation habituellement faite pour restituer les r\u00e9sultats de l'\u00e9valuation aux familles."
+                    },
+                    {
+                        "clusion": "I",
+                        "lang": "en",
+                        "value": "Children and adolescents under age 20, with a diagnosis of ASD formally established by a multidisciplinary team according to international criteria. Parents must have given their oral consent."
+                    },
+                    {
+                        "clusion": "E",
+                        "lang": "fr",
+                        "value": ""
+                    },
+                    {
+                        "clusion": "E",
+                        "lang": "en",
+                        "value": ""
+                    }
+                ],
+                "collDate": {
+                    "event": "start",
+                    "value": "2012-01-01"
+                }
+            }
+        },
+        "dataAccs": {
+            "setAvail": {
+                "avlStatus": [
+                    {
+                        "lang": "fr",
+                        "extLink": [
+                            {
+                                "title": "COAR",
+                                "uri": "http://purl.org/coar/access_right/c_16ec"
+                            }
+                        ],
+                        "value": "Acc\u00e8s r\u00e9serv\u00e9"
+                    },
+                    {
+                        "lang": "en",
+                        "extLink": [
+                            {
+                                "title": "COAR",
+                                "uri": "http://purl.org/coar/access_right/c_16ec"
+                            }
+                        ],
+                        "value": "Restricted access"
+                    }
+                ],
+                "conditions": [
+                    {
+                        "lang": "fr",
+                        "value": "L&#x27;acc\u00e8s au donn\u00e9es de la base est soumise \u00e0 l&#x27;accord du responsable scientifique et du promoteur de l&#x27;\u00e9tude"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "access to the data base is subject to the approval of the scientific leader and the sponsor of the study"
+                    }
+                ]
+            },
+            "useStmt": {}
+        },
+        "othStdMat": {
+            "relMat": [
+                {
+                    "lang": "fr",
+                    "value": "Acc\u00e8s restreint sur projet sp\u00e9cifique"
+                },
+                {
+                    "lang": "en",
+                    "value": "Access on specific project only"
+                }
+            ]
+        },
+        "studyDevelopment": {
+            "developmentActivity": [
+                {
+                    "type": "primary evaluation",
+                    "lang": "fr",
+                    "description": "Ev\u00e9nements de sant\u00e9/morbidit\u00e9"
+                },
+                {
+                    "type": "primary evaluation",
+                    "lang": "fr",
+                    "description": "Ev\u00e9nements de sant\u00e9/mortalit\u00e9"
+                },
+                {
+                    "type": "primary evaluation",
+                    "lang": "fr",
+                    "description": "Consommation de soins/services de sant\u00e9"
+                },
+                {
+                    "type": "primary evaluation",
+                    "lang": "fr",
+                    "description": "Qualit\u00e9 de vie/sant\u00e9 per\u00e7ue"
+                },
+                {
+                    "type": "primary evaluation",
+                    "lang": "en",
+                    "description": "Health event/morbidity"
+                },
+                {
+                    "type": "primary evaluation",
+                    "lang": "en",
+                    "description": "Health event/mortality"
+                },
+                {
+                    "type": "primary evaluation",
+                    "lang": "en",
+                    "description": "Health care consumption and services"
+                },
+                {
+                    "type": "primary evaluation",
+                    "lang": "en",
+                    "description": "Quality of life/health perception"
+                }
+            ]
+        }
+    },
+    "docDscr": {
+        "citation": {
+            "rspStmt": {
+                "AuthEnty": "Amaria BAGHDADLI"
+            },
+            "prodStmt": {
+                "producer": [
+                    {
+                        "affiliation": "CENTRE HOSPITALIER UNIVERSITAIRE DE MONTPELLIER (CHU)",
+                        "value": "Amaria;BAGHDADLI"
+                    }
+                ],
+                "prodPlac": "Portail \u00c9pid\u00e9miologie France"
+            }
+        }
+    },
+    "additional": {
+        "prodPlac": "Portail \u00c9pid\u00e9miologie France",
+        "relatedDocuments": {
+            "documentTitle": [
+                {
+                    "lang": "fr",
+                    "value": "Mise en place d\u2019une cohorte fran\u00e7aise d\u2019enfants et adolescents pr\u00e9sentant des troubles du spectre autistique : cohorte ELENA. A. Baghdadli, J. Loubersac, M. Soussana, C. Rattaz, C. Michelon. RESP 2014 Oct;62(5):297-303. doi: 10.1016/j.respe.2014.07.002"
+                },
+                {
+                    "lang": "en",
+                    "value": "Mise en place d\u2019une cohorte fran\u00e7aise d\u2019enfants et adolescents pr\u00e9sentant des troubles du spectre autistique : cohorte ELENA. A. Baghdadli, J. Loubersac, M. Soussana, C. Rattaz, C. Michelon. RESP 2014 Oct;62(5):297-303. doi: 10.1016/j.respe.2014.07.002"
+                }
+            ],
+            "documentLink": [
+                {
+                    "lang": "fr",
+                    "value": "http://www.ncbi.nlm.nih.gov/pubmed/25444837"
+                },
+                {
+                    "lang": "en",
+                    "value": "http://www.ncbi.nlm.nih.gov/pubmed/25444837"
+                }
+            ]
+        },
+        "creationDate": "07-12-2012",
+        "lastUpdatedManual": "25-10-2017",
+        "theme": {},
+        "governance": {
+            "committee": true
+        },
+        "collaborations": {},
+        "mockSample": {},
+        "dataQuality": {},
+        "variableDictionnary": {},
+        "dataTypes": {
+            "clinicalDataDetails": [
+                {
+                    "lang": "fr",
+                    "value": "Le recueil clinique comprend les \u00e9l\u00e9ments de l'\u00e9valuation \u00e0 vis\u00e9e diagnostique effectu\u00e9e au moment de l'inclusion : ADI, ADOS, Vineland 2, psychom\u00e9trie et de mani\u00e8re facultative la psychomotricit\u00e9. Ces \u00e9l\u00e9ments sont recueillis tous les 3 ans lors d'une \u00e9valuation. Un recueil interm\u00e9diaire aupr\u00e8s des parents est effectu\u00e9 18 mois apr\u00e8s l'inclusion, ce recueil comprend la Vineland 2 et des questionnaires.."
+                },
+                {
+                    "lang": "en",
+                    "value": "ADI, ADOS, Vineland 2, IQ, motricity"
+                }
+            ],
+            "isDataInBiobank": false
+        },
+        "collectionProcess": {
+            "collectionModeDetails": {
+                "lang": "fr",
+                "value": "A l'inclusion un recueil de donn\u00e9es cliniques est effectu\u00e9 \u00e0 partir du dossier m\u00e9dical de l'enfant. Ce recueil porte sur les bilans r\u00e9alis\u00e9s lors de l'\u00e9valuation multidisciplinaire qui comprend au minimum l'ADI, l'ADOS, la Vineland et 1 test psychom\u00e9trique adapt\u00e9. En parall\u00e8le des questionnaires sont compl\u00e9t\u00e9s par les parents via internet.. Ces questionnaires concernent les ant\u00e9c\u00e9dents m\u00e9dicaux de leur enfant, les troubles du comportement, les comorbidit\u00e9s psychiatriques, l'environnement social et familial, la qualit\u00e9 de vie."
+            }
+        },
+        "geographicalCoverage": {
+            "geoDetail": [
+                {
+                    "lang": "fr",
+                    "value": "le Consortium ELENA regroupe actuellement 12 centres"
+                },
+                {
+                    "lang": "en",
+                    "value": "13 centers"
+                }
+            ]
+        },
+        "activeFollowUp": {
+            "isActiveFollowUp": true
+        },
+        "dataCollectionIntegration": {
+            "isDataIntegration": false
+        },
+        "isHealthTheme": true
+    },
+    "schematype": "survey"
+}

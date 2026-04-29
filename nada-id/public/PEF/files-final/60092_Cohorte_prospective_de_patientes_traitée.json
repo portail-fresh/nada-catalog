@@ -1,0 +1,861 @@
+{
+  "stdyDscr": {
+    "citation": {
+      "titlStmt": {
+        "IDNo": [
+          {
+            "agency": "PEF",
+            "value": "60092"
+          },
+          {
+            "agency": "FReSH",
+            "value": "FRESH-PEF60092"
+          }
+        ],
+        "titl": [
+          {
+            "lang": "fr",
+            "value": "Cohorte prospective de patientes traitées par chimiothérapie néoadjuvante pour un cancer mammaire"
+          },
+          {
+            "lang": "en",
+            "value": "Prospective Cohort of Patients Receiving Neoadjuvant Chemotherapy for Breast Cancer"
+          }
+        ],
+        "altTitl": [
+          {
+            "lang": "fr",
+            "value": "CHIMIOTHERAPIE CANCER MAMMAIRE"
+          },
+          {
+            "lang": "en",
+            "value": "BREAST CANCER CHEMOTHERAPY"
+          }
+        ]
+      },
+      "rspStmt": {
+        "AuthEnty": [
+          {
+            "name": "François;GHIRINGHELLI",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "CENTR GEORGES FRANCOIS LECLERC"
+              },
+              {
+                "lang": "en",
+                "value": "CENTR GEORGES FRANCOIS LECLERC"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "0000-0002-5465-8305",
+                "role": "pi id",
+                "title": "ORCID"
+              },
+              {
+                "uri": "098797387",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/00pjqzf38",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "778204271",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ],
+            "isContact": true,
+            "email": "francois.ghiringhelli@inserm.fr",
+            "PILabo": ""
+          }
+        ],
+        "othId": {
+          "type": "collaboration",
+          "affiliation": {
+            "lang": "fr",
+            "value": "Autres cohortes apparentées : validation de nos donnees avec des cohortes externes"
+          }
+        }
+      },
+      "distStmt": {
+        "contact": [
+          {
+            "name": "François;GHIRINGHELLI",
+            "email": "francois.ghiringhelli@inserm.fr",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "CENTR GEORGES FRANCOIS LECLERC"
+              },
+              {
+                "lang": "en",
+                "value": "CENTR GEORGES FRANCOIS LECLERC"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/00pjqzf38",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "778204271",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          }
+        ]
+      },
+      "prodStmt": {
+        "fundAg": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "CENTR GEORGES FRANCOIS LECLERC"
+              },
+              {
+                "lang": "en",
+                "value": "CENTR GEORGES FRANCOIS LECLERC"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "ROR",
+                "uri": "https://ror.org/00pjqzf38"
+              },
+              {
+                "title": "SIREN",
+                "uri": "778204271"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Privé à but non lucratif"
+              },
+              {
+                "lang": "en",
+                "value": "Private non-profit"
+              }
+            ]
+          }
+        ],
+        "producer": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "CENTRE HOSPITALIER UNIVERSITAIRE DE DIJON"
+              },
+              {
+                "lang": "en",
+                "value": "CENTRE HOSPITALIER UNIVERSITAIRE DE DIJON"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "ROR",
+                "uri": "https://ror.org/0377z4z10"
+              },
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "262100076"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "studyAuthorization": {
+      "authorizingAgency": {
+        "lang": "fr",
+        "value": "CNIL"
+      }
+    },
+    "method": {
+      "notes": [
+        {
+          "subject": "research type",
+          "lang": "fr",
+          "value": "Etude observationnelle"
+        },
+        {
+          "subject": "research type",
+          "lang": "en",
+          "value": "Observational Study"
+        },
+        {
+          "lang": "fr",
+          "subject": "observational study method",
+          "value": "Cohorte"
+        },
+        {
+          "lang": "en",
+          "subject": "observational study method",
+          "value": "Cohort study"
+        }
+      ],
+      "stdyClas": [
+        {
+          "lang": "fr",
+          "value": "Inconnu"
+        },
+        {
+          "lang": "en",
+          "value": "Unknown"
+        }
+      ],
+      "dataColl": {
+        "targetSampleSize": [
+          {
+            "lang": "fr",
+            "value": "< 500 individus"
+          },
+          {
+            "lang": "en",
+            "value": "< 500 individuals"
+          }
+        ],
+        "sampleFrame": {
+          "frameUnit": {
+            "unitType": [
+              {
+                "lang": "fr",
+                "value": "Via des structures (services ou établissements de santé, écoles, entreprises…)"
+              },
+              {
+                "lang": "en",
+                "value": "Through organizations (health services or institutions, schools, businesses, etc.)"
+              }
+            ]
+          }
+        },
+        "sources": [
+          {}
+        ],
+        "collMode": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Transcription",
+              "vocab": "CESSDA"
+            },
+            "value": "Transcription et saisie d’informations dans un enregistrement structuré"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Transcription",
+              "vocab": "CESSDA"
+            },
+            "value": "Converting or copying information into a structured record"
+          }
+        ],
+        "sampProc": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ],
+        "respRate": [
+          {
+            "lang": "fr",
+            "value": "465"
+          },
+          {
+            "lang": "en",
+            "value": "465"
+          }
+        ]
+      }
+    },
+    "stdyInfo": {
+      "abstract": [
+        {
+          "contentType": "purpose",
+          "lang": "fr",
+          "value": "Objectif général : Évaluer les caractéristiques médicales, cliniques, biologiques et thérapeutiques des patientes ayant un cancer du sein recevant une chimiothérapie néoadjuvante Objectifs secondaires : - Évaluer l’impact à long terme de ces schémas thérapeutique sur les survies globales et sans récidives ; - Valider les scores pronostiques actuels issus d’une population américaine sur une cohorte française indépendante ; - Identifier les variables pronostiques et de sélectionner celles pertinentes pour la constitution et l’évaluation d’un nouveau score issu de notre base de données tenant compte des nouvelles données biologiques (scores de Chevallier et Sataloff et classification moléculaire) ; - Comparer les qualités pronostiques du nouveau score à celles du score américain ; - Réaliser une validation externe de ces scores (grâce à une collaboration avec l’équipe de l’institut Gustave Roussy à Villejuif et l’équipe de l’institut Bergonie à Bordeaux) ; - Isoler des facteurs génétiques (constitutionnel), génomiques (tumoraux) ou immunohistologiques ayant un pouvoir prédictif de la réponse au traitement et pronostic."
+        },
+        {
+          "contentType": "purpose",
+          "lang": "en",
+          "value": "General objective: To evaluate the medical, clinical, biological and therapeutic characteristics of breast cancer patients receiving neoadjuvant chemotherapy Secondary objectives: - To evaluate the long-term impact of therapeutic schemas on recurrence-free overall survival; - To validate the current prognostic scores from a U.S. population on an independent French cohort; - To identify prognostic variables and select those relevant to the establishment and evaluation of a new score from our database to reflect new biological data (Chevallier and Sataloff scores and molecular classification); - To compare the prognostic qualities of the new score to the U.S. score; - To conduct an external validation of these scores (through collaboration with the Institut Gustave Roussy team in Villejuif and the Institute Bergonie team in Bordeaux); - To isolate genetic (constitutional), genomic (tumour) or immunohistological factors with predictive power for treatment response and prognosis."
+        }
+      ],
+      "subject": {
+        "topcClas": [
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/5784b7f1-c7ce-49d9-9f38-aebcda0ff41d"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D008495"
+              }
+            ],
+            "value": "Oncologie"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/5784b7f1-c7ce-49d9-9f38-aebcda0ff41d"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D008495"
+              }
+            ],
+            "value": "Oncology"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "fr",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/1047754165",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Tumeurs malignes du sein"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "en",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/1047754165",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Malignant neoplasms of breast"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants liés au système de santé : Consommation des soins"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants liés au système de santé"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Healthcare system determinants: Use of care"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Healthcare system determinants"
+          }
+        ],
+        "keyword": [
+          {
+            "lang": "fr",
+            "value": "état"
+          },
+          {
+            "lang": "fr",
+            "value": "décédé"
+          },
+          {
+            "lang": "fr",
+            "value": "rechutes locales"
+          },
+          {
+            "lang": "fr",
+            "value": "métastatiques"
+          },
+          {
+            "lang": "fr",
+            "value": "données histologiques"
+          },
+          {
+            "lang": "fr",
+            "value": "classification"
+          },
+          {
+            "lang": "fr",
+            "value": "imagerie"
+          },
+          {
+            "lang": "fr",
+            "value": "événements de santé"
+          },
+          {
+            "lang": "fr",
+            "value": "traitement"
+          },
+          {
+            "lang": "fr",
+            "value": "chirurgie"
+          },
+          {
+            "lang": "en",
+            "value": "state"
+          },
+          {
+            "lang": "en",
+            "value": "local recurrence"
+          },
+          {
+            "lang": "en",
+            "value": "metastatic"
+          },
+          {
+            "lang": "en",
+            "value": "histological data"
+          },
+          {
+            "lang": "en",
+            "value": "imaging"
+          },
+          {
+            "lang": "en",
+            "value": "Health episodes"
+          },
+          {
+            "lang": "en",
+            "value": "death"
+          },
+          {
+            "lang": "en",
+            "value": "treatment"
+          },
+          {
+            "lang": "en",
+            "value": "classification"
+          },
+          {
+            "lang": "en",
+            "value": "surgery"
+          }
+        ]
+      },
+      "qualityStatement": {
+        "standardsCompliance": {},
+        "otherQualityStatement": {
+          "lang": "fr",
+          "value": "Présence d'une requête de cohérence au moment de la saisie des données informatiques et après la saisie des données informatiques Gestion des données manquantes par retour au dossier source ou retour vers un tiers Relance des médecins pour réaliser les visites de suivi Réalisation d'audits de qualité internes 1 fois par an Autre(s) procédure(s) qualité : TIRAGE AU SORT DE 10% DES DOSSIERS ET VALIDATIONS PAR DES DONNEES SAISIES PAR 1 EXPERT CLINICIEN ET 1 EXPERT METHODOLOGISTE Les patients sont informés de l'utilisation de leur données"
+        }
+      },
+      "sumDscr": {
+        "dataKind": [
+          {
+            "lang": "fr",
+            "value": "Données paracliniques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données biologiques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données paracliniques (hors biologiques) : Imagerie"
+          },
+          {
+            "lang": "en",
+            "value": "Biological data"
+          },
+          {
+            "lang": "en",
+            "value": "Paraclinical data (non-biological) : Imaging"
+          }
+        ],
+        "anlyUnit": [
+          {
+            "lang": "fr",
+            "value": "Individus"
+          },
+          {
+            "lang": "en",
+            "value": "Individuals"
+          }
+        ],
+        "nation": [
+          {
+            "lang": "fr",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          },
+          {
+            "lang": "en",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          }
+        ],
+        "geogCover": [
+          {
+            "lang": "fr",
+            "value": "Bourgogne Franche-Comté"
+          },
+          {
+            "lang": "en",
+            "value": "Bourgogne Franche-Comté"
+          }
+        ],
+        "universe": [
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Féminin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Female"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Adulte (19 à 24 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adulte (25 à 44 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Adulte (45 à 64 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Personne âgée (65 à 79 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Young Adult (19 to 24 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adult (25 to 44 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Middle Aged (45 to 64 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Aged (65 to 79 years)"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Patients"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "en",
+            "value": "Patients population"
+          },
+          {
+            "clusion": "I",
+            "lang": "fr",
+            "value": " patiente ayant un cancer du sein traité pour chimiothérapie néoadjuvante ; - accord écrit de la patiente."
+          },
+          {
+            "clusion": "I",
+            "lang": "en",
+            "value": "Patients with breast cancer receiving neoadjuvant chemotherapy; - patient's written consent."
+          },
+          {
+            "clusion": "E",
+            "lang": "fr",
+            "value": ""
+          },
+          {
+            "clusion": "E",
+            "lang": "en",
+            "value": ""
+          }
+        ],
+        "collDate": {
+          "event": "start",
+          "value": "1990-01-01"
+        }
+      }
+    },
+    "dataAccs": {
+      "setAvail": {
+        "avlStatus": [
+          {
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Accès réservé"
+          },
+          {
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Restricted access"
+          }
+        ],
+        "conditions": [
+          {
+            "lang": "fr",
+            "value": "Condition d&#x27;accès la partie biologique de l’etude est realise dans les unites inserm u866 (pr eric solary, dr ghiringhelli) a dijon et a l’inserm 645 de besançon"
+          },
+          {
+            "lang": "en",
+            "value": "Data may be used by academic teams Access for biological portion of study carried out in INSERM Unit U866 (Prof. Eric Solary, Dr. Ghiringhelli) in Dijon and INSERM Unit 645 in Besançon Data may not be used by industrial teams"
+          }
+        ]
+      },
+      "useStmt": {
+        "restrctn": [
+          {
+            "lang": "fr",
+            "value": "Utilisation possible des données par des équipes académiques Utilisation non possible des données par des industriels"
+          },
+          {
+            "lang": "en",
+            "value": "Data may be used by academic teams. Data may not be used by industrial teams"
+          }
+        ]
+      }
+    },
+    "othStdMat": {
+      "relMat": [
+        {
+          "lang": "fr",
+          "value": "Accès restreint sur projet spécifique"
+        },
+        {
+          "lang": "en",
+          "value": "Access on specific project only"
+        }
+      ]
+    },
+    "studyDevelopment": {
+      "developmentActivity": [
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/morbidité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/mortalité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/morbidity"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/mortality"
+        }
+      ]
+    }
+  },
+  "docDscr": {
+    "citation": {
+      "rspStmt": {
+        "AuthEnty": "François GHIRINGHELLI"
+      },
+      "prodStmt": {
+        "producer": [
+          {
+            "affiliation": "CENTR GEORGES FRANCOIS LECLERC",
+            "value": "François;GHIRINGHELLI"
+          }
+        ],
+        "prodPlac": "Portail Épidémiologie France"
+      }
+    }
+  },
+  "additional": {
+    "prodPlac": "Portail Épidémiologie France",
+    "relatedDocuments": {
+      "documentTitle": [
+        {
+          "lang": "fr"
+        },
+        {
+          "lang": "en"
+        }
+      ],
+      "documentLink": [
+        {
+          "lang": "fr",
+          "value": "http://www.ncbi.nlm.nih.gov/pubmed/21750556"
+        },
+        {
+          "lang": "en",
+          "value": "http://www.ncbi.nlm.nih.gov/pubmed/21750556"
+        }
+      ]
+    },
+    "creationDate": "08-03-2013",
+    "lastUpdatedManual": "04-08-2014",
+    "theme": {},
+    "governance": {},
+    "collaborations": {},
+    "mockSample": {},
+    "dataQuality": {},
+    "variableDictionnary": {},
+    "dataTypes": {
+      "biologicalDataDetails": [
+        {
+          "lang": "fr",
+          "value": "Type de prélèvements réalisés : Biopsie initiale et prélévement chirurgical (conservation en congélation et paraffine) serum"
+        },
+        {
+          "lang": "en",
+          "value": "Type of samples taken: Initial biopsy and surgical specimen (frozen or paraffin conservation) serum"
+        }
+      ],
+      "isDataInBiobank": true
+    },
+    "collectionProcess": {
+      "collectionModeDetails": [
+        {
+          "lang": "fr",
+          "value": "Examens cliniques : Saisie directe Examens biologiques : Saisie directe"
+        },
+        {
+          "lang": "en",
+          "value": "Clinical examinations: Direct input Biological analysis: Direct input"
+        }
+      ]
+    },
+    "geographicalCoverage": {
+      "geoDetail": [
+        {
+          "lang": "fr",
+          "value": "Bourgogne"
+        },
+        {
+          "lang": "en",
+          "value": "Burgundy"
+        }
+      ]
+    },
+    "activeFollowUp": {
+      "isActiveFollowUp": true
+    },
+    "dataCollectionIntegration": {
+      "isDataIntegration": false
+    },
+    "isHealthTheme": true
+  },
+  "schematype": "survey"
+}

@@ -1,0 +1,968 @@
+{
+  "stdyDscr": {
+    "citation": {
+      "titlStmt": {
+        "IDNo": [
+          {
+            "agency": "PEF",
+            "value": "219"
+          },
+          {
+            "agency": "FReSH",
+            "value": "FRESH-PEF219"
+          }
+        ],
+        "titl": [
+          {
+            "lang": "fr",
+            "value": "Registre français de la mucoviscidose (registre qualifié)"
+          },
+          {
+            "lang": "en",
+            "value": "French cystic fibrosis register (qualified register)"
+          }
+        ]
+      },
+      "rspStmt": {
+        "AuthEnty": [
+          {
+            "name": "Gilles;RAULT",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "chu"
+              },
+              {
+                "lang": "en",
+                "value": "chu"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "183253795",
+                "role": "pi id",
+                "title": "IdRef"
+              }
+            ],
+            "isContact": true,
+            "email": "gilles.rault@ildys.org",
+            "PILabo": "CHU / Centre de référence de la mucoviscidose"
+          },
+          {
+            "name": "Virginie;COLOMB-JUNG",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "VAINCRE LA MUCOVISCIDOSE (AFLM)"
+              },
+              {
+                "lang": "en",
+                "value": "VAINCRE LA MUCOVISCIDOSE (AFLM)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "061585157",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/00gp9bw49",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "784287583",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ],
+            "isContact": true,
+            "email": "vcolomb@vaincrelamuco.org",
+            "PILabo": "Association Vaincre la Mucoviscidose"
+          }
+        ],
+        "othId": []
+      },
+      "distStmt": {
+        "contact": [
+          {
+            "name": "Gilles;RAULT",
+            "email": "gilles.rault@ildys.org",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "chu"
+              },
+              {
+                "lang": "en",
+                "value": "chu"
+              }
+            ]
+          },
+          {
+            "name": "Virginie;COLOMB-JUNG",
+            "email": "vcolomb@vaincrelamuco.org",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "VAINCRE LA MUCOVISCIDOSE (AFLM)"
+              },
+              {
+                "lang": "en",
+                "value": "VAINCRE LA MUCOVISCIDOSE (AFLM)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/00gp9bw49",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "784287583",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          }
+        ]
+      },
+      "prodStmt": {
+        "fundAg": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "CENTRE HOSPITALIER UNIVERSITAIRE DE NANTES"
+              },
+              {
+                "lang": "en",
+                "value": "CENTRE HOSPITALIER UNIVERSITAIRE DE NANTES"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "ROR",
+                "uri": "https://ror.org/05c1qsg97"
+              },
+              {
+                "title": "SIREN",
+                "uri": "264400136"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "INSTITUT NATIONAL D'ETUDES DEMOGRAPHIQUES (INED)"
+              },
+              {
+                "lang": "en",
+                "value": "INSTITUT NATIONAL D'ETUDES DEMOGRAPHIQUES (INED)"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "ROR",
+                "uri": "https://ror.org/02cnsac56"
+              },
+              {
+                "title": "SIREN",
+                "uri": "180037020"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "VAINCRE LA MUCOVISCIDOSE (AFLM)"
+              },
+              {
+                "lang": "en",
+                "value": "VAINCRE LA MUCOVISCIDOSE (AFLM)"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "ROR",
+                "uri": "https://ror.org/00gp9bw49"
+              },
+              {
+                "title": "SIREN",
+                "uri": "784287583"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Privé à but non lucratif"
+              },
+              {
+                "lang": "en",
+                "value": "Private non-profit"
+              }
+            ]
+          }
+        ],
+        "producer": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "VAINCRE LA MUCOVISCIDOSE (AFLM)"
+              },
+              {
+                "lang": "en",
+                "value": "VAINCRE LA MUCOVISCIDOSE (AFLM)"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Privé à but non lucratif"
+              },
+              {
+                "lang": "en",
+                "value": "Private non-profit"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "ROR",
+                "uri": "https://ror.org/00gp9bw49"
+              },
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "784287583"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "studyAuthorization": {
+      "authorizingAgency": {
+        "lang": "fr",
+        "value": "CNIL"
+      }
+    },
+    "method": {
+      "notes": [
+        {
+          "subject": "research type",
+          "lang": "fr",
+          "value": "Etude observationnelle"
+        },
+        {
+          "subject": "research type",
+          "lang": "en",
+          "value": "Observational Study"
+        },
+        {
+          "lang": "fr",
+          "subject": "observational study method",
+          "value": "Registre de morbidité"
+        },
+        {
+          "lang": "en",
+          "subject": "observational study method",
+          "value": "Morbidity registry"
+        }
+      ],
+      "stdyClas": [
+        {
+          "lang": "fr",
+          "value": "Inconnu"
+        },
+        {
+          "lang": "en",
+          "value": "Unknown"
+        }
+      ],
+      "dataColl": {
+        "targetSampleSize": [
+          {
+            "lang": "fr",
+            "value": "[1000-10000[ individus"
+          },
+          {
+            "lang": "en",
+            "value": "[1000-10000[ individuals"
+          }
+        ],
+        "sampleFrame": {
+          "frameUnit": {}
+        },
+        "sources": [
+          {}
+        ],
+        "collMode": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Interview",
+              "vocab": "CESSDA"
+            },
+            "value": "Entretien avec le participant (dont clinique)"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Interview",
+              "vocab": "CESSDA"
+            },
+            "value": "Interview with the participant (including clinical)"
+          }
+        ],
+        "sampProc": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ],
+        "respRate": [
+          {
+            "lang": "fr",
+            "value": "Number of patients notified since the beginning of the recording year by year: Year : 1992 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 Number of patients : 1641 1849 2032 2215 2406 2551 2707 3231 3377 3589 3936 4111 4544 4745 4994 5140 5357 Analysis in progress"
+          },
+          {
+            "lang": "en",
+            "value": "Number of patients notified since the beginning of the recording year by year: Year : 1992 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 Number of patients : 1641 1849 2032 2215 2406 2551 2707 3231 3377 3589 3936 4111 4544 4745 4994 5140 5357 Analysis in progress"
+          }
+        ]
+      }
+    },
+    "stdyInfo": {
+      "abstract": [
+        {
+          "contentType": "purpose",
+          "lang": "fr",
+          "value": "1) Epidémiologie descriptive et analytique • Estimer la prévalence, l’incidence, la distribution géographique ainsi que le nombre de patients atteints de mucoviscidose en France • Estimer la mortalité et l’espérance de vie aux différents âges • Déterminer les facteurs de risque de mortalité • Décrire les caractéristiques médicales et socio-démographiques de la population, notamment des éléments concernant le diagnostic, l’anthropométrie, la spirométrie, la microbiologie, la morbidité, les transplantations et la prise en charge, ainsi que les situations scolaires et professionnelles des malades. L’analyse descriptive de ces données est finalisée par l’édition d’un bilan annuel et de rapports par centre et fait l’objet de publications, posters, communications à des congrès et information aux familles et patients via le magazine de l’association. 2) Evaluation des pratiques de soins Les données permettent l’évaluation de la qualité de la prise en charge, la qualité des soins et la qualité du diagnostic de la mucoviscidose. Elles permettent de répondre à la question fondamentale sur l’équité dans ces trois domaines, en comparant ces pratiques au protocole national de diagnostic et de soins pour cette maladie rare qu’est la mucoviscidose. A cela s’ajoutent : • l’analyse des facteurs de survie, en introduisant par exemple, outre les variables classiques, le lieu et le type de la prise en charge. • l’évaluation du coût socio-économique de la mucoviscidose pour tenter d’obtenir une adéquation des ressources aux besoins en constante évolution. • l’évaluation du dépistage néonatal (Cazes et al, ECFS 2005) • le développement d’un Programme d’Amélioration de la Qualité des soins dans la mucoviscidose en s’appuyant sur les benchmarks extraits du registre (principalement le VEMS et l’Indice de Corpulence). 3) Objectifs du registre dans les domaines de la thérapeutique et de la recherche • Mise à disposition d’une base de données pour les médecins et chercheurs. • Recherche de corrélations génotype-phénotype (Duguépéroux et al, 2002, 2004, 2005). • Mise en place d’enquêtes thématiques, par exemple : • Enquête « grossesse » : une première étape a consisté en la réalisation d’une étude rétrospective sur les grossesses recensées en France entre 1980 et 1995. A l’issue de cette étude, un registre prospectif a été poursuivi dès 1996 dans le cadre de l’observatoire, qui consiste en un questionnaire complémentaire pour toute grossesse signalée dans le recueil de données de l’observatoire. L’étude rétrospective et les premières années de recueil prospectif ont donné lieu à une publication (Gillet et al, 2002). • Enquête transversale « transplantations » réalisée en 2000 en collaboration avec l’Agence de Biomédecine. Elle a permis, outre les résultats, de déterminer un nombre de variables importantes à collecter et à intégrer dans le registre. • Enquête « cepacia » : l’observatoire cepacia a été mis en place en 1993 par l’association Vaincre la Mucoviscidose. Il a pour directeur scientifique le Pr G. Chabanon. Cet observatoire constitue un des observatoires thématiques du registre, avec lequel il partage un certain nombre de données, dont les principales caractéristiques d’identification des malades ; l’observatoire cepacia fonctionne en réseau avec les cliniciens et les microbiologistes des centres de soins. Ses missions sont, d’une part, d’assurer la surveillance épidémiologique des colonisations et infections par les Burkholderia du « complexe cepacia » et bactéries apparentées chez les malades atteints de mucoviscidose ; d’autre part, de constituer un souchier national de référence, à la disposition de la communauté scientifique. • Enquête « Mucoviscidose, Famille et Société» : enquête organisée par l’Institut National d’Études Démographiques (Ined), le Centre de Référence Maladies Rares \"Mucoviscidose\" du CHU de Nantes et l’association \"Vaincre la Mucoviscidose\". Elle vise à recueillir le point de vue des patients eux-mêmes – enfants, adolescents et adultes – sur leurs conditions et modes de vie :Quelles sont leurs situations familiales ? Quels ont été leurs parcours résidentiels, scolaires et professionnels ? Quels sont les aspects liés à la reconnaissance sociale de la maladie, aux allocations, aides et prestations perçues ? Quelles sont leurs éventuelles limitations fonctionnelles et/ou restrictions d’activité ? Comment se caractérise leur vie sociale, quelle est leur perception de la maladie, quelles relations entretiennent-ils avec leur centre de soins habituel ? Quels sont leurs besoins, leurs attentes et leurs aspirations ? Ces informations provenant des patients seront ensuite confrontées aux données médicales du Registre Français de la Mucoviscidose provenant des Centres de Ressources et de Compétences de la Mucoviscidose (CRCM). La finalité de cette étude est de mettre en place une enquête nationale quinquennale du Registre, fondé et géré par l’association \"Vaincre la Mucoviscidose\".Le projet est conduit en deux temps : d’abord une étape préliminaire de faisabilité, dite enquête pilote est réalisée auprès des patients suivis dans les CRCM de Roscoff et de Strasbourg ; ensuite une enquête nationale sera réalisée auprès de l’ensemble des patients suivis par les CRCM de France et sera renouvelée tous les cinq ans."
+        },
+        {
+          "contentType": "purpose",
+          "lang": "en",
+          "value": "1) Descriptive and analytical epidemiology • Estimate the prevalence, incidence, geographical distribution and number of patients suffering from cystic fibrosis in France • Estimate mortality and life expectancy at different ages • Determine the mortality risk factors • Describe the medical and socio-demographic characteristics of the population, especially elements concerning diagnosis, anthropometry, spirometry, microbiology, morbidity, transplants and treatment, as well as the educational and professional situations of patients. The descriptive analysis of this data is finalized by the publication of an annual report and center reports and is subject to other publications, posters, communication during congresses and information given to families and patients via the association's magazine. 2) Evaluation of healthcare practices The data is used to evaluate the quality of treatment, health care and diagnosis of cystic fibrosis. It also provides responses to the fundamental question on equity in these three fields, by comparing these practices to the national diagnosis and care protocol for this rare disease. The following is also carried out: • analysis of survival factors by introducing the treatment location and type of caring for example, in addition to the traditional variables. • evaluation of the socioeconomic cost of cystic fibrosis by trying to match resources to the constantly changing needs. • evaluation of neonatal screening (Cazes et al, ECFS 2005) • development of a Program for Improving the Quality of cystic fibrosis health care by looking to the benchmarks extracted from the registry (mainly the FEV1 and BMI). 3) The registry's objectives in the fields of therapy and research • Provision of a database for physicians and researchers. • Search for genotype-phenotype correlations (Duguépéroux et al, 2002, 2004, 2005). • Setup of thematic surveys, for example: • \"Pregnancy\" survey: an initial stage has consisted in a retrospective study of pregnancies listed in France between 1980 and 1995. At the end of this study, a prospective registry was set up in 1996 under the observatory, involving an additional questionnaire for any pregnancy reported in the observatory's data collection. The retrospective study and first few years of prospective data collection led to a publication (Gillet et al, 2002). • Cross-disciplinary study on \"transplants\" conducted in 2000 in liaison with the French Biomedicine Agency. In addition to the findings, it determined a number of important variables to collect and integrate into the registry. • \"Cepacia\" survey: the Cepacia observatory was set up in 1993 by the \"Vaincre la Mucoviscidose\" association. Its Scientific Director is Prof. G. Chabanon. This observatory is one of the thematic observatories of the registry, with which it shares some data, including the main characteristics for identifying patients; the Cepacia observatory networks with clinicians and microbiologists in healthcare centers. Its remit involves, on the one hand, conducting epidemiological surveillance of colonizations and infections by Burkholderia cepacia complex and similar bacteria in cystic fibrosis sufferers; on the other hand, building a national reference strain bank for use by the scientific community. • \"Mucoviscidose, Famille et Société\" survey: organized by the French National Institute for Demographic Studies (Ined), Reference Center for Rare Diseases, \"Cystic Fibrosis\", of Nantes teaching hospital and the \"Vaincre la Mucoviscidose\" association. This aims to gather the views of the patients themselves - children, teenagers and adults - of their lifestyles and conditions: What are their family situations? What are their residential, academic and professional pathways? What aspects are linked to social recognition of the disease, and the benefits and help received? What are their possible functional limitations and/or activity restrictions? How is their social life characterized, how do they perceive the disease and how do they get on with their usual care center? What are their needs, expectations and aspirations? This information gleaned from patients will then be compared against medical data in the French Cystic Fibrosis Registry from the Cystic Fibrosis Skills and Resources Centers (CRCMs). The purpose of this study is to set up a five-year national survey of the Registry, created and managed by the \"Vaincre la Mucoviscidose\" association. The project comprises two stages: firstly a preliminary feasibility stage, when a pilot survey is conducted among patients followed up in the Roscoff and Strasbourg CRCMs; secondly a national survey will be conducted among all of the patients followed up by the CRCMs across France and re-launched every five years."
+        }
+      ],
+      "subject": {
+        "topcClas": [
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/f6e18c52-6087-4662-904c-5c4b8174e40e"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D015272"
+              }
+            ],
+            "value": "Pneumologie"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/f6e18c52-6087-4662-904c-5c4b8174e40e"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D015272"
+              }
+            ],
+            "value": "Pulmonary medicine"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "fr",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/514403112",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Fibrose kystique"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "en",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/514403112",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Cystic fibrosis"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants biologiques : Prédispositions génétiques"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants biologiques"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Biological determinants: Genetic predisposition"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Biological determinants"
+          }
+        ]
+      },
+      "qualityStatement": {
+        "standardsCompliance": {
+          "standard": {
+            "standardName": {
+              "lang": "fr",
+              "value": "Code des professions de l'INSEE"
+            }
+          }
+        }
+      },
+      "sumDscr": {
+        "dataKind": [
+          {
+            "lang": "fr",
+            "value": "Données cliniques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données paracliniques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données biologiques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données socio-démographiques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données paracliniques (hors biologiques) : Exploration fonctionnelle"
+          },
+          {
+            "lang": "en",
+            "value": "Clinical data"
+          },
+          {
+            "lang": "en",
+            "value": "Biological data"
+          },
+          {
+            "lang": "en",
+            "value": "Socio-demographic data"
+          },
+          {
+            "lang": "en",
+            "value": "Paraclinical data (non-biological) : Function testing"
+          }
+        ],
+        "anlyUnit": [
+          {
+            "lang": "fr",
+            "value": "Individus"
+          },
+          {
+            "lang": "en",
+            "value": "Individuals"
+          }
+        ],
+        "nation": [
+          {
+            "lang": "fr",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          },
+          {
+            "lang": "en",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          }
+        ],
+        "universe": [
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Masculin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Féminin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Male"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Female"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D007231"
+            },
+            "value": "Nouveau-né (naissance à 28j)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D007223"
+            },
+            "value": "Nourrisson (28j à 2 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D002675"
+            },
+            "value": "Petite enfance (2 à 5 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D002648"
+            },
+            "value": "Enfance (6 à 12 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000293"
+            },
+            "value": "Adolescence (13 à 18 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Adulte (19 à 24 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adulte (25 à 44 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Adulte (45 à 64 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Personne âgée (65 à 79 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D007231"
+            },
+            "value": "Infant, Newborn (birth to 28 days)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D007223"
+            },
+            "value": "Infant (28 days to 2 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D002675"
+            },
+            "value": "Child, Preschool (2 to 5 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D002648"
+            },
+            "value": "Child (6 to 12 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Young Adult (19 to 24 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adult (25 to 44 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Middle Aged (45 to 64 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Aged (65 to 79 years)"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Patients"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "en",
+            "value": "Patients population"
+          },
+          {
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Les critères d’inclusion dans le registre sont, outre le consentement par le patient et/ou les parents pour l’utilisation des données, ceux définis par la conférence de consensus de 1998 de la Cystic Fibrosis Foundation et rapportés par Rosenstein et Cutting.  Il s’agit de l’association de critères cliniques et biologiques :  1) la présence d’une ou plusieurs caractéristique(s) phénotypique(s), ou un antécédent familial de mucoviscidose dans la fratrie, ou un taux de trypsine immunoréactive augmenté (dépistage néonatal) et  2) deux tests de la sueur positifs, ou deux mutations identifiées du gène CFTR, ou une différence de potentiel transépithélial nasal pathologique.  Cette définition de la mucoviscidose est en cours de modification dans le registre suite aux recommandations parues dans J Ped 2008:153:S4-S14"
+          },
+          {
+            "clusion": "I",
+            "lang": "en",
+            "value": "The criteria for inclusion in the registry are - in addition to consent by the patient and/or parents for data to be used - those defined by the 1998 consensus conference of the Cystic Fibrosis Foundation and reported by Rosenstein and Cutting.  These combine clinical and biological criteria:  1) the presence of one or more phenotypic characteristics or a family history of cystic fibrosis among siblings, or an increased rate of immunoreactive trypsin (neonatal screening) and  2) two positive sweat tests, or two mutations identified of the CFTR gene, or a pathological nasal transepithelial potential difference.  This definition of cystic fibrosis is currently being amended in the registry following the recommendations in J Ped 2008:153:S4-S14"
+          },
+          {
+            "clusion": "E",
+            "lang": "fr",
+            "value": ""
+          },
+          {
+            "clusion": "E",
+            "lang": "en",
+            "value": ""
+          }
+        ],
+        "collDate": {
+          "event": "start",
+          "value": "1992-01-01"
+        }
+      }
+    },
+    "dataAccs": {
+      "setAvail": {
+        "avlStatus": [
+          {
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Accès réservé"
+          },
+          {
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Restricted access"
+          }
+        ],
+        "conditions": [
+          {
+            "lang": "fr",
+            "value": "Demande de données sur: http://www.vaincrelamuco.org/ewb_pages/d/donnees_registre.php"
+          },
+          {
+            "lang": "en",
+            "value": "Data demand on : http://www.vaincrelamuco.org/ewb_pages/d/donnees_registre.php"
+          }
+        ]
+      },
+      "useStmt": {}
+    },
+    "othStdMat": {
+      "relMat": [
+        {
+          "lang": "fr",
+          "value": "Accès restreint sur projet spécifique"
+        },
+        {
+          "lang": "en",
+          "value": "Access on specific project only"
+        }
+      ]
+    },
+    "studyDevelopment": {
+      "developmentActivity": [
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/morbidité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/mortalité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Consommation de soins/services de santé"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/morbidity"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/mortality"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health care consumption and services"
+        }
+      ]
+    }
+  },
+  "docDscr": {
+    "citation": {
+      "rspStmt": {
+        "AuthEnty": "Virginie COLOMB-JUNG"
+      },
+      "prodStmt": {
+        "producer": [
+          {
+            "affiliation": "VAINCRE LA MUCOVISCIDOSE (AFLM)",
+            "value": "Virginie;COLOMB-JUNG"
+          }
+        ],
+        "prodPlac": "Portail Épidémiologie France"
+      }
+    }
+  },
+  "additional": {
+    "prodPlac": "Portail Épidémiologie France",
+    "relatedDocuments": {
+      "documentTitle": [
+        {
+          "lang": "fr"
+        },
+        {
+          "lang": "en"
+        }
+      ],
+      "documentLink": [
+        {
+          "lang": "fr",
+          "value": "http://www.registredelamuco.org"
+        },
+        {
+          "lang": "en",
+          "value": "http://www.registredelamuco.org"
+        }
+      ]
+    },
+    "creationDate": "27-12-2010",
+    "lastUpdatedManual": "11-02-2014",
+    "theme": {
+      "RareDiseases": true
+    },
+    "governance": {},
+    "collaborations": {},
+    "mockSample": {},
+    "dataQuality": {},
+    "variableDictionnary": {},
+    "dataTypes": {
+      "biologicalDataDetails": [
+        {
+          "lang": "fr",
+          "value": "ECBC : examen cyto-bactériologique des crachatsGaz du sang (SaO2, PaO2, PaCO2)"
+        },
+        {
+          "lang": "en",
+          "value": "Cytobacteriological sputum examination. Blood gases (SaO2, PaO2, PaCO2)"
+        }
+      ],
+      "isDataInBiobank": false
+    },
+    "collectionProcess": {
+      "collectionModeDetails": [
+        {
+          "lang": "fr",
+          "value": "Questionnaires annuels (3 types de recueil: import de logiciel patient, saisie en ligne, questionnaire papier)"
+        },
+        {
+          "lang": "en",
+          "value": "Annual questionnaires (3 types of collection: import from the patient software, online data entry and paper questionnaire)"
+        }
+      ]
+    },
+    "geographicalCoverage": {
+      "geoDetail": [
+        {
+          "lang": "fr",
+          "value": "France métropolitaine (ensemble des 22 régions) ainsi que l'île de la Réunion"
+        },
+        {
+          "lang": "en",
+          "value": "Metropolitan France (all the 22 regions) as well as Reunion island"
+        }
+      ]
+    },
+    "activeFollowUp": {
+      "isActiveFollowUp": true
+    },
+    "dataCollectionIntegration": {
+      "isDataIntegration": false
+    },
+    "isHealthTheme": true
+  },
+  "schematype": "survey"
+}

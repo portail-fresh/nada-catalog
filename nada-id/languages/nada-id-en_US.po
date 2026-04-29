@@ -1,0 +1,444 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: nada-id\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-29 00:00+0000\n"
+"PO-Revision-Date: 2026-04-06 01:01+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.8\n"
+"X-Domain: nada-id\n"
+
+msgid "draft"
+msgstr "Draft"
+
+msgid "pending"
+msgstr "Awaiting validation"
+
+msgid "changes_requested"
+msgstr "Returned"
+
+msgid "rejected"
+msgstr "Rejected"
+
+msgid "published"
+msgstr "Published"
+
+msgid "unpublished"
+msgstr "Unpublished"
+
+msgid "archived"
+msgstr "Archived"
+
+msgid "imported"
+msgstr "Imported"
+
+# les noms du list des facettes
+msgid "Provenance"
+msgstr "Provenance"
+
+msgid "TrialPhase"
+msgstr "Study Phase"
+
+msgid "ObservationalStudyDe"
+msgstr "Observational Study  Design"
+
+msgid "AllocationMode"
+msgstr "Allocation Type"
+
+msgid "StudyStatus"
+msgstr "Study status"
+
+msgid "HealthTheme"
+msgstr "Medical field"
+
+msgid "HealthDeterminant"
+msgstr "Health determinants"
+
+msgid "RareDiseases"
+msgstr "Rare diseases"
+
+msgid "CollectionStart"
+msgstr "Collection Start Date"
+
+msgid "IndividualDataAccess"
+msgstr "Individual data access status"
+
+msgid "PopulationType"
+msgstr "Population Type"
+
+msgid "SponsorName"
+msgstr "Sponsor name"
+
+msgid "sponsorType"
+msgstr "Sponsor type"
+
+msgid "DataType"
+msgstr "Data types"
+
+msgid "FinalSampleSize"
+msgstr "Planned number of participants"
+
+msgid "DataAccessRequestToo"
+msgstr "Data access tool"
+
+msgid "FranceRegion"
+msgstr "Regions"
+
+msgid "Age"
+msgstr "Age of participants"
+
+msgid "Sex"
+msgstr "Gender of participants"
+
+msgid "FunderName"
+msgstr "Funder"
+
+msgid "SourceType"
+msgstr "Type of third-party data source used in the study"
+
+msgid "CollectionEnd"
+msgstr "Collection End Date"
+
+msgid "listTitleKey"
+msgstr "Title"
+
+msgid "listCreationDateKey"
+msgstr "Creation date"
+
+msgid "listStatusKey"
+msgstr "Status"
+
+msgid "listUserKey"
+msgstr "Created by"
+
+msgid "listAbbreviationKey"
+msgstr "Acronym"
+
+msgid "listPIKey"
+msgstr "Principal Investigator"
+
+msgid "listPublishKey"
+msgstr "Publish"
+
+msgid "listModificationDateKey"
+msgstr "Date of modification"
+
+msgid "listLastModificator"
+msgstr "Updated by"
+
+msgid "listIdentifierKey"
+msgstr "Identifier"
+
+msgid "actionDetails"
+msgstr "details"
+
+msgid "actionEdit"
+msgstr "Edit"
+
+msgid "actionReject"
+msgstr "Reject"
+
+msgid "actionApprove"
+msgstr "Approuver"
+
+msgid "actionDelete"
+msgstr "Delete"
+
+msgid "actionRequiredChanges"
+msgstr "Required changes"
+
+msgid "catalogSortBy"
+msgstr "Sort By"
+
+msgid "catalogDisplay"
+msgstr "Display"
+
+msgid "catalogFreeResearch"
+msgstr "Free research"
+
+msgid "catalogResearch"
+msgstr "Search"
+
+msgid "catalogPlaceholder"
+msgstr "Keywords, author, theme..."
+
+msgid "loading"
+msgstr "Loading..."
+
+msgid "DataTypeKind"
+msgstr "Data types"
+
+msgid "ResearchType"
+msgstr "Study Type"
+
+msgid "Email"
+msgstr "Contact with the data production team"
+
+msgid "emptyCatalogData"
+msgstr "No items to display."
+
+msgid "refName"
+msgstr "Name repository"
+
+msgid "titleModelAddItem"
+msgstr "Add new item"
+
+msgid "refListNameFr"
+msgstr "Name fr"
+
+msgid "refListNameEn"
+msgstr "Name en"
+
+msgid "refListDescriptionFr"
+msgstr "Description fr"
+
+msgid "refListDescriptionEn"
+msgstr "Description en"
+
+msgid "refListIdentifier"
+msgstr "Identifier"
+
+msgid "refListStatus"
+msgstr "Status"
+
+msgid "emptyRefData"
+msgstr "No items to display."
+
+msgid "saveAddRefItemButton"
+msgstr "Save"
+
+msgid "cancelRefItemButton"
+msgstr "Cancel"
+
+msgid "btnBack"
+msgstr "Back"
+
+msgid "edit"
+msgstr "Edit"
+
+msgid "uploadAcceptExtMsg"
+msgstr "The provided file is not valid. Accepted formats :"
+
+msgid "uploadProvidFileMsg"
+msgstr "No JSON or XML file provided."
+
+msgid "uploadReadableFileMsg"
+msgstr "The specified file does not exist or is not readable."
+
+msgid "noDataFound"
+msgstr "No data found."
+
+msgid "noStudies"
+msgstr "You haven't added anything yet."
+
+msgid "rejectionStudy"
+msgstr "Rejection of the study"
+
+msgid "textConfirmRejectionStudy"
+msgstr "Are you sure you want to <strong>reject</strong> the study"
+
+msgid "btnConfirm"
+msgstr "Confirm"
+
+msgid "btnCancel"
+msgstr "Cancel"
+
+msgid "deleteStudy"
+msgstr "Suppression of the study"
+
+msgid "textConfirmDeleteStudy"
+msgstr "Are you sure you want to <strong>delete</strong> the study"
+
+msgid "subTextConfirmDeleteStudy"
+msgstr "This action is irreversible."
+
+msgid "cancelModalTitle"
+msgstr "Cancel of the study"
+
+msgid "cancelModalTxt"
+msgstr "Are you sure you want to  <strong>cancel</strong> the submission of study"
+
+msgid "decisionStudy"
+msgstr "Study decision"
+
+msgid "textDecisionStudy"
+msgstr "Are you sure you want to <strong>Approve / Disapprove</strong> the study"
+
+msgid "btnApprove"
+msgstr "Approve"
+
+msgid "btnDisapprove"
+msgstr "Disapprove"
+
+msgid "requestChanges"
+msgstr "Request for changes"
+
+msgid "textRequestChanges"
+msgstr "Are you sure you want to send a request for <strong>changes</strong> to the study"
+
+msgid "textPublishUnpublishedStudy"
+msgstr "Are you sure you want to <strong class=\"study-action\"></strong> the study"
+
+msgid "titlePublishUnpublishedStudy"
+msgstr "Confirmation"
+
+msgid "spacePlaceholde"
+msgstr "Title, User, Updated by"
+
+msgid "spaceResearch"
+msgstr "Search"
+
+msgid "spaceDisplay"
+msgstr "Display"
+
+msgid "spaceEntries"
+msgstr "entries"
+
+msgid "spaceSortBy"
+msgstr "Order by"
+
+msgid "orderDesc"
+msgstr "Z-A"
+
+msgid "orderAsc"
+msgstr "A-Z"
+
+msgid "spacePlaceholder"
+msgstr "Title, User, Updated by"
+
+msgid "frenchTermVD"
+msgstr "French label"
+
+msgid "englishTermVD"
+msgstr "English label"
+
+msgid "frenchDescVD"
+msgstr "French description"
+
+msgid "englishDescVD"
+msgstr "English description"
+
+msgid "editActionVD"
+msgstr "Edit"
+
+msgid "introductionVD"
+msgstr "Introduction"
+
+msgid "metadataSchemaVD"
+msgstr "FReSH Metadata Schema"
+
+msgid "controlledVocabulariesVD"
+msgstr "Controlled vocabularies"
+
+msgid "elementIdVDSchema"
+msgstr "Element ID"
+
+msgid "variableNameVDSchema"
+msgstr "Variable name"
+
+msgid "labelFRVDSchema"
+msgstr "Label FR"
+
+msgid "labelENVDSchema"
+msgstr "Label EN"
+
+msgid "descFRVDSchema"
+msgstr "Description FR"
+
+msgid "descENVDSchema"
+msgstr "Description EN"
+
+msgid "variableTypeVDSchema"
+msgstr "Variable type"
+
+msgid "titleVDModel"
+msgstr "Modification of the description"
+
+msgid "textConfirmInsModal"
+msgstr "Are you sure you want to <strong class=\"institution-action\"> approve </strong> the institution : "
+
+msgid "dtSearchBtn"
+msgstr "Search"
+
+msgid "dtSearchPlaceholder"
+msgstr "Search..."
+
+msgid "dtDisplay"
+msgstr "Display"
+
+msgid "dtDisplayOptionAll"
+msgstr "All"
+
+msgid "addInstitution"
+msgstr "Add institution"
+
+msgid "catalogCountry"
+msgstr "Country"
+
+msgid "catalogCollectionPeriod"
+msgstr "Collection period"
+
+msgid "catalogPI"
+msgstr "Principal investigator"
+
+msgid "catalogLastModified"
+msgstr "Last modified"
+
+msgid "catalogViews"
+msgstr "Views"
+
+msgid "catalogNoStudies"
+msgstr "No studies found."
+
+msgid "displayItems"
+msgstr "View items"
+
+msgid "metadataIdentifier"
+msgstr "Study ID code"
+
+msgid "metadataIDSchema"
+msgstr "Study ID source"
+
+msgid "metadataProvenance"
+msgstr "Provenance"
+
+msgid "metadataVersionLang"
+msgstr "Version language"
+
+msgid "metadataOriginLang"
+msgstr "Original language"
+
+msgid "metadataCreationDate"
+msgstr "First record date"
+
+msgid "metadataLastUpdatedAuto"
+msgstr "Last automatic update date"
+
+msgid "metadataLastUpdatedManual"
+msgstr "Last manual update date"
+
+msgid "metadataRespValidation"
+msgstr "Completion/validation by the responsible person"
+
+msgid "metadataAutoTranslation"
+msgstr "Automatic translation"
+
+msgid "metadataStatus"
+msgstr "Status"
+
+msgid "metadataContributorName"
+msgstr "Last name – First name"
+
+msgid "metadataContributorAffiliation"
+msgstr "Affiliation"
+
+msgid "technicalMetadata"
+msgstr "Technical metadata"
+
+msgid "technicalMetadataInfoBulle"
+msgstr "Click to access technical metadata"

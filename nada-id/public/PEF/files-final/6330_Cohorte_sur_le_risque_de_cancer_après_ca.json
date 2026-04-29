@@ -1,0 +1,982 @@
+{
+  "stdyDscr": {
+    "citation": {
+      "titlStmt": {
+        "IDNo": [
+          {
+            "agency": "PEF",
+            "value": "6330"
+          },
+          {
+            "agency": "FReSH",
+            "value": "FRESH-PEF6330"
+          }
+        ],
+        "titl": [
+          {
+            "lang": "fr",
+            "value": "Cohorte sur le risque de cancer après cardiologie interventionnelle pédiatrique"
+          },
+          {
+            "lang": "en",
+            "value": "Cohorte sur le risque de cancer après cardiologie interventionnelle pédiatrique"
+          }
+        ],
+        "altTitl": [
+          {
+            "lang": "fr",
+            "value": "Coccinelle"
+          },
+          {
+            "lang": "en",
+            "value": "COCCINELLE"
+          }
+        ]
+      },
+      "rspStmt": {
+        "AuthEnty": [
+          {
+            "name": "Hélène;BAYSSON",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "AUTORITE DE SURETE NUCLEAIRE ET DE RADIOPROTECTION (ASNR)"
+              },
+              {
+                "lang": "en",
+                "value": "AUTORITE DE SURETE NUCLEAIRE ET DE RADIOPROTECTION (ASNR)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/04dbtaf18",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "130001803",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ],
+            "isContact": true,
+            "email": "helene.baysson@irsn.fr",
+            "PILabo": "IRSN / Laboratoire d'Epidémiologie"
+          },
+          {
+            "name": "Marie-Odile;BERNIER",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "AUTORITE DE SURETE NUCLEAIRE ET DE RADIOPROTECTION (ASNR)"
+              },
+              {
+                "lang": "en",
+                "value": "AUTORITE DE SURETE NUCLEAIRE ET DE RADIOPROTECTION (ASNR)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "09431862X",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/04dbtaf18",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "130001803",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ],
+            "isContact": true,
+            "email": "marie-odile.bernier@irsn.fr",
+            "PILabo": "IRSN / Laboratoire d'Epidémiologie"
+          },
+          {
+            "name": "Dominique;LAURIER",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "AUTORITE DE SURETE NUCLEAIRE ET DE RADIOPROTECTION (ASNR)"
+              },
+              {
+                "lang": "en",
+                "value": "AUTORITE DE SURETE NUCLEAIRE ET DE RADIOPROTECTION (ASNR)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "0000-0003-1432-4738",
+                "role": "pi id",
+                "title": "ORCID"
+              },
+              {
+                "uri": "156587181",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/04dbtaf18",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "130001803",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ],
+            "isContact": true,
+            "email": "dominique.laurier@irsn.fr",
+            "PILabo": "IRSN / Laboratoire d'Epidémiologie"
+          }
+        ],
+        "othId": []
+      },
+      "distStmt": {
+        "contact": [
+          {
+            "name": "Hélène;BAYSSON",
+            "email": "helene.baysson@irsn.fr",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "AUTORITE DE SURETE NUCLEAIRE ET DE RADIOPROTECTION (ASNR)"
+              },
+              {
+                "lang": "en",
+                "value": "AUTORITE DE SURETE NUCLEAIRE ET DE RADIOPROTECTION (ASNR)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/04dbtaf18",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "130001803",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          },
+          {
+            "name": "Marie-Odile;BERNIER",
+            "email": "marie-odile.bernier@irsn.fr",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "AUTORITE DE SURETE NUCLEAIRE ET DE RADIOPROTECTION (ASNR)"
+              },
+              {
+                "lang": "en",
+                "value": "AUTORITE DE SURETE NUCLEAIRE ET DE RADIOPROTECTION (ASNR)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/04dbtaf18",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "130001803",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          },
+          {
+            "name": "Dominique;LAURIER",
+            "email": "dominique.laurier@irsn.fr",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "AUTORITE DE SURETE NUCLEAIRE ET DE RADIOPROTECTION (ASNR)"
+              },
+              {
+                "lang": "en",
+                "value": "AUTORITE DE SURETE NUCLEAIRE ET DE RADIOPROTECTION (ASNR)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/04dbtaf18",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "130001803",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          }
+        ]
+      },
+      "prodStmt": {
+        "fundAg": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "AUTORITE DE SURETE NUCLEAIRE ET DE RADIOPROTECTION (ASNR)"
+              },
+              {
+                "lang": "en",
+                "value": "AUTORITE DE SURETE NUCLEAIRE ET DE RADIOPROTECTION (ASNR)"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "ROR",
+                "uri": "https://ror.org/04dbtaf18"
+              },
+              {
+                "title": "SIREN",
+                "uri": "130001803"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "INSTITUT NATIONAL DU CANCER (INCA)"
+              },
+              {
+                "lang": "en",
+                "value": "INSTITUT NATIONAL DU CANCER (INCA)"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "ROR",
+                "uri": "https://ror.org/03m8vkq32"
+              },
+              {
+                "title": "SIREN",
+                "uri": "187512777"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ]
+          }
+        ],
+        "producer": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "AUTORITE DE SURETE NUCLEAIRE ET DE RADIOPROTECTION (ASNR)"
+              },
+              {
+                "lang": "en",
+                "value": "AUTORITE DE SURETE NUCLEAIRE ET DE RADIOPROTECTION (ASNR)"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "ROR",
+                "uri": "https://ror.org/04dbtaf18"
+              },
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "130001803"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "studyAuthorization": {
+      "authorizingAgency": {
+        "lang": "fr",
+        "value": "CNIL"
+      }
+    },
+    "method": {
+      "notes": [
+        {
+          "subject": "research type",
+          "lang": "fr",
+          "value": "Etude observationnelle"
+        },
+        {
+          "subject": "research type",
+          "lang": "en",
+          "value": "Observational Study"
+        },
+        {
+          "lang": "fr",
+          "subject": "observational study method",
+          "value": "Cohorte"
+        },
+        {
+          "lang": "en",
+          "subject": "observational study method",
+          "value": "Cohort study"
+        }
+      ],
+      "stdyClas": [
+        {
+          "lang": "fr",
+          "value": "Inconnu"
+        },
+        {
+          "lang": "en",
+          "value": "Unknown"
+        }
+      ],
+      "dataColl": {
+        "targetSampleSize": [
+          {
+            "lang": "fr",
+            "value": "[1000-10000[ individus"
+          },
+          {
+            "lang": "en",
+            "value": "[1000-10000[ individuals"
+          }
+        ],
+        "sampleFrame": {
+          "frameUnit": {
+            "unitType": [
+              {
+                "lang": "fr",
+                "value": "Via des structures (services ou établissements de santé, écoles, entreprises…)"
+              },
+              {
+                "lang": "en",
+                "value": "Through organizations (health services or institutions, schools, businesses, etc.)"
+              }
+            ]
+          }
+        },
+        "sources": [
+          {}
+        ],
+        "collMode": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ],
+        "sampProc": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ],
+        "respRate": [
+          {
+            "lang": "fr",
+            "value": "8000"
+          },
+          {
+            "lang": "en",
+            "value": "8000"
+          }
+        ]
+      }
+    },
+    "stdyInfo": {
+      "abstract": [
+        {
+          "contentType": "purpose",
+          "lang": "fr",
+          "value": "Constituer une cohorte d’enfants de moins de 10 ans ayant bénéficié d’au moins une procédure de cardiologie interventionnelle entre 2000 et 2013 afin d’évaluer les risques de cancer à long terme"
+        },
+        {
+          "contentType": "purpose",
+          "lang": "en",
+          "value": "Children with congenital heart disease frequently undergo cardiac catheterization procedures for diagnostic or treatment purposes. Despite the clear clinical benefit to the patient, the complexity of these procedures may result in high cumulative radiation exposure. Given children's greater sensitivity to radiation and the longer life span during which radiation health effects can develop, an epidemiological cohort study, named Coccinelle (Cohorte sur le risque de cancer après cardiologie interventionnelle pédiatrique) is being launched in France to evaluate the risks of leukaemia and solid cancers in this specific population."
+        }
+      ],
+      "subject": {
+        "topcClas": [
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/5784b7f1-c7ce-49d9-9f38-aebcda0ff41d"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D008495"
+              }
+            ],
+            "value": "Oncologie"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/4455c187-2f2f-4cd1-a4dd-449f59d73b39"
+              },
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/c42fc6ec-b216-4a24-9e9d-f5e781c175a0"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D002309"
+              }
+            ],
+            "value": "Cardiologie et médecine vasculaire"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/bf8aaaac-ddee-41cd-bb8a-c5a63de3fcbd"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D010372"
+              }
+            ],
+            "value": "Pédiatrie"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/5784b7f1-c7ce-49d9-9f38-aebcda0ff41d"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D008495"
+              }
+            ],
+            "value": "Oncology"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/4455c187-2f2f-4cd1-a4dd-449f59d73b39"
+              },
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/c42fc6ec-b216-4a24-9e9d-f5e781c175a0"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D002309"
+              }
+            ],
+            "value": "Cardiology and vascular medicine"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/bf8aaaac-ddee-41cd-bb8a-c5a63de3fcbd"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D010372"
+              }
+            ],
+            "value": "Paediatrics"
+          }
+        ],
+        "keyword": [
+          {
+            "lang": "fr",
+            "value": "rayonnements ionisants"
+          },
+          {
+            "lang": "fr",
+            "value": "enfants"
+          },
+          {
+            "lang": "en",
+            "value": "ionizing radiation"
+          },
+          {
+            "lang": "en",
+            "value": "interventional cardiology"
+          },
+          {
+            "lang": "en",
+            "value": "cancer"
+          },
+          {
+            "lang": "en",
+            "value": "children"
+          }
+        ]
+      },
+      "qualityStatement": {
+        "standardsCompliance": {},
+        "otherQualityStatement": {
+          "lang": "fr",
+          "value": "Présence d'une requête de cohérence après la saisie des données informatiques.Gestion des données manquantes par retour au dossier source.Audit sur le traitement des bases de données.L'IRSN est accrédité ISO 9001."
+        }
+      },
+      "sumDscr": {
+        "dataKind": [
+          {
+            "lang": "fr",
+            "value": "Données cliniques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données paracliniques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données socio-démographiques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données paracliniques (hors biologiques) : Autre"
+          },
+          {
+            "lang": "en",
+            "value": "Clinical data"
+          },
+          {
+            "lang": "en",
+            "value": "Socio-demographic data"
+          },
+          {
+            "lang": "en",
+            "value": "Paraclinical data (non-biological) : Other"
+          }
+        ],
+        "anlyUnit": [
+          {
+            "lang": "fr",
+            "value": "Individus"
+          },
+          {
+            "lang": "en",
+            "value": "Individuals"
+          }
+        ],
+        "nation": [
+          {
+            "lang": "fr",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          },
+          {
+            "lang": "en",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          }
+        ],
+        "universe": [
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Masculin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Féminin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Male"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Female"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D007231"
+            },
+            "value": "Nouveau-né (naissance à 28j)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D007223"
+            },
+            "value": "Nourrisson (28j à 2 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D002675"
+            },
+            "value": "Petite enfance (2 à 5 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D002648"
+            },
+            "value": "Enfance (6 à 12 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000293"
+            },
+            "value": "Adolescence (13 à 18 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D007231"
+            },
+            "value": "Infant, Newborn (birth to 28 days)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D007223"
+            },
+            "value": "Infant (28 days to 2 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D002675"
+            },
+            "value": "Child, Preschool (2 to 5 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D002648"
+            },
+            "value": "Child (6 to 12 years)"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Patients"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "en",
+            "value": "Patients population"
+          },
+          {
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Les enfants ayant bénéficié d’une procédure de cardiologie interventionnelle entre 2000 et 2013 et âgés de moins de 10 ans au moment de l’intervention de cardiologie."
+          },
+          {
+            "clusion": "I",
+            "lang": "en",
+            "value": "The study population will include all children who have undergone at least one cardiac catheterization procedure since 2000 and were under 10 years old and permanent residents of France at the time of the procedure. Electronically stored patient records from the departments of paediatric cardiology of the French national network for complex congenital heart diseases (M3C) are being searched to identify the children to be included."
+          },
+          {
+            "clusion": "E",
+            "lang": "fr",
+            "value": ""
+          },
+          {
+            "clusion": "E",
+            "lang": "en",
+            "value": ""
+          }
+        ],
+        "collDate": [
+          {
+            "event": "start",
+            "value": "2011-01-01"
+          },
+          {
+            "event": "end",
+            "value": "2014-01-01"
+          }
+        ]
+      }
+    },
+    "dataAccs": {
+      "setAvail": {
+        "avlStatus": [
+          {
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Accès réservé"
+          },
+          {
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Restricted access"
+          }
+        ],
+        "conditions": [
+          {
+            "lang": "fr",
+            "value": "Contacter le responsable scientifique"
+          },
+          {
+            "lang": "en"
+          }
+        ]
+      },
+      "useStmt": {}
+    },
+    "othStdMat": {
+      "relMat": [
+        {
+          "lang": "fr",
+          "value": "Accès restreint sur projet spécifique"
+        },
+        {
+          "lang": "en",
+          "value": "Access on specific project only"
+        }
+      ]
+    },
+    "studyDevelopment": {
+      "developmentActivity": [
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/morbidité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/mortalité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/morbidity"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/mortality"
+        }
+      ]
+    }
+  },
+  "docDscr": {
+    "citation": {
+      "rspStmt": {
+        "AuthEnty": "Estelle RAGE"
+      },
+      "prodStmt": {
+        "producer": [
+          {
+            "affiliation": "AUTORITE DE SURETE NUCLEAIRE ET DE RADIOPROTECTION (ASNR)",
+            "value": "Estelle;RAGE"
+          }
+        ],
+        "prodPlac": "Portail Épidémiologie France"
+      }
+    }
+  },
+  "additional": {
+    "prodPlac": "Portail Épidémiologie France",
+    "relatedDocuments": {
+      "documentTitle": [
+        {
+          "lang": "fr",
+          "value": "Liste des publications dans Pubmed"
+        },
+        {
+          "lang": "en",
+          "value": "Liste des publications dans Pubmed"
+        }
+      ],
+      "documentLink": [
+        {
+          "lang": "fr",
+          "value": "http://www.ncbi.nlm.nih.gov/pubmed/?term=%28%28Baysson[Author]+OR+Bernier[Author]+OR+Laurier[Author]%29+AND+%28coccinelle+OR+ladybird%29%29+OR+23521893[uid]"
+        },
+        {
+          "lang": "en",
+          "value": "http://www.ncbi.nlm.nih.gov/pubmed/?term=%28%28Baysson[Author]+OR+Bernier[Author]+OR+Laurier[Author]%29+AND+%28coccinelle+OR+ladybird%29%29+OR+23521893[uid]"
+        }
+      ]
+    },
+    "creationDate": "30-05-2013",
+    "lastUpdatedManual": "28-02-2014",
+    "theme": {},
+    "governance": {},
+    "collaborations": {},
+    "mockSample": {},
+    "dataQuality": {},
+    "variableDictionnary": {},
+    "dataTypes": {
+      "clinicalDataDetails": {
+        "lang": "fr",
+        "value": "-------"
+      },
+      "isDataInBiobank": false
+    },
+    "collectionProcess": {
+      "collectionModeDetails": {
+        "lang": "fr",
+        "value": "Rétrospectif"
+      }
+    },
+    "geographicalCoverage": {
+      "geoDetail": [
+        {
+          "lang": "fr",
+          "value": "centres de cardiologie pédiatrique ayant une activité de cardiologie interventionnelle"
+        },
+        {
+          "lang": "en",
+          "value": "The minimum dataset will comprise: identification of the subject, characteristics of the procedure and technical details, such as fluoroscopy time and dose area product (DAP), which are needed to reconstruct the doses received by each child. The cohort will be followed up through linkage with the two French paediatric cancer registries, which record all cases of childhood leukaemia and solid cancers in France. Radiation exposure will be estimated retrospectively for each child included in the cohort. Organ doses, especially to the lung, the oesophagus, and the thyroid will then be calculated with PCXMC software."
+        }
+      ]
+    },
+    "activeFollowUp": {
+      "isActiveFollowUp": true
+    },
+    "dataCollectionIntegration": {
+      "isDataIntegration": false
+    },
+    "isHealthTheme": true
+  },
+  "schematype": "survey"
+}

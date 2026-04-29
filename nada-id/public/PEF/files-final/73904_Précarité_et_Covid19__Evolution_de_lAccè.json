@@ -1,0 +1,775 @@
+{
+  "stdyDscr": {
+    "citation": {
+      "titlStmt": {
+        "IDNo": [
+          {
+            "agency": "PEF",
+            "value": "73904"
+          },
+          {
+            "agency": "FReSH",
+            "value": "FRESH-PEF73904"
+          }
+        ],
+        "titl": [
+          {
+            "lang": "fr",
+            "value": "Précarité et Covid-19 : Evolution de l’Accès et du Recours à la Santé» Île-de-France mars-juin 2020"
+          },
+          {
+            "lang": "en",
+            "value": "Poverty and Covid-19: changes in access and recourse to health care, Île-de-France March-June 2020"
+          }
+        ],
+        "altTitl": [
+          {
+            "lang": "fr",
+            "value": "PreCARES"
+          },
+          {
+            "lang": "en",
+            "value": "PreCARES"
+          }
+        ]
+      },
+      "rspStmt": {
+        "AuthEnty": [
+          {
+            "name": "Jean-François;VERAN",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "FEDERAL UNIVERSITY OF RIO DE JANEIRO"
+              },
+              {
+                "lang": "en",
+                "value": "FEDERAL UNIVERSITY OF RIO DE JANEIRO"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "075051915",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/03490as77",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "199712591D",
+                "role": "labo id",
+                "title": "RNSR"
+              }
+            ],
+            "isContact": false,
+            "email": "",
+            "PILabo": "Université fédérale de Rio, Bresil"
+          }
+        ],
+        "othId": [
+          {
+            "type": "collaboration",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "Projet médical d'urgence de Médecins sans frontières - Covid et précarité en Ile de France"
+              },
+              {
+                "lang": "en",
+                "value": "Médecins sans frontières emergency medical project - Covid and precariousness in Ile de France"
+              }
+            ]
+          }
+        ]
+      },
+      "distStmt": {
+        "contact": [
+          {
+            "name": "Marianne;VIOT",
+            "email": "marianne.viot@paris.msf.org",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "UNIVERSITE PARIS NANTERRE"
+              },
+              {
+                "lang": "en",
+                "value": "UNIVERSITE PARIS NANTERRE"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/013bkhk48",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "199212044",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          }
+        ]
+      },
+      "prodStmt": {
+        "fundAg": [
+          {
+            "name": [
+              {
+                "lang": "fr"
+              },
+              {
+                "lang": "en"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Autre"
+              },
+              {
+                "lang": "en",
+                "value": "Other"
+              }
+            ]
+          }
+        ],
+        "producer": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "MEDECINS SANS FRONTIERES (MSF)"
+              },
+              {
+                "lang": "en",
+                "value": "MEDECINS SANS FRONTIERES (MSF)"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Privé à but non lucratif"
+              },
+              {
+                "lang": "en",
+                "value": "Private non-profit"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "ROR",
+                "uri": "https://ror.org/0506t0t42"
+              },
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "378552038"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "studyAuthorization": {
+      "authorizingAgency": {
+        "lang": "fr",
+        "value": "Autre"
+      }
+    },
+    "method": {
+      "notes": [
+        {
+          "subject": "research type",
+          "lang": "fr",
+          "value": "Etude observationnelle"
+        },
+        {
+          "subject": "research type",
+          "lang": "en",
+          "value": "Observational Study"
+        }
+      ],
+      "stdyClas": [
+        {
+          "lang": "fr",
+          "value": "Étude complétée"
+        },
+        {
+          "lang": "en",
+          "value": "Completed study"
+        }
+      ],
+      "dataColl": {
+        "targetSampleSize": [
+          {
+            "lang": "fr",
+            "value": "< 500 individus"
+          },
+          {
+            "lang": "en",
+            "value": "< 500 individuals"
+          }
+        ],
+        "timeMeth": [
+          {
+            "lang": "fr",
+            "value": "Etude transversale non répétée"
+          },
+          {
+            "lang": "en",
+            "value": "One-time cross-sectional study"
+          }
+        ],
+        "sampleFrame": {
+          "frameUnit": {
+            "unitType": [
+              {
+                "lang": "fr",
+                "value": "Via des structures (services ou établissements de santé, écoles, entreprises…)"
+              },
+              {
+                "lang": "en",
+                "value": "Through organizations (health services or institutions, schools, businesses, etc.)"
+              }
+            ]
+          }
+        },
+        "sources": [
+          {}
+        ],
+        "collMode": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Interview",
+              "vocab": "CESSDA"
+            },
+            "value": "Entretien avec le participant (dont clinique)"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Interview",
+              "vocab": "CESSDA"
+            },
+            "value": "Interview with the participant (including clinical)"
+          }
+        ],
+        "sampProc": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ],
+        "respRate": [
+          {
+            "lang": "fr",
+            "value": "433"
+          },
+          {
+            "lang": "en",
+            "value": "433"
+          }
+        ]
+      }
+    },
+    "stdyInfo": {
+      "abstract": [
+        {
+          "contentType": "purpose",
+          "lang": "fr",
+          "value": "L’étude s’est donnée comme objectif d’enquêter et de documenter la manière dont les populations en situation précaire ont vécu la période d’enfermement induite par la gestion de la crise épidémique de Covid-19 au regard des trois axes suivants : 1) Les effets de la réduction de l’espace public, de l’accès aux ressources et de l’offre de services et de soins limitant la capacité des populations en situation précaire à répondre à leurs besoins, notamment en matière de santé. 2) La manière dont les politiques publiques face à l’épidémie de Covid-19 ont été appliquées - ou non - face aux situations concrètes dans lesquelles se sont trouvées les populations précaires. 3) La capacité des acteurs - dont MSF - à apporter une réponse aux problèmes sanitaires qui se sont posés au sein de ces populations, tant en termes d’épidémie que de besoins sanitaires plus généraux."
+        },
+        {
+          "contentType": "purpose",
+          "lang": "en",
+          "value": "The study set itself the objective of investigating and documenting the way in which vulnerable populations coped with the lockdown period for controlling the Covid-19 crisis, in terms of the following three aspects: 1) The effects of reducing the public space, access to resources and available services and health care, limiting the ability of vulnerable populations to look after themselves, particularly in terms of health. 2) The way in which public policies for the Covid-19 epidemic were applied - or not - in practical situations facing vulnerable populations. 3) The ability of the stakeholders - including MSF - to offer a solution to health problems arising among these populations, both in terms of the epidemic, and more general health needs."
+        }
+      ],
+      "subject": {
+        "topcClas": [
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/5e1591e2-d02b-436c-8216-6b8912eee467"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D004635"
+              }
+            ],
+            "value": "Médecine d’urgence"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/5e1591e2-d02b-436c-8216-6b8912eee467"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D004635"
+              }
+            ],
+            "value": "Emergency medicine"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "fr",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/1120716949",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Dépendance aux opioïdes"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "en",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/1120716949",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Opioid dependence"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants socio-démographiques et économiques"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants environnementaux : Autres"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants comportementaux"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants comportementaux : Alimentation"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Systèmes de soins et accès aux soins"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Autre"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants environnementaux"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Socio-demographic and economic determinants"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Environmental determinants: Other"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Behavioral determinants"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Behavioral determinants: Eating habits"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Environmental determinants"
+          }
+        ],
+        "keyword": [
+          {
+            "lang": "fr",
+            "value": "Accès et recours aux soins"
+          },
+          {
+            "lang": "fr",
+            "value": "hébergement d'urgence"
+          },
+          {
+            "lang": "fr",
+            "value": "Précarité"
+          },
+          {
+            "lang": "en",
+            "value": "Access and recourse to health care"
+          },
+          {
+            "lang": "en",
+            "value": "emergency housing"
+          },
+          {
+            "lang": "en",
+            "value": "Poverty"
+          }
+        ]
+      },
+      "qualityStatement": {
+        "standardsCompliance": {}
+      },
+      "sumDscr": {
+        "dataKind": [
+          {
+            "lang": "fr",
+            "value": "Données rapportées par le participant de l&#x27;étude"
+          },
+          {
+            "lang": "en",
+            "value": "Participant-reported health data"
+          }
+        ],
+        "anlyUnit": [
+          {
+            "lang": "fr",
+            "value": "Individus"
+          },
+          {
+            "lang": "en",
+            "value": "Individuals"
+          }
+        ],
+        "nation": [
+          {
+            "lang": "fr",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          },
+          {
+            "lang": "en",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          }
+        ],
+        "geogCover": [
+          {
+            "lang": "fr",
+            "value": "Ile-de-France"
+          },
+          {
+            "lang": "en",
+            "value": "Ile-de-France"
+          }
+        ],
+        "universe": [
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Masculin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Féminin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Male"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Female"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Adulte (19 à 24 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adulte (25 à 44 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Adulte (45 à 64 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Personne âgée (65 à 79 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Young Adult (19 to 24 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adult (25 to 44 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Middle Aged (45 to 64 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Aged (65 to 79 years)"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Population générale"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "en",
+            "value": "General population"
+          },
+          {
+            "clusion": "I",
+            "lang": "fr",
+            "value": "La population d’étude concernait les personnes en situation de précarité, âgées de plus de 15 ans, sélectionnées de manière aléatoire et proportionnellement à chaque site d’enquête. Les sites d’enquête ont été choisis par convenance, pour correspondre aux critères suivants : sites encore ouverts et pour lesquels le projet Covid Précarité MSF est intervenu au moins un fois pour apporter des soins médicaux et paramédicaux, dans les départements de Paris et de Seine Saint Denis (zone géographique principale du projet MSF), accueillant des populations en situation de précarité économique et/ou administrative, représentant une diversité d’habitats et d’hébergements, où les conditions sécuritaires au moment de l’enquête le permettaient, et après accord du responsable de l’association ou de la structure d’hébergement."
+          },
+          {
+            "clusion": "I",
+            "lang": "en",
+            "value": "The study population concerned vulnerable individuals aged over 15 years, randomly and proportionally selected at each study site. The study sites were selected out of convenience, to fulfil the following criteria: sites still open and at which the MSF Covid Poverty project intervened at least once to provide medical and paramedical care, in the Paris and Seine Saint Denis administrative departments (main geographical zone of the MSF project), accepting populations suffering from economic and/or administrative instability, representing diverse forms of housing and accommodations, where the safety conditions at the time of the survey permitted, and after approval by the head of the association or housing facility."
+          },
+          {
+            "clusion": "E",
+            "lang": "fr",
+            "value": ""
+          },
+          {
+            "clusion": "E",
+            "lang": "en",
+            "value": ""
+          }
+        ],
+        "collDate": [
+          {
+            "event": "start",
+            "value": "2020-01-01"
+          },
+          {
+            "event": "end",
+            "value": "2020-12-31"
+          }
+        ]
+      }
+    },
+    "dataAccs": {
+      "setAvail": {
+        "avlStatus": [
+          {
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Accès réservé"
+          },
+          {
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Restricted access"
+          }
+        ],
+        "conditions": []
+      },
+      "useStmt": {}
+    },
+    "othStdMat": {
+      "relMat": [
+        {
+          "lang": "fr",
+          "value": "Pas d’accès"
+        },
+        {
+          "lang": "en",
+          "value": "Access not yet planned"
+        }
+      ]
+    },
+    "studyDevelopment": {}
+  },
+  "docDscr": {
+    "citation": {
+      "rspStmt": {
+        "AuthEnty": "Marianne VIOT"
+      },
+      "prodStmt": {
+        "producer": [
+          {
+            "affiliation": "UNIVERSITE PARIS NANTERRE",
+            "value": "Marianne;VIOT"
+          }
+        ],
+        "prodPlac": "Portail Épidémiologie France"
+      }
+    }
+  },
+  "additional": {
+    "prodPlac": "Portail Épidémiologie France",
+    "creationDate": "29-01-2021",
+    "lastUpdatedManual": "05-05-2021",
+    "theme": {},
+    "governance": {
+      "committee": true
+    },
+    "collaborations": {},
+    "mockSample": {},
+    "dataQuality": {},
+    "variableDictionnary": {},
+    "dataTypes": {
+      "isDataInBiobank": false
+    },
+    "collectionProcess": {
+      "collectionModeDetails": [
+        {
+          "lang": "fr",
+          "value": "questionnaires structurés modulaires administrés en face-à-face, de manière anonyme et pendant 45 minutes environ, dans la langue du participant (via l’enquêteur-traducteur ou par traduction téléphonique), et enregistré sur tablette numérique."
+        },
+        {
+          "lang": "en",
+          "value": "Modular structured questionnaires administered in a face-to-face setting, anonymously and for approximately 45 minutes, in the participant’s language (via the investigator-translator or by telephone translation), and recorded on an electronic tablet."
+        }
+      ]
+    },
+    "geographicalCoverage": {
+      "geoDetail": [
+        {
+          "lang": "fr",
+          "value": "Ile de france"
+        },
+        {
+          "lang": "en",
+          "value": "Ile de France"
+        }
+      ]
+    },
+    "activeFollowUp": {
+      "isActiveFollowUp": false
+    },
+    "dataCollectionIntegration": {
+      "isDataIntegration": false
+    },
+    "isHealthTheme": true
+  },
+  "schematype": "survey"
+}

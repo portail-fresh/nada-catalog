@@ -1,0 +1,947 @@
+{
+  "stdyDscr": {
+    "citation": {
+      "titlStmt": {
+        "IDNo": [
+          {
+            "agency": "PEF",
+            "value": "4071"
+          },
+          {
+            "agency": "FReSH",
+            "value": "FRESH-PEF4071"
+          }
+        ],
+        "titl": [
+          {
+            "lang": "fr",
+            "value": "Cohorte de patients atteints de type diabète type 2: polymorphisme génétique et analyse longitudinale de la fonction rénale"
+          },
+          {
+            "lang": "en",
+            "value": "Genetic Polymorphism in Subjects with Type 2 Diabetes and Longitudinal Analysis of Renal Function: “SURDIAGENE” Study (SUivi Rénal , DIAbète de type 2 et GENEtique)"
+          }
+        ],
+        "altTitl": [
+          {
+            "lang": "fr",
+            "value": "SURDIAGENE: SUivi Rénal , DIAbète de type 2 et GENEtique"
+          },
+          {
+            "lang": "en",
+            "value": "SURDIAGENE"
+          }
+        ]
+      },
+      "rspStmt": {
+        "AuthEnty": [
+          {
+            "name": "Michèle;GROSDENIER",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "CENTRE HOSPITALIER UNIVERSITAIRE DE POITIERS"
+              },
+              {
+                "lang": "en",
+                "value": "CENTRE HOSPITALIER UNIVERSITAIRE DE POITIERS"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/029s6hd13",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "200055358",
+                "role": "organisation id",
+                "title": "SIREN"
+              },
+              {
+                "uri": "200919261B",
+                "role": "labo id",
+                "title": "RNSR"
+              }
+            ],
+            "isContact": true,
+            "email": "michele.grosdenier.bruneau@chu-poitiers.fr",
+            "PILabo": "CHU Poitiers / Biobank"
+          }
+        ],
+        "othId": [
+          {
+            "type": "collaboration",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "Implication dans un réseau de cohorte : collaboration aux cohortes D2NG et DIABHCAR (cf article Hadjadj S et al Diabetes Care 2008)"
+              }
+            ]
+          }
+        ]
+      },
+      "distStmt": {
+        "contact": [
+          {
+            "name": "Samy;HADJADJ",
+            "email": "samy.hadjadj@gmail.com",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "CENTRE HOSPITALIER UNIVERSITAIRE DE POITIERS"
+              },
+              {
+                "lang": "en",
+                "value": "CENTRE HOSPITALIER UNIVERSITAIRE DE POITIERS"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/029s6hd13",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "200055358",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          },
+          {
+            "name": "Michèle;GROSDENIER",
+            "email": "michele.grosdenier.bruneau@chu-poitiers.fr",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "CENTRE HOSPITALIER UNIVERSITAIRE DE POITIERS"
+              },
+              {
+                "lang": "en",
+                "value": "CENTRE HOSPITALIER UNIVERSITAIRE DE POITIERS"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/029s6hd13",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "200055358",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          }
+        ]
+      },
+      "prodStmt": {
+        "fundAg": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "GROUPT ETUDE MALADIES METABOLIQUES SYST. (GEMMS)"
+              },
+              {
+                "lang": "en",
+                "value": "GROUPT ETUDE MALADIES METABOLIQUES SYST. (GEMMS)"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "SIREN",
+                "uri": "441699105"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Privé à but non lucratif"
+              },
+              {
+                "lang": "en",
+                "value": "Private non-profit"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "MINISTERE DU TRAVAIL, DE LA SANTE, DES SOLIDARITES ET DES FAMILLES"
+              },
+              {
+                "lang": "en",
+                "value": "MINISTERE DU TRAVAIL, DE LA SANTE, DES SOLIDARITES ET DES FAMILLES"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "ROR",
+                "uri": "https://ror.org/01wp0c315"
+              },
+              {
+                "title": "SIREN",
+                "uri": "130016546"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ]
+          }
+        ],
+        "producer": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "CENTRE HOSPITALIER UNIVERSITAIRE DE POITIERS"
+              },
+              {
+                "lang": "en",
+                "value": "CENTRE HOSPITALIER UNIVERSITAIRE DE POITIERS"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "ROR",
+                "uri": "https://ror.org/029s6hd13"
+              },
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "200055358"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "studyAuthorization": [
+      {
+        "authorizingAgency": {
+          "lang": "fr",
+          "value": "CNIL"
+        }
+      },
+      {
+        "authorizingAgency": {
+          "lang": "fr",
+          "value": "CPP"
+        }
+      }
+    ],
+    "method": {
+      "notes": [
+        {
+          "subject": "research type",
+          "lang": "fr",
+          "value": "Etude observationnelle"
+        },
+        {
+          "subject": "research type",
+          "lang": "en",
+          "value": "Observational Study"
+        },
+        {
+          "lang": "fr",
+          "subject": "observational study method",
+          "value": "Cohorte"
+        },
+        {
+          "lang": "en",
+          "subject": "observational study method",
+          "value": "Cohort study"
+        }
+      ],
+      "stdyClas": [
+        {
+          "lang": "fr",
+          "value": "Inconnu"
+        },
+        {
+          "lang": "en",
+          "value": "Unknown"
+        }
+      ],
+      "dataColl": {
+        "targetSampleSize": [
+          {
+            "lang": "fr",
+            "value": "[1000-10000[ individus"
+          },
+          {
+            "lang": "en",
+            "value": "[1000-10000[ individuals"
+          }
+        ],
+        "sampleFrame": {
+          "frameUnit": {
+            "unitType": [
+              {
+                "lang": "fr",
+                "value": "Via des structures (services ou établissements de santé, écoles, entreprises…)"
+              },
+              {
+                "lang": "en",
+                "value": "Through organizations (health services or institutions, schools, businesses, etc.)"
+              }
+            ]
+          }
+        },
+        "sources": [
+          {}
+        ],
+        "collMode": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Interview",
+              "vocab": "CESSDA"
+            },
+            "value": "Entretien avec le participant (dont clinique)"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Interview",
+              "vocab": "CESSDA"
+            },
+            "value": "Interview with the participant (including clinical)"
+          }
+        ],
+        "sampProc": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ],
+        "respRate": [
+          {
+            "lang": "fr",
+            "value": "1200"
+          },
+          {
+            "lang": "en",
+            "value": "1200"
+          }
+        ]
+      }
+    },
+    "stdyInfo": {
+      "abstract": [
+        {
+          "contentType": "purpose",
+          "lang": "fr",
+          "value": "PRINCIPAL : étudier les déterminants génétiques associés à la modification de la fonction rénale (modification de la clairance de la créatinine) SECONDAIRES : 1- étudier les déterminants génétiques associés à la modification de l’excrétion urinaire d’albumine 2- étudier les déterminants génétiques associés aux autres complications dégénératives du diabète (rétinopathie, événement cardiovasculaire)"
+        },
+        {
+          "contentType": "purpose",
+          "lang": "en",
+          "value": "MAIN: to investigate the genetic determinants associated with changes in renal function (changes in creatinine clearance) SECONDARY: 1. - to investigate the genetic determinants associated with changes in urinary albumin excretion 2 - to investigate the genetic determinants associated with other degenerative complications of diabetes (retinopathy, cardiovascular events)"
+        }
+      ],
+      "subject": {
+        "topcClas": [
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/d1dd1bac-5313-4ab3-837f-4acd3ec521a7"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D004704"
+              }
+            ],
+            "value": "Endocrinologie"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/3961e9d2-ab3b-451b-b246-20fc0ec3b0c4"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D009398"
+              }
+            ],
+            "value": "Néphrologie"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/d1dd1bac-5313-4ab3-837f-4acd3ec521a7"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D004704"
+              }
+            ],
+            "value": "Endocrinology"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/3961e9d2-ab3b-451b-b246-20fc0ec3b0c4"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D009398"
+              }
+            ],
+            "value": "Nephrology"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "fr",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/119724091",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Diabète sucré de type 2"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "en",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/119724091",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Type 2 diabetes mellitus"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants biologiques : Prédispositions génétiques"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants liés au système de santé : Consommation des soins"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants comportementaux : Alimentation"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants biologiques"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants liés au système de santé"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants comportementaux"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Biological determinants: Genetic predisposition"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Healthcare system determinants: Use of care"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Behavioral determinants: Eating habits"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Biological determinants"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Healthcare system determinants"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Behavioral determinants"
+          }
+        ],
+        "keyword": [
+          {
+            "lang": "fr",
+            "value": "événements de santé"
+          },
+          {
+            "lang": "fr",
+            "value": "fonction rénale"
+          },
+          {
+            "lang": "fr",
+            "value": "cardio-vasculaire"
+          },
+          {
+            "lang": "fr",
+            "value": "décès"
+          },
+          {
+            "lang": "fr",
+            "value": "population"
+          },
+          {
+            "lang": "fr",
+            "value": "système de santé"
+          },
+          {
+            "lang": "en",
+            "value": "Health episodes"
+          },
+          {
+            "lang": "en",
+            "value": "renal function"
+          },
+          {
+            "lang": "en",
+            "value": "cardiovascular"
+          },
+          {
+            "lang": "en",
+            "value": "death"
+          },
+          {
+            "lang": "en",
+            "value": "population"
+          },
+          {
+            "lang": "en",
+            "value": "health system"
+          }
+        ]
+      },
+      "qualityStatement": {
+        "standardsCompliance": {},
+        "otherQualityStatement": {
+          "lang": "fr",
+          "value": "Présence d'une requête de cohérence au moment de la saisie des données informatiques et après la saisie des données informatiques Gestion des données manquantes par retour vers un tiers Relance des médecins pour réaliser les visites de suivi Relance des sujets pour réaliser les visites de suivi Autre(s) procédure(s) qualité : procédure interne INSERM CIC 802 en cours de développement Les patients sont informés de l'utilisation de leur données"
+        }
+      },
+      "sumDscr": {
+        "dataKind": [
+          {
+            "lang": "fr",
+            "value": "Données cliniques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données biologiques"
+          },
+          {
+            "lang": "en",
+            "value": "Clinical data"
+          },
+          {
+            "lang": "en",
+            "value": "Biological data"
+          }
+        ],
+        "anlyUnit": [
+          {
+            "lang": "fr",
+            "value": "Individus"
+          },
+          {
+            "lang": "en",
+            "value": "Individuals"
+          }
+        ],
+        "nation": [
+          {
+            "lang": "fr",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          },
+          {
+            "lang": "en",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          }
+        ],
+        "universe": [
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Masculin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Féminin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Male"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Female"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adulte (25 à 44 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Adulte (45 à 64 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Personne âgée (65 à 79 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adult (25 to 44 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Middle Aged (45 to 64 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Aged (65 to 79 years)"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Patients"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "en",
+            "value": "Patients population"
+          },
+          {
+            "clusion": "I",
+            "lang": "fr",
+            "value": "B1. Diabète de type 2 (DT2): Les sujets de l’étude SURDIAGENE présentent un DT2. La distinction entre diabète de type 1 (DT1) et DT2 est parfois délicate. Nous retenons comme critère de diagnostic du DT2 : - âge au diagnostic supérieur ou égal à 35 ans - insulino-requérance apparue plus de 2 ans après le diagnostic de diabète - absence de diabète secondaire - absence de cétonurie au diagnostic  B2. Suivi longitudinal : Les sujets de l’étude SURDIAGENE  présentent un DT2 dont le suivi du diabète sur au moins 1 an comprend un recueil de données cliniques (pression artérielle, poids) et biologiques (hémoglobine glyquée, créatininémie, excrétion urinaire d’albumine) permettant d’analyser l’évolution de la néphropathie et des autres complications dégénératives (rétiniennes et cardiovasculaires)  "
+          },
+          {
+            "clusion": "I",
+            "lang": "en",
+            "value": "B1. Type 2 diabetes (T2D): Subjects from the SURDIAGENE study with T2D. The distinction between type 1 (TD1) and type 2 (T2D) diabetes is sometimes difficult. We define criteria for T2D diagnosis as: - age at diagnosis is 35 years old or over - apparent insulin-dependence after more than 2 years following diabetes diagnosis - absence of secondary diabetes - absence of ketonuria at diagnosis B2: Longitudinal follow-up: Subjects in the SURDIAGENE study with T2D who are being monitored for diabetes for at least one year, which includes a collection of clinical (blood pressure, weight) and biological data (glycated haemoglobin, serum creatinine, urinary albumin excretion) to analyse the progression of renal disease and other degenerative (retinal and cardiovascular) complications B3. Exclusion criteria is defined as: Subjects who are not permitted to participate in the SURDIAGENE study are subjects who a) fulfil medical criteria for exclusion - do not have diabetes or have T1D or secondary diabetes - are presenting renal disease caused by non-diabetic renal insufficiency (arterial hypertension is not considered as part of the exclusion criteria, except if hypertensive nephropathy precedes discovery of diabetes). - proteinuria at time of diabetes diagnosis - non-diabetic glomerular nephropathy confirmed by renal biopsy - pure vascular nephropathy - confirmed glomerular haematuria or malformed uropathy - chronic interstitial nephritis with history of pyelonephritis or persistent urinary tract infections - follow-up is less than 1 year b) fulfilling legal"
+          },
+          {
+            "clusion": "E",
+            "lang": "fr",
+            "value": "Les sujets ne pouvant pas participer à l’étude SURDIAGENE sont les sujets qui présentent  a) des critères médicaux de   - ne présentant pas un diabète ou présentant un DT1 ou un diabète secondaire "
+          },
+          {
+            "clusion": "E",
+            "lang": "en",
+            "value": " (amended law dated 20th December 1988) - minors - adults protected by law - deprived of liberty - brain-dead - who have not given their written participation consent - women who are pregnant, parturient or breastfeeding - not affiliated to social security"
+          }
+        ],
+        "collDate": [
+          {
+            "event": "start",
+            "value": "2003-01-01"
+          },
+          {
+            "event": "end",
+            "value": "2020-01-01"
+          }
+        ]
+      }
+    },
+    "dataAccs": {
+      "setAvail": {
+        "avlStatus": [
+          {
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Accès réservé"
+          },
+          {
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Restricted access"
+          }
+        ],
+        "conditions": [
+          {
+            "lang": "fr",
+            "value": "Demande à faire auprès du responsable scientifique"
+          },
+          {
+            "lang": "en",
+            "value": "Send request to scientist in charge"
+          }
+        ]
+      },
+      "useStmt": {}
+    },
+    "othStdMat": {
+      "relMat": [
+        {
+          "lang": "fr",
+          "value": "Accès restreint sur projet spécifique"
+        },
+        {
+          "lang": "en",
+          "value": "Access on specific project only"
+        }
+      ]
+    },
+    "studyDevelopment": {
+      "developmentActivity": [
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/morbidité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/mortalité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/morbidity"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/mortality"
+        }
+      ]
+    }
+  },
+  "docDscr": {
+    "citation": {
+      "rspStmt": {
+        "AuthEnty": "Pierre-Jean SAULNIER"
+      },
+      "prodStmt": {
+        "producer": [
+          {
+            "affiliation": "CENTRE HOSPITALIER UNIVERSITAIRE DE POITIERS",
+            "value": "Pierre-Jean;SAULNIER"
+          }
+        ],
+        "prodPlac": "Portail Épidémiologie France"
+      }
+    }
+  },
+  "additional": {
+    "prodPlac": "Portail Épidémiologie France",
+    "relatedDocuments": {
+      "documentTitle": [
+        {
+          "lang": "fr",
+          "value": "List of publications in Pubmed"
+        },
+        {
+          "lang": "en",
+          "value": "List of publications in Pubmed"
+        }
+      ],
+      "documentLink": [
+        {
+          "lang": "fr",
+          "value": "http://www.ncbi.nlm.nih.gov/pubmed/?term=SURDIAGENE"
+        },
+        {
+          "lang": "en",
+          "value": "http://www.ncbi.nlm.nih.gov/pubmed/?term=SURDIAGENE"
+        }
+      ]
+    },
+    "creationDate": "13-08-2012",
+    "lastUpdatedManual": "07-08-2019",
+    "theme": {},
+    "governance": {},
+    "collaborations": {},
+    "mockSample": {},
+    "dataQuality": {},
+    "variableDictionnary": {},
+    "dataTypes": {
+      "clinicalDataDetails": {
+        "lang": "fr",
+        "value": "Examen clinique : Au cours du suivi Périodicité de l'examen : 2 ansInformations recueillies lors de l'examen clinique : Poids, pression artérielle, données biologiques : créatininémie, albumine urinaire, HBA1C"
+      },
+      "biologicalDataDetails": [
+        {
+          "lang": "fr",
+          "value": "Fonction rénale et équilibre glycémique :La fonction rénale est basée sur une mesure de la créatinine plasmatique et une estimation du débit de filtration glomérulaire (DFG estimé par les formules MDRD et CKD-EPI).L’atteinte rénale du diabéte (initiale et dans le suivi) est également caractérisée via l’excrétion urinaire d’albumine et le ratio Albumine urinaire/créatinine urinaire. Cela permet se stader le niveau d’atteinte rénale en plus du DFG.L’équilibre glycémique est estimé via la mesure de l’hémoglobine glyquée (HbA1c)."
+        },
+        {
+          "lang": "en",
+          "value": "Renal function and glycaemic control: Renal function is based on a measurement of plasma creatinine and estimated glomerular filtration rate (GFR estimated by MDRD and CKD-EPI equations). Diabetic renal insufficiency (initial and during follow-up) is equally characterised by urinary albumin excretion and urinary albumin/urinary creatinine ratio. The level of renal impairment as well as GFR can be established as such. Glycaemic control rate is calculated by measuring glycated haemoglobin (HbA1c)."
+        }
+      ],
+      "isDataInBiobank": true
+    },
+    "collectionProcess": {
+      "collectionModeDetails": [
+        {
+          "lang": "fr",
+          "value": "Entretiens : saisie à partir d’un questionnaire papier (saisie manuelle) avec double saisie Examens cliniques : étape manuscrite (saisie manuelle) avec double saisie Examens biologiques : saisie directe"
+        },
+        {
+          "lang": "en",
+          "value": "Interview: input from a paper questionnaire (manual input) with double entry Clinical examinations: handwritten (manual input) with double data entry Biological analysis: direct input"
+        }
+      ]
+    },
+    "geographicalCoverage": {
+      "geoDetail": [
+        {
+          "lang": "fr",
+          "value": "Poitiers (Vienne)"
+        },
+        {
+          "lang": "en",
+          "value": "Poitiers (Vienne)"
+        }
+      ]
+    },
+    "activeFollowUp": {
+      "isActiveFollowUp": true
+    },
+    "dataCollectionIntegration": {
+      "isDataIntegration": false
+    },
+    "isHealthTheme": true
+  },
+  "schematype": "survey"
+}

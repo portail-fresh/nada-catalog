@@ -1,0 +1,985 @@
+{
+  "stdyDscr": {
+    "citation": {
+      "titlStmt": {
+        "IDNo": [
+          {
+            "agency": "PEF",
+            "value": "8330"
+          },
+          {
+            "agency": "FReSH",
+            "value": "FRESH-PEF8330"
+          }
+        ],
+        "titl": [
+          {
+            "lang": "fr",
+            "value": "Etude transversale répétée sur la Famille et les Logements"
+          },
+          {
+            "lang": "en",
+            "value": "Survey on Family and Housing"
+          }
+        ],
+        "altTitl": {
+          "lang": "fr",
+          "value": "EFL"
+        }
+      },
+      "rspStmt": {
+        "AuthEnty": [
+          {
+            "name": "Corinne;BARRE",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "INSTITUT NATIONAL DE LA STATISTIQUE ET DES ETUDES ECONOMIQUES (INSEE)"
+              },
+              {
+                "lang": "en",
+                "value": "INSTITUT NATIONAL DE LA STATISTIQUE ET DES ETUDES ECONOMIQUES (INSEE)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "08002078X",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/03v6yxf25",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "120027016",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ],
+            "isContact": true,
+            "email": "corinne.barre@wanadoo.fr",
+            "PILabo": "INSEE - Institut national de la statistique et des études"
+          },
+          {
+            "name": "Mélanie;VANDERSCHELDEN",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "INSTITUT NATIONAL DE LA STATISTIQUE ET DES ETUDES ECONOMIQUES (INSEE)"
+              },
+              {
+                "lang": "en",
+                "value": "INSTITUT NATIONAL DE LA STATISTIQUE ET DES ETUDES ECONOMIQUES (INSEE)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "080020828",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/03v6yxf25",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "120027016",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ],
+            "isContact": true,
+            "email": "melanie.vanderschelden@insee.fr",
+            "PILabo": "INSEE - Institut national de la statistique et des études"
+          }
+        ],
+        "othId": []
+      },
+      "distStmt": {
+        "contact": [
+          {
+            "name": "Corinne;BARRE",
+            "email": "corinne.barre@wanadoo.fr",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "INSTITUT NATIONAL DE LA STATISTIQUE ET DES ETUDES ECONOMIQUES (INSEE)"
+              },
+              {
+                "lang": "en",
+                "value": "INSTITUT NATIONAL DE LA STATISTIQUE ET DES ETUDES ECONOMIQUES (INSEE)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/03v6yxf25",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "120027016",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          },
+          {
+            "name": "Mélanie;VANDERSCHELDEN",
+            "email": "melanie.vanderschelden@insee.fr",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "INSTITUT NATIONAL DE LA STATISTIQUE ET DES ETUDES ECONOMIQUES (INSEE)"
+              },
+              {
+                "lang": "en",
+                "value": "INSTITUT NATIONAL DE LA STATISTIQUE ET DES ETUDES ECONOMIQUES (INSEE)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/03v6yxf25",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "120027016",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          }
+        ]
+      },
+      "prodStmt": {
+        "fundAg": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "INSTITUT NATIONAL DE LA STATISTIQUE ET DES ETUDES ECONOMIQUES (INSEE)"
+              },
+              {
+                "lang": "en",
+                "value": "INSTITUT NATIONAL DE LA STATISTIQUE ET DES ETUDES ECONOMIQUES (INSEE)"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "ROR",
+                "uri": "https://ror.org/03v6yxf25"
+              },
+              {
+                "title": "SIREN",
+                "uri": "120027016"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ]
+          }
+        ],
+        "producer": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "INSTITUT NATIONAL DE LA STATISTIQUE ET DES ETUDES ECONOMIQUES (INSEE)"
+              },
+              {
+                "lang": "en",
+                "value": "INSTITUT NATIONAL DE LA STATISTIQUE ET DES ETUDES ECONOMIQUES (INSEE)"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "ROR",
+                "uri": "https://ror.org/03v6yxf25"
+              },
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "120027016"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "studyAuthorization": {
+      "authorizingAgency": {
+        "lang": "fr",
+        "value": "CNIL"
+      }
+    },
+    "method": {
+      "notes": [
+        {
+          "subject": "research type",
+          "lang": "fr",
+          "value": "Etude observationnelle"
+        },
+        {
+          "subject": "research type",
+          "lang": "en",
+          "value": "Observational Study"
+        }
+      ],
+      "stdyClas": [
+        {
+          "lang": "fr",
+          "value": "Inconnu"
+        },
+        {
+          "lang": "en",
+          "value": "Unknown"
+        }
+      ],
+      "dataColl": {
+        "targetSampleSize": [
+          {
+            "lang": "fr",
+            "value": ">= 20000 individus"
+          },
+          {
+            "lang": "en",
+            "value": ">= 20000 individuals"
+          }
+        ],
+        "timeMeth": [
+          {
+            "lang": "fr",
+            "value": "Etude transversale répétée"
+          },
+          {
+            "lang": "en",
+            "value": "Repeated cross-sectional study"
+          }
+        ],
+        "sampleFrame": {
+          "frameUnit": {
+            "unitType": [
+              {
+                "lang": "fr",
+                "value": "Base de population à finalité statistique"
+              },
+              {
+                "lang": "en",
+                "value": "Population database for statistical purposes"
+              }
+            ]
+          }
+        },
+        "sources": [
+          {}
+        ],
+        "collMode": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Interview",
+              "vocab": "CESSDA"
+            },
+            "value": "Entretien avec le participant (dont clinique)"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Interview",
+              "vocab": "CESSDA"
+            },
+            "value": "Interview with the participant (including clinical)"
+          }
+        ],
+        "sampProc": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ],
+        "respRate": [
+          {
+            "lang": "fr",
+            "value": "359 770: - ~121 000 hommes/men - ~238 000 femmes/women"
+          },
+          {
+            "lang": "en",
+            "value": "359 770: - ~121 000 hommes/men - ~238 000 femmes/women"
+          }
+        ]
+      }
+    },
+    "stdyInfo": {
+      "abstract": [
+        {
+          "contentType": "purpose",
+          "lang": "fr",
+          "value": "Associée au recensement de la population depuis 1954, l'enquête \"Famille\" complète le dispositif de recueil de l'information démographique en France (recensement et état civil). Son objectif premier est le suivi du développement des nouvelles formes familiales à travers un questionnaire rétrospectif et à caractère biographique reconstituant l'histoire démographique des générations. Chaque édition de cette enquête consacre une batterie de questions à l'étude d'un thème particulier (activité féminine en 1982, garde des jeunes enfants en 1990, transmission des langues et parlers en 1999). Jusqu'à l'édition de 1990, l'enquête Famille était réservée aux femmes (femmes mariées entre 45 et 54 ans à l'origine), puis femmes non célibataires de moins de 65 ans, puis toutes les femmes de 18 à 64 ans, puis aux hommes en milieu carcéral."
+        },
+        {
+          "contentType": "purpose",
+          "lang": "en",
+          "value": "Associated with the population census since 1954, the \"Family\" survey supplements the collection of demographic information in France (census and vital statistics). Its primary objective is to monitor the development of new family types through a retrospective questionnaire and biographical rebuilding the demographic history for generations. Each edition of this survey devotes a battery of questions to the study of a particular topic (female activity in 1982, child care in 1990, transmission of languages ​​and dialects in 1999). Until the 1990 edition, the Family Survey was reserved for women (originally married women between 45 and 54 years old), then married women at least 65 years old and all women aged 18 to 64 years old, then men in prisons."
+        }
+      ],
+      "subject": {
+        "topcClas": [
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants socio-démographiques et économiques"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants comportementaux"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants socio-démographiques et économiques : Emploi"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Socio-demographic and economic determinants"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Behavioral determinants"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Socio-demographic and economic determinants: Employment"
+          }
+        ],
+        "keyword": [
+          {
+            "lang": "fr",
+            "value": "Composition"
+          },
+          {
+            "lang": "fr",
+            "value": "langue"
+          },
+          {
+            "lang": "fr",
+            "value": "histoire conjugale"
+          },
+          {
+            "lang": "fr",
+            "value": "cohabitation"
+          },
+          {
+            "lang": "fr",
+            "value": "paternité"
+          },
+          {
+            "lang": "fr",
+            "value": "divorce"
+          },
+          {
+            "lang": "fr",
+            "value": "séparation"
+          },
+          {
+            "lang": "fr",
+            "value": "couple"
+          },
+          {
+            "lang": "fr",
+            "value": "veuvage"
+          },
+          {
+            "lang": "fr",
+            "value": "famille recomposée"
+          },
+          {
+            "lang": "fr",
+            "value": "remariage"
+          },
+          {
+            "lang": "fr",
+            "value": "mariage"
+          },
+          {
+            "lang": "fr",
+            "value": "vie en couple"
+          },
+          {
+            "lang": "fr",
+            "value": "formation du couple"
+          },
+          {
+            "lang": "fr",
+            "value": "parenté"
+          },
+          {
+            "lang": "fr",
+            "value": "démographie"
+          },
+          {
+            "lang": "fr",
+            "value": "PActe Civil de Solidarité (PACS)"
+          },
+          {
+            "lang": "fr",
+            "value": "mode de garde"
+          },
+          {
+            "lang": "fr",
+            "value": "famille"
+          },
+          {
+            "lang": "fr",
+            "value": "insertion sociale"
+          },
+          {
+            "lang": "fr",
+            "value": "fécondité"
+          },
+          {
+            "lang": "fr",
+            "value": "naissance"
+          },
+          {
+            "lang": "fr",
+            "value": "enfant"
+          },
+          {
+            "lang": "fr",
+            "value": "lien"
+          },
+          {
+            "lang": "en",
+            "value": "language"
+          },
+          {
+            "lang": "en",
+            "value": "marital history"
+          },
+          {
+            "lang": "en",
+            "value": "paternity"
+          },
+          {
+            "lang": "en",
+            "value": "separation"
+          },
+          {
+            "lang": "en",
+            "value": "couples"
+          },
+          {
+            "lang": "en",
+            "value": "widowhood"
+          },
+          {
+            "lang": "en",
+            "value": "stepfamilies"
+          },
+          {
+            "lang": "en",
+            "value": "remarriage"
+          },
+          {
+            "lang": "en",
+            "value": "marriage"
+          },
+          {
+            "lang": "en",
+            "value": "married life"
+          },
+          {
+            "lang": "en",
+            "value": "couple formation"
+          },
+          {
+            "lang": "en",
+            "value": "link"
+          },
+          {
+            "lang": "en",
+            "value": "parentage"
+          },
+          {
+            "lang": "en",
+            "value": "demography"
+          },
+          {
+            "lang": "en",
+            "value": "Civil Solidarity Pact (PACS)"
+          },
+          {
+            "lang": "en",
+            "value": "type of care"
+          },
+          {
+            "lang": "en",
+            "value": "Composition"
+          },
+          {
+            "lang": "en",
+            "value": "family"
+          },
+          {
+            "lang": "en",
+            "value": "social integration"
+          },
+          {
+            "lang": "en",
+            "value": "cohabitation"
+          },
+          {
+            "lang": "en",
+            "value": "fertility"
+          },
+          {
+            "lang": "en",
+            "value": "divorce"
+          },
+          {
+            "lang": "en",
+            "value": "birth"
+          },
+          {
+            "lang": "en",
+            "value": "child"
+          }
+        ]
+      },
+      "qualityStatement": {
+        "standardsCompliance": {}
+      },
+      "sumDscr": {
+        "dataKind": [
+          {
+            "lang": "fr",
+            "value": "Données rapportées par le participant de l&#x27;étude"
+          },
+          {
+            "lang": "en",
+            "value": "Participant-reported health data"
+          }
+        ],
+        "anlyUnit": [
+          {
+            "lang": "fr",
+            "value": "Individus"
+          },
+          {
+            "lang": "en",
+            "value": "Individuals"
+          }
+        ],
+        "nation": [
+          {
+            "lang": "fr",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          },
+          {
+            "lang": "en",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          }
+        ],
+        "universe": [
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Masculin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Féminin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Male"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Female"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Adulte (19 à 24 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adulte (25 à 44 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Adulte (45 à 64 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Personne âgée (65 à 79 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000369"
+            },
+            "value": "Grand âge (80 ans et plus)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Young Adult (19 to 24 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adult (25 to 44 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Middle Aged (45 to 64 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Aged (65 to 79 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000369"
+            },
+            "value": "Aged, 80 and over (80 years and more)"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Population générale"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "en",
+            "value": "General population"
+          },
+          {
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Individus de 18 ans et plus au 1er janvier 1999 vivant en France métropolitaine."
+          },
+          {
+            "clusion": "I",
+            "lang": "en",
+            "value": "Individuals aged 18 years old and over on 1st January 1999 living in metropolitan France."
+          },
+          {
+            "clusion": "E",
+            "lang": "fr",
+            "value": ""
+          },
+          {
+            "clusion": "E",
+            "lang": "en",
+            "value": ""
+          }
+        ],
+        "collDate": {
+          "event": "start",
+          "value": "1975-01-01"
+        }
+      }
+    },
+    "dataAccs": {
+      "setAvail": {
+        "avlStatus": [
+          {
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Accès réservé"
+          },
+          {
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Restricted access"
+          }
+        ],
+        "conditions": [
+          {
+            "lang": "fr",
+            "value": "Contacter ADISP-CMH = diffusion.adisp@ens.fr"
+          },
+          {
+            "lang": "en"
+          }
+        ],
+        "notes": [
+          {
+            "lang": "fr",
+            "value": "6 fichiers de données disponibles aux formats SAS, SPSS, STATA."
+          },
+          {
+            "lang": "en",
+            "value": "6 data files available in SAS, SPSS and STATA format."
+          }
+        ],
+        "accsPlac": [
+          {
+            "lang": "fr",
+            "value": "Base de données recensée au sein du Quetelet-Progedo-Diffusion : https://data.progedo.fr/"
+          },
+          {
+            "lang": "en",
+            "value": "Database identified within Quetelet-Progedo-Diffusion : https://data.progedo.fr/"
+          }
+        ]
+      },
+      "useStmt": {}
+    },
+    "othStdMat": {
+      "relMat": [
+        {
+          "lang": "fr",
+          "value": "Accès libre"
+        },
+        {
+          "lang": "en",
+          "value": "Free access"
+        }
+      ]
+    },
+    "studyDevelopment": {
+      "developmentActivity": [
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/mortalité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Qualité de vie/santé perçue"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/mortality"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Quality of life/health perception"
+        }
+      ]
+    }
+  },
+  "docDscr": {
+    "citation": {
+      "rspStmt": {
+        "AuthEnty": "Corinne BARRE"
+      },
+      "prodStmt": {
+        "producer": [
+          {
+            "affiliation": "INSTITUT NATIONAL DE LA STATISTIQUE ET DES ETUDES ECONOMIQUES (INSEE)",
+            "value": "Corinne;BARRE"
+          }
+        ],
+        "prodPlac": "Portail Épidémiologie France"
+      }
+    }
+  },
+  "additional": {
+    "prodPlac": "Portail Épidémiologie France",
+    "relatedDocuments": {
+      "documentTitle": [
+        {
+          "lang": "fr"
+        },
+        {
+          "lang": "en"
+        }
+      ],
+      "documentLink": [
+        {
+          "lang": "fr",
+          "value": "http://www.insee.fr/fr/publics/default.asp?page"
+        },
+        {
+          "lang": "en",
+          "value": "http://www.insee.fr/fr/publics/default.asp?page"
+        }
+      ]
+    },
+    "creationDate": "06-03-2014",
+    "lastUpdatedManual": "21-08-2014",
+    "theme": {},
+    "governance": {},
+    "collaborations": {},
+    "mockSample": {},
+    "dataQuality": {},
+    "variableDictionnary": {},
+    "dataTypes": {
+      "isDataInBiobank": false
+    },
+    "collectionProcess": {
+      "collectionModeDetails": [
+        {
+          "lang": "fr",
+          "value": "La collecte s’est effectuée par dépôt-retrait d’un questionnaire de quatre pages par personnes entrant dans le champ de l’enquête. Les questionnaires ont été remis en mains propres par les agents recenseurs en même temps que les documents habituels du recensement (notice, feuille de logement, bulletins individuels). Ils ont été récupérés dans les mêmes conditions."
+        },
+        {
+          "lang": "en",
+          "value": "The collection is done by deposit-withdrawal of a four-page questionnaire for persons falling within the scope of the investigation. The questionnaires were hand delivered by enumerators along with the usual documents (Census Form, sheet housing, individual forms). They were recovered under the same conditions."
+        }
+      ]
+    },
+    "geographicalCoverage": {
+      "geoDetail": [
+        {
+          "lang": "fr",
+          "value": "France métropolitaine"
+        },
+        {
+          "lang": "en",
+          "value": "Metropolitan France"
+        }
+      ]
+    },
+    "activeFollowUp": {
+      "isActiveFollowUp": false
+    },
+    "dataCollectionIntegration": {
+      "isDataIntegration": false
+    },
+    "isHealthTheme": true
+  },
+  "schematype": "survey"
+}

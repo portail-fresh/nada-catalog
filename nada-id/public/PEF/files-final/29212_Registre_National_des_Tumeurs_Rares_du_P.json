@@ -1,0 +1,1248 @@
+{
+  "stdyDscr": {
+    "citation": {
+      "titlStmt": {
+        "IDNo": [
+          {
+            "agency": "PEF",
+            "value": "29212"
+          },
+          {
+            "agency": "FReSH",
+            "value": "FRESH-PEF29212"
+          }
+        ],
+        "titl": [
+          {
+            "lang": "fr",
+            "value": "Registre National des Tumeurs Rares du Péritoine"
+          },
+          {
+            "lang": "en",
+            "value": "French Registry for Rare Peritoneal Tumors"
+          }
+        ],
+        "altTitl": [
+          {
+            "lang": "fr",
+            "value": "RENAPE"
+          },
+          {
+            "lang": "en",
+            "value": "RENAPE"
+          }
+        ]
+      },
+      "rspStmt": {
+        "AuthEnty": [
+          {
+            "name": "François-Noël;GILLY",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "HOSPICES CIVILS DE LYON (HCL)"
+              },
+              {
+                "lang": "en",
+                "value": "HOSPICES CIVILS DE LYON (HCL)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "058295321",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/01502ca60",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "266900273",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ],
+            "isContact": true,
+            "email": "francois-noel.gilly@univ-lyon1.fr",
+            "PILabo": "Hospices Civils de Lyon / Service de Chirurgie Générale et Digestive"
+          },
+          {
+            "name": "Cécile;ODIN",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "HOSPICES CIVILS DE LYON (HCL)"
+              },
+              {
+                "lang": "en",
+                "value": "HOSPICES CIVILS DE LYON (HCL)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/01502ca60",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "266900273",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ],
+            "isContact": true,
+            "email": "cecile.odin@chu-lyon.fr",
+            "PILabo": "Hospices Civils de Lyon / Réseau National de prise en charge des Tumeurs Rares du Péritoine (RENAPE)"
+          },
+          {
+            "name": "Laurent;VILLENEUVE",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "HOSPICES CIVILS DE LYON (HCL)"
+              },
+              {
+                "lang": "en",
+                "value": "HOSPICES CIVILS DE LYON (HCL)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "0000-0002-8713-7821",
+                "role": "pi id",
+                "title": "ORCID"
+              },
+              {
+                "uri": "225871777",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "https://ror.org/01502ca60",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "266900273",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ],
+            "isContact": true,
+            "email": "laurent.villeneuve@chu-lyon.fr",
+            "PILabo": "Hospices Civils de Lyon / Réseau National de prise en charge des Tumeurs Rares du Péritoine (RENAPE)"
+          }
+        ],
+        "othId": [
+          {
+            "type": "collaboration",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "EURACAN, PSOGI, ISSPP"
+              },
+              {
+                "lang": "en",
+                "value": "EURACAN"
+              }
+            ]
+          }
+        ]
+      },
+      "distStmt": {
+        "contact": [
+          {
+            "name": "Olivier;GLEHEN",
+            "email": "olivier.glehen@chu-lyon.fr",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "HOSPICES CIVILS DE LYON (HCL)"
+              },
+              {
+                "lang": "en",
+                "value": "HOSPICES CIVILS DE LYON (HCL)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/01502ca60",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "266900273",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          },
+          {
+            "name": "François-Noël;GILLY",
+            "email": "francois-noel.gilly@univ-lyon1.fr",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "HOSPICES CIVILS DE LYON (HCL)"
+              },
+              {
+                "lang": "en",
+                "value": "HOSPICES CIVILS DE LYON (HCL)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/01502ca60",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "266900273",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          },
+          {
+            "name": "Cécile;ODIN",
+            "email": "cecile.odin@chu-lyon.fr",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "HOSPICES CIVILS DE LYON (HCL)"
+              },
+              {
+                "lang": "en",
+                "value": "HOSPICES CIVILS DE LYON (HCL)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/01502ca60",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "266900273",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          },
+          {
+            "name": "Laurent;VILLENEUVE",
+            "email": "laurent.villeneuve@chu-lyon.fr",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "HOSPICES CIVILS DE LYON (HCL)"
+              },
+              {
+                "lang": "en",
+                "value": "HOSPICES CIVILS DE LYON (HCL)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "https://ror.org/01502ca60",
+                "role": "organisation id",
+                "title": "ROR"
+              },
+              {
+                "uri": "266900273",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          }
+        ]
+      },
+      "prodStmt": {
+        "fundAg": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "INSTITUT NATIONAL DU CANCER (INCA)"
+              },
+              {
+                "lang": "en",
+                "value": "INSTITUT NATIONAL DU CANCER (INCA)"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "ROR",
+                "uri": "https://ror.org/03m8vkq32"
+              },
+              {
+                "title": "SIREN",
+                "uri": "187512777"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "MINISTERE DU TRAVAIL, DE LA SANTE, DES SOLIDARITES ET DES FAMILLES"
+              },
+              {
+                "lang": "en",
+                "value": "MINISTERE DU TRAVAIL, DE LA SANTE, DES SOLIDARITES ET DES FAMILLES"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "ROR",
+                "uri": "https://ror.org/01wp0c315"
+              },
+              {
+                "title": "SIREN",
+                "uri": "130016546"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ]
+          }
+        ],
+        "producer": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "HOSPICES CIVILS DE LYON (HCL)"
+              },
+              {
+                "lang": "en",
+                "value": "HOSPICES CIVILS DE LYON (HCL)"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "ROR",
+                "uri": "https://ror.org/01502ca60"
+              },
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "266900273"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "studyAuthorization": {
+      "authorizingAgency": {
+        "lang": "fr",
+        "value": "CNIL"
+      }
+    },
+    "method": {
+      "notes": [
+        {
+          "subject": "research type",
+          "lang": "fr",
+          "value": "Etude observationnelle"
+        },
+        {
+          "subject": "research type",
+          "lang": "en",
+          "value": "Observational Study"
+        },
+        {
+          "lang": "fr",
+          "subject": "observational study method",
+          "value": "Registre de morbidité"
+        },
+        {
+          "lang": "en",
+          "subject": "observational study method",
+          "value": "Morbidity registry"
+        }
+      ],
+      "stdyClas": [
+        {
+          "lang": "fr",
+          "value": "Inconnu"
+        },
+        {
+          "lang": "en",
+          "value": "Unknown"
+        }
+      ],
+      "dataColl": {
+        "targetSampleSize": [
+          {
+            "lang": "fr",
+            "value": "[1000-10000[ individus"
+          },
+          {
+            "lang": "en",
+            "value": "[1000-10000[ individuals"
+          }
+        ],
+        "sampleFrame": {
+          "frameUnit": {
+            "unitType": [
+              {
+                "lang": "fr",
+                "value": "Via des structures (services ou établissements de santé, écoles, entreprises…)"
+              },
+              {
+                "lang": "en",
+                "value": "Through organizations (health services or institutions, schools, businesses, etc.)"
+              }
+            ]
+          }
+        },
+        "sources": [
+          {}
+        ],
+        "collMode": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Transcription",
+              "vocab": "CESSDA"
+            },
+            "value": "Transcription et saisie d’informations dans un enregistrement structuré"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Transcription",
+              "vocab": "CESSDA"
+            },
+            "value": "Converting or copying information into a structured record"
+          }
+        ],
+        "sampProc": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ],
+        "respRate": [
+          {
+            "lang": "fr",
+            "value": "5000"
+          },
+          {
+            "lang": "en",
+            "value": "2500"
+          }
+        ]
+      }
+    },
+    "stdyInfo": {
+      "abstract": [
+        {
+          "contentType": "purpose",
+          "lang": "fr",
+          "value": "- Recenser de manière continue et la plus exhaustive possible tous les cas de cancers rares du péritoine survenant dans la population nationale. - Réaliser un état des lieux des pratiques de prise en charge pour ces types de patients - Générer des hypothèses de recherche sur l’efficacité et la tolérance des différents traitements."
+        },
+        {
+          "contentType": "purpose",
+          "lang": "en",
+          "value": "To continuously gather the most detailed information possible on all rare peritoneal cancers occurring in the national population. To perform a situational analysis on treatment involving these patients and to formulate a research hypothesis on the effectiveness and tolerance to different treatments."
+        }
+      ],
+      "subject": {
+        "topcClas": [
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/5784b7f1-c7ce-49d9-9f38-aebcda0ff41d"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D008495"
+              }
+            ],
+            "value": "Oncologie"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/5784b7f1-c7ce-49d9-9f38-aebcda0ff41d"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D008495"
+              }
+            ],
+            "value": "Oncology"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "fr",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/851941810",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Maladies du péritoine"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "en",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/851941810",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Diseases of peritoneum"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "fr",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/1630407678",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Tumeurs"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "en",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/1630407678",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Neoplasms"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "fr",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/159513245",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Mucocèle d'appendice"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "en",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/159513245",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Mucocele of appendix"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "fr",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/1520152220",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Certaines maladies précisées du péritoine ou du rétropéritoine"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "en",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/1520152220",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Certain specified disorders of peritoneum or retroperitoneum"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "fr",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/1643222460",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Tumeurs malignes, déclarées ou supposées primitives, de localisations précisées, à l'exception des tissus lymphoïde, hématopoïétique, du système nerveux central ou de tissus apparentés"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "en",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/1643222460",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Malignant neoplasms, stated or presumed to be primary, of specified sites, except of lymphoid, haematopoietic, central nervous system or related tissues"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "fr",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/440437263",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Tumeurs malignes de localisations primitives multiples indépendantes"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "en",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/440437263",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Malignant neoplasms of independent, multiple primary sites"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "fr",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/2032270075",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Tumeur fibrohistiocytaire bénigne du rétropéritoine ou du péritoine"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "en",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/2032270075",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Benign fibrohistiocytic tumour of retroperitoneum or peritoneum"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants biologiques : Prédispositions génétiques"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants environnementaux : Autres"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Systèmes de soins et accès aux soins"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants socio-démographiques et économiques : Emploi"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants biologiques"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants environnementaux"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants socio-démographiques et économiques"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Biological determinants: Genetic predisposition"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Environmental determinants: Other"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Socio-demographic and economic determinants: Employment"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Biological determinants"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Environmental determinants"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Socio-demographic and economic determinants"
+          }
+        ],
+        "keyword": [
+          {
+            "lang": "fr",
+            "value": "Cancers rares"
+          },
+          {
+            "lang": "fr",
+            "value": "péritoine"
+          },
+          {
+            "lang": "fr",
+            "value": "base de données clinico-biologiques"
+          },
+          {
+            "lang": "en",
+            "value": "epidemiological observation"
+          },
+          {
+            "lang": "en",
+            "value": "peritoneal"
+          },
+          {
+            "lang": "en",
+            "value": "multicentric"
+          },
+          {
+            "lang": "en",
+            "value": "rare cancers"
+          },
+          {
+            "lang": "en",
+            "value": "hyperthermic intraperitoneal chemotherapy"
+          },
+          {
+            "lang": "en",
+            "value": "HIPEC"
+          },
+          {
+            "lang": "en",
+            "value": "cytoreductive surgery"
+          },
+          {
+            "lang": "en",
+            "value": "clinical registry"
+          }
+        ]
+      },
+      "qualityStatement": {
+        "standardsCompliance": {},
+        "otherQualityStatement": [
+          {
+            "lang": "fr",
+            "value": "Contrôles de cohérence inter- et intravariables"
+          },
+          {
+            "lang": "en",
+            "value": "Data management team; quality controls"
+          }
+        ]
+      },
+      "sumDscr": {
+        "dataKind": [
+          {
+            "lang": "fr",
+            "value": "Données cliniques"
+          },
+          {
+            "lang": "fr",
+            "value": "Données biologiques"
+          },
+          {
+            "lang": "en",
+            "value": "Clinical data"
+          },
+          {
+            "lang": "en",
+            "value": "Biological data"
+          }
+        ],
+        "anlyUnit": [
+          {
+            "lang": "fr",
+            "value": "Individus"
+          },
+          {
+            "lang": "en",
+            "value": "Individuals"
+          }
+        ],
+        "nation": [
+          {
+            "lang": "fr",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          },
+          {
+            "lang": "en",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          }
+        ],
+        "universe": [
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Masculin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Féminin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Male"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Female"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D002648"
+            },
+            "value": "Enfance (6 à 12 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000293"
+            },
+            "value": "Adolescence (13 à 18 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Adulte (19 à 24 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adulte (25 à 44 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Adulte (45 à 64 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Personne âgée (65 à 79 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000369"
+            },
+            "value": "Grand âge (80 ans et plus)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D002648"
+            },
+            "value": "Child (6 to 12 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Young Adult (19 to 24 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adult (25 to 44 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Middle Aged (45 to 64 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000368"
+            },
+            "value": "Aged (65 to 79 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000369"
+            },
+            "value": "Aged, 80 and over (80 years and more)"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Patients"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "en",
+            "value": "Patients population"
+          },
+          {
+            "clusion": "I",
+            "lang": "fr",
+            "value": " Patient atteint d'un cancer rare du péritoine : mésothéliomes péritonéaux ; tumeurs mucineuses appendiculaires ; pseudomyxomes péritonéaux ; carcinomes séreux primitifs du péritoine ; tumeurs desmoplastiques à petites cellules rondes ; psammocarcinomes péritonéaux ; léïomyomatoses péritonéales diffuses - Pathologie confirmée histologiquement"
+          },
+          {
+            "clusion": "I",
+            "lang": "en",
+            "value": "Patients with rare peritoneal cancer: peritoneal mesothelioma; pseudomyxoma peritonei; gelatinous disease of the peritoneum; primary serous carcinoma of the peritoneum. desmoplastic small round cell tumour; peritoneal psammocarcinoma and diffuse leiomyomatosis. Disease confirmed histologically."
+          },
+          {
+            "clusion": "E",
+            "lang": "fr",
+            "value": ""
+          },
+          {
+            "clusion": "E",
+            "lang": "en",
+            "value": ""
+          }
+        ],
+        "collDate": {
+          "event": "start",
+          "value": "2010-01-01"
+        }
+      }
+    },
+    "dataAccs": {
+      "setAvail": {
+        "avlStatus": [
+          {
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Accès réservé"
+          },
+          {
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Restricted access"
+          }
+        ],
+        "conditions": [
+          {
+            "lang": "fr",
+            "value": "Contacter le responsable scientifique"
+          },
+          {
+            "lang": "en",
+            "value": "Contact the principal investigator"
+          }
+        ]
+      },
+      "useStmt": {}
+    },
+    "othStdMat": {
+      "relMat": [
+        {
+          "lang": "fr",
+          "value": "Accès restreint sur projet spécifique"
+        },
+        {
+          "lang": "en",
+          "value": "Access on specific project only"
+        }
+      ]
+    },
+    "studyDevelopment": {
+      "developmentActivity": [
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/morbidité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/mortalité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/morbidity"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/mortality"
+        }
+      ]
+    }
+  },
+  "docDscr": {
+    "citation": {
+      "rspStmt": {
+        "AuthEnty": "Laurent VILLENEUVE"
+      },
+      "prodStmt": {
+        "producer": [
+          {
+            "affiliation": "HOSPICES CIVILS DE LYON (HCL)",
+            "value": "Laurent;VILLENEUVE"
+          }
+        ],
+        "prodPlac": "Portail Épidémiologie France"
+      }
+    }
+  },
+  "additional": {
+    "prodPlac": "Portail Épidémiologie France",
+    "relatedDocuments": {
+      "documentTitle": [
+        {
+          "lang": "fr",
+          "value": "Publications list from RENAPE Network"
+        },
+        {
+          "lang": "en",
+          "value": "Publications list from RENAPE Network"
+        }
+      ],
+      "documentLink": [
+        {
+          "lang": "fr",
+          "value": "https://www.ncbi.nlm.nih.gov/sites/myncbi/1pMDiMhapJoAg/collections/58077119/public/"
+        },
+        {
+          "lang": "en",
+          "value": "https://www.ncbi.nlm.nih.gov/sites/myncbi/1pMDiMhapJoAg/collections/58077119/public/"
+        }
+      ]
+    },
+    "creationDate": "17-02-2015",
+    "lastUpdatedManual": "16-05-2025",
+    "theme": {
+      "RareDiseases": true
+    },
+    "governance": {
+      "committee": true
+    },
+    "collaborations": {},
+    "mockSample": {},
+    "dataQuality": {},
+    "variableDictionnary": {},
+    "dataTypes": {
+      "clinicalDataDetails": [
+        {
+          "lang": "fr",
+          "value": "Diagnostics histologiques, données chirurgicales, traitements radiologiques et oncologiques, statut vital, récidive et stratégie thérapeutique, suivi annuel"
+        },
+        {
+          "lang": "en",
+          "value": "Histological diagnosis; surgical data; radiological treatments and chemotherapies; vital status; recurrence and therapeutic strategy; yearly follow-up"
+        }
+      ],
+      "biologicalDataDetails": [
+        {
+          "lang": "fr",
+          "value": "Diagnostic histologique, grading et staging, caractérisation moléculaire"
+        },
+        {
+          "lang": "en",
+          "value": "Tumor biomarkers"
+        }
+      ],
+      "isDataInBiobank": true
+    },
+    "collectionProcess": {
+      "collectionModeDetails": [
+        {
+          "lang": "fr",
+          "value": "Cahier d'observation électronique (Web)"
+        },
+        {
+          "lang": "en",
+          "value": "electronic case report form (eCRF)"
+        }
+      ]
+    },
+    "geographicalCoverage": {
+      "geoDetail": [
+        {
+          "lang": "fr",
+          "value": "https://www.renape-online.fr/trouvez-votre-centre/"
+        },
+        {
+          "lang": "en",
+          "value": "3 national expert centres 6 expertise centres and 21 associated facilities covering the entire national territory."
+        }
+      ]
+    },
+    "activeFollowUp": {
+      "isActiveFollowUp": true
+    },
+    "dataCollectionIntegration": {
+      "isDataIntegration": false
+    },
+    "isHealthTheme": true
+  },
+  "schematype": "survey"
+}

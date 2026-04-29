@@ -1,0 +1,715 @@
+{
+  "stdyDscr": {
+    "citation": {
+      "titlStmt": {
+        "IDNo": [
+          {
+            "agency": "PEF",
+            "value": "1192"
+          },
+          {
+            "agency": "FReSH",
+            "value": "FRESH-PEF1192"
+          }
+        ],
+        "titl": [
+          {
+            "lang": "fr",
+            "value": "Recueil Commun sur les Addictions et les Prises en Charge"
+          },
+          {
+            "lang": "en",
+            "value": "Common Data Collection on Treatment and Drug Addiction"
+          }
+        ],
+        "altTitl": [
+          {
+            "lang": "fr",
+            "value": "RECAP"
+          },
+          {
+            "lang": "en",
+            "value": "RECAP"
+          }
+        ]
+      },
+      "rspStmt": {
+        "AuthEnty": [
+          {
+            "name": "Christophe;PALLE",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "OBSERVATOIRE FRANCAIS DES DROGUES ET DES TENDANCES ADDICTIVES (OFDT)"
+              },
+              {
+                "lang": "en",
+                "value": "OBSERVATOIRE FRANCAIS DES DROGUES ET DES TENDANCES ADDICTIVES (OFDT)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "057591318",
+                "role": "pi id",
+                "title": "IdRef"
+              },
+              {
+                "uri": "180036105",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ],
+            "isContact": true,
+            "email": "christophe.palle@ofdt.fr",
+            "PILabo": "OFDT (Observatoire Français des Drogues et des"
+          }
+        ],
+        "othId": []
+      },
+      "distStmt": {
+        "contact": [
+          {
+            "name": "Christophe;PALLE",
+            "email": "christophe.palle@ofdt.fr",
+            "affiliation": [
+              {
+                "lang": "fr",
+                "value": "OBSERVATOIRE FRANCAIS DES DROGUES ET DES TENDANCES ADDICTIVES (OFDT)"
+              },
+              {
+                "lang": "en",
+                "value": "OBSERVATOIRE FRANCAIS DES DROGUES ET DES TENDANCES ADDICTIVES (OFDT)"
+              }
+            ],
+            "extLink": [
+              {
+                "uri": "180036105",
+                "role": "organisation id",
+                "title": "SIREN"
+              }
+            ]
+          }
+        ]
+      },
+      "prodStmt": {
+        "fundAg": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "OBSERVATOIRE FRANCAIS DES DROGUES ET DES TENDANCES ADDICTIVES (OFDT)"
+              },
+              {
+                "lang": "en",
+                "value": "OBSERVATOIRE FRANCAIS DES DROGUES ET DES TENDANCES ADDICTIVES (OFDT)"
+              }
+            ],
+            "extLink": [
+              {
+                "title": "SIREN",
+                "uri": "180036105"
+              }
+            ],
+            "type": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ]
+          }
+        ],
+        "producer": [
+          {
+            "name": [
+              {
+                "lang": "fr",
+                "value": "OBSERVATOIRE FRANCAIS DES DROGUES ET DES TENDANCES ADDICTIVES (OFDT)"
+              },
+              {
+                "lang": "en",
+                "value": "OBSERVATOIRE FRANCAIS DES DROGUES ET DES TENDANCES ADDICTIVES (OFDT)"
+              }
+            ],
+            "sponsorType": [
+              {
+                "lang": "fr",
+                "value": "Public (France)"
+              },
+              {
+                "lang": "en",
+                "value": "Public (France)"
+              }
+            ],
+            "extLink": [
+              {
+                "role": "sponsor id",
+                "title": "SIREN",
+                "uri": "180036105"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "studyAuthorization": {
+      "authorizingAgency": {
+        "lang": "fr",
+        "value": "CNIL"
+      }
+    },
+    "method": {
+      "notes": [
+        {
+          "subject": "research type",
+          "lang": "fr",
+          "value": "Etude observationnelle"
+        },
+        {
+          "subject": "research type",
+          "lang": "en",
+          "value": "Observational Study"
+        },
+        {
+          "lang": "fr",
+          "subject": "observational study method",
+          "value": "Registre de morbidité"
+        },
+        {
+          "lang": "en",
+          "subject": "observational study method",
+          "value": "Morbidity registry"
+        }
+      ],
+      "stdyClas": [
+        {
+          "lang": "fr",
+          "value": "Inconnu"
+        },
+        {
+          "lang": "en",
+          "value": "Unknown"
+        }
+      ],
+      "dataColl": {
+        "targetSampleSize": [
+          {
+            "lang": "fr",
+            "value": ">= 20000 individus"
+          },
+          {
+            "lang": "en",
+            "value": ">= 20000 individuals"
+          }
+        ],
+        "sampleFrame": {
+          "frameUnit": {}
+        },
+        "sources": [
+          {}
+        ],
+        "collMode": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Transcription",
+              "vocab": "CESSDA"
+            },
+            "value": "Transcription et saisie d’informations dans un enregistrement structuré"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Transcription",
+              "vocab": "CESSDA"
+            },
+            "value": "Converting or copying information into a structured record"
+          }
+        ],
+        "sampProc": [
+          {
+            "lang": "fr",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Autre"
+          },
+          {
+            "lang": "en",
+            "concept": {
+              "vocabURI": "Other",
+              "vocab": "CESSDA"
+            },
+            "value": "Other"
+          }
+        ],
+        "respRate": [
+          {
+            "lang": "fr",
+            "value": "89,000 patients"
+          },
+          {
+            "lang": "en",
+            "value": "89,000 patients"
+          }
+        ]
+      }
+    },
+    "stdyInfo": {
+      "abstract": [
+        {
+          "contentType": "purpose",
+          "lang": "fr",
+          "value": "RECAP est un recueil de données continu conçu pour permettre de connaître et de suivre les caractéristiques des consommateurs de substances psychoactives pris en charge par des professionnels dans les centres de soins, d'accompagnement et de prévention en addictologie (CSAPA). Les données ainsi recueillies sont nécessaires aux pouvoirs publics pour les aider à définir et évaluer leur politique dans le domaine des drogues et notamment pour identifier les tendances dans l'utilisation des services. Les données nationales doivent également servir à alimenter la réflexion des professionnels de la prise en charge sur leurs propres actions."
+        },
+        {
+          "contentType": "purpose",
+          "lang": "en",
+          "value": "RECAP is a continuous data collection designed to find out and monitor the characteristics of psychoactive substance users treated by professionals in Specialised Drug Addiction Treatment Centres (CSST), Outpatient Alcohol Treatment Centres (CCAA) and, since their creation, Addictology Treatment Support and Prevention Centres (CSAPA). The public authorities need the data collected in this way to define and assess their drug policy, and especially to identify trends in the use of services. The national data must also prompt treatment professionals to examine their own actions by providing food for thought."
+        }
+      ],
+      "subject": {
+        "topcClas": [
+          {
+            "vocab": "health theme",
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/fa2ceeab-3b2f-45e9-9243-e5a8005b98de"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D055552"
+              }
+            ],
+            "value": "Infectiologie"
+          },
+          {
+            "vocab": "health theme",
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "ESV",
+                "uri": "http://data.europa.eu/8mn/euroscivoc/fa2ceeab-3b2f-45e9-9243-e5a8005b98de"
+              },
+              {
+                "title": "MeSH",
+                "uri": "http://id.nlm.nih.gov/mesh/D055552"
+              }
+            ],
+            "value": "Infectious disease medicine"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "fr",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/590211325",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Troubles dus à l'utilisation de substances psychoactives"
+          },
+          {
+            "vocab": "cim-11",
+            "lang": "en",
+            "extLink": [
+              {
+                "uri": "http://id.who.int/icd/entity/590211325",
+                "title": "CIM-11"
+              }
+            ],
+            "value": "Disorders due to substance use"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants comportementaux : Addictions"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants socio-démographiques et économiques"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "fr",
+            "value": "Déterminants comportementaux"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Behavioral determinants: Addiction"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Socio-demographic and economic determinants"
+          },
+          {
+            "vocab": "health determinant",
+            "lang": "en",
+            "value": "Behavioral determinants"
+          }
+        ]
+      },
+      "qualityStatement": {
+        "standardsCompliance": {}
+      },
+      "sumDscr": {
+        "dataKind": [
+          {
+            "lang": "fr",
+            "value": "Données rapportées par le participant de l&#x27;étude"
+          },
+          {
+            "lang": "en",
+            "value": "Participant-reported health data"
+          }
+        ],
+        "anlyUnit": [
+          {
+            "lang": "fr",
+            "value": "Individus"
+          },
+          {
+            "lang": "en",
+            "value": "Individuals"
+          }
+        ],
+        "nation": [
+          {
+            "lang": "fr",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          },
+          {
+            "lang": "en",
+            "abbr": "fr",
+            "concept": {
+              "vocab": "ISO",
+              "vocabURI": "fr"
+            },
+            "value": "France"
+          }
+        ],
+        "universe": [
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Masculin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Féminin"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008297"
+            },
+            "value": "Male"
+          },
+          {
+            "level": "sex",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D005260"
+            },
+            "value": "Female"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000293"
+            },
+            "value": "Adolescence (13 à 18 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Adulte (19 à 24 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adulte (25 à 44 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "fr",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Adulte (45 à 64 ans)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D055815"
+            },
+            "value": "Young Adult (19 to 24 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D000328"
+            },
+            "value": "Adult (25 to 44 years)"
+          },
+          {
+            "level": "age",
+            "clusion": "I",
+            "lang": "en",
+            "concept": {
+              "vocab": "MeSH",
+              "vocabURI": "http://id.nlm.nih.gov/mesh/D008875"
+            },
+            "value": "Middle Aged (45 to 64 years)"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Patients"
+          },
+          {
+            "level": "type",
+            "clusion": "I",
+            "lang": "en",
+            "value": "Patients population"
+          },
+          {
+            "clusion": "I",
+            "lang": "fr",
+            "value": "Le recueil national concerne toute personne ayant un problème d'addiction, avec ou sans substances consommées, et qui a fait l'objet d'au moins un acte dans la structure qui l'accueille au cours de l'année. La notion d'acte est ici très large, l'accueil pouvant être considéré comme un acte. Les personnes consommatrices de substances vues dans les consultations jeunes consommateurs sont également incluses dans le recueil."
+          },
+          {
+            "clusion": "I",
+            "lang": "en",
+            "value": "Data is collected on all persons in France with an addiction problem, substance-related or otherwise, who have received at least one treatment over the course of the year in the structure that admits them. The concept of treatment episode is very expansive here, since the simple act of admitting someone can be considered as a treatment episode. Substance users seen in counselling clinics for young users should also be included in the data collection."
+          },
+          {
+            "clusion": "E",
+            "lang": "fr",
+            "value": ""
+          },
+          {
+            "clusion": "E",
+            "lang": "en",
+            "value": ""
+          }
+        ],
+        "collDate": {
+          "event": "start",
+          "value": "2005-01-01"
+        }
+      }
+    },
+    "dataAccs": {
+      "setAvail": {
+        "avlStatus": [
+          {
+            "lang": "fr",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Accès réservé"
+          },
+          {
+            "lang": "en",
+            "extLink": [
+              {
+                "title": "COAR",
+                "uri": "http://purl.org/coar/access_right/c_16ec"
+              }
+            ],
+            "value": "Restricted access"
+          }
+        ],
+        "conditions": [
+          {
+            "lang": "fr",
+            "value": "Accès possible dans le cadre de convention d’études ; anonymat des patients et des centres."
+          },
+          {
+            "lang": "en",
+            "value": "Access possible through research agreements; patient and centre anonymity"
+          }
+        ]
+      },
+      "useStmt": {}
+    },
+    "othStdMat": {
+      "relMat": [
+        {
+          "lang": "fr",
+          "value": "Accès libre"
+        },
+        {
+          "lang": "en",
+          "value": "Free access"
+        }
+      ]
+    },
+    "studyDevelopment": {
+      "developmentActivity": [
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Evénements de santé/morbidité"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "fr",
+          "description": "Autres"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Health event/morbidity"
+        },
+        {
+          "type": "primary evaluation",
+          "lang": "en",
+          "description": "Others"
+        }
+      ]
+    }
+  },
+  "docDscr": {
+    "citation": {
+      "rspStmt": {
+        "AuthEnty": "Isabelle MICHOT"
+      },
+      "prodStmt": {
+        "producer": [
+          {
+            "affiliation": "OBSERVATOIRE FRANCAIS DES DROGUES ET DES TENDANCES ADDICTIVES (OFDT)",
+            "value": "Isabelle;MICHOT"
+          }
+        ],
+        "prodPlac": "Portail Épidémiologie France"
+      }
+    }
+  },
+  "additional": {
+    "prodPlac": "Portail Épidémiologie France",
+    "relatedDocuments": {
+      "documentTitle": [
+        {
+          "lang": "fr",
+          "value": "Palle C. (2016) Les personnes accueillies dans les CSAPA. Situation en 2014 et évolution depuis 2007. Tendances, OFDT, n° 110, 8 p."
+        },
+        {
+          "lang": "en",
+          "value": "Palle C. (2016) Les personnes accueillies dans les CSAPA. Situation en 2014 et évolution depuis 2007. Tendances, OFDT, n° 110, 8 p."
+        }
+      ],
+      "documentLink": [
+        {
+          "lang": "fr",
+          "value": "https://en.ofdt.fr/BDD/publications/docs/eftacpw6.pdf"
+        },
+        {
+          "lang": "en",
+          "value": "https://en.ofdt.fr/BDD/publications/docs/eftacpw6.pdf"
+        }
+      ]
+    },
+    "creationDate": "15-02-2011",
+    "lastUpdatedManual": "02-06-2025",
+    "theme": {},
+    "governance": {
+      "committee": false
+    },
+    "collaborations": {},
+    "mockSample": {},
+    "dataQuality": {},
+    "variableDictionnary": {},
+    "dataTypes": {
+      "isDataInBiobank": false
+    },
+    "collectionProcess": {
+      "collectionModeDetails": [
+        {
+          "lang": "fr",
+          "value": "Le recueil s’appuie sur les systèmes d’information en place dans les structures spécialisées (gestioninformatisée des dossiers de patients). Les logiciels compatibles avec RECAP permettent d'extraire lesinformations correspondant au noyau commun de question sous la forme d'un fichier électroniquesuivant un format demandé par l'OFDT (cf. spécifications techniques). Les données sont ensuiteenvoyées à l'OFDT. Afin de permettre une restitution la plus rapide possible, l'OFDT demande que lesdonnées lui soient transmises au 1er trimestre de l’année n+1."
+        },
+        {
+          "lang": "en",
+          "value": "Data collection makes use of the information systems in place in the specialist structures (computerised management of patient files). The OFDT merges of all of the information collected by the centres using files that the centres send electronically in the first quarter of year n+1."
+        }
+      ]
+    },
+    "geographicalCoverage": {
+      "geoDetail": [
+        {
+          "lang": "fr",
+          "value": "France métropolotaine et DOM"
+        },
+        {
+          "lang": "en",
+          "value": "Metropolitan France and overseas departments"
+        }
+      ]
+    },
+    "activeFollowUp": {
+      "isActiveFollowUp": false
+    },
+    "dataCollectionIntegration": {
+      "isDataIntegration": false
+    },
+    "isHealthTheme": true
+  },
+  "schematype": "survey"
+}
